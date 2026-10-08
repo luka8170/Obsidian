@@ -1,0 +1,158 @@
+Received: from COW380D.hanjin.com (192.168.100.244) by kovhgvme.hanjin.com
+ (203.246.154.25) with Microsoft SMTP Server (TLS) id 14.3.123.3; Tue, 26 Nov
+ 2013 15:46:18 +0900
+Received: from COW380E.hanjin.com ([192.168.10.1]) by cow380d.hanjin.com
+ ([222.68.181.254]) with mapi id 14.03.0123.003; Tue, 26 Nov 2013 14:46:13
+ +0800
+From: HUI SUN <ranger@cn.hanjin.com>
+To: Alex FAN <alexfan@cn.hanjin.com>, Jessica LU <jessicalu@cn.hanjin.com>,
+	Spike CHEN <spike@cn.hanjin.com>, Grace WANG <gracewang@cn.hanjin.com>, Paris
+ PENG <paris@cn.hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>
+CC: Henry CHAI <henrychai@cn.hanjin.com>, Trancy QI <trancyqi@cn.hanjin.com>,
+	Jane SHAO <janeshao@cn.hanjin.com>, Joon-Sang PARK <jspark1@hanjin.com>,
+	Jeong-Jae CHOI <jjchoi@hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>
+Subject: WEEK 48 M/E SITUATION AND RATE RQST
+Thread-Topic: WEEK 48 M/E SITUATION AND RATE RQST
+Thread-Index: AQHO6nMxIVANmyuUYEaspbLJtdcVNA==
+Date: Tue, 26 Nov 2013 15:46:10 +0900
+Message-ID: <F39D8A48655FFD419CABC0836EA3714B045F92@cow380e.hanjin.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380d.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [222.68.181.254]
+Content-Type: multipart/alternative;
+	boundary="_000_F39D8A48655FFD419CABC0836EA3714B045F92cow380ehanjincom_"
+MIME-Version: 1.0
+
+--_000_F39D8A48655FFD419CABC0836EA3714B045F92cow380ehanjincom_
+Content-Type: text/plain; charset="us-ascii"
+
+
+TO:ASI
+CC:CCE
+FM:NBOBB
+
+Dear Alex, M/E mkt keeps downtrend situation with rate level decreasing after Nov 1st RR, there is not enough confidence in market for applying Dec 1st full RR
+
+Updated mkt carriers AEJEA bottom rate
+
+OOCL:675/1150/1150  12.4VVD
+COSCO: 700/1200/1200  12.4 VVD
+CSAV: 650/1150/1150 12.2 VVD
+NYK:675/1150/1150  12.4 VVD
+HPL:700/1150/1150 12.4 VVD
+
+According to above situation, We request follow the market and adjust our rate as below on 2nd DEC FMX
+
+
+AEJEA
+rate 700/1200/1200
+
+
+
+Best Regards
+
+--_000_F39D8A48655FFD419CABC0836EA3714B045F92cow380ehanjincom_
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div id="msgbody">
+<div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt"><br>
+<span lang="EN-US"><font face="Tahoma"><span lang="EN-US"><font face="Tahoma">TO:ASI</font></span></font></span></div>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt"><span lang="EN-US"><font face="Tahoma"><span lang="EN-US">CC:CCE</span></div>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div>
+<div>
+<div>
+<p class="MsoNormal"><span lang="EN-US">FM:NBOBB</span></p>
+<p class="MsoNormal"><span lang="EN-US"></span>&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-US">Dear Alex, M/E mkt keeps downtrend situation with rate level decreasing after Nov 1st RR, there is not enough confidence in market for applying Dec 1st full RR</span></p>
+<p class="MsoNormal"><span lang="EN-US"></span>&nbsp;</p>
+<p class="MsoNormal"><b><span lang="EN-US">Updated&nbsp;mkt carriers AEJEA bottom&nbsp;rate</span></b></p>
+</div>
+<div>
+<p class="MsoNormal"><span lang="EN-US"><span lang="EN-US"></span></span>&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-US"><span lang="EN-US">OOCL:675/1150/1150&nbsp; 12.4VVD</span></span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span lang="EN-US">COSCO: 700/1200/1200&nbsp; 12.4 VVD</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span lang="EN-US">CSAV: 650/1150/1150 12.2 VVD</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span lang="EN-US">NYK:675/1150/1150&nbsp; 12.4 VVD</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span lang="EN-US">HPL:700/1150/1150 12.4 VVD</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>&nbsp;</p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US">According to&nbsp;above</span></span></span></span></span></span></span></span><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US">
+ situation, We request follow the market and adjust our rate as below on 2nd&nbsp;DEC FMX</span></span></span></span></span></span></span></span></p>
+</div>
+</div>
+<p><span lang="EN-US"><span lang="EN-US"></span></span>&nbsp;</p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+AEJEA </p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span lang="EN-US">rate 700/1200/1200</span></p>
+<p><span lang="EN-US"></span>&nbsp;</p>
+<p><span lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span lang="EN-US">Best Regards</span></span></span></span></p>
+<p class="MsoNormal"><font face="Times New Roman"></font></font></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_F39D8A48655FFD419CABC0836EA3714B045F92cow380ehanjincom_--

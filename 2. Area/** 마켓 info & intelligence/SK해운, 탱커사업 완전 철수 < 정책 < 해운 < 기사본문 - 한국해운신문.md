@@ -1,0 +1,1 @@
+[SK해운, 탱커사업 완전 철수 < 정책 < 해운 < 기사본문 - 한국해운신문](http://www.maritimepress.co.kr/news/articleView.html?idxno=330872)

@@ -1,0 +1,1962 @@
+Received: from KOVHGVMC.hanjin.com ([203.246.154.18]) by kovhhvmd.hanjin.com
+ ([203.246.154.26]) with mapi id 14.03.0123.003; Thu, 21 Nov 2013 19:00:06
+ +0900
+From: Alan TAY <alantay@sg.hanjin.com>
+To: Tobias HEIFLER <tobias.heifler@de.hanjin.com>, "Bak Teng (Alvin) YEO"
+	<btyeo@sg.hanjin.com>, "JOEAN(JIA YUAN) PUAH" <jypuah@sg.hanjin.com>,
+	"Joe(Joo Foong) CHAN" <joechan@sg.hanjin.com>, Gracie CHEN
+	<wmchen@sg.hanjin.com>, "Jade(DAJEONG) YU" <djyu@sg.hanjin.com>,
+	"Nancy(QIUSHI) WANG" <qswang@sg.hanjin.com>, KWEE MEI SEO
+	<kmseo@sg.hanjin.com>, WANG GHIM JASON CHIA <wgchia@sg.hanjin.com>,
+	"Sophia(Qi Hui) YUE" <sophiayue@sg.hanjin.com>, Carmen CHAN
+	<carmen.chan@my.hanjin.com>, Darren TAN <darren.tan@my.hanjin.com>, Jonathan
+ Ng <jonathan.ng@my.hanjin.com>, Cissy Tan <cissy.tan@my.hanjin.com>, Vincent
+ OOI <vincent@my.hanjin.com>, Brian HO <brian@my.hanjin.com>, SORANA C.
+	<richy@hanjinthailand.com>, Nattipa Piruncharoen <nattipa@hanjin.com>,
+	Jidaporn Chaipracha <jidaporn@hanjinthailand.com>, Kritpong BOONSUKCHOTE
+	<kritpong@hanjinthailand.com>, RUJINAN <jenny@hanjin.com>, Aunchisa
+ Trakransittikul <aunchisa.t@hanjinthailand.com>, CHOKCHAI
+	<chokchai@hanjin.com>, THEERADEJ <theeradej@hanjinthailand.com>, KRIT
+ CHESADANUCHIT <krit@hanjinthailand.com>, CHATCHAI KOMINDR
+	<chatchai@hanjin.com>, Chariya CHAICHARNCHEEP <chariya@hanjinthailand.com>,
+	JANESS POILUKVUTTIKUL <janess@hanjinthailand.com>, Teerapong
+ Phatcharawanitsakun <teerapong@hanjinthailand.com>, Weerasak Sutjanan
+	<weerasak.s@hanjinthailand.com>, Tipparat WARAHAKIJ
+	<tipparat@thaishipping.co.th>, WANDEE PHASOMPONG
+	<wandee01@thaishipping.co.th>, Kanlaya JANTARASAKULROJ
+	<kanlaya@thaishipping.co.th>, Pathumma Wongwathanasin
+	<wpathumma@thaishipping.co.th>, "Ck(CHITTIMA) ." <ckris@hanjin.com>, YOTHIN
+ CHULLAYART <yothin@hanjin.com>, Patthanan Chaiwan
+	<patthanan@hanjinthailand.com>, Piyawan Pumma <piyawan@hanjin.com>, Sakraphi
+ Phueakphong <sakraphi.p@hanjin.com>, Herman MUDITA <hmudita@bumilaut.co.id>,
+	Jun Mabulac <jmabulac@bumilaut.co.id>, Raymond Nagasari
+	<rnagasari@bumilaut.co.id>, Santy Suzana <ssuzana@bumilaut.co.id>, Chandra
+ Chandra <chandra@bumilaut.co.id>, Fanny Maria Gunawan
+	<fgunawan@bumilaut.co.id>, "Kenny(Leonardo Kenny) Hindra"
+	<lhindra@bumilaut.co.id>, "TJ(Trijono) ERWIN" <terwin@bumilaut.co.id>, Ahmad
+ MUTOHID <amutohid@bumilaut.co.id>, Herry NG <hng@bumilaut.co.id>, Tati
+ Hartati <thartati@bumilaut.co.id>, Lindu Bagus Hariono <lindu@sg.hanjin.com>,
+	Fadhillah Damayanti <fdamayanti@bumilaut.co.id>, Masrokan Masrokan
+	<masrokan@bumilaut.co.id>, "Jei Jei(Juli) Deliana [Jei Jei]"
+	<jdeliana@bumilaut.co.id>, Indriani Ratna Dewi <idewi@bumilaut.co.id>, Henky
+ TASLIM <htaslim@bumilaut.co.id>, Etika ANDRIYANA <eandriyana@bumilaut.co.id>,
+	Fransisca Emma D Y <fransisca.emma@bumilaut.co.id>, "Uci(Sutjiati) Sutjiati"
+	<Sutjiati@bumilaut.co.id>, Yucarry Kanto <yucmkt@hanjin.com>, Yana Hendra
+	<yhendra@bumilaut.co.id>, Netty Luk <netty.luk@bumilaut.co.id>, Edmund TIO
+	<yctio@sg.hanjin.com>, Cindy LEE <sflee@sg.hanjin.com>, Syuk Hui KIU
+	<shkiu@sg.hanjin.com>, "JUN CHAO (Lucas) ONG" <jcong@sg.hanjin.com>,
+	Geraldine LOW <hhlow@sg.hanjin.com>, Dam Nguyen SON <dnson1@sg.hanjin.com>,
+	Nguyen Thi Thu Hien <ntthien@sg.hanjin.com>, Phan Minh NGHIA
+	<pmnghia@sg.hanjin.com>, Nguyen Hoang TUNG <tung@sg.hanjin.com>, Le Thanh
+ SANG <ltsang@sg.hanjin.com>, Luu Thanh Dat <ltdat@sg.hanjin.com>, Vuong Ngan
+ TRANG <trangvn@sg.hanjin.com>, Huynh Thi My HOA <htmhoa@sg.hanjin.com>, "B.
+ S. PARK" <b.s.park@de.hanjin.com>, Sven DERLIEN <sven.derlien@de.hanjin.com>,
+	Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com>, Tom Stern
+	<tom.stern@de.hanjin.com>, Kenneth Onulaka <Kenneth.Onulaka@bollore.com>,
+	Blessing Anulika Ilechukwu <blessing.ilechukwu@bollore.com>, Elizabeth Salako
+	<elizabeth.salako@bollore.com>
+CC: "Philip(Ee Hang) LOH" <ehloh@sg.hanjin.com>, Jess YAM
+	<kyyam@sg.hanjin.com>, Chong Beng WU <chongbeng@sg.hanjin.com>, Karen
+ Michelle <karendecastro@sg.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>,
+	Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>,
+	Joseph NG <joseph.ng@sg.hanjin.com>, "Calix(Do-Jin) Jeon"
+	<0810371@hanjin.com>, Hyeon-Seok PARK <phs@hanjin.com>, Gon-Woo PARK
+	<gwpark@hanjin.com>, KIERTNARONG KOMIN <louiskomin@hanjin.com>, Dae-Seung
+ MOON <dsmoona@hanjin.com>, Jaka A SINGGIH <jaka@bumilaut.co.id>, Eddy
+ Darjantjo <eddyd@bumilaut.co.id>, Joo Yong LAU <laujy@sg.hanjin.com>,
+	Woo-Kyung Lee <wklee@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Deok-Lim
+ CHOI <dlchoi@hanjin.com>, Myung-Han KANG <mhkang@hanjin.com>, "SH(Sung-Hwan)
+ CHANG" <shchang@hanjin.com>, "SH(Su-Han) KIM" <shkim1@hanjin.com>,
+	"Lawrence(Byung-Woo) OH" <bwoh@hanjin.com>, Kyeong-Nam JEONG
+	<kn.jeong@hanjin.com>, Yeon-Hui YI <yh.yi@hanjin.com>, "Ara(A-RA) CHO"
+	<archo@hanjin.com>, "Kooks(Kook-Shin) KIM" <kookskim@hanjin.com>, Antoine
+ Mouterde <antoine.mouterde@bollore.com>, Arnaud Timmerman
+	<arnaud.timmerman@bollore.com>, Priscilla Castaldo
+	<priscilla.castaldo@bollore.com>, Olivier SOU <olivier.sou@bollore.com>,
+	"JBK(Jean- Baptiste) KOTTY" <jean-baptiste.kotty@bollore.com>, Maryam
+ Coulibaly <maryam.coulibaly@bollore.com>, Maxime Amien
+	<maxime.amien@bollore.com>, Catherine LE BARS <catherine.lebars@bollore.com>,
+	Donald Wilfried VANHAN <donald-wilfried.vanhan@bollore.com>, Fatim Estelle
+ CISSE <fatim-estelle.cisse@bollore.com>, Fatouma BINATE
+	<fatouma.binate@bollore.com>, Yves-Alain ZOHIN
+	<yves-alain.zohin@bollore.com>, Konan HILI <konan.hili@bollore.com>, Fidelia
+ Aluku <fidelia.aluku@bollore.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>,
+	Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>,
+	SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>,
+	"Daisy(Ji-Kyong) BHANG" <jkbhang@hanjin.com>, "TH(Tae-Hoon) AN"
+	<than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM
+	<kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, "Lloyd(Woosik) Yang"
+	<shakin@hanjin.com>, "Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>, Dong-Seok
+ LEE <dslee1@hanjin.com>, Adele WONG <sywong@sg.hanjin.com>, SUWANNA
+ PHANPRANOMPRI <suwanna@hanjin.com>, "Carto ." <carto@hanjin.com>, Maria Linda
+	<mlinda@bumilaut.co.id>, Kim LEE <splee@sg.hanjin.com>, Karen HONG
+	<karenhong@sg.hanjin.com>, Jean-Pascal BIDOIRE
+	<jean.pascal.bidoire@fr.hanjin.com>, NUMCHAI CHADATHARN <numchai@hanjin.com>,
+	Seung-Gwan LEE <seugklee@hanjin.com>, "V.K. Sasidharan" <sasi@in.hanjin.com>,
+	Hun-Young LEE <hylee1@hanjin.com>, Alina MACH <alina.mach@pl.hanjin.com>,
+	Tomasz KOLACZEK <tomasz.kolaczek@pl.hanjin.com>, Przemyslaw Piotr PIETRZAK
+	<przemek.pietrzak@pl.hanjin.com>, Malgorzata KRAJEWSKA
+	<malgorzata.krajewska@pl.hanjin.com>, Dominika ZYNIS
+	<dominika.zynis@pl.hanjin.com>, "SIRIWAN " <siriwan@hanjin.com>
+Subject: RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender
+Thread-Topic: Bid Proposal for 2014 SMPT (Michelin) AEW tender
+Thread-Index:
+ AQHOubIY1exkYZPv6ESU0It0k19g+Jn4neFwgDaULdOAAFKtvYAALd1rgAAZ6KM=
+Disposition-Notification-To: Alan TAY <alantay@sg.hanjin.com>
+Date: Thu, 21 Nov 2013 19:00:05 +0900
+Message-ID: <9CABD9E4FFEA04498F7943499B5805752A450C05@kovhgvmc.hanjin.com>
+References:
+ <8B268D2EA598B744A27B13EB7675109FEED7@kovhhvmc.hanjin.com>,<DFD7A7FA63EA364CAB94A307D72E453117D27879@kovhhvmc.hanjin.com>,<8B268D2EA598B744A27B13EB7675109F2A4208F0@kovhgvmc.hanjin.com>,<9CABD9E4FFEA04498F7943499B5805752A450644@kovhgvmc.hanjin.com>,<4EEF6C3F4D7A784FB4B80DB1683BED24048741@eow380e.hanjin.com>
+In-Reply-To: <4EEF6C3F4D7A784FB4B80DB1683BED24048741@eow380e.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: kovhhvmd.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.246.154.253]
+Content-Type: multipart/alternative;
+	boundary="_000_9CABD9E4FFEA04498F7943499B5805752A450C05kovhgvmchanjinc_"
+MIME-Version: 1.0
+
+--_000_9CABD9E4FFEA04498F7943499B5805752A450C05kovhgvmchanjinc_
+Content-Type: text/plain; charset="us-ascii"
+
+
+Tobias,
+
+It is more of transit time issue for West Africa to Europe. Actual transit time 52 days but your advise 23 to 25days to base port Eur. Rates do play a part for West Africa to Europe
+
+
+________________________________
+From : "Tobias HEIFLER" <tobias.heifler@de.hanjin.com>
+Sent : 2013-11-21 16:31:04 ( +08:00 )
+To : Alan TAY <alantay@sg.hanjin.com>, Bak Teng (Alvin) YEO <btyeo@sg.hanjin.com>, JOEAN(JIA YUAN) PUAH <jypuah@sg.hanjin.com>, Joe(Joo Foong) CHAN <joechan@sg.hanjin.com>, Gracie CHEN <wmchen@sg.hanjin.com>, Jade(DAJEONG) YU <djyu@sg.hanjin.com>, Nancy(QIUSHI) WANG <qswang@sg.hanjin.com>, KWEE MEI SEO <kmseo@sg.hanjin.com>, WANG GHIM JASON CHIA <wgchia@sg.hanjin.com>, Sophia(Qi Hui) YUE <sophiayue@sg.hanjin.com>, Carmen CHAN <carmen.chan@my.hanjin.com>, Darren TAN <darren.tan@my.hanjin.com>, Jonathan Ng <jonathan.ng@my.hanjin.com>, Cissy Tan <cissy.tan@my.hanjin.com>, Vincent OOI <vincent@my.hanjin.com>, Brian HO <brian@my.hanjin.com>, SORANA C. <richy@hanjinthailand.com>, Nattipa Piruncharoen <nattipa@hanjin.com>, Jidaporn Chaipracha <jidaporn@hanjinthailand.com>, Kritpong BOONSUKCHOTE <kritpong@hanjinthailand.com>, RUJINAN <jenny@hanjin.com>, Aunchisa Trakransittikul <aunchisa.t@hanjinthailand.com>, CHOKCHAI <chokchai@hanjin.com>, THEERADEJ <theeradej@hanjinthailand.com>, KRIT CHESADANUCHIT <krit@hanjinthailand.com>, CHATCHAI KOMINDR <chatchai@hanjin.com>, Chariya CHAICHARNCHEEP <chariya@hanjinthailand.com>, JANESS POILUKVUTTIKUL <janess@hanjinthailand.com>, Teerapong Phatcharawanitsakun <teerapong@hanjinthailand.com>, Weerasak Sutjanan <weerasak.s@hanjinthailand.com>, Tipparat WARAHAKIJ <tipparat@thaishipping.co.th>, WANDEE PHASOMPONG <wandee01@thaishipping.co.th>, Kanlaya JANTARASAKULROJ <kanlaya@thaishipping.co.th>, Pathumma Wongwathanasin <wpathumma@thaishipping.co.th>, Ck(CHITTIMA) . <ckris@hanjin.com>, YOTHIN CHULLAYART <yothin@hanjin.com>, Patthanan Chaiwan <patthanan@hanjinthailand.com>, Piyawan Pumma <piyawan@hanjin.com>, Sakraphi Phueakphong <sakraphi.p@hanjin.com>, Herman MUDITA <hmudita@bumilaut.co.id>, Jun Mabulac <jmabulac@bumilaut.co.id>, Raymond Nagasari <rnagasari@bumilaut.co.id>, Santy Suzana <ssuzana@bumilaut.co.id>, Chandra Chandra <chandra@bumilaut.co.id>, Fanny Maria Gunawan <fgunawan@bumilaut.co.id>, Kenny(Leonardo Kenny) Hindra <lhindra@bumilaut.co.id>, TJ(Trijono) ERWIN <terwin@bumilaut.co.id>, Ahmad MUTOHID <amutohid@bumilaut.co.id>, Herry NG <hng@bumilaut.co.id>, Tati Hartati <thartati@bumilaut.co.id>, Lindu Bagus Hariono <lindu@sg.hanjin.com>, Fadhillah Damayanti <fdamayanti@bumilaut.co.id>, Masrokan Masrokan <masrokan@bumilaut.co.id>, Jei Jei(Juli) Deliana [Jei Jei] <jdeliana@bumilaut.co.id>, Indriani Ratna Dewi <idewi@bumilaut.co.id>, Henky TASLIM <htaslim@bumilaut.co.id>, Etika ANDRIYANA <eandriyana@bumilaut.co.id>, Fransisca Emma D Y <fransisca.emma@bumilaut.co.id>, Uci(Sutjiati) Sutjiati <Sutjiati@bumilaut.co.id>, Yucarry Kanto <yucmkt@hanjin.com>, Yana Hendra <yhendra@bumilaut.co.id>, Netty Luk <netty.luk@bumilaut.co.id>, Edmund TIO <yctio@sg.hanjin.com>, Cindy LEE <sflee@sg.hanjin.com>, Syuk Hui KIU <shkiu@sg.hanjin.com>, JUN CHAO (Lucas) ONG <jcong@sg.hanjin.com>, Geraldine LOW <hhlow@sg.hanjin.com>, Dam Nguyen SON <dnson1@sg.hanjin.com>, Nguyen Thi Thu Hien <ntthien@sg.hanjin.com>, Phan Minh NGHIA <pmnghia@sg.hanjin.com>, Nguyen Hoang TUNG <tung@sg.hanjin.com>, Le Thanh SANG <ltsang@sg.hanjin.com>, Luu Thanh Dat <ltdat@sg.hanjin.com>, Vuong Ngan TRANG <trangvn@sg.hanjin.com>, Huynh Thi My HOA <htmhoa@sg.hanjin.com>, B. S. PARK <b.s.park@de.hanjin.com>, Sven DERLIEN <sven.derlien@de.hanjin.com>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com>, Tom Stern <tom.stern@de.hanjin.com>, Kenneth Onulaka <Kenneth.Onulaka@bollore.com>, Blessing Anulika Ilechukwu <blessing.ilechukwu@bollore.com>, Elizabeth Salako <elizabeth.salako@bollore.com>
+Cc : Philip(Ee Hang) LOH <ehloh@sg.hanjin.com>, Jess YAM <kyyam@sg.hanjin.com>, Chong Beng WU <chongbeng@sg.hanjin.com>, Karen Michelle <karendecastro@sg.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Calix(Do-Jin) Jeon <0810371@hanjin.com>, Hyeon-Seok PARK <phs@hanjin.com>, Gon-Woo PARK <gwpark@hanjin.com>, KIERTNARONG KOMIN <louiskomin@hanjin.com>, Dae-Seung MOON <dsmoona@hanjin.com>, Jaka A SINGGIH <jaka@bumilaut.co.id>, Eddy Darjantjo <eddyd@bumilaut.co.id>, Joo Yong LAU <laujy@sg.hanjin.com>, Woo-Kyung Lee <wklee@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Myung-Han KANG <mhkang@hanjin.com>, SH(Sung-Hwan) CHANG <shchang@hanjin.com>, SH(Su-Han) KIM <shkim1@hanjin.com>, Lawrence(Byung-Woo) OH <bwoh@hanjin.com>, Kyeong-Nam JEONG <kn.jeong@hanjin.com>, Yeon-Hui YI <yh.yi@hanjin.com>, Ara(A-RA) CHO <archo@hanjin.com>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com>, Antoine Mouterde <antoine.mouterde@bollore.com>, Arnaud Timmerman <arnaud.timmerman@bollore.com>, Priscilla Castaldo <priscilla.castaldo@bollore.com>, Olivier SOU <olivier.sou@bollore.com>, JBK(Jean- Baptiste) KOTTY <jean-baptiste.kotty@bollore.com>, Maryam Coulibaly <maryam.coulibaly@bollore.com>, Maxime Amien <maxime.amien@bollore.com>, Catherine LE BARS <catherine.lebars@bollore.com>, Donald Wilfried VANHAN <donald-wilfried.vanhan@bollore.com>, Fatim Estelle CISSE <fatim-estelle.cisse@bollore.com>, Fatouma BINATE <fatouma.binate@bollore.com>, Yves-Alain ZOHIN <yves-alain.zohin@bollore.com>, Konan HILI <konan.hili@bollore.com>, Fidelia Aluku <fidelia.aluku@bollore.com>, MD(Myung-Deok) CHO <mdcho@hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com>, TH(Tae-Hoon) AN <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, Lloyd(Woosik) Yang <shakin@hanjin.com>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com>, Dong-Seok LEE <dslee1@hanjin.com>, Adele WONG <sywong@sg.hanjin.com>, SUWANNA PHANPRANOMPRI <suwanna@hanjin.com>, Carto . <carto@hanjin.com>, Maria Linda <mlinda@bumilaut.co.id>, Kim LEE <splee@sg.hanjin.com>, Karen HONG <karenhong@sg.hanjin.com>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.hanjin.com>, NUMCHAI CHADATHARN <numchai@hanjin.com>, Seung-Gwan LEE <seugklee@hanjin.com>, V.K. Sasidharan <sasi@in.hanjin.com>, Hun-Young LEE <hylee1@hanjin.com>, Alina MACH <alina.mach@pl.hanjin.com>, Tomasz KOLACZEK <tomasz.kolaczek@pl.hanjin.com>, Przemyslaw Piotr PIETRZAK <przemek.pietrzak@pl.hanjin.com>, Malgorzata KRAJEWSKA <malgorzata.krajewska@pl.hanjin.com>, Dominika ZYNIS <dominika.zynis@pl.hanjin.com>, SIRIWAN <siriwan@hanjin.com>
+Subject : RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender
+
+Date: 21/11/2013
+To: SINWKG
+
+Dear Alan,
+Regarding W.Africa origins, thanks for feedback.
+Rate to SGSIN from CIABJ/NGLOS we can adjust by $150/TEU. Rates to Europe from W.Africa are aleady on really low level.
+As attached
+
+rgds
+
+
+________________________________
+From : "Alan TAY" <alantay@sg.hanjin.com>
+Sent : 2013-11-21 06:55:05 ( +01:00 )
+To : Bak Teng (Alvin) YEO <btyeo@sg.hanjin.com>, JOEAN(JIA YUAN) PUAH <jypuah@sg.hanjin.com>, Joe(Joo Foong) CHAN <joechan@sg.hanjin.com>, Gracie CHEN <wmchen@sg.hanjin.com>, Jade(DAJEONG) YU <djyu@sg.hanjin.com>, Nancy(QIUSHI) WANG <qswang@sg.hanjin.com>, KWEE MEI SEO <kmseo@sg.hanjin.com>, WANG GHIM JASON CHIA <wgchia@sg.hanjin.com>, Sophia(Qi Hui) YUE <sophiayue@sg.hanjin.com>, Carmen CHAN <carmen.chan@my.hanjin.com>, Darren TAN <darren.tan@my.hanjin.com>, Jonathan Ng <jonathan.ng@my.hanjin.com>, Cissy Tan <cissy.tan@my.hanjin.com>, Vincent OOI <vincent@my.hanjin.com>, Brian HO <brian@my.hanjin.com>, SORANA C. <richy@hanjinthailand.com>, Nattipa Piruncharoen <nattipa@hanjin.com>, Jidaporn Chaipracha <jidaporn@hanjinthailand.com>, Kritpong BOONSUKCHOTE <kritpong@hanjinthailand.com>, RUJINAN <jenny@hanjin.com>, Aunchisa Trakransittikul <aunchisa.t@hanjinthailand.com>, CHOKCHAI <chokchai@hanjin.com>, THEERADEJ <theeradej@hanjinthailand.com>, KRIT CHESADANUCHIT <krit@hanjinthailand.com>, CHATCHAI KOMINDR <chatchai@hanjin.com>, Chariya CHAICHARNCHEEP <chariya@hanjinthailand.com>, JANESS POILUKVUTTIKUL <janess@hanjinthailand.com>, Teerapong Phatcharawanitsakun <teerapong@hanjinthailand.com>, Weerasak Sutjanan <weerasak.s@hanjinthailand.com>, Tipparat WARAHAKIJ <tipparat@thaishipping.co.th>, WANDEE PHASOMPONG <wandee01@thaishipping.co.th>, Kanlaya JANTARASAKULROJ <kanlaya@thaishipping.co.th>, Pathumma Wongwathanasin <wpathumma@thaishipping.co.th>, Ck(CHITTIMA) . <ckris@hanjin.com>, YOTHIN CHULLAYART <yothin@hanjin.com>, Patthanan Chaiwan <patthanan@hanjinthailand.com>, Piyawan Pumma <piyawan@hanjin.com>, Sakraphi Phueakphong <sakraphi.p@hanjin.com>, Herman MUDITA <hmudita@bumilaut.co.id>, Jun Mabulac <jmabulac@bumilaut.co.id>, Raymond Nagasari <rnagasari@bumilaut.co.id>, Santy Suzana <ssuzana@bumilaut.co.id>, Chandra Chandra <chandra@bumilaut.co.id>, Fanny Maria Gunawan <fgunawan@bumilaut.co.id>, Kenny(Leonardo Kenny) Hindra <lhindra@bumilaut.co.id>, TJ(Trijono) ERWIN <terwin@bumilaut.co.id>, Ahmad MUTOHID <amutohid@bumilaut.co.id>, Herry NG <hng@bumilaut.co.id>, Tati Hartati <thartati@bumilaut.co.id>, Lindu Bagus Hariono <lindu@sg.hanjin.com>, Fadhillah Damayanti <fdamayanti@bumilaut.co.id>, Masrokan Masrokan <masrokan@bumilaut.co.id>, Jei Jei(Juli) Deliana [Jei Jei] <jdeliana@bumilaut.co.id>, Indriani Ratna Dewi <idewi@bumilaut.co.id>, Henky TASLIM <htaslim@bumilaut.co.id>, Etika ANDRIYANA <eandriyana@bumilaut.co.id>, Fransisca Emma D Y <fransisca.emma@bumilaut.co.id>, Uci(Sutjiati) Sutjiati <Sutjiati@bumilaut.co.id>, Yucarry Kanto <yucmkt@hanjin.com>, Yana Hendra <yhendra@bumilaut.co.id>, Netty Luk <netty.luk@bumilaut.co.id>, Edmund TIO <yctio@sg.hanjin.com>, Cindy LEE <sflee@sg.hanjin.com>, Syuk Hui KIU <shkiu@sg.hanjin.com>, JUN CHAO (Lucas) ONG <jcong@sg.hanjin.com>, Geraldine LOW <hhlow@sg.hanjin.com>, Dam Nguyen SON <dnson1@sg.hanjin.com>, Nguyen Thi Thu Hien <ntthien@sg.hanjin.com>, Phan Minh NGHIA <pmnghia@sg.hanjin.com>, Nguyen Hoang TUNG <tung@sg.hanjin.com>, Le Thanh SANG <ltsang@sg.hanjin.com>, Luu Thanh Dat <ltdat@sg.hanjin.com>, Vuong Ngan TRANG <trangvn@sg.hanjin.com>, Huynh Thi My HOA <htmhoa@sg.hanjin.com>, Tobias HEIFLER <tobias.heifler@de.hanjin.com>, B. S. PARK <b.s.park@de.hanjin.com>, Sven DERLIEN <sven.derlien@de.hanjin.com>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com>, Tom Stern <tom.stern@de.hanjin.com>, Kenneth Onulaka <Kenneth.Onulaka@bollore.com>, Blessing Anulika Ilechukwu <blessing.ilechukwu@bollore.com>, Elizabeth Salako <elizabeth.salako@bollore.com>
+Cc : Philip(Ee Hang) LOH <ehloh@sg.hanjin.com>, Jess YAM <kyyam@sg.hanjin.com>, Chong Beng WU <chongbeng@sg.hanjin.com>, Karen Michelle <karendecastro@sg.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Calix(Do-Jin) Jeon <0810371@hanjin.com>, Hyeon-Seok PARK <phs@hanjin.com>, Gon-Woo PARK <gwpark@hanjin.com>, KIERTNARONG KOMIN <louiskomin@hanjin.com>, Dae-Seung MOON <dsmoona@hanjin.com>, Jaka A SINGGIH <jaka@bumilaut.co.id>, Eddy Darjantjo <eddyd@bumilaut.co.id>, Joo Yong LAU <laujy@sg.hanjin.com>, Woo-Kyung Lee <wklee@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Myung-Han KANG <mhkang@hanjin.com>, SH(Sung-Hwan) CHANG <shchang@hanjin.com>, SH(Su-Han) KIM <shkim1@hanjin.com>, Lawrence(Byung-Woo) OH <bwoh@hanjin.com>, Kyeong-Nam JEONG <kn.jeong@hanjin.com>, Yeon-Hui YI <yh.yi@hanjin.com>, Ara(A-RA) CHO <archo@hanjin.com>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com>, Antoine Mouterde <antoine.mouterde@bollore.com>, Arnaud Timmerman <arnaud.timmerman@bollore.com>, Priscilla Castaldo <priscilla.castaldo@bollore.com>, Olivier SOU <olivier.sou@bollore.com>, JBK(Jean- Baptiste) KOTTY <jean-baptiste.kotty@bollore.com>, Maryam Coulibaly <maryam.coulibaly@bollore.com>, Maxime Amien <maxime.amien@bollore.com>, Catherine LE BARS <catherine.lebars@bollore.com>, Donald Wilfried VANHAN <donald-wilfried.vanhan@bollore.com>, Fatim Estelle CISSE <fatim-estelle.cisse@bollore.com>, Fatouma BINATE <fatouma.binate@bollore.com>, Yves-Alain ZOHIN <yves-alain.zohin@bollore.com>, Konan HILI <konan.hili@bollore.com>, Fidelia Aluku <fidelia.aluku@bollore.com>, MD(Myung-Deok) CHO <mdcho@hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com>, TH(Tae-Hoon) AN <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, Lloyd(Woosik) Yang <shakin@hanjin.com>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com>, Dong-Seok LEE <dslee1@hanjin.com>, Adele WONG <sywong@sg.hanjin.com>, SUWANNA PHANPRANOMPRI <suwanna@hanjin.com>, Carto . <carto@hanjin.com>, Maria Linda <mlinda@bumilaut.co.id>, Kim LEE <splee@sg.hanjin.com>, Karen HONG <karenhong@sg.hanjin.com>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.hanjin.com>, SIRIWAN <siriwan@hanjin.com>, NUMCHAI CHADATHARN <numchai@hanjin.com>, Seung-Gwan LEE <seugklee@hanjin.com>, V.K. Sasidharan <sasi@in.hanjin.com>, Hun-Young LEE <hylee1@hanjin.com>, Alina MACH <alina.mach@pl.hanjin.com>, Tomasz KOLACZEK <tomasz.kolaczek@pl.hanjin.com>, Przemyslaw Piotr PIETRZAK <przemek.pietrzak@pl.hanjin.com>, Malgorzata KRAJEWSKA <malgorzata.krajewska@pl.hanjin.com>, Dominika ZYNIS <dominika.zynis@pl.hanjin.com>
+Subject : RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender
+
+
+TO USG, ABJBA & LOSBA
+
+Becoz of transit time issues, SMPT did not want us to participate 2014 West Africa outbound shipment.
+
+TO USG
+
+Our through rates to destination Gdynia, Gdansk and St Petersburg at least $200/T higher than carriers and we advised by SMPT "no need to adjust" as we will not be considered. So if you need inbound shipment into these area and can adjust destination add-on, we will reapproach immediately
+
+________________________________
+From : "Bak Teng (Alvin) YEO" <btyeo@sg.hanjin.com>
+Sent : 2013-11-21 12:03:58 ( +08:00 )
+To : JOEAN(JIA YUAN) PUAH <jypuah@sg.hanjin.com>, Joe(Joo Foong) CHAN <joechan@sg.hanjin.com>, Gracie CHEN <wmchen@sg.hanjin.com>, Jade(DAJEONG) YU <djyu@sg.hanjin.com>, Nancy(QIUSHI) WANG <qswang@sg.hanjin.com>, KWEE MEI SEO <kmseo@sg.hanjin.com>, WANG GHIM JASON CHIA <wgchia@sg.hanjin.com>, Sophia(Qi Hui) YUE <sophiayue@sg.hanjin.com>, Carmen CHAN <carmen.chan@my.hanjin.com>, Darren TAN <darren.tan@my.hanjin.com>, Jonathan Ng <jonathan.ng@my.hanjin.com>, Cissy Tan <cissy.tan@my.hanjin.com>, Vincent OOI <vincent@my.hanjin.com>, Brian HO <brian@my.hanjin.com>, SORANA C. <richy@hanjinthailand.com>, Nattipa Piruncharoen <nattipa@hanjin.com>, Jidaporn Chaipracha <jidaporn@hanjinthailand.com>, Kritpong BOONSUKCHOTE <kritpong@hanjinthailand.com>, RUJINAN <jenny@hanjin.com>, Aunchisa Trakransittikul <aunchisa.t@hanjinthailand.com>, CHOKCHAI <chokchai@hanjin.com>, THEERADEJ <theeradej@hanjinthailand.com>, KRIT CHESADANUCHIT <krit@hanjinthailand.com>, CHATCHAI KOMINDR <chatchai@hanjin.com>, Chariya CHAICHARNCHEEP <chariya@hanjinthailand.com>, JANESS POILUKVUTTIKUL <janess@hanjinthailand.com>, Teerapong Phatcharawanitsakun <teerapong@hanjinthailand.com>, Weerasak Sutjanan <weerasak.s@hanjinthailand.com>, Tipparat WARAHAKIJ <tipparat@thaishipping.co.th>, WANDEE PHASOMPONG <wandee01@thaishipping.co.th>, Kanlaya JANTARASAKULROJ <kanlaya@thaishipping.co.th>, Pathumma Wongwathanasin <wpathumma@thaishipping.co.th>, Ck(CHITTIMA) . <ckris@hanjin.com>, YOTHIN CHULLAYART <yothin@hanjin.com>, Patthanan Chaiwan <patthanan@hanjinthailand.com>, Piyawan Pumma <piyawan@hanjin.com>, Sakraphi Phueakphong <sakraphi.p@hanjin.com>, Herman MUDITA <hmudita@bumilaut.co.id>, Jun Mabulac <jmabulac@bumilaut.co.id>, Raymond Nagasari <rnagasari@bumilaut.co.id>, Santy Suzana <ssuzana@bumilaut.co.id>, Chandra Chandra <chandra@bumilaut.co.id>, Fanny Maria Gunawan <fgunawan@bumilaut.co.id>, Kenny(Leonardo Kenny) Hindra <lhindra@bumilaut.co.id>, TJ(Trijono) ERWIN <terwin@bumilaut.co.id>, Ahmad MUTOHID <amutohid@bumilaut.co.id>, Herry NG <hng@bumilaut.co.id>, Tati Hartati <thartati@bumilaut.co.id>, Lindu Bagus Hariono <lindu@sg.hanjin.com>, Fadhillah Damayanti <fdamayanti@bumilaut.co.id>, Masrokan Masrokan <masrokan@bumilaut.co.id>, Jei Jei(Juli) Deliana [Jei Jei] <jdeliana@bumilaut.co.id>, Indriani Ratna Dewi <idewi@bumilaut.co.id>, Henky TASLIM <htaslim@bumilaut.co.id>, Etika ANDRIYANA <eandriyana@bumilaut.co.id>, Fransisca Emma D Y <fransisca.emma@bumilaut.co.id>, Uci(Sutjiati) Sutjiati <Sutjiati@bumilaut.co.id>, Yucarry Kanto <yucmkt@hanjin.com>, Yana Hendra <yhendra@bumilaut.co.id>, Netty Luk <netty.luk@bumilaut.co.id>, Edmund TIO <yctio@sg.hanjin.com>, Cindy LEE <sflee@sg.hanjin.com>, Syuk Hui KIU <shkiu@sg.hanjin.com>, JUN CHAO (Lucas) ONG <jcong@sg.hanjin.com>, Geraldine LOW <hhlow@sg.hanjin.com>, Dam Nguyen SON <dnson1@sg.hanjin.com>, Nguyen Thi Thu Hien <ntthien@sg.hanjin.com>, Phan Minh NGHIA <pmnghia@sg.hanjin.com>, Nguyen Hoang TUNG <tung@sg.hanjin.com>, Le Thanh SANG <ltsang@sg.hanjin.com>, Luu Thanh Dat <ltdat@sg.hanjin.com>, Vuong Ngan TRANG <trangvn@sg.hanjin.com>, Huynh Thi My HOA <htmhoa@sg.hanjin.com>, Tobias HEIFLER <tobias.heifler@de.hanjin.com>, B. S. PARK <b.s.park@de.hanjin.com>, Sven DERLIEN <sven.derlien@de.hanjin.com>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com>, Tom Stern <tom.stern@de.hanjin.com>, Kenneth Onulaka <Kenneth.Onulaka@bollore.com>, Blessing Anulika Ilechukwu <blessing.ilechukwu@bollore.com>, Elizabeth Salako <elizabeth.salako@bollore.com>
+Cc : Alan TAY <alantay@sg.hanjin.com>, Philip(Ee Hang) LOH <ehloh@sg.hanjin.com>, Jess YAM <kyyam@sg.hanjin.com>, Chong Beng WU <chongbeng@sg.hanjin.com>, Karen Michelle <karendecastro@sg.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Calix(Do-Jin) Jeon <0810371@hanjin.com>, Hyeon-Seok PARK <phs@hanjin.com>, Gon-Woo PARK <gwpark@hanjin.com>, KIERTNARONG KOMIN <louiskomin@hanjin.com>, Dae-Seung MOON <dsmoona@hanjin.com>, Jaka A SINGGIH <jaka@bumilaut.co.id>, Eddy Darjantjo <eddyd@bumilaut.co.id>, Joo Yong LAU <laujy@sg.hanjin.com>, Woo-Kyung Lee <wklee@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Myung-Han KANG <mhkang@hanjin.com>, SH(Sung-Hwan) CHANG <shchang@hanjin.com>, SH(Su-Han) KIM <shkim1@hanjin.com>, Lawrence(Byung-Woo) OH <bwoh@hanjin.com>, Kyeong-Nam JEONG <kn.jeong@hanjin.com>, Yeon-Hui YI <yh.yi@hanjin.com>, Ara(A-RA) CHO <archo@hanjin.com>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com>, Antoine Mouterde <antoine.mouterde@bollore.com>, Arnaud Timmerman <arnaud.timmerman@bollore.com>, Priscilla Castaldo <priscilla.castaldo@bollore.com>, Olivier SOU <olivier.sou@bollore.com>, JBK(Jean- Baptiste) KOTTY <jean-baptiste.kotty@bollore.com>, Maryam Coulibaly <maryam.coulibaly@bollore.com>, Maxime Amien <maxime.amien@bollore.com>, Catherine LE BARS <catherine.lebars@bollore.com>, Donald Wilfried VANHAN <donald-wilfried.vanhan@bollore.com>, Fatim Estelle CISSE <fatim-estelle.cisse@bollore.com>, Fatouma BINATE <fatouma.binate@bollore.com>, Yves-Alain ZOHIN <yves-alain.zohin@bollore.com>, Konan HILI <konan.hili@bollore.com>, Fidelia Aluku <fidelia.aluku@bollore.com>, MD(Myung-Deok) CHO <mdcho@hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com>, TH(Tae-Hoon) AN <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, Lloyd(Woosik) Yang <shakin@hanjin.com>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com>, Dong-Seok LEE <dslee1@hanjin.com>, Adele WONG <sywong@sg.hanjin.com>, SUWANNA PHANPRANOMPRI <suwanna@hanjin.com>, Carto . <carto@hanjin.com>, Maria Linda <mlinda@bumilaut.co.id>, Kim LEE <splee@sg.hanjin.com>, Karen HONG <karenhong@sg.hanjin.com>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.hanjin.com>
+Subject : RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender
+
+Date: 21 Nov 13
+To: WSI & UST & JKTBB & BKKBB & ABJBA & LOSBA
+Cc: CCM & WSG & WOG
+From: SINWCG
+
+Dear Colleagues,
+
+Final rates offered for AEW ex MYPKG, THLCH/BKK, IDJKT, IDBLW, IDSUB, IDSRG - NLRTM, FRLEH, FRFOS, ESVLC, ITGOA @USD1280/D2 super all in (around USD880/D2 sub OTH & DTH)
+Ex IDDJB @1680/D2 super all in and ex IDPLM maintain as per round 1. With our counter-offered rates, feedback received from SMPT that HJS should be able to secure some vol for ex MY, TH & ID to NLRTM, FRLEH, ESVLC, ITGOA & FRFOS. For IAS ex ID & TH to INMAA & IES Ex CIABJ & NGLOS - EUR, we need to review and submit our final rates latest by 22 Nov 13.
+
+To WSI & UST,
+
+Pls kindly review/advice any revision for the following port pairs.
+
+Ex IDJKT/IDBLW/IDSUB/THLCH/MYPEN - INMAA. Target rates USD750/D2 super all in
+Ex CIABJ/NGLOS - EUR/MED/SGSIN. Target rates reduction of USD150/D2
+
+To: BKKBB, JKTBB, ABJBA, LOSBA
+
+Pls refer to attachment 2013 HJS scorecard. Kindly assist/advice on action no 1- 3.
+
+
+SMPT F2F Meeting Mintues
+
+Venue: SMPT, Singapore
+
+
+
+Attendees:
+SMPT:
+
+Raymond Tan - Purchasing Manager
+
+Jeffrey Sim- Assistant Logistics Manager
+
+
+
+HANJIN:
+
+WCG:  Alan Tay, Alvin Yeo & Philip Loh
+
+
+
+Topic:
+
+1. 2013 HJS Scorecard (as attached)
+
+2. 2014 Target rates
+
+3. HJS final offer (as attached)
+
+
+
+1. 2013 HJS Scorecard
+- HJS overall performance for 2013 - Satisfactory
+- Issue encountered - Telex Released (69%), Feeder Irregurlarity (17%), Equipment Quantity (12%) & Feeder Capacity (2%)
+- Telex Released issue with Offices (POL): IDDJB, IDPLM, THLCH
+- Equipment Quantity issue with POL: IDDJB & IDPLM
+- Transit time (ATA vs ETA): AEW: Ex Asia - FRLEH & NLRTM (excellent) ESBIO (below expectation)
+                                    IES: Ex Africa - ROCND, PLGDY, PLGDN, ESBIO & FRLEH (unacceptable)
+- Loading Performance AEW: total 531TEUs - ESBIO (38.4%), FRLEH (38.2%) & NLRTM (23.4%)
+                              IES: Total: 220TEUs - ESBIO (46.3%, FRLEH (27.2%) PLGDY (11.3%), GBBEL, ROCND, SGSIN (15%)
+Overall 2013 performance (751TEUs) increase 323% as compare to 2012 (232TEUs).
+
+2. 2014 target rates
+- Ex MY, TH, ID - EUR/MED base port: USD1200/D2 super all in (around USD850/D2 sub OTH & DTH)
+- Ex MY, TH, ID - ESBIO: USD1400/D2 super all in
+- Ex MY, TH, ID - PLDGY & PLGDN: USD1300/D2 super all in
+- Ex MY, TH, ID - GBBEL: USD1450/D2 supper all in
+- Ex TH, ID - INMAA: USD750/D2
+- Ex CIABJ & NGLOS EUR - reduction of USD150-200/D2
+
+Action:
+1. Telex Released issues - In order to minimium this issue, close communication required between MOA: Kim Lee and JKTBBC & BKKBBC (Documentation).
+Request JKTBB & BKKBB to appoint one PIC in documentation department for SMPT shipment.
+
+2. Equipment Quantity issue - Further discussion with WSG & WOG team for possibility to have buffer stock in IDDJB and IDPLM.
+
+3. Transit time - ABJBA & LOSBA to double check the transit provided on the RFQ and advice any operation issue encountered for the past shipment.
+
+4. Final rates submission: WSI & UST to review and advice any counter-offer rates for TH, ID - INMAA & IES trade.
+
+
+
+
+
+
+Thank you & Best Regards
+Alvin Yeo
+
+________________________________
+From : "JOEAN(JIA YUAN) PUAH" <jypuah@sg.hanjin.com>
+Sent : 2013-10-17 15:16:15 ( +08:00 )
+To : Bak Teng (Alvin) YEO <btyeo@sg.hanjin.com>, Joe(Joo Foong) CHAN <joechan@sg.hanjin.com>, Gracie CHEN <wmchen@sg.hanjin.com>, Jade(DAJEONG) YU <djyu@sg.hanjin.com>, Nancy(QIUSHI) WANG <qswang@sg.hanjin.com>, KWEE MEI SEO <kmseo@sg.hanjin.com>, WANG GHIM JASON CHIA <wgchia@sg.hanjin.com>, Sophia(Qi Hui) YUE <sophiayue@sg.hanjin.com>, Carmen CHAN <carmen.chan@my.hanjin.com>, Darren TAN <darren.tan@my.hanjin.com>, Jonathan Ng <jonathan.ng@my.hanjin.com>, Cissy Tan <cissy.tan@my.hanjin.com>, Vincent OOI <vincent@my.hanjin.com>, Brian HO <brian@my.hanjin.com>, SORANA C. <richy@hanjinthailand.com>, Nattipa Piruncharoen <nattipa@hanjin.com>, Jidaporn Chaipracha <jidaporn@hanjinthailand.com>, Kritpong BOONSUKCHOTE <kritpong@hanjinthailand.com>, RUJINAN <jenny@hanjin.com>, Aunchisa Trakransittikul <aunchisa.t@hanjinthailand.com>, CHOKCHAI <chokchai@hanjin.com>, THEERADEJ <theeradej@hanjinthailand.com>, KRIT CHESADANUCHIT <krit@hanjinthailand.com>, CHATCHAI KOMINDR <chatchai@hanjin.com>, Chariya CHAICHARNCHEEP <chariya@hanjinthailand.com>, JANESS POILUKVUTTIKUL <janess@hanjinthailand.com>, Teerapong Phatcharawanitsakun <teerapong@hanjinthailand.com>, Weerasak Sutjanan <weerasak.s@hanjinthailand.com>, Tipparat WARAHAKIJ <tipparat@thaishipping.co.th>, WANDEE PHASOMPONG <wandee01@thaishipping.co.th>, Kanlaya JANTARASAKULROJ <kanlaya@thaishipping.co.th>, Pathumma Wongwathanasin <wpathumma@thaishipping.co.th>, Ck(CHITTIMA) . <ckris@hanjin.com>, YOTHIN CHULLAYART <yothin@hanjin.com>, Patthanan Chaiwan <patthanan@hanjinthailand.com>, Piyawan Pumma <piyawan@hanjin.com>, Sakraphi Phueakphong <sakraphi.p@hanjin.com>, Herman MUDITA <hmudita@bumilaut.co.id>, Jun Mabulac <jmabulac@bumilaut.co.id>, Raymond Nagasari <rnagasari@bumilaut.co.id>, Santy Suzana <ssuzana@bumilaut.co.id>, Chandra Chandra <chandra@bumilaut.co.id>, Fanny Maria Gunawan <fgunawan@bumilaut.co.id>, Kenny(Leonardo Kenny) Hindra <lhindra@bumilaut.co.id>, TJ(Trijono) ERWIN <terwin@bumilaut.co.id>, Ahmad MUTOHID <amutohid@bumilaut.co.id>, Herry NG <hng@bumilaut.co.id>, Tati Hartati <thartati@bumilaut.co.id>, Lindu Bagus Hariono <lindu@sg.hanjin.com>, Fadhillah Damayanti <fdamayanti@bumilaut.co.id>, Masrokan Masrokan <masrokan@bumilaut.co.id>, Jei Jei(Juli) Deliana [Jei Jei] <jdeliana@bumilaut.co.id>, Indriani Ratna Dewi <idewi@bumilaut.co.id>, Henky TASLIM <htaslim@bumilaut.co.id>, Etika ANDRIYANA <eandriyana@bumilaut.co.id>, Fransisca Emma D Y <fransisca.emma@bumilaut.co.id>, Uci(Sutjiati) Sutjiati <Sutjiati@bumilaut.co.id>, Yucarry Kanto <yucmkt@hanjin.com>, Yana Hendra <yhendra@bumilaut.co.id>, Netty Luk <netty.luk@bumilaut.co.id>, Edmund TIO <yctio@sg.hanjin.com>, Cindy LEE <sflee@sg.hanjin.com>, Syuk Hui KIU <shkiu@sg.hanjin.com>, JUN CHAO (Lucas) ONG <jcong@sg.hanjin.com>, Geraldine LOW <hhlow@sg.hanjin.com>, Dam Nguyen SON <dnson1@sg.hanjin.com>, Nguyen Thi Thu Hien <ntthien@sg.hanjin.com>, Phan Minh NGHIA <pmnghia@sg.hanjin.com>, Nguyen Hoang TUNG <tung@sg.hanjin.com>, Le Thanh SANG <ltsang@sg.hanjin.com>, Luu Thanh Dat <ltdat@sg.hanjin.com>, Vuong Ngan TRANG <trangvn@sg.hanjin.com>, Huynh Thi My HOA <htmhoa@sg.hanjin.com>, Tobias HEIFLER <tobias.heifler@de.hanjin.com>, B. S. PARK <b.s.park@de.hanjin.com>, Sven DERLIEN <sven.derlien@de.hanjin.com>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com>, Tom Stern <tom.stern@de.hanjin.com>, Kenneth Onulaka <Kenneth.Onulaka@bollore.com>, Blessing Anulika Ilechukwu <blessing.ilechukwu@bollore.com>, Elizabeth Salako <elizabeth.salako@bollore.com>
+Cc : Alan TAY <alantay@sg.hanjin.com>, Philip(Ee Hang) LOH <ehloh@sg.hanjin.com>, Jess YAM <kyyam@sg.hanjin.com>, Chong Beng WU <chongbeng@sg.hanjin.com>, Karen Michelle <karendecastro@sg.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Calix(Do-Jin) Jeon <0810371@hanjin.com>, Hyeon-Seok PARK <phs@hanjin.com>, Gon-Woo PARK <gwpark@hanjin.com>, KIERTNARONG KOMIN <louiskomin@hanjin.com>, Dae-Seung MOON <dsmoona@hanjin.com>, Jaka A SINGGIH <jaka@bumilaut.co.id>, Eddy Darjantjo <eddyd@bumilaut.co.id>, Joo Yong LAU <laujy@sg.hanjin.com>, Woo-Kyung Lee <wklee@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Myung-Han KANG <mhkang@hanjin.com>, SH(Sung-Hwan) CHANG <shchang@hanjin.com>, SH(Su-Han) KIM <shkim1@hanjin.com>, Lawrence(Byung-Woo) OH <bwoh@hanjin.com>, Kyeong-Nam JEONG <kn.jeong@hanjin.com>, Yeon-Hui YI <yh.yi@hanjin.com>, Ara(A-RA) CHO <archo@hanjin.com>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com>, Antoine Mouterde <antoine.mouterde@bollore.com>, Arnaud Timmerman <arnaud.timmerman@bollore.com>, Priscilla Castaldo <priscilla.castaldo@bollore.com>, Olivier SOU <olivier.sou@bollore.com>, JBK(Jean- Baptiste) KOTTY <jean-baptiste.kotty@bollore.com>, Maryam Coulibaly <maryam.coulibaly@bollore.com>, Maxime Amien <maxime.amien@bollore.com>, Catherine LE BARS <catherine.lebars@bollore.com>, Donald Wilfried VANHAN <donald-wilfried.vanhan@bollore.com>, Fatim Estelle CISSE <fatim-estelle.cisse@bollore.com>, Fatouma BINATE <fatouma.binate@bollore.com>, Yves-Alain ZOHIN <yves-alain.zohin@bollore.com>, Konan HILI <konan.hili@bollore.com>, Fidelia Aluku <fidelia.aluku@bollore.com>, MD(Myung-Deok) CHO <mdcho@hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com>, TH(Tae-Hoon) AN <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, Lloyd(Woosik) Yang <shakin@hanjin.com>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com>
+Subject : RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender
+
+To : WCG
+Fm : WSE
+
+Dear Alvin,
+
+Please refer to attached indication from WSE.
+
+Rates are super all-in
+Valid from Jan 1st 2014 to Dec 31st 2014
+
+Thank you,
+Joean Puah
+Hanjin Shipping (S) Pte Ltd
+
+From:Bak Teng (Alvin) YEO
+Sent: Wednesday, September 25, 2013 1:43 PM
+To: Joe(Joo Foong) CHAN; JOEAN(JIA YUAN) PUAH; Gracie CHEN; Jade(DAJEONG) YU; Nancy(QIUSHI) WANG; KWEE MEI SEO; WANG GHIM JASON CHIA; Sophia(Qi Hui) YUE; Carmen CHAN; Darren TAN; Jonathan Ng; Cissy Tan; Vincent OOI; Brian HO; SORANA C.; Nattipa Piruncharoen; Jidaporn Chaipracha; Kritpong BOONSUKCHOTE; RUJINAN; Aunchisa Trakransittikul; CHOKCHAI; THEERADEJ; KRIT CHESADANUCHIT; CHATCHAI KOMINDR; Chariya CHAICHARNCHEEP; JANESS POILUKVUTTIKUL; Teerapong Phatcharawanitsakun; Weerasak Sutjanan; Tipparat WARAHAKIJ; WANDEE PHASOMPONG; Kanlaya JANTARASAKULROJ; Pathumma Wongwathanasin; Ck(CHITTIMA) .; YOTHIN CHULLAYART; Patthanan Chaiwan; Piyawan Pumma; Sakraphi Phueakphong; Herman MUDITA; Jun Mabulac; Raymond Nagasari; Santy Suzana; Chandra Chandra; Fanny Maria Gunawan; Kenny(Leonardo Kenny) Hindra; Trijono ERWIN; Ahmad MUTOHID; Herry NG; Tati Hartati; Lindu Bagus Hariono; Fadhillah Damayanti; Masrokan Masrokan; Juli Deliana [Jei Jei]; Indriani Ratna Dewi; Henky TASLIM; Etika ANDRIYANA; Fransisca Emma D Y; Uci(Sutjiati) Sutjiati; Yucarry Kanto; Yana Hendra; Netty Luk; Edmund TIO; Cindy LEE; Syuk Hui KIU; JUN CHAO (Lucas) ONG; Geraldine LOW; Dam Nguyen SON; Nguyen Thi Thu Hien; Phan Minh NGHIA; Nguyen Hoang TUNG; Le Thanh SANG; Luu Thanh Dat; Vuong Ngan TRANG; Huynh Thi My HOA; Tobias HEIFLER; B. S. PARK; Sven DERLIEN; Bernadett KAEPPLER; Tom Stern; Kenneth Onulaka; Blessing Anulika Ilechukwu; Elizabeth Salako
+Cc: Alan TAY; Philip(Ee Hang) LOH; Jess YAM; Chong Beng WU; Karen Michelle; Hong-Kyoo LEE; Kyong-Sik PARK; Jung-Moo LEE; Joseph NG; Calix(Do-Jin) Jeon; Hyeon-Seok PARK; Gon-Woo PARK; KIERTNARONG KOMIN; Dae-Seung MOON; Jaka A SINGGIH; Eddy Darjantjo; Joo Yong LAU; Woo-Kyung Lee; Kyung-Su SIN; Deok-Lim CHOI; Myung-Han KANG; SH(Sung-Hwan) CHANG; SH(Su-Han) KIM; Lawrence(Byung-Woo) OH; Kyeong-Nam JEONG; Yeon-Hui YI; Ara(A-RA) CHO; Kooks(Kook-Shin) KIM; Antoine Mouterde; Arnaud Timmerman; Priscilla Castaldo; Olivier SOU; JBK(Jean- Baptiste) KOTTY; Maryam Coulibaly; Maxime Amien; Catherine LE BARS; Donald Wilfried VANHAN; Fatim Estelle CISSE; Fatouma BINATE; Yves-Alain ZOHIN; Konan HILI; Fidelia Aluku; MD(Myung-Deok) CHO; Seung-Min PARK; Nam-Hoon BAIK; SH(SUK-HWAN) JUNG; Woojung Kim; Daisy(Ji-Kyong) BHANG; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI
+Subject: Bid Proposal for 2014 SMPT (Michelin) AEW tender
+
+Date: 25 Sept 13
+To: WSG, HAMUST, BKKBB, PKGBB, JKTBA, SGNBB, SINBB, ABJBA, LOSBA
+Cc: CCM, CCE, CCB-SP
+From: SINWCG
+
+Dear Colleagues,
+
+We have received an invitation from SMPT to participate in their 2014 AEW bid.
+
+HAMUST/WST/WSE/WSI (Pricing) - Request your advice on the rates to offer - Attachment (Rates ex Asia/ex WAfrica)
+S.E Asia/ABJBA/LOSBA Origin - Pls update the service lane/route you want to promote - Attachment (Transit Time ex Asia/ex WAfrica)
+
+Bid Proposal:
+
+Commodity: Natural rubber (20-22.5mt/D2). Some products will be carried in reefer containers as per below details. (Limited RF volume)
+
+Type
+
+Items
+
+Specification
+
+Reefer
+
+Temp Setting
+
+To Gdynia/Gdnask @ 15 ?C
+
+
+
+
+
+To FOS/Koper @ 20 ?C
+
+
+
+Equipment: SMPT requires A-grade containers
+Surcharge: Super all-in (inclusive of THCs, doc fee, local charges (manifested + non manifested)
+Validity: 1 Jan 2014 - 31 Dec 2014
+
+Trade:
+SINWA to Europe / Latin America / Asia
+West Africa to Europe / Canada / USA / Singapore
+Overall volume is approx 30,000 TEU/month, with AESW being the main portion
+
+2013 Performance (YTD wk38)
+
+AEW - Ex S.E Asia - NLRTM/FRLEH/ESBIO
+Trade
+
+AES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sum of LOAD
+
+Column Labels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Row Labels
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Grand Total
+
+IDBLW
+
+
+
+
+
+4
+
+
+
+4
+
+4
+
+6
+
+9
+
+2
+
+29
+
+IDDJB
+
+4
+
+30
+
+20
+
+35
+
+13
+
+15
+
+16
+
+24
+
+12
+
+169
+
+IDPLM
+
+8
+
+6
+
+19
+
+10
+
+20
+
+4
+
+8
+
+8
+
+21
+
+104
+
+MYPEN
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+2
+
+6
+
+THLCH
+
+2
+
+6
+
+6
+
+4
+
+6
+
+8
+
+10
+
+26
+
+16
+
+84
+
+THSGZ
+
+
+
+4
+
+8
+
+2
+
+2
+
+16
+
+8
+
+4
+
+4
+
+48
+
+Grand Total
+
+14
+
+46
+
+57
+
+51
+
+45
+
+51
+
+48
+
+71
+
+57
+
+440
+
+
+
+IES - Ex West Africa - Europe
+Trade
+
+IES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sum of LOAD
+
+Column Labels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Row Labels
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Grand Total
+
+CIABJ
+
+
+
+3
+
+10
+
+19
+
+8
+
+10
+
+13
+
+3
+
+66
+
+NGLOS
+
+2
+
+12
+
+6
+
+10
+
+18
+
+5
+
+26
+
+31
+
+110
+
+Grand Total
+
+2
+
+15
+
+16
+
+29
+
+26
+
+15
+
+39
+
+34
+
+176
+
+
+2014Target volume
+AEW - 3,120TEU/year ex ID (20TEUs)/MY (20TEUs) /TH (20TEUs)/Wk
+Main target Europe (FRLEH/NLRTM/ESBIO)
+Main target MED (ITGOA/ESVLC/FOS)
+
+EMS - 150 TEU ex ID/MY/TH - COBUN
+(Very minimum due to SMPT's heavy cargo)
+
+IES- 350 TEU ex CIABJ/NGLOS - Europe
+
+IAS- 1550 TEU ex ID/VN - China
+
+2014 Proposed rate for Round 1:
+AEW - Ex THLCH/MYPKG/IDJKT - NE/MED base port @USD1400/D2 Super all in (Approx. USD1000/D2 subject to both ends THC and Doc Fee)
+
+AEW Reefer - CCB-SP to advice
+EMS - WST to advice
+IAS - WSI to advice
+IES - UST to advice
+
+Freetime requirement:
++ 30 days inbound detention free time for ALL destinations. Thereafter, a fixed per diem charge of USD2.5/day will be applicable
+
+Credit term:
++ 30 days from date of invoice receipt
+
+Bid schedule
+R1 submission: 20 Oct 2013
+F2F meeting: 20 Nov 2013 (only shortlisted carriers)
+
+Thank you & Best Regards
+Alvin Yeo
+
+
+--_000_9CABD9E4FFEA04498F7943499B5805752A450C05kovhgvmchanjinc_
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div id="msgbody">
+<div><br>
+Tobias,</div>
+<font face=""></font></div>
+<div>&nbsp;</div>
+<div><font face="">It is more of transit time issue for West Africa to Europe. Actual transit time 52 days but your advise 23 to 25days to base port Eur. Rates do play a part for West Africa to Europe</font>
+<div><br>
+</div>
+<div id="MailSignSent"></div>
+<div><br>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex="-1">
+<b>From : </b>&quot;Tobias HEIFLER&quot; &lt;tobias.heifler@de.hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-21 16:31:04 ( &#43;08:00 )<br>
+<b>To : </b>Alan TAY &lt;alantay@sg.hanjin.com&gt;, Bak Teng (Alvin) YEO &lt;btyeo@sg.hanjin.com&gt;, JOEAN(JIA YUAN) PUAH &lt;jypuah@sg.hanjin.com&gt;, Joe(Joo Foong) CHAN &lt;joechan@sg.hanjin.com&gt;, Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, Jade(DAJEONG) YU &lt;djyu@sg.hanjin.com&gt;, Nancy(QIUSHI)
+ WANG &lt;qswang@sg.hanjin.com&gt;, KWEE MEI SEO &lt;kmseo@sg.hanjin.com&gt;, WANG GHIM JASON CHIA &lt;wgchia@sg.hanjin.com&gt;, Sophia(Qi Hui) YUE &lt;sophiayue@sg.hanjin.com&gt;, Carmen CHAN &lt;carmen.chan@my.hanjin.com&gt;, Darren TAN &lt;darren.tan@my.hanjin.com&gt;, Jonathan Ng &lt;jonathan.ng@my.hanjin.com&gt;,
+ Cissy Tan &lt;cissy.tan@my.hanjin.com&gt;, Vincent OOI &lt;vincent@my.hanjin.com&gt;, Brian HO &lt;brian@my.hanjin.com&gt;, SORANA C. &lt;richy@hanjinthailand.com&gt;, Nattipa Piruncharoen &lt;nattipa@hanjin.com&gt;, Jidaporn Chaipracha &lt;jidaporn@hanjinthailand.com&gt;, Kritpong BOONSUKCHOTE
+ &lt;kritpong@hanjinthailand.com&gt;, RUJINAN &lt;jenny@hanjin.com&gt;, Aunchisa Trakransittikul &lt;aunchisa.t@hanjinthailand.com&gt;, CHOKCHAI &lt;chokchai@hanjin.com&gt;, THEERADEJ &lt;theeradej@hanjinthailand.com&gt;, KRIT CHESADANUCHIT &lt;krit@hanjinthailand.com&gt;, CHATCHAI KOMINDR &lt;chatchai@hanjin.com&gt;,
+ Chariya CHAICHARNCHEEP &lt;chariya@hanjinthailand.com&gt;, JANESS POILUKVUTTIKUL &lt;janess@hanjinthailand.com&gt;, Teerapong Phatcharawanitsakun &lt;teerapong@hanjinthailand.com&gt;, Weerasak Sutjanan &lt;weerasak.s@hanjinthailand.com&gt;, Tipparat WARAHAKIJ &lt;tipparat@thaishipping.co.th&gt;,
+ WANDEE PHASOMPONG &lt;wandee01@thaishipping.co.th&gt;, Kanlaya JANTARASAKULROJ &lt;kanlaya@thaishipping.co.th&gt;, Pathumma Wongwathanasin &lt;wpathumma@thaishipping.co.th&gt;, Ck(CHITTIMA) . &lt;ckris@hanjin.com&gt;, YOTHIN CHULLAYART &lt;yothin@hanjin.com&gt;, Patthanan Chaiwan &lt;patthanan@hanjinthailand.com&gt;,
+ Piyawan Pumma &lt;piyawan@hanjin.com&gt;, Sakraphi Phueakphong &lt;sakraphi.p@hanjin.com&gt;, Herman MUDITA &lt;hmudita@bumilaut.co.id&gt;, Jun Mabulac &lt;jmabulac@bumilaut.co.id&gt;, Raymond Nagasari &lt;rnagasari@bumilaut.co.id&gt;, Santy Suzana &lt;ssuzana@bumilaut.co.id&gt;, Chandra Chandra
+ &lt;chandra@bumilaut.co.id&gt;, Fanny Maria Gunawan &lt;fgunawan@bumilaut.co.id&gt;, Kenny(Leonardo Kenny) Hindra &lt;lhindra@bumilaut.co.id&gt;, TJ(Trijono) ERWIN &lt;terwin@bumilaut.co.id&gt;, Ahmad MUTOHID &lt;amutohid@bumilaut.co.id&gt;, Herry NG &lt;hng@bumilaut.co.id&gt;, Tati Hartati
+ &lt;thartati@bumilaut.co.id&gt;, Lindu Bagus Hariono &lt;lindu@sg.hanjin.com&gt;, Fadhillah Damayanti &lt;fdamayanti@bumilaut.co.id&gt;, Masrokan Masrokan &lt;masrokan@bumilaut.co.id&gt;, Jei Jei(Juli) Deliana [Jei Jei] &lt;jdeliana@bumilaut.co.id&gt;, Indriani Ratna Dewi &lt;idewi@bumilaut.co.id&gt;,
+ Henky TASLIM &lt;htaslim@bumilaut.co.id&gt;, Etika ANDRIYANA &lt;eandriyana@bumilaut.co.id&gt;, Fransisca Emma D Y &lt;fransisca.emma@bumilaut.co.id&gt;, Uci(Sutjiati) Sutjiati &lt;Sutjiati@bumilaut.co.id&gt;, Yucarry Kanto &lt;yucmkt@hanjin.com&gt;, Yana Hendra &lt;yhendra@bumilaut.co.id&gt;,
+ Netty Luk &lt;netty.luk@bumilaut.co.id&gt;, Edmund TIO &lt;yctio@sg.hanjin.com&gt;, Cindy LEE &lt;sflee@sg.hanjin.com&gt;, Syuk Hui KIU &lt;shkiu@sg.hanjin.com&gt;, JUN CHAO (Lucas) ONG &lt;jcong@sg.hanjin.com&gt;, Geraldine LOW &lt;hhlow@sg.hanjin.com&gt;, Dam Nguyen SON &lt;dnson1@sg.hanjin.com&gt;,
+ Nguyen Thi Thu Hien &lt;ntthien@sg.hanjin.com&gt;, Phan Minh NGHIA &lt;pmnghia@sg.hanjin.com&gt;, Nguyen Hoang TUNG &lt;tung@sg.hanjin.com&gt;, Le Thanh SANG &lt;ltsang@sg.hanjin.com&gt;, Luu Thanh Dat &lt;ltdat@sg.hanjin.com&gt;, Vuong Ngan TRANG &lt;trangvn@sg.hanjin.com&gt;, Huynh Thi My
+ HOA &lt;htmhoa@sg.hanjin.com&gt;, B. S. PARK &lt;b.s.park@de.hanjin.com&gt;, Sven DERLIEN &lt;sven.derlien@de.hanjin.com&gt;, Bernadett KAEPPLER &lt;bernadett.kaeppler@de.hanjin.com&gt;, Tom Stern &lt;tom.stern@de.hanjin.com&gt;, Kenneth Onulaka &lt;Kenneth.Onulaka@bollore.com&gt;, Blessing
+ Anulika Ilechukwu &lt;blessing.ilechukwu@bollore.com&gt;, Elizabeth Salako &lt;elizabeth.salako@bollore.com&gt;<br>
+<b>Cc : </b>Philip(Ee Hang) LOH &lt;ehloh@sg.hanjin.com&gt;, Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Chong Beng WU &lt;chongbeng@sg.hanjin.com&gt;, Karen Michelle &lt;karendecastro@sg.hanjin.com&gt;, Hong-Kyoo LEE &lt;hklee@hanjin.com&gt;, Kyong-Sik PARK &lt;ksikpark@hanjin.com&gt;, Jung-Moo LEE
+ &lt;jmleea@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.com&gt;, Calix(Do-Jin) Jeon &lt;0810371@hanjin.com&gt;, Hyeon-Seok PARK &lt;phs@hanjin.com&gt;, Gon-Woo PARK &lt;gwpark@hanjin.com&gt;, KIERTNARONG KOMIN &lt;louiskomin@hanjin.com&gt;, Dae-Seung MOON &lt;dsmoona@hanjin.com&gt;, Jaka A SINGGIH
+ &lt;jaka@bumilaut.co.id&gt;, Eddy Darjantjo &lt;eddyd@bumilaut.co.id&gt;, Joo Yong LAU &lt;laujy@sg.hanjin.com&gt;, Woo-Kyung Lee &lt;wklee@hanjin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;, Deok-Lim CHOI &lt;dlchoi@hanjin.com&gt;, Myung-Han KANG &lt;mhkang@hanjin.com&gt;, SH(Sung-Hwan) CHANG
+ &lt;shchang@hanjin.com&gt;, SH(Su-Han) KIM &lt;shkim1@hanjin.com&gt;, Lawrence(Byung-Woo) OH &lt;bwoh@hanjin.com&gt;, Kyeong-Nam JEONG &lt;kn.jeong@hanjin.com&gt;, Yeon-Hui YI &lt;yh.yi@hanjin.com&gt;, Ara(A-RA) CHO &lt;archo@hanjin.com&gt;, Kooks(Kook-Shin) KIM &lt;kookskim@hanjin.com&gt;, Antoine
+ Mouterde &lt;antoine.mouterde@bollore.com&gt;, Arnaud Timmerman &lt;arnaud.timmerman@bollore.com&gt;, Priscilla Castaldo &lt;priscilla.castaldo@bollore.com&gt;, Olivier SOU &lt;olivier.sou@bollore.com&gt;, JBK(Jean- Baptiste) KOTTY &lt;jean-baptiste.kotty@bollore.com&gt;, Maryam Coulibaly
+ &lt;maryam.coulibaly@bollore.com&gt;, Maxime Amien &lt;maxime.amien@bollore.com&gt;, Catherine LE BARS &lt;catherine.lebars@bollore.com&gt;, Donald Wilfried VANHAN &lt;donald-wilfried.vanhan@bollore.com&gt;, Fatim Estelle CISSE &lt;fatim-estelle.cisse@bollore.com&gt;, Fatouma BINATE &lt;fatouma.binate@bollore.com&gt;,
+ Yves-Alain ZOHIN &lt;yves-alain.zohin@bollore.com&gt;, Konan HILI &lt;konan.hili@bollore.com&gt;, Fidelia Aluku &lt;fidelia.aluku@bollore.com&gt;, MD(Myung-Deok) CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, Nam-Hoon BAIK &lt;hunt72@hanjin.com&gt;, SUK-HWAN JUNG &lt;ch021@hanjin.com&gt;,
+ Woojung Kim &lt;wjkim@hanjin.com&gt;, Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Yoo-Kyung KIM &lt;kimyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;, Lloyd(Woosik) Yang &lt;shakin@hanjin.com&gt;, Luth(Kyung-Won)
+ CHOI &lt;luthchoi@hanjin.com&gt;, Dong-Seok LEE &lt;dslee1@hanjin.com&gt;, Adele WONG &lt;sywong@sg.hanjin.com&gt;, SUWANNA PHANPRANOMPRI &lt;suwanna@hanjin.com&gt;, Carto . &lt;carto@hanjin.com&gt;, Maria Linda &lt;mlinda@bumilaut.co.id&gt;, Kim LEE &lt;splee@sg.hanjin.com&gt;, Karen HONG &lt;karenhong@sg.hanjin.com&gt;,
+ Jean-Pascal BIDOIRE &lt;jean.pascal.bidoire@fr.hanjin.com&gt;, NUMCHAI CHADATHARN &lt;numchai@hanjin.com&gt;, Seung-Gwan LEE &lt;seugklee@hanjin.com&gt;, V.K. Sasidharan &lt;sasi@in.hanjin.com&gt;, Hun-Young LEE &lt;hylee1@hanjin.com&gt;, Alina MACH &lt;alina.mach@pl.hanjin.com&gt;, Tomasz KOLACZEK
+ &lt;tomasz.kolaczek@pl.hanjin.com&gt;, Przemyslaw Piotr PIETRZAK &lt;przemek.pietrzak@pl.hanjin.com&gt;, Malgorzata KRAJEWSKA &lt;malgorzata.krajewska@pl.hanjin.com&gt;, Dominika ZYNIS &lt;dominika.zynis@pl.hanjin.com&gt;, SIRIWAN &lt;siriwan@hanjin.com&gt;<br>
+<b>Subject : </b>RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender<br>
+<br>
+</div>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div>Date: 21/11/2013</div>
+<div>To: SINWKG</div>
+</div>
+<div>&nbsp;</div>
+<div>Dear Alan,</div>
+<div>Regarding W.Africa origins, thanks for feedback. </div>
+<div><font face="">Rate to SGSIN from CIABJ/NGLOS we can adjust by $150/TEU. Rates to Europe from W.Africa are aleady on really low level.</font></div>
+<div><font face="">As attached</font></div>
+<div><font face=""></font>&nbsp;</div>
+<div>rgds</div>
+<div>
+<div><br>
+</div>
+<div id="MailSignSentSent"></div>
+<div><br>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex="-1">
+<b>From : </b>&quot;Alan TAY&quot; &lt;alantay@sg.hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-21 06:55:05 ( &#43;01:00 )<br>
+<b>To : </b>Bak Teng (Alvin) YEO &lt;btyeo@sg.hanjin.com&gt;, JOEAN(JIA YUAN) PUAH &lt;jypuah@sg.hanjin.com&gt;, Joe(Joo Foong) CHAN &lt;joechan@sg.hanjin.com&gt;, Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, Jade(DAJEONG) YU &lt;djyu@sg.hanjin.com&gt;, Nancy(QIUSHI) WANG &lt;qswang@sg.hanjin.com&gt;,
+ KWEE MEI SEO &lt;kmseo@sg.hanjin.com&gt;, WANG GHIM JASON CHIA &lt;wgchia@sg.hanjin.com&gt;, Sophia(Qi Hui) YUE &lt;sophiayue@sg.hanjin.com&gt;, Carmen CHAN &lt;carmen.chan@my.hanjin.com&gt;, Darren TAN &lt;darren.tan@my.hanjin.com&gt;, Jonathan Ng &lt;jonathan.ng@my.hanjin.com&gt;, Cissy Tan
+ &lt;cissy.tan@my.hanjin.com&gt;, Vincent OOI &lt;vincent@my.hanjin.com&gt;, Brian HO &lt;brian@my.hanjin.com&gt;, SORANA C. &lt;richy@hanjinthailand.com&gt;, Nattipa Piruncharoen &lt;nattipa@hanjin.com&gt;, Jidaporn Chaipracha &lt;jidaporn@hanjinthailand.com&gt;, Kritpong BOONSUKCHOTE &lt;kritpong@hanjinthailand.com&gt;,
+ RUJINAN &lt;jenny@hanjin.com&gt;, Aunchisa Trakransittikul &lt;aunchisa.t@hanjinthailand.com&gt;, CHOKCHAI &lt;chokchai@hanjin.com&gt;, THEERADEJ &lt;theeradej@hanjinthailand.com&gt;, KRIT CHESADANUCHIT &lt;krit@hanjinthailand.com&gt;, CHATCHAI KOMINDR &lt;chatchai@hanjin.com&gt;, Chariya CHAICHARNCHEEP
+ &lt;chariya@hanjinthailand.com&gt;, JANESS POILUKVUTTIKUL &lt;janess@hanjinthailand.com&gt;, Teerapong Phatcharawanitsakun &lt;teerapong@hanjinthailand.com&gt;, Weerasak Sutjanan &lt;weerasak.s@hanjinthailand.com&gt;, Tipparat WARAHAKIJ &lt;tipparat@thaishipping.co.th&gt;, WANDEE PHASOMPONG
+ &lt;wandee01@thaishipping.co.th&gt;, Kanlaya JANTARASAKULROJ &lt;kanlaya@thaishipping.co.th&gt;, Pathumma Wongwathanasin &lt;wpathumma@thaishipping.co.th&gt;, Ck(CHITTIMA) . &lt;ckris@hanjin.com&gt;, YOTHIN CHULLAYART &lt;yothin@hanjin.com&gt;, Patthanan Chaiwan &lt;patthanan@hanjinthailand.com&gt;,
+ Piyawan Pumma &lt;piyawan@hanjin.com&gt;, Sakraphi Phueakphong &lt;sakraphi.p@hanjin.com&gt;, Herman MUDITA &lt;hmudita@bumilaut.co.id&gt;, Jun Mabulac &lt;jmabulac@bumilaut.co.id&gt;, Raymond Nagasari &lt;rnagasari@bumilaut.co.id&gt;, Santy Suzana &lt;ssuzana@bumilaut.co.id&gt;, Chandra Chandra
+ &lt;chandra@bumilaut.co.id&gt;, Fanny Maria Gunawan &lt;fgunawan@bumilaut.co.id&gt;, Kenny(Leonardo Kenny) Hindra &lt;lhindra@bumilaut.co.id&gt;, TJ(Trijono) ERWIN &lt;terwin@bumilaut.co.id&gt;, Ahmad MUTOHID &lt;amutohid@bumilaut.co.id&gt;, Herry NG &lt;hng@bumilaut.co.id&gt;, Tati Hartati
+ &lt;thartati@bumilaut.co.id&gt;, Lindu Bagus Hariono &lt;lindu@sg.hanjin.com&gt;, Fadhillah Damayanti &lt;fdamayanti@bumilaut.co.id&gt;, Masrokan Masrokan &lt;masrokan@bumilaut.co.id&gt;, Jei Jei(Juli) Deliana [Jei Jei] &lt;jdeliana@bumilaut.co.id&gt;, Indriani Ratna Dewi &lt;idewi@bumilaut.co.id&gt;,
+ Henky TASLIM &lt;htaslim@bumilaut.co.id&gt;, Etika ANDRIYANA &lt;eandriyana@bumilaut.co.id&gt;, Fransisca Emma D Y &lt;fransisca.emma@bumilaut.co.id&gt;, Uci(Sutjiati) Sutjiati &lt;Sutjiati@bumilaut.co.id&gt;, Yucarry Kanto &lt;yucmkt@hanjin.com&gt;, Yana Hendra &lt;yhendra@bumilaut.co.id&gt;,
+ Netty Luk &lt;netty.luk@bumilaut.co.id&gt;, Edmund TIO &lt;yctio@sg.hanjin.com&gt;, Cindy LEE &lt;sflee@sg.hanjin.com&gt;, Syuk Hui KIU &lt;shkiu@sg.hanjin.com&gt;, JUN CHAO (Lucas) ONG &lt;jcong@sg.hanjin.com&gt;, Geraldine LOW &lt;hhlow@sg.hanjin.com&gt;, Dam Nguyen SON &lt;dnson1@sg.hanjin.com&gt;,
+ Nguyen Thi Thu Hien &lt;ntthien@sg.hanjin.com&gt;, Phan Minh NGHIA &lt;pmnghia@sg.hanjin.com&gt;, Nguyen Hoang TUNG &lt;tung@sg.hanjin.com&gt;, Le Thanh SANG &lt;ltsang@sg.hanjin.com&gt;, Luu Thanh Dat &lt;ltdat@sg.hanjin.com&gt;, Vuong Ngan TRANG &lt;trangvn@sg.hanjin.com&gt;, Huynh Thi My
+ HOA &lt;htmhoa@sg.hanjin.com&gt;, Tobias HEIFLER &lt;tobias.heifler@de.hanjin.com&gt;, B. S. PARK &lt;b.s.park@de.hanjin.com&gt;, Sven DERLIEN &lt;sven.derlien@de.hanjin.com&gt;, Bernadett KAEPPLER &lt;bernadett.kaeppler@de.hanjin.com&gt;, Tom Stern &lt;tom.stern@de.hanjin.com&gt;, Kenneth Onulaka
+ &lt;Kenneth.Onulaka@bollore.com&gt;, Blessing Anulika Ilechukwu &lt;blessing.ilechukwu@bollore.com&gt;, Elizabeth Salako &lt;elizabeth.salako@bollore.com&gt;<br>
+<b>Cc : </b>Philip(Ee Hang) LOH &lt;ehloh@sg.hanjin.com&gt;, Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Chong Beng WU &lt;chongbeng@sg.hanjin.com&gt;, Karen Michelle &lt;karendecastro@sg.hanjin.com&gt;, Hong-Kyoo LEE &lt;hklee@hanjin.com&gt;, Kyong-Sik PARK &lt;ksikpark@hanjin.com&gt;, Jung-Moo LEE
+ &lt;jmleea@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.com&gt;, Calix(Do-Jin) Jeon &lt;0810371@hanjin.com&gt;, Hyeon-Seok PARK &lt;phs@hanjin.com&gt;, Gon-Woo PARK &lt;gwpark@hanjin.com&gt;, KIERTNARONG KOMIN &lt;louiskomin@hanjin.com&gt;, Dae-Seung MOON &lt;dsmoona@hanjin.com&gt;, Jaka A SINGGIH
+ &lt;jaka@bumilaut.co.id&gt;, Eddy Darjantjo &lt;eddyd@bumilaut.co.id&gt;, Joo Yong LAU &lt;laujy@sg.hanjin.com&gt;, Woo-Kyung Lee &lt;wklee@hanjin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;, Deok-Lim CHOI &lt;dlchoi@hanjin.com&gt;, Myung-Han KANG &lt;mhkang@hanjin.com&gt;, SH(Sung-Hwan) CHANG
+ &lt;shchang@hanjin.com&gt;, SH(Su-Han) KIM &lt;shkim1@hanjin.com&gt;, Lawrence(Byung-Woo) OH &lt;bwoh@hanjin.com&gt;, Kyeong-Nam JEONG &lt;kn.jeong@hanjin.com&gt;, Yeon-Hui YI &lt;yh.yi@hanjin.com&gt;, Ara(A-RA) CHO &lt;archo@hanjin.com&gt;, Kooks(Kook-Shin) KIM &lt;kookskim@hanjin.com&gt;, Antoine
+ Mouterde &lt;antoine.mouterde@bollore.com&gt;, Arnaud Timmerman &lt;arnaud.timmerman@bollore.com&gt;, Priscilla Castaldo &lt;priscilla.castaldo@bollore.com&gt;, Olivier SOU &lt;olivier.sou@bollore.com&gt;, JBK(Jean- Baptiste) KOTTY &lt;jean-baptiste.kotty@bollore.com&gt;, Maryam Coulibaly
+ &lt;maryam.coulibaly@bollore.com&gt;, Maxime Amien &lt;maxime.amien@bollore.com&gt;, Catherine LE BARS &lt;catherine.lebars@bollore.com&gt;, Donald Wilfried VANHAN &lt;donald-wilfried.vanhan@bollore.com&gt;, Fatim Estelle CISSE &lt;fatim-estelle.cisse@bollore.com&gt;, Fatouma BINATE &lt;fatouma.binate@bollore.com&gt;,
+ Yves-Alain ZOHIN &lt;yves-alain.zohin@bollore.com&gt;, Konan HILI &lt;konan.hili@bollore.com&gt;, Fidelia Aluku &lt;fidelia.aluku@bollore.com&gt;, MD(Myung-Deok) CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, Nam-Hoon BAIK &lt;hunt72@hanjin.com&gt;, SUK-HWAN JUNG &lt;ch021@hanjin.com&gt;,
+ Woojung Kim &lt;wjkim@hanjin.com&gt;, Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Yoo-Kyung KIM &lt;kimyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;, Lloyd(Woosik) Yang &lt;shakin@hanjin.com&gt;, Luth(Kyung-Won)
+ CHOI &lt;luthchoi@hanjin.com&gt;, Dong-Seok LEE &lt;dslee1@hanjin.com&gt;, Adele WONG &lt;sywong@sg.hanjin.com&gt;, SUWANNA PHANPRANOMPRI &lt;suwanna@hanjin.com&gt;, Carto . &lt;carto@hanjin.com&gt;, Maria Linda &lt;mlinda@bumilaut.co.id&gt;, Kim LEE &lt;splee@sg.hanjin.com&gt;, Karen HONG &lt;karenhong@sg.hanjin.com&gt;,
+ Jean-Pascal BIDOIRE &lt;jean.pascal.bidoire@fr.hanjin.com&gt;, SIRIWAN &lt;siriwan@hanjin.com&gt;, NUMCHAI CHADATHARN &lt;numchai@hanjin.com&gt;, Seung-Gwan LEE &lt;seugklee@hanjin.com&gt;, V.K. Sasidharan &lt;sasi@in.hanjin.com&gt;, Hun-Young LEE &lt;hylee1@hanjin.com&gt;, Alina MACH &lt;alina.mach@pl.hanjin.com&gt;,
+ Tomasz KOLACZEK &lt;tomasz.kolaczek@pl.hanjin.com&gt;, Przemyslaw Piotr PIETRZAK &lt;przemek.pietrzak@pl.hanjin.com&gt;, Malgorzata KRAJEWSKA &lt;malgorzata.krajewska@pl.hanjin.com&gt;, Dominika ZYNIS &lt;dominika.zynis@pl.hanjin.com&gt;<br>
+<b>Subject : </b>RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender<br>
+<br>
+</div>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div><br>
+TO USG, ABJBA &amp; LOSBA </div>
+</div>
+<div>&nbsp;</div>
+<div>Becoz of transit time issues,&nbsp;SMPT did not want&nbsp;us&nbsp;to participate 2014 West Africa outbound shipment.&nbsp;</div>
+<div>&nbsp;</div>
+<div>TO USG </div>
+<div>&nbsp;</div>
+<div>Our through rates to destination&nbsp;Gdynia, Gdansk and St Petersburg at least $200/T higher than carriers and we advised by SMPT &quot;no need to adjust&quot; as we will not be considered. So if you&nbsp;need inbound shipment into these area and can&nbsp;adjust&nbsp;destination add-on,&nbsp;we
+ will reapproach immediately&nbsp;</div>
+<div><br>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex="-1">
+<b>From : </b>&quot;Bak Teng (Alvin) YEO&quot; &lt;btyeo@sg.hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-21 12:03:58 ( &#43;08:00 )<br>
+<b>To : </b>JOEAN(JIA YUAN) PUAH &lt;jypuah@sg.hanjin.com&gt;, Joe(Joo Foong) CHAN &lt;joechan@sg.hanjin.com&gt;, Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, Jade(DAJEONG) YU &lt;djyu@sg.hanjin.com&gt;, Nancy(QIUSHI) WANG &lt;qswang@sg.hanjin.com&gt;, KWEE MEI SEO &lt;kmseo@sg.hanjin.com&gt;, WANG
+ GHIM JASON CHIA &lt;wgchia@sg.hanjin.com&gt;, Sophia(Qi Hui) YUE &lt;sophiayue@sg.hanjin.com&gt;, Carmen CHAN &lt;carmen.chan@my.hanjin.com&gt;, Darren TAN &lt;darren.tan@my.hanjin.com&gt;, Jonathan Ng &lt;jonathan.ng@my.hanjin.com&gt;, Cissy Tan &lt;cissy.tan@my.hanjin.com&gt;, Vincent OOI
+ &lt;vincent@my.hanjin.com&gt;, Brian HO &lt;brian@my.hanjin.com&gt;, SORANA C. &lt;richy@hanjinthailand.com&gt;, Nattipa Piruncharoen &lt;nattipa@hanjin.com&gt;, Jidaporn Chaipracha &lt;jidaporn@hanjinthailand.com&gt;, Kritpong BOONSUKCHOTE &lt;kritpong@hanjinthailand.com&gt;, RUJINAN &lt;jenny@hanjin.com&gt;,
+ Aunchisa Trakransittikul &lt;aunchisa.t@hanjinthailand.com&gt;, CHOKCHAI &lt;chokchai@hanjin.com&gt;, THEERADEJ &lt;theeradej@hanjinthailand.com&gt;, KRIT CHESADANUCHIT &lt;krit@hanjinthailand.com&gt;, CHATCHAI KOMINDR &lt;chatchai@hanjin.com&gt;, Chariya CHAICHARNCHEEP &lt;chariya@hanjinthailand.com&gt;,
+ JANESS POILUKVUTTIKUL &lt;janess@hanjinthailand.com&gt;, Teerapong Phatcharawanitsakun &lt;teerapong@hanjinthailand.com&gt;, Weerasak Sutjanan &lt;weerasak.s@hanjinthailand.com&gt;, Tipparat WARAHAKIJ &lt;tipparat@thaishipping.co.th&gt;, WANDEE PHASOMPONG &lt;wandee01@thaishipping.co.th&gt;,
+ Kanlaya JANTARASAKULROJ &lt;kanlaya@thaishipping.co.th&gt;, Pathumma Wongwathanasin &lt;wpathumma@thaishipping.co.th&gt;, Ck(CHITTIMA) . &lt;ckris@hanjin.com&gt;, YOTHIN CHULLAYART &lt;yothin@hanjin.com&gt;, Patthanan Chaiwan &lt;patthanan@hanjinthailand.com&gt;, Piyawan Pumma &lt;piyawan@hanjin.com&gt;,
+ Sakraphi Phueakphong &lt;sakraphi.p@hanjin.com&gt;, Herman MUDITA &lt;hmudita@bumilaut.co.id&gt;, Jun Mabulac &lt;jmabulac@bumilaut.co.id&gt;, Raymond Nagasari &lt;rnagasari@bumilaut.co.id&gt;, Santy Suzana &lt;ssuzana@bumilaut.co.id&gt;, Chandra Chandra &lt;chandra@bumilaut.co.id&gt;, Fanny
+ Maria Gunawan &lt;fgunawan@bumilaut.co.id&gt;, Kenny(Leonardo Kenny) Hindra &lt;lhindra@bumilaut.co.id&gt;, TJ(Trijono) ERWIN &lt;terwin@bumilaut.co.id&gt;, Ahmad MUTOHID &lt;amutohid@bumilaut.co.id&gt;, Herry NG &lt;hng@bumilaut.co.id&gt;, Tati Hartati &lt;thartati@bumilaut.co.id&gt;, Lindu
+ Bagus Hariono &lt;lindu@sg.hanjin.com&gt;, Fadhillah Damayanti &lt;fdamayanti@bumilaut.co.id&gt;, Masrokan Masrokan &lt;masrokan@bumilaut.co.id&gt;, Jei Jei(Juli) Deliana [Jei Jei] &lt;jdeliana@bumilaut.co.id&gt;, Indriani Ratna Dewi &lt;idewi@bumilaut.co.id&gt;, Henky TASLIM &lt;htaslim@bumilaut.co.id&gt;,
+ Etika ANDRIYANA &lt;eandriyana@bumilaut.co.id&gt;, Fransisca Emma D Y &lt;fransisca.emma@bumilaut.co.id&gt;, Uci(Sutjiati) Sutjiati &lt;Sutjiati@bumilaut.co.id&gt;, Yucarry Kanto &lt;yucmkt@hanjin.com&gt;, Yana Hendra &lt;yhendra@bumilaut.co.id&gt;, Netty Luk &lt;netty.luk@bumilaut.co.id&gt;,
+ Edmund TIO &lt;yctio@sg.hanjin.com&gt;, Cindy LEE &lt;sflee@sg.hanjin.com&gt;, Syuk Hui KIU &lt;shkiu@sg.hanjin.com&gt;, JUN CHAO (Lucas) ONG &lt;jcong@sg.hanjin.com&gt;, Geraldine LOW &lt;hhlow@sg.hanjin.com&gt;, Dam Nguyen SON &lt;dnson1@sg.hanjin.com&gt;, Nguyen Thi Thu Hien &lt;ntthien@sg.hanjin.com&gt;,
+ Phan Minh NGHIA &lt;pmnghia@sg.hanjin.com&gt;, Nguyen Hoang TUNG &lt;tung@sg.hanjin.com&gt;, Le Thanh SANG &lt;ltsang@sg.hanjin.com&gt;, Luu Thanh Dat &lt;ltdat@sg.hanjin.com&gt;, Vuong Ngan TRANG &lt;trangvn@sg.hanjin.com&gt;, Huynh Thi My HOA &lt;htmhoa@sg.hanjin.com&gt;, Tobias HEIFLER &lt;tobias.heifler@de.hanjin.com&gt;,
+ B. S. PARK &lt;b.s.park@de.hanjin.com&gt;, Sven DERLIEN &lt;sven.derlien@de.hanjin.com&gt;, Bernadett KAEPPLER &lt;bernadett.kaeppler@de.hanjin.com&gt;, Tom Stern &lt;tom.stern@de.hanjin.com&gt;, Kenneth Onulaka &lt;Kenneth.Onulaka@bollore.com&gt;, Blessing Anulika Ilechukwu &lt;blessing.ilechukwu@bollore.com&gt;,
+ Elizabeth Salako &lt;elizabeth.salako@bollore.com&gt;<br>
+<b>Cc : </b>Alan TAY &lt;alantay@sg.hanjin.com&gt;, Philip(Ee Hang) LOH &lt;ehloh@sg.hanjin.com&gt;, Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Chong Beng WU &lt;chongbeng@sg.hanjin.com&gt;, Karen Michelle &lt;karendecastro@sg.hanjin.com&gt;, Hong-Kyoo LEE &lt;hklee@hanjin.com&gt;, Kyong-Sik PARK
+ &lt;ksikpark@hanjin.com&gt;, Jung-Moo LEE &lt;jmleea@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.com&gt;, Calix(Do-Jin) Jeon &lt;0810371@hanjin.com&gt;, Hyeon-Seok PARK &lt;phs@hanjin.com&gt;, Gon-Woo PARK &lt;gwpark@hanjin.com&gt;, KIERTNARONG KOMIN &lt;louiskomin@hanjin.com&gt;, Dae-Seung
+ MOON &lt;dsmoona@hanjin.com&gt;, Jaka A SINGGIH &lt;jaka@bumilaut.co.id&gt;, Eddy Darjantjo &lt;eddyd@bumilaut.co.id&gt;, Joo Yong LAU &lt;laujy@sg.hanjin.com&gt;, Woo-Kyung Lee &lt;wklee@hanjin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;, Deok-Lim CHOI &lt;dlchoi@hanjin.com&gt;, Myung-Han KANG
+ &lt;mhkang@hanjin.com&gt;, SH(Sung-Hwan) CHANG &lt;shchang@hanjin.com&gt;, SH(Su-Han) KIM &lt;shkim1@hanjin.com&gt;, Lawrence(Byung-Woo) OH &lt;bwoh@hanjin.com&gt;, Kyeong-Nam JEONG &lt;kn.jeong@hanjin.com&gt;, Yeon-Hui YI &lt;yh.yi@hanjin.com&gt;, Ara(A-RA) CHO &lt;archo@hanjin.com&gt;, Kooks(Kook-Shin)
+ KIM &lt;kookskim@hanjin.com&gt;, Antoine Mouterde &lt;antoine.mouterde@bollore.com&gt;, Arnaud Timmerman &lt;arnaud.timmerman@bollore.com&gt;, Priscilla Castaldo &lt;priscilla.castaldo@bollore.com&gt;, Olivier SOU &lt;olivier.sou@bollore.com&gt;, JBK(Jean- Baptiste) KOTTY &lt;jean-baptiste.kotty@bollore.com&gt;,
+ Maryam Coulibaly &lt;maryam.coulibaly@bollore.com&gt;, Maxime Amien &lt;maxime.amien@bollore.com&gt;, Catherine LE BARS &lt;catherine.lebars@bollore.com&gt;, Donald Wilfried VANHAN &lt;donald-wilfried.vanhan@bollore.com&gt;, Fatim Estelle CISSE &lt;fatim-estelle.cisse@bollore.com&gt;,
+ Fatouma BINATE &lt;fatouma.binate@bollore.com&gt;, Yves-Alain ZOHIN &lt;yves-alain.zohin@bollore.com&gt;, Konan HILI &lt;konan.hili@bollore.com&gt;, Fidelia Aluku &lt;fidelia.aluku@bollore.com&gt;, MD(Myung-Deok) CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, Nam-Hoon
+ BAIK &lt;hunt72@hanjin.com&gt;, SUK-HWAN JUNG &lt;ch021@hanjin.com&gt;, Woojung Kim &lt;wjkim@hanjin.com&gt;, Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Yoo-Kyung KIM &lt;kimyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;,
+ Lloyd(Woosik) Yang &lt;shakin@hanjin.com&gt;, Luth(Kyung-Won) CHOI &lt;luthchoi@hanjin.com&gt;, Dong-Seok LEE &lt;dslee1@hanjin.com&gt;, Adele WONG &lt;sywong@sg.hanjin.com&gt;, SUWANNA PHANPRANOMPRI &lt;suwanna@hanjin.com&gt;, Carto . &lt;carto@hanjin.com&gt;, Maria Linda &lt;mlinda@bumilaut.co.id&gt;,
+ Kim LEE &lt;splee@sg.hanjin.com&gt;, Karen HONG &lt;karenhong@sg.hanjin.com&gt;, Jean-Pascal BIDOIRE &lt;jean.pascal.bidoire@fr.hanjin.com&gt;<br>
+<b>Subject : </b>RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender<br>
+<br>
+</div>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>Date: 21 Nov 13</div>
+<div>To: WSI &amp; UST &amp; JKTBB &amp; BKKBB &amp; ABJBA &amp; LOSBA</div>
+<div>Cc: CCM &amp; WSG &amp; WOG</div>
+<div>From: SINWCG</div>
+<div>&nbsp;</div>
+<div>Dear Colleagues, </div>
+<div>&nbsp;</div>
+<div>
+<div>Final rates offered for AEW ex MYPKG, THLCH/BKK, IDJKT, IDBLW, IDSUB, IDSRG - NLRTM, FRLEH, FRFOS, ESVLC, ITGOA @USD1280/D2 super all in (around USD880/D2 sub OTH &amp; DTH)</div>
+<div>Ex IDDJB @1680/D2 super all in and ex IDPLM maintain as per round 1. With our counter-offered rates, feedback received from SMPT that HJS&nbsp;should be able to secure some vol for ex MY, TH &amp; ID to&nbsp;NLRTM, FRLEH, ESVLC, ITGOA &amp; FRFOS. For IAS ex ID &amp; TH to
+ INMAA &amp; IES Ex CIABJ &amp; NGLOS - EUR,&nbsp;we need to review and submit our final rates latest by 22 Nov 13.
+</div>
+<div>&nbsp;</div>
+<div>To WSI &amp; UST, </div>
+<div>&nbsp;</div>
+<div>Pls kindly review/advice any revision for&nbsp;the following port pairs. </div>
+<div>&nbsp;</div>
+<div>Ex IDJKT/IDBLW/IDSUB/THLCH/MYPEN - INMAA. Target rates USD750/D2 super all in</div>
+<div>Ex CIABJ/NGLOS - EUR/MED/SGSIN. Target rates reduction of USD150/D2</div>
+<div>&nbsp;</div>
+<div>To: BKKBB, JKTBB, ABJBA, LOSBA</div>
+<div>&nbsp;</div>
+<div>Pls refer to attachment 2013 HJS scorecard. Kindly assist/advice on action no 1- 3.
+</div>
+<div>&nbsp;</div>
+</div>
+<div>&nbsp;</div>
+<div><strong><u>SMPT F2F Meeting Mintues</u></strong></div>
+<div>
+<p style="MARGIN: 0cm 0cm 0pt"><span lang="EN-US">Venue: </span><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US">SMPT, Singapore</span></p>
+<p style="MARGIN: 0cm 0cm 0pt"><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US"></span><span lang="EN-US"><span lang="EN-US"></span></span>&nbsp;</p>
+<p style="MARGIN: 0cm 0cm 0pt"><span lang="EN-US">Attendees</span><span lang="EN-US">:<br>
+</span><em><span style="FONT-STYLE: normal; mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-style: italic" lang="EN-US">SMPT:&nbsp;</span></em><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US"><span style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p>
+<p style="MARGIN: 0cm 0cm 0pt"><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US"><span style="mso-tab-count: 2"></span>Raymond Tan &#8211; Purchasing Manager<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;</span></span><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US"><span style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p>
+<p style="MARGIN: 0cm 0cm 0pt"><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US">Jeffrey Sim&#8211;&nbsp;Assistant Logistics Manager</span></p>
+<p style="MARGIN: 0cm 0cm 0pt"><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US">&nbsp;</span><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US"><span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang="EN-US"></p>
+</span>
+<p style="MARGIN: 0cm 0cm 0pt"><span lang="EN-US">HANJIN</span><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US">:
+</span></p>
+<p style="MARGIN: 0cm 0cm 0pt"><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US">WCG:
+</span><span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;Alan Tay, </span>Alvin Yeo &amp;
+</span><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US">Philip Loh</span></p>
+<p style="MARGIN: 0cm 0cm 0pt"><span style="mso-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fareast" lang="EN-US"></span><span lang="EN-US"><span lang="EN-US"></span></span>&nbsp;</p>
+<p style="MARGIN: 0cm 0cm 0pt"><span lang="EN-US"><span lang="EN-US">Topic:</span></span></p>
+<p style="MARGIN: 0cm 0cm 0pt">1. 2013 HJS Scorecard (as attached)</p>
+<p style="MARGIN: 0cm 0cm 0pt">2. 2014 Target rates</p>
+<p style="MARGIN: 0cm 0cm 0pt">3. HJS final offer (as attached)</p>
+<p style="MARGIN: 0cm 0cm 0pt">&nbsp;</p>
+</div>
+<div>1. 2013 HJS Scorecard</div>
+<div>- HJS overall performance for 2013 - Satisfactory </div>
+<div>- Issue encountered - Telex Released (69%), Feeder Irregurlarity (17%), Equipment Quantity (12%) &amp; Feeder Capacity (2%)</div>
+<div>- Telex Released issue with Offices (POL): IDDJB, IDPLM, THLCH</div>
+<div>- Equipment Quantity issue with POL: IDDJB &amp; IDPLM</div>
+<div>- Transit time (ATA vs ETA): AEW: Ex Asia - FRLEH &amp; NLRTM (excellent) ESBIO (below expectation)</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IES: Ex Africa - ROCND, PLGDY, PLGDN, ESBIO &amp; FRLEH (unacceptable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<div>- Loading Performance AEW: total 531TEUs - ESBIO (38.4%), FRLEH (38.2%) &amp; NLRTM (23.4%)</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IES: Total: 220TEUs - ESBIO (46.3%, FRLEH (27.2%) PLGDY (11.3%), GBBEL, ROCND, SGSIN (15%)</div>
+<div>Overall 2013 performance (751TEUs)&nbsp;increase 323% as compare to 2012 (232TEUs).
+</div>
+<div>&nbsp;</div>
+<div>2. 2014 target rates</div>
+<div>- Ex MY, TH, ID - EUR/MED base port: USD1200/D2 super all in (around USD850/D2 sub OTH &amp; DTH)</div>
+<div>- Ex MY, TH, ID - ESBIO: USD1400/D2 super all in </div>
+<div>- Ex MY, TH, ID - PLDGY &amp; PLGDN: USD1300/D2 super all in</div>
+<div>- Ex MY, TH, ID - GBBEL: USD1450/D2 supper all in</div>
+<div>- Ex TH, ID - INMAA: USD750/D2</div>
+<div>- Ex CIABJ&nbsp;&amp; NGLOS EUR - reduction of USD150-200/D2 </div>
+<div>&nbsp;</div>
+<div>Action: </div>
+<div>1. Telex Released issues - In order to minimium this issue, close communication required between MOA: Kim Lee and JKTBBC &amp; BKKBBC (Documentation). &nbsp;</div>
+<div>Request JKTBB &amp; BKKBB to appoint one PIC in documentation department&nbsp;for SMPT shipment.
+</div>
+<div>&nbsp;</div>
+<div>2. Equipment Quantity issue -&nbsp;Further discussion with WSG &amp; WOG team for possibility to have&nbsp;buffer stock in IDDJB and IDPLM.
+</div>
+<div>&nbsp;</div>
+<div>3. Transit time&nbsp;-&nbsp;ABJBA &amp; LOSBA to double check the transit provided on the RFQ and advice any operation issue encountered for the past shipment. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<div>&nbsp;</div>
+<div>4. Final rates submission: WSI &amp; UST to review and advice any counter-offer rates for TH, ID - INMAA &amp; IES trade.
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div><br>
+<br>
+</div>
+<div id="MailSignSentSentSentSent">
+<div id="kaoni_sign1">
+<div>
+<div><font face="Arial">Thank you &amp; Best Regards</font></div>
+<div><font face="Arial">Alvin Yeo </font></div>
+</div>
+</div>
+</div>
+<div><br>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex="-1">
+<b>From : </b>&quot;JOEAN(JIA YUAN) PUAH&quot; &lt;jypuah@sg.hanjin.com&gt;<br>
+<b>Sent : </b>2013-10-17 15:16:15 ( &#43;08:00 )<br>
+<b>To : </b>Bak Teng (Alvin) YEO &lt;btyeo@sg.hanjin.com&gt;, Joe(Joo Foong) CHAN &lt;joechan@sg.hanjin.com&gt;, Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, Jade(DAJEONG) YU &lt;djyu@sg.hanjin.com&gt;, Nancy(QIUSHI) WANG &lt;qswang@sg.hanjin.com&gt;, KWEE MEI SEO &lt;kmseo@sg.hanjin.com&gt;, WANG
+ GHIM JASON CHIA &lt;wgchia@sg.hanjin.com&gt;, Sophia(Qi Hui) YUE &lt;sophiayue@sg.hanjin.com&gt;, Carmen CHAN &lt;carmen.chan@my.hanjin.com&gt;, Darren TAN &lt;darren.tan@my.hanjin.com&gt;, Jonathan Ng &lt;jonathan.ng@my.hanjin.com&gt;, Cissy Tan &lt;cissy.tan@my.hanjin.com&gt;, Vincent OOI
+ &lt;vincent@my.hanjin.com&gt;, Brian HO &lt;brian@my.hanjin.com&gt;, SORANA C. &lt;richy@hanjinthailand.com&gt;, Nattipa Piruncharoen &lt;nattipa@hanjin.com&gt;, Jidaporn Chaipracha &lt;jidaporn@hanjinthailand.com&gt;, Kritpong BOONSUKCHOTE &lt;kritpong@hanjinthailand.com&gt;, RUJINAN &lt;jenny@hanjin.com&gt;,
+ Aunchisa Trakransittikul &lt;aunchisa.t@hanjinthailand.com&gt;, CHOKCHAI &lt;chokchai@hanjin.com&gt;, THEERADEJ &lt;theeradej@hanjinthailand.com&gt;, KRIT CHESADANUCHIT &lt;krit@hanjinthailand.com&gt;, CHATCHAI KOMINDR &lt;chatchai@hanjin.com&gt;, Chariya CHAICHARNCHEEP &lt;chariya@hanjinthailand.com&gt;,
+ JANESS POILUKVUTTIKUL &lt;janess@hanjinthailand.com&gt;, Teerapong Phatcharawanitsakun &lt;teerapong@hanjinthailand.com&gt;, Weerasak Sutjanan &lt;weerasak.s@hanjinthailand.com&gt;, Tipparat WARAHAKIJ &lt;tipparat@thaishipping.co.th&gt;, WANDEE PHASOMPONG &lt;wandee01@thaishipping.co.th&gt;,
+ Kanlaya JANTARASAKULROJ &lt;kanlaya@thaishipping.co.th&gt;, Pathumma Wongwathanasin &lt;wpathumma@thaishipping.co.th&gt;, Ck(CHITTIMA) . &lt;ckris@hanjin.com&gt;, YOTHIN CHULLAYART &lt;yothin@hanjin.com&gt;, Patthanan Chaiwan &lt;patthanan@hanjinthailand.com&gt;, Piyawan Pumma &lt;piyawan@hanjin.com&gt;,
+ Sakraphi Phueakphong &lt;sakraphi.p@hanjin.com&gt;, Herman MUDITA &lt;hmudita@bumilaut.co.id&gt;, Jun Mabulac &lt;jmabulac@bumilaut.co.id&gt;, Raymond Nagasari &lt;rnagasari@bumilaut.co.id&gt;, Santy Suzana &lt;ssuzana@bumilaut.co.id&gt;, Chandra Chandra &lt;chandra@bumilaut.co.id&gt;, Fanny
+ Maria Gunawan &lt;fgunawan@bumilaut.co.id&gt;, Kenny(Leonardo Kenny) Hindra &lt;lhindra@bumilaut.co.id&gt;, TJ(Trijono) ERWIN &lt;terwin@bumilaut.co.id&gt;, Ahmad MUTOHID &lt;amutohid@bumilaut.co.id&gt;, Herry NG &lt;hng@bumilaut.co.id&gt;, Tati Hartati &lt;thartati@bumilaut.co.id&gt;, Lindu
+ Bagus Hariono &lt;lindu@sg.hanjin.com&gt;, Fadhillah Damayanti &lt;fdamayanti@bumilaut.co.id&gt;, Masrokan Masrokan &lt;masrokan@bumilaut.co.id&gt;, Jei Jei(Juli) Deliana [Jei Jei] &lt;jdeliana@bumilaut.co.id&gt;, Indriani Ratna Dewi &lt;idewi@bumilaut.co.id&gt;, Henky TASLIM &lt;htaslim@bumilaut.co.id&gt;,
+ Etika ANDRIYANA &lt;eandriyana@bumilaut.co.id&gt;, Fransisca Emma D Y &lt;fransisca.emma@bumilaut.co.id&gt;, Uci(Sutjiati) Sutjiati &lt;Sutjiati@bumilaut.co.id&gt;, Yucarry Kanto &lt;yucmkt@hanjin.com&gt;, Yana Hendra &lt;yhendra@bumilaut.co.id&gt;, Netty Luk &lt;netty.luk@bumilaut.co.id&gt;,
+ Edmund TIO &lt;yctio@sg.hanjin.com&gt;, Cindy LEE &lt;sflee@sg.hanjin.com&gt;, Syuk Hui KIU &lt;shkiu@sg.hanjin.com&gt;, JUN CHAO (Lucas) ONG &lt;jcong@sg.hanjin.com&gt;, Geraldine LOW &lt;hhlow@sg.hanjin.com&gt;, Dam Nguyen SON &lt;dnson1@sg.hanjin.com&gt;, Nguyen Thi Thu Hien &lt;ntthien@sg.hanjin.com&gt;,
+ Phan Minh NGHIA &lt;pmnghia@sg.hanjin.com&gt;, Nguyen Hoang TUNG &lt;tung@sg.hanjin.com&gt;, Le Thanh SANG &lt;ltsang@sg.hanjin.com&gt;, Luu Thanh Dat &lt;ltdat@sg.hanjin.com&gt;, Vuong Ngan TRANG &lt;trangvn@sg.hanjin.com&gt;, Huynh Thi My HOA &lt;htmhoa@sg.hanjin.com&gt;, Tobias HEIFLER &lt;tobias.heifler@de.hanjin.com&gt;,
+ B. S. PARK &lt;b.s.park@de.hanjin.com&gt;, Sven DERLIEN &lt;sven.derlien@de.hanjin.com&gt;, Bernadett KAEPPLER &lt;bernadett.kaeppler@de.hanjin.com&gt;, Tom Stern &lt;tom.stern@de.hanjin.com&gt;, Kenneth Onulaka &lt;Kenneth.Onulaka@bollore.com&gt;, Blessing Anulika Ilechukwu &lt;blessing.ilechukwu@bollore.com&gt;,
+ Elizabeth Salako &lt;elizabeth.salako@bollore.com&gt;<br>
+<b>Cc : </b>Alan TAY &lt;alantay@sg.hanjin.com&gt;, Philip(Ee Hang) LOH &lt;ehloh@sg.hanjin.com&gt;, Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Chong Beng WU &lt;chongbeng@sg.hanjin.com&gt;, Karen Michelle &lt;karendecastro@sg.hanjin.com&gt;, Hong-Kyoo LEE &lt;hklee@hanjin.com&gt;, Kyong-Sik PARK
+ &lt;ksikpark@hanjin.com&gt;, Jung-Moo LEE &lt;jmleea@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.com&gt;, Calix(Do-Jin) Jeon &lt;0810371@hanjin.com&gt;, Hyeon-Seok PARK &lt;phs@hanjin.com&gt;, Gon-Woo PARK &lt;gwpark@hanjin.com&gt;, KIERTNARONG KOMIN &lt;louiskomin@hanjin.com&gt;, Dae-Seung
+ MOON &lt;dsmoona@hanjin.com&gt;, Jaka A SINGGIH &lt;jaka@bumilaut.co.id&gt;, Eddy Darjantjo &lt;eddyd@bumilaut.co.id&gt;, Joo Yong LAU &lt;laujy@sg.hanjin.com&gt;, Woo-Kyung Lee &lt;wklee@hanjin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;, Deok-Lim CHOI &lt;dlchoi@hanjin.com&gt;, Myung-Han KANG
+ &lt;mhkang@hanjin.com&gt;, SH(Sung-Hwan) CHANG &lt;shchang@hanjin.com&gt;, SH(Su-Han) KIM &lt;shkim1@hanjin.com&gt;, Lawrence(Byung-Woo) OH &lt;bwoh@hanjin.com&gt;, Kyeong-Nam JEONG &lt;kn.jeong@hanjin.com&gt;, Yeon-Hui YI &lt;yh.yi@hanjin.com&gt;, Ara(A-RA) CHO &lt;archo@hanjin.com&gt;, Kooks(Kook-Shin)
+ KIM &lt;kookskim@hanjin.com&gt;, Antoine Mouterde &lt;antoine.mouterde@bollore.com&gt;, Arnaud Timmerman &lt;arnaud.timmerman@bollore.com&gt;, Priscilla Castaldo &lt;priscilla.castaldo@bollore.com&gt;, Olivier SOU &lt;olivier.sou@bollore.com&gt;, JBK(Jean- Baptiste) KOTTY &lt;jean-baptiste.kotty@bollore.com&gt;,
+ Maryam Coulibaly &lt;maryam.coulibaly@bollore.com&gt;, Maxime Amien &lt;maxime.amien@bollore.com&gt;, Catherine LE BARS &lt;catherine.lebars@bollore.com&gt;, Donald Wilfried VANHAN &lt;donald-wilfried.vanhan@bollore.com&gt;, Fatim Estelle CISSE &lt;fatim-estelle.cisse@bollore.com&gt;,
+ Fatouma BINATE &lt;fatouma.binate@bollore.com&gt;, Yves-Alain ZOHIN &lt;yves-alain.zohin@bollore.com&gt;, Konan HILI &lt;konan.hili@bollore.com&gt;, Fidelia Aluku &lt;fidelia.aluku@bollore.com&gt;, MD(Myung-Deok) CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, Nam-Hoon
+ BAIK &lt;hunt72@hanjin.com&gt;, SUK-HWAN JUNG &lt;ch021@hanjin.com&gt;, Woojung Kim &lt;wjkim@hanjin.com&gt;, Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Yoo-Kyung KIM &lt;kimyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;,
+ Lloyd(Woosik) Yang &lt;shakin@hanjin.com&gt;, Luth(Kyung-Won) CHOI &lt;luthchoi@hanjin.com&gt;<br>
+<b>Subject : </b>RE: Bid Proposal for 2014 SMPT (Michelin) AEW tender<br>
+<br>
+</div>
+<div class="Section1">
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'">To : WCG<br>
+Fm : WSE</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'">Dear Alvin,</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'">Please refer to attached indication from WSE.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'">Rates are super all-in</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'">Valid from Jan 1<sup>st</sup> 2014 to Dec 31<sup>st</sup> 2014</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; FONT-SIZE: 11pt" lang="EN-SG">Thank you,</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; WORD-BREAK: break-all" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; FONT-SIZE: 11pt" lang="EN-SG">Joean Puah</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; WORD-BREAK: break-all" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; FONT-SIZE: 11pt" lang="EN-SG">Hanjin Shipping (S) Pte Ltd</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<div style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: #b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p class="MsoNormal"><b><span style="FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt">From:</span></b><span style="FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt">Bak Teng (Alvin) YEO
+<br>
+<b>Sent:</b> Wednesday, September 25, 2013 1:43 PM<br>
+<b>To:</b> Joe(Joo Foong) CHAN; JOEAN(JIA YUAN) PUAH; Gracie CHEN; Jade(DAJEONG) YU; Nancy(QIUSHI) WANG; KWEE MEI SEO; WANG GHIM JASON CHIA; Sophia(Qi Hui) YUE; Carmen CHAN; Darren TAN; Jonathan Ng; Cissy Tan; Vincent OOI; Brian HO; SORANA C.; Nattipa Piruncharoen;
+ Jidaporn Chaipracha; Kritpong BOONSUKCHOTE; RUJINAN; Aunchisa Trakransittikul; CHOKCHAI; THEERADEJ; KRIT CHESADANUCHIT; CHATCHAI KOMINDR; Chariya CHAICHARNCHEEP; JANESS POILUKVUTTIKUL; Teerapong Phatcharawanitsakun; Weerasak Sutjanan; Tipparat WARAHAKIJ; WANDEE
+ PHASOMPONG; Kanlaya JANTARASAKULROJ; Pathumma Wongwathanasin; Ck(CHITTIMA) .; YOTHIN CHULLAYART; Patthanan Chaiwan; Piyawan Pumma; Sakraphi Phueakphong; Herman MUDITA; Jun Mabulac; Raymond Nagasari; Santy Suzana; Chandra Chandra; Fanny Maria Gunawan; Kenny(Leonardo
+ Kenny) Hindra; Trijono ERWIN; Ahmad MUTOHID; Herry NG; Tati Hartati; Lindu Bagus Hariono; Fadhillah Damayanti; Masrokan Masrokan; Juli Deliana [Jei Jei]; Indriani Ratna Dewi; Henky TASLIM; Etika ANDRIYANA; Fransisca Emma D Y; Uci(Sutjiati) Sutjiati; Yucarry
+ Kanto; Yana Hendra; Netty Luk; Edmund TIO; Cindy LEE; Syuk Hui KIU; JUN CHAO (Lucas) ONG; Geraldine LOW; Dam Nguyen SON; Nguyen Thi Thu Hien; Phan Minh NGHIA; Nguyen Hoang TUNG; Le Thanh SANG; Luu Thanh Dat; Vuong Ngan TRANG; Huynh Thi My HOA; Tobias HEIFLER;
+ B. S. PARK; Sven DERLIEN; Bernadett KAEPPLER; Tom Stern; Kenneth Onulaka; Blessing Anulika Ilechukwu; Elizabeth Salako<br>
+<b>Cc:</b> Alan TAY; Philip(Ee Hang) LOH; Jess YAM; Chong Beng WU; Karen Michelle; Hong-Kyoo LEE; Kyong-Sik PARK; Jung-Moo LEE; Joseph NG; Calix(Do-Jin) Jeon; Hyeon-Seok PARK; Gon-Woo PARK; KIERTNARONG KOMIN; Dae-Seung MOON; Jaka A SINGGIH; Eddy Darjantjo;
+ Joo Yong LAU; Woo-Kyung Lee; Kyung-Su SIN; Deok-Lim CHOI; Myung-Han KANG; SH(Sung-Hwan) CHANG; SH(Su-Han) KIM; Lawrence(Byung-Woo) OH; Kyeong-Nam JEONG; Yeon-Hui YI; Ara(A-RA) CHO; Kooks(Kook-Shin) KIM; Antoine Mouterde; Arnaud Timmerman; Priscilla Castaldo;
+ Olivier SOU; JBK(Jean- Baptiste) KOTTY; Maryam Coulibaly; Maxime Amien; Catherine LE BARS; Donald Wilfried VANHAN; Fatim Estelle CISSE; Fatouma BINATE; Yves-Alain ZOHIN; Konan HILI; Fidelia Aluku; MD(Myung-Deok) CHO; Seung-Min PARK; Nam-Hoon BAIK; SH(SUK-HWAN)
+ JUNG; Woojung Kim; Daisy(Ji-Kyong) BHANG; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI<br>
+<b>Subject:</b> Bid Proposal for 2014 SMPT (Michelin) AEW tender</span></p>
+</div>
+<p class="MsoNormal">
+<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
+<o:p>&nbsp;</o:p></p>
+<div id="ezFormProc_div">
+<div>
+<div>
+<div>
+<div id="ORGMAIL_CONTENT">
+<div>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Date: 25 Sept 13</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">To: WSG, HAMUST, BKKBB, PKGBB, JKTBA, SGNBB, SINBB, ABJBA, LOSBA</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Cc: CCM, CCE, CCB-SP</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">From: SINWCG</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Dear Colleagues,</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">We have received an invitation from SMPT to participate in their 2014 AEW bid.
+</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">HAMUST/WST/WSE/WSI (Pricing) - Request your advice on the rates to offer - Attachment (Rates ex Asia/ex WAfrica)</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">S.E Asia/ABJBA/LOSBA Origin &#8211; Pls update the service lane/route you want to promote - Attachment (Transit Time ex Asia/ex WAfrica)</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><strong>Bid Proposal:</strong><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<b><span style="FONT-FAMILY: 'Arial','sans-serif'">Commodity</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'">: Natural rubber (20-22.5mt/D2). Some products will be carried in reefer containers as per below details. (Limited RF volume)</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 324.75pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="433" kaoni="1">
+<tbody>
+<tr style="HEIGHT: 15.75pt">
+<td style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 57.75pt; PADDING-RIGHT: 0in; HEIGHT: 15.75pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="77">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Type</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 97.5pt; PADDING-RIGHT: 0in; HEIGHT: 15.75pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="130">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Items</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 166.5pt; PADDING-RIGHT: 0in; HEIGHT: 15.75pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="222">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Specification</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 16.5pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 57.75pt; PADDING-RIGHT: 0in; HEIGHT: 16.5pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="77">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Reefer</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 97.5pt; PADDING-RIGHT: 0in; HEIGHT: 16.5pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="130">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Temp Setting</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 166.5pt; PADDING-RIGHT: 0in; HEIGHT: 16.5pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="222">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">To Gdynia/Gdnask @ 15
+</span><span style="FONT-FAMILY: 'Malgun Gothic'" lang="EN-SG">&ordm;</span><span style="FONT-FAMILY: 'Arial','sans-serif'">C</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 34.5pt">
+<td style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 57.75pt; PADDING-RIGHT: 0in; HEIGHT: 34.5pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="77">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 97.5pt; PADDING-RIGHT: 0in; HEIGHT: 34.5pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="130">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 166.5pt; PADDING-RIGHT: 0in; HEIGHT: 34.5pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in" width="222">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">To FOS/Koper @ 20
+</span><span style="FONT-FAMILY: 'Malgun Gothic'" lang="EN-SG">&ordm;</span><span style="FONT-FAMILY: 'Arial','sans-serif'">C</span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<b><span style="FONT-FAMILY: 'Arial','sans-serif'">Equipment</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'">: SMPT requires A-grade containers</span><o:p></o:p></p>
+<p class="MsoNormal"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Surcharge:</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'"> Super all-in (inclusive of THCs, doc fee, local charges (manifested &#43; non manifested)</span><o:p></o:p></p>
+<p class="MsoNormal"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Validity:</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'"> 1 Jan 2014 - 31 Dec 2014</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Trade: </span>
+</b><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">SINWA to Europe / Latin America / Asia</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">West Africa to Europe / Canada / USA / Singapore</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Overall volume is approx 30,000 TEU/month, with AESW being the main portion</span><span style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt">
+</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">2013 Performance (YTD wk38)</span></b><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">AEW &#8211; Ex S.E Asia &#8211; NLRTM/FRLEH/ESBIO</span><o:p></o:p></p>
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 510.75pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="681" kaoni="1">
+<tbody>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Trade</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">AES</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Sum of LOAD</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Column Labels</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+</tr>
+<tr style="HEIGHT: 29.25pt">
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Row Labels</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Jan</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Feb</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Mar</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Apr</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">May</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Jun</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Jul</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Aug</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Sep</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 29.25pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Grand Total</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">IDBLW</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">6</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">9</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">2</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">29</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">IDDJB</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">30</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">20</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">35</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">13</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">15</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">16</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">24</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">12</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">169</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">IDPLM</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">8</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">6</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">19</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">10</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">20</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">8</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">8</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">21</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">104</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">MYPEN</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">2</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">6</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">THLCH</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">2</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">6</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">6</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">6</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">8</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">10</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">26</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">16</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">84</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">THSGZ</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">8</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">2</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">2</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">16</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">8</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">4</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">48</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Grand Total</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">14</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">46</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 27pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="36" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">57</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="33" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">51</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">45</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 24pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="32" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">51</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 21pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="28" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">48</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">71</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">57</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 62.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="83" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">440</span></b><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+&nbsp;<o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+&nbsp;<o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">IES &#8211; Ex West Africa &#8211; Europe</span><o:p></o:p></p>
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 538.5pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="718" kaoni="1">
+<tbody>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Trade</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">IES</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="44" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="40" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="45" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 31.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="42" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="41" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 87.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="117" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="44" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="40" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="45" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 31.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="42" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="41" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 87.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="117" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Sum of LOAD</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Column Labels</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="44" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="40" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="45" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 31.5pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="42" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="41" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 87.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="117" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Row Labels</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Feb</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="44" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Mar</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="40" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Apr</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="45" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">May</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Jun</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Jul</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 31.5pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="42" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Aug</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="41" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Sep</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: #95b3d7 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 87.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="117" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Grand Total</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">CIABJ</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'"></span>&nbsp;</p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="44" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">3</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="40" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">10</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="45" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">19</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">8</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">10</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 31.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="42" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">13</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="41" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">3</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 87.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="117" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">66</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">NGLOS</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">2</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="44" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">12</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="40" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">6</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="45" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">10</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">18</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">5</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 31.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="42" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">26</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="41" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">31</span><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 87.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="117" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">110</span><o:p></o:p></p>
+</td>
+</tr>
+<tr style="HEIGHT: 15pt">
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 1in; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="96" nowrap="">
+<p style="WORD-BREAK: break-all" class="MsoNormal"><b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">Grand Total</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 89.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="119" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">2</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="44" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">15</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="40" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">16</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 33.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="45" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">29</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 29.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="39" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">26</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="35" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">15</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 31.5pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="42" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">39</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 30.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="41" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">34</span></b><o:p></o:p></p>
+</td>
+<td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 87.75pt; PADDING-RIGHT: 5.4pt; BACKGROUND: #dbe5f1; HEIGHT: 15pt; BORDER-TOP: #95b3d7 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 0in" valign="bottom" width="117" nowrap="">
+<p style="TEXT-ALIGN: right; WORD-BREAK: break-all" class="MsoNormal" align="right">
+<b><span style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: black">176</span></b><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+&nbsp;<o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<b><span style="FONT-FAMILY: 'Arial','sans-serif'">2014Target volume</span></b><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">AEW - 3,120TEU/year ex ID (20TEUs)/MY (20TEUs) /TH (20TEUs)/Wk</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">Main target&nbsp;Europe (FRLEH/NLRTM/ESBIO)</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">Main target MED (ITGOA/ESVLC/FOS)</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">EMS - 150 TEU ex ID/MY/TH - COBUN</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">(Very minimum due to SMPT's heavy cargo)</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">IES- 350 TEU ex CIABJ/NGLOS - Europe</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">IAS- 1550 TEU ex ID/VN - China</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">2014 Proposed rate for Round 1:</span></b><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">AEW &#8211; Ex THLCH/MYPKG/IDJKT - NE/MED base port @USD1400/D2 Super all in (Approx. USD1000/D2 subject to both ends THC and Doc Fee)</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal">AEW Reefer - CCB-SP to advice<o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">EMS &#8211; WST to advice</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">IAS &#8211; WSI to advice</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">IES &#8211; UST to advice</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<b><span style="FONT-FAMILY: 'Arial','sans-serif'">Freetime requirement</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'">:</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&#43; 30 days inbound detention free time for ALL destinations. Thereafter, a fixed per diem charge of USD2.5/day will be applicable</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<b><span style="FONT-FAMILY: 'Arial','sans-serif'">Credit term</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'">:</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&#43; 30 days from date of invoice receipt</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<b><span style="FONT-FAMILY: 'Arial','sans-serif'">Bid schedule</span></b><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">R1 submission: 20 Oct 2013</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+<span style="FONT-FAMILY: 'Arial','sans-serif'">F2F meeting: 20 Nov 2013 (only shortlisted carriers)</span><o:p></o:p></p>
+<p style="MARGIN-BOTTOM: 1.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 1.5pt" class="MsoNormal">
+&nbsp;<o:p></o:p></p>
+</div>
+<div id="ezFormProc_div">
+<div>
+<div>
+<div id="MailSignSentSentSentSentSent">
+<div id="kaoni_sign1">
+<div>
+<div>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Thank you &amp; Best Regards</span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Alvin Yeo </span>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class="MsoNormal">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_9CABD9E4FFEA04498F7943499B5805752A450C05kovhgvmchanjinc_--

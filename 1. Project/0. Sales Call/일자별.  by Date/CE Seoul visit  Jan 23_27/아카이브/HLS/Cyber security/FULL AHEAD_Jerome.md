@@ -1,0 +1,1004 @@
+
+FULL AHEAD:
+2028 Commercial
+Seminar
+
+FROM 25.06.24 TO 27.06.24 - PARIS, FRANCE
+
+BU REAU
+VERITAS
+
+FULL AHEAD: 2028 ㄱ
+
+CYBERSECURITY
+
+“The modern maritime landscape is undergoing a digital
+revolution, with interconnected vessels and critical infrastructure relying heavily on technology. While these advancements offer undeniable efficiency gains, they also create an expanding attack surtace for cybercriminals.”
+Recognizing these risks: • IMO has established MSC.428(98)
+• IACS has established UR E26
+
+BUT COMPLIANCE SHOULD BE THE BASELINE, NOT THE OBJECTIVE!
+
+BUREAU
+VERITAS
+
+0
+
+COMPLIANCE IS
+BORING
+BASELINE 2 Ofshore, SS7
+ADVISORY Shipiping, 647
+
+Others. 165 ke
+
+Ship manage “330kE
+chartares, 330 cisO-aa5 cerest. kag
+Ofishore 560kE shipomhal
+
+CURATED SERVICES
+TO SEIZE THE
+LARGER BUSINESS
+OPPORTUNITY FULL AHEAD: 2028 w ㄱ
+
+3
+SalesStars
+GLOBAL SALES NEWS
+
+#266 JUNE 2024
+
+BUSINESS WINS
+
+MARINES & OFFSHORE
+
+•Client: Reperion, end client Saudi Aramco Marine (Singapore)
+•Contract Value: 335 KE - Scope: Martime Threat Exposure Assessment, Gap Analysis, And Staif Training Programs • BV Contact: Antonio Russu; Riccardo Barbiellini Amidei Lelmi, Vinod
+_ anar.anar
+
+OPP. HIGHLIGHT
+SUCCESS STORY
+
+BUREAU
+VERITAS
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks
+has grown. Hackers are now targeting in-service vessels with ansomware, malware, and phishing attacks. When successful,
+these incidents cost shipowners time and money or worst.
+
+on Apri 4”, some 117 dliferent cargo-carrying vessels peared in Beirut Rafic Al Hariri International airport in Lebanon, according to Lloyd’s List Intelligence vessel-
+tracking data.
+
+• On April 12, 2024, the U.S.-flagged container ship APL Eagle reported a possible cyber security attack in the
+northern Persian Gulf. “The vessel encountered an erratic
+track ine on the chart display, which appeared to try to steer the vessel off course,”
+
+• An April 2023 ransomware attack on a company that builds
+ships for the U.S. Navy exposed the information of nearly
+17,000 people. the attack disrupted the servers that fed
+information to manufacturing machines. For days, the machines responsible for welding, cutting, and more were down after the servers were knocked offline.
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks has grown. Hackers are now targeting in-service vessels with ransomware, malware, and phishing attacks. When successful, these incidents cost shipowners time and money or worst.
+
+• On April 4t, some 117 different cargo-carrying vessels
+appeared in Beirut Rafic Al Hariri International airport in
+Lebanon, according to Lloyd’s List Intelligence vessel-
+tracking data.
+
+• On April 12, 2024, the U.S.-flagged container ship APL Eagle reported a possible cyber security attack in the
+northern Persian Gulf. “The vessel encountered an erratic
+track ine on the chart display, which appeared to try to steer the vessel off course,”
+
+• An April 2023 ransomware attack on a company that builds
+ships for the U.S. Navy exposed the information of nearly
+17,000 people. the attack disrupted the servers that fed
+information to manufacturing machines. For days, the machines responsible for welding, cutting, and more were down after the servers were knocked offline. 2024
+
+....
+
+2021
+
+2018
+
+Design Regulators are taking their responsibilites and are introducing
+stronger and stronger requirements.
+
+Operations
+
+Construction
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks
+has grown. Hackers are now targeting in-service vessels with
+ransomware, malware, and phishing attacks. When successful,
+these incidents cost shipowners time and money or worst.
+
+• On April 4t, some 117 diferent cargo-carrying vessels appeared in Beirut Rafic Al Hariri lInternational airport in Lebanon, according to Lloyd’s List Intelligence vessel-
+tracking data.
+
+• On April 12, 2024, the U.S.-flagged container ship APL Eagle reported a possible cyber security attack in the
+northern Persian Gulf. “The vessel encountered an erratic
+track line on the chart display, which appeared to try to steer the vessel off course,”
+
+• An April 2023 ransomware attack on a company that builds
+ships for the U.S. Navy exposed the information of nearly
+17,000 people. the attack disrupted the servers that fed
+information to manufacturing machines. For days, the machines responsible for welding, cutting, and more were down after the servers were knocked offline. 2024
+
+....
+
+2021
+
+CYBERSECURE 2018
+
+Design Regulators are taking their responsibilites and are introducing
+stronger and stronger requirements.
+
+• BV Lead the way as early as 2018 with the inception of
+CYBERMANAGED and CYBERSECURE
+
+CYBERSECURE CYBERSECURE
+CYBERMANAGED
+
+Operations
+
+Construction
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks
+has grown. Hackers are now targeting in-service vessels with
+ransomware, malware, and phishing attacks. When successful,
+these incidents cost shipowners time and money or worst.
+
+• On April 4”, some 117 different cargo-carrying vessels appeared in Beirut Rafic Al Hariri lInternational airport in Lebanon, according to Lloyd’s List Intelligence vessel-
+tracking data.
+
+• On April 12, 2024, the U.S.-flagged container ship APL
+Eagle reported a possible cyber security attack in the
+northern Persian Gulf. “The vessel encountered an erratic
+track line on the chart display, which appeared to try to steer
+the vessel off course,” Regulators are taking their responsibilites and are introducing
+stronger and stronger requirements.
+
+• BV Lead the way as early as 2018 with the inception of
+CYBERMANAGED and CYBERSECURE
+• IMO MSC42(98) introduced the notion of resilient cyber risk management in the ship SMS
+
+2024
+
+2021
+
+CYBERSECURE CYBERSECURE 2018 IMO MSC 428(98)
+
+CYBERSECURE
+CYBERMANAGED
+
+Operations • An April 2023 ransomware attack on a company that builds
+ships for the U.S. Navy exposed the information of nearly
+17,000 people. the attack disrupted the servers that fed
+information to manufacturing machines. For days, the machines responsible for welding, cutting, and more were down after the servers were knocked offline. Design
+Construction
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks
+has grown. Hackers are now targeting in-service vessels with
+ransomware, malware, and phishing attacks. When successful,
+these incidents cost shipowners time and money or worst.
+
+• On April 4m, some 117 different cargo-carrying vessels
+appeared in Beirut Rafic Al Hariri International airport in
+Lebanon, according to Lloyd’s List Intelligence vessel-
+tracking data. Regulators are taking their responsibilites and are introducing
+stronger and stronger requirements.
+
+• BV Lead the way as early as 2018 with the inception of
+CYBERMANAGED and CYBERSECURE
+• IMO MSC42(98) introduced the notion of resilient cyber risk nanagement in the ship sMS
+UR E26 / UR E27 make it mandatory to consider
+cybersecurity throughout the ship’s lifecycle
+
+2024 UR E26 UR E26
+UR E27 UR E26
+
+BV CYBER RESILIENT • On April 12, 2024, the U.S.-flagged container ship APL
+Eagle reported a possible cyber security attack in the
+northern Persian Gulf. “The vessel encountered an erratic
+track line on the chart display, which appeared to try to steer
+the vessel off course,” 2021 IMO MSC 428(98)
+
+CYBERSECURE CYBERSECURE 2018
+• An April 2023 ransomware attack on a company that builds
+ships for the U.S. Navy exposed the information of nearly 17,000 people. the attack disrupted the servers that fed
+information to manufacturing machines. For days, the machines responsible for welding, cutting, and more were
+down after the servers were knocked offline. CYBERSECURE
+CYBERMANAGED
+
+Operations Design
+
+Construction
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks
+has grown. Hackers are now targeting in-service vessels with
+ransomware, malware, and phishing attacks. When successful,
+these incidents cost shipowners time and money or worst. Regulators are taking their responsibilites and are introducing
+stronger and stronger requirements.
+
+BV Lead the way as early as 2018 with the inception of
+CYBERMANAGED and CYBERSECURE
+• On April 4m, some 117 different cargo-carrying vessels
+appeared in Beirut Rafic Al Hariri International airport in
+Lebanon, according to Lioyd’s List Intelligence vessel-
+tracking data. BORING Jo42(g) hntraduaed the rotion of reslient cyrer risk BORING .29) ntrodred tne nofon of resllant cyer rek/ UR E26 / UR E27 make it mandatory to consider
+cybersecurity throughout the ship’s lifecycle
+
+• On April 12, 2024, the U.S.-flagged container ship APL
+Eagle reported a possible cyber security attack in the
+northern Persian Gulf. “The vessel encountered an erratic
+track line on the chart display, which appeared to try to steer
+the vessel off course.” UR E26 2024 UR E26
+UR E27 UR E26
+
+2021 IMO MSC 428(98
+
+CYBERSECURE CYBERSECURE 2018
+• An April 2023 ransomware attack on a company that builds
+ships tor the U.s. Navy exposed the information of nearly
+17,000 people. the attack disrupted the servers that fed
+information to manufacturing machines. For days, the
+machines responsible for welding, cutting, and more were
+down after the servers were knocked ofiline CYBERSECURE
+CYBERMANAGED
+
+Operations Design
+
+Construction
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks
+has grown. Hackers are now targeting in-service vessels with
+ransomware, malware, and phishing attacks. When successful
+these incidents cost shipowners time and money or worst
+
+• On April 4m, some 117 difierent cargo-carryi
+appeared in Beirut Rafic Al Hariri International aIr Or |
+Lebanon, according to Lloyd’s List Intelligence vesse
+tracking data.
+
+• On April 12, 2024, the U.S.-flagged containe
+Eagle reported a possible cyber security att/ COMPLIANCE IS BORING !
+northern Persian Gulf. “The vessel encounter
+track line on the chart display, which appear steer
+the vessel off course.” equlat rs are t king thei responsibiites and are Introducin
+stronger and stronger requirements.
+
+y as early as 2018 with the inception of
+ED and CYBERSECURE
+
+htroduced the notion of resilient cvber risk
+e ship SMS
+make it mandatory to consider
+ughout the ship’s lifecycle
+
+UR E26
+UR E27 UR E26
+
+IMO MSC 428(98
+
+CYBERSECURE
+
+• An April 2023 ransomware attack on a com?
+ships for the U.S. Navy exposed the informa
+17,000 people. the attack disrupted the sery information to manufacturing machines. For
+machines responsible for welding, cutting, a
+down after the servers were knocked offline builds CYBERSECURE
+CYBERMANAGED
+
+Operations
+
+Construction
+
+CYBERSECURITY ENVIRONMENT
+
+As ships have become more connected, the risk of cyberattacks
+has grown. Hackers are now targeting in-service vessels with
+ransomware, malware, and phishing attacks. When successful
+these incidents cost shipowners time and money or worst
+
+• On April 4m, some 117 difierent cargo-carryi
+appeared in Beirut Rafic Al Hariri International airport in
+Lebanon, according to Lloyd’s List Intelligence vesse
+tracking data. COMPLIANCE IS BASELINE • On April 12, 2024, the U.S.-flagged containe
+Eagle reported a possible cyber security attal
+northern Persian Gulf. “The vessel encounter
+track line on the chart display, which appear
+the vessel off course.” Sl n equlat rs are t king thei responsibiites and are Introducin
+stronger and stronger requirements.
+
+y as early as 2018 with the inception of
+ED and CYBERSECURE
+
+htroduced the notion of resilient cvber risk
+e ship SMS
+make it mandatory to consider
+ughout the ship’s lifecycle
+
+UR E26
+UR E27 UR E26
+
+IMO MSC 428(98
+
+CYBERSECURE
+
+• An April 2023 ransomware attack on a com?
+ships for the U.S. Navy exposed the informa
+17,000 people. the attack disrupted the sery information to manufacturing machines. For
+machines responsible for welding, cutting, a
+down after the servers were knocked offline uilds
+
+arly CYBERSECURE
+CYBERMANAGED
+
+Operations
+
+Construction
+
+T Cyber risks are the top global
+business concern, but existing
+IACS and Class responses only address the technical aspects of
+ships, creating a bottleneck for associated services.
+M&O Brings Group expertise to
+the maritime world with 3
+curated SECURA services, and a 4th one by MOCyber. 4 CURATED SERVICES
+BEYOND CLASSIFICATION AND COMPLIANCE.
+
+• ADDRESS THE HUMAN FACTOR
+• IMPLEMENT BESPOKE PROGRAMS
+• DEVELOP A CYBERSECURITY CULTURE
+
+• AUDIT & TEST YOUR RESILIENCE
+• DEVELOP GOOD PLAN & SOLVE ISSUES
+• MANAGED SERVICE
+
+CYBER SECURITY
+TECHNICAL ADVISORY
+
+1Ec 82443
+New building
+Conversior
+
+Class Rules UR E26 & UR E27
+New building design CYBER RISK ASSESSMENTS
+THREAT MODELING
+SPECIFICATION OF TECHNICAL MEASURES
+• PENETRATION TESTS
+
+COMMUNICATION
+‘NAVIGATION
+
+MACHINERY CARGO FULL ㄱ AHEAD:
+2028
+
+CISO
+
+3UB%
+
+VERITAS
+
+0
+
+COMPLIANCE IS
+BORING
+BASELINE 2 Ofshore, SS7
+ADVISORY Shipiping, 647
+
+Others. 165 ke
+
+Ship manage “330kE
+chartares, 330 cisO-aa5 cerest. kag
+Ofishore 560kE shipomhal
+
+CURATED SERVICES
+TO SEIZE THE
+LARGER BUSINESS
+OPPORTUNITY FULL AHEAD: 2028 w ㄱ
+
+3
+SalesStars
+GLOBAL SALES NEWS
+
+#266 JUNE 2024
+
+BUSINESS WINS
+
+MARINES & OFFSHORE
+
+•Client: Reperion, end client Saudi Aramco Marine (Singapore)
+•Contract Value: 335 KE - Scope: Martime Threat Exposure Assessment, Gap Analysis, And Staif Training Programs • BV Contact: Antonio Russu; Riccardo Barbiellini Amidei Lelmi, Vinod
+_ anar.anar
+
+OPP. HIGHLIGHT
+SUCCESS STORY
+
+BUREAU
+VERITAS
+
+MARINE CYBERSECURITY MARKET
+
+• TERMINAL
+OPERATOR
+
+CHARTERERS
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY MARKET
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+60
+
+MARINE CYBERSECURITY - CLASS & CERT
+
+PEOPLE PROCESS EATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+00
+
+MARINE CYBERSECURITY - PEOPLE
+
+Irity cyber security
+FACT SHEET-ADDRESSING THE HUMAN FACTOR
+
+• TERMIN
+OPERA
+
+CHARTI
+
+SHIPOV
+MANAG SECURITY AWARENESS
+MATURITY MODEL™
+Powered by
+Secura Our client acknowledges the importance of cybersecurity, but needs some expert to
+help them develop the proper culture and policies
+Bespoke accompaniment for organization cultural change
+Service Maturity In production
+Investment required None
+
+Target definition Tiered priorities
+Av. Ticket pricing 140 kE/organization (4k employees), ...
+Opportunity Size 1++ mE/year - shipowners only
+Targeted audience CEO, COO, CISO, HR...
+Cross-selling / Up-selling Yes
+Opps
+
+SHIPYA
+INTEGR
+
+I/ BV SOLUTIONS MARINE & OFFSHORE U
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - PEOPLE
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS
+
+SHIPOWNERS
+MANAGERS 것
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY -PROCESS
+
+Irity cyber security
+FACT SHEET - CISO-aaS
+
+TERMIN
+OPERA
+
+CHARTI CISO
+
+SHIPOV
+MANAG Powered by
+Secura Our client acknowledges the importance of cybersecurity, but is unable to implement
+a proper strategy on internal resources only
+Secondment of the cIso responsibilities to a BVS/SECURA
+Service Maturity In production
+Investment required None
+
+Target definition Tiered priorities
+Av. Ticket pricing Base price 150 kE.../vear
+Opportunity Size unquantified
+Targeted audience CEO,COO,...
+Cross-selling / Up-selling Yes
+Opps
+
+SHIPYA
+INTEGR
+
+I/ BV SOLUTIONS MARINE & OFFSHORE
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - PROCESS
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+6
+
+CHARTERERS CISO
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR
+CISO®
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - TECHNOLOGY
+
+Irity cyber security
+FACT SHEET - TECHNICAL ADVISORY
+
+• TERMIN
+OPERA
+
+CHARTI
+
+SHIPOV
+MANAG CYBER SECURITY
+TECHNICAL ADVISORY
+
+IEC 62443
+New building Conversion
+
+Class Rules
+UR E26 & UR E27
+New building design Our end client has a cybersecurity company policy, and needs their assets to reflect
+the company commitment to cybersecurity.
+Technical assistance for asset owner or construction yard for the implementation of the
+necessary measures ensuring asset’s cyber resilience.
+Service Maturity In production
+Investment required None
+
+Target definition Tiered priorities
+Av. Ticket pricing 28 kE/ship (Class, UR), 352 ke/ Floating Production Unit, ...
+Opportunity Size 1++ mE/year
+Targeted audience CISO, technical manager, engineering manager
+Cross-selling / Up-selling Yes
+Opps SHIPYA
+INTEGR
+
+I/ BV SOLUTIONS MARINE & OFFSHORE U
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - TECHNOLOGY
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security -OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS CISO
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR
+CISO
+SUPPLY CHAIN CYBER SECURITY
+TECHNICALADVISORY
+
+IEC 62443
+New building
+Conversion
+
+class Rules UR E26 & UR E27
+New building design CYBER SECURITY
+TECHNICALADVISORY
+
+82m:
+
+Conversion
+
+Ca5$ Ru. UR E26 & UR E27
+New buiding dosign
+
+MARINE CYBERSECURITY - HEALTH CHECK
+
+Irity cyber security
+CYBER HEALTH CHECK
+
+• TERMIN
+OPERA
+
+CHARTI
+
+SHIPOV
+MANAG
+
+SHIPYA
+INTEGR > The devices (raspberry pi) are plugged in multiple locations onboard
+• Both IT/OT side :
+• IT
+• COMMUNICATION
+NAVIGATION Application server
+Core switch
+OT -
+
+Propulsion
+Navigation network
+IAS MACHINERY CARGO
+
+•. Notes:
+The Discovery tool is not designed to work out of the box. This equipment is intended to be used by
+BV/BVS peaple only.
+Before going on board, to maximize the tool efficiency, the ship architecture shall be investigated
+through documentation analysis.
+
+I/ BUREAUIVERITAS SOLUTIONSMARINE & OFFSHORE
+
+SUPPLY CHAIN Class Rules UR E26 & UR E27
+New building design Conversion
+
+Class Rules UR E28 & UR E27
+New building dosign
+
+MARINE CYBERSECURITY - HEALTH CHECK
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS CISO
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR
+CISO
+SUPPLY CHAIN CYBER SECURITY
+TECHNICALADVISORY
+
+IEC 62443
+New building
+Conversion
+
+class Rules UR E26 & UR E27
+New building design CYBER SECURITY
+TECHNICALADVISORY
+
+82m:
+New buading Conversion
+
+Ca5$ Ru. UR E28 & UR E27
+New buiding dosign
+
+MARINE CYBERSECURITY MARKET
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS d80
+
+SHIPOWNERS
+MANAGERS _..
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+
+0
+
+COMPLIANCE IS
+BORING
+BASELINE 2 Ofshore, SS7
+ADVISORY Shipiping, 647
+
+Others. 165 ke
+
+Ship manage “330kE
+chartares, 330 cisO-aa5 cerest. kag
+Ofishore 560kE shipomhal
+
+CURATED SERVICES
+TO SEIZE THE
+LARGER BUSINESS
+OPPORTUNITY FULL AHEAD: 2028 w ㄱ
+
+3
+SalesStars
+GLOBAL SALES NEWS
+
+#266 JUNE 2024
+
+BUSINESS WINS
+
+MARINES & OFFSHORE
+
+•Client: Reperion, end client Saudi Aramco Marine (Singapore)
+•Contract Value: 335 KE - Scope: Martime Threat Exposure Assessment, Gap Analysis, And Staif Training Programs • BV Contact: Antonio Russu; Riccardo Barbiellini Amidei Lelmi, Vinod
+_ anar.anar
+
+OPP. HIGHLIGHT
+SUCCESS STORY
+
+BUREAU
+VERITAS
+
+MARINE CYBERSECURITY MARKET
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS d80
+
+SHIPOWNERS
+MANAGERS _..
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - OPP. REVIEW
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS
+
+SHIPOWNERS
+MANAGERS !_..
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+h
+
+MARINE CYBERSECURITY - OPP. REVIEW
+
+EPC Contractor (Topside)
+EPC Contractor (Hull)
+Company
+
+abotatary Roam EXIsong Plattorm Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR® Omioading
+
+i tsalation valvel
+Tiein Flange
+He
+CHARTERERS subsea Pipelne (4.5 km)
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR CYBER SECURITY
+TECHNICAL ADVISORY
+
+Class Rules
+UR E26 & UR E27
+
+New building design CYBER SECURITY
+TECHNICAL ADVISORY
+
+IEC 62443
+
+New building
+Conversion
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - OPP. REVIEW
+
+EPC Contractor (Topside)
+EPC Contractor (Hull)
+Company
+
+abotatary Roam EXIsong Plattorm Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR® Omioading
+
+i tsalation valvel
+Tiein Flange
+He
+CHARTERERS subsea Pipelne (4.5 km)
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR CYBER SECURITY
+TECHNICAL ADVISORY
+
+Class Rules
+UR E26 & UR E27
+
+New building design CYBER SECURITY
+TECHNICAL ADVISORY
+
+IEC 62443
+
+New building
+Conversion
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - OPP. REVIEW
+
+EPC Contractor (Topside)
+EPC Contractor (Hull)
+Company
+
+GTGIGTC_ Cabin abotatary Roam • TERMINAL
+OPERATOR® Boundany with Comoany EXIstng Plattorm Product Security Assess and demonstrate the cyber security oftheir products
+
+i fsalabion valve
+Tiein Flange
+
+CHARTERERS subsea Pipelne (4.5 km)
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR 128 ke HOVISORY
+
+Class Rules
+UR E26 & UR E27
+
+New building design 350 kc mY ALADVISORY
+
+IEC 62443
+
+New building
+Conversion
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - SUCCESS STORY
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS ds0
+
+SHIPOWNERS
+MANAGERS !_..
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - SUCCESS STORY
+
+PEOPLE PROCESS BATECHNOLOGY
+IT Security • OT Security Product Security Assess and demonstrate the cyber security oftheir products
+
+• TERMINAL
+OPERATOR®
+
+CHARTERERS
+
+SHIPOWNERS
+MANAGERS !_..
+
+SHIPYARD /
+INTEGRATOR
+
+SUPPLY CHAIN
+
+MARINE CYBERSECURITY - SUCCESS STORY
+
+Product Security Assess and demonstrate the cyber security oftheir products
+
+TERMINAL
+OPERATOR® SalesStars
+GLOBAL SALES NEWS
+
+CHARTERERS SUREAR TE ATTAE
+
+SHIPOWNERS
+MANAGERS
+
+SHIPYARD /
+INTEGRATOR #268 JUNE 2024
+
+BUSINESS WINS
+
+MARINES & OFFSHORE
+
+•Client: Reperion, end client Saudi Aramco Marine (Singapore)
+• Contract Value: 335 KE
+• Scope: Maritime Threat Exposure Assessment, Gap Analysis, And Staff
+• BV Contact: Antonio Russu; Riccardo Barbiellini Amidei Lelmi: Vinod
+Janardanan
+
+SUPPLY CHAIN
+h
+
+FULL AHEAD:
+2028 Commercial
+Seminar
+
+FROM 25.06.24 TO 27.06.24 - PARIS, FRANCE
+
+BU REAU
+VERITAS

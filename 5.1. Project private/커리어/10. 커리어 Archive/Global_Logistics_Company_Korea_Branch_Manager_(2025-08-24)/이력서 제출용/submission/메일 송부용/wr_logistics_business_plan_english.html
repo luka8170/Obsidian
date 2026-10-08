@@ -1,0 +1,1212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WR Logistics Korea Business Plan (PDF Optimized)</title>
+    <style>
+        /* Basic Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', 'Helvetica', sans-serif;
+            line-height: 1.3;
+            color: #333;
+            background: #f0f0f0;
+            padding: 0;
+        }
+        
+        /* Print Button */
+        .print-btn {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: #2c5aa0;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9rem;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+        
+        .print-btn:hover {
+            background: #1e4080;
+        }
+        
+        /* Page Container - A4 Landscape Optimized */
+        .page {
+            width: 29.7cm;
+            height: 21cm;
+            margin: 5px auto;
+            padding: 1.2cm;
+            box-sizing: border-box;
+            background: white;
+            page-break-after: always;
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Cover Page */
+        .cover-page {
+            background: linear-gradient(135deg, #2c5aa0, #1e4080);
+            color: white;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .cover-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+        
+        .cover-subtitle {
+            font-size: 1.4rem;
+            margin-bottom: 30px;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        .cover-meta {
+            font-size: 1rem;
+            opacity: 0.8;
+            line-height: 1.6;
+        }
+        
+        /* General Page Header */
+        .page-header {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 15px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #2c5aa0;
+            flex-shrink: 0;
+        }
+        
+        .page-number {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: #2c5aa0;
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+        
+        .page-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin: 0;
+        }
+        
+        .page-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Table of Contents Style */
+        .toc-list {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            height: 100%;
+            font-size: 0.95rem;
+        }
+        
+        .toc-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 6px 12px;
+            border-radius: 4px;
+            background: #f8f9fa;
+            border-left: 3px solid #2c5aa0;
+        }
+        
+        .toc-number {
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-right: 8px;
+        }
+        
+        .toc-title-text {
+            flex: 1;
+            font-weight: 600;
+        }
+        
+        .toc-page-num {
+            font-weight: 700;
+            color: #2c5aa0;
+            background: white;
+            padding: 2px 5px;
+            border-radius: 8px;
+        }
+        
+        /* Section Style */
+        .section {
+            margin-bottom: 8px;
+            padding: 8px;
+            background: #f8f9fa;
+            border-radius: 4px;
+            border-left: 3px solid #2c5aa0;
+            flex-shrink: 0;
+        }
+        
+        .section-title {
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .section-title::before {
+            content: "■";
+            margin-right: 4px;
+            color: #2c5aa0;
+        }
+        
+        .bullet-title {
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: #333;
+            margin: 4px 0 3px 0;
+        }
+        
+        .bullet-title::before {
+            content: "◆";
+            margin-right: 4px;
+            color: #2c5aa0;
+        }
+        
+        .bullet-list {
+            list-style: none;
+            padding-left: 10px;
+        }
+        
+        .bullet-list li {
+            margin: 2px 0;
+            position: relative;
+            padding-left: 8px;
+            font-size: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .bullet-list li::before {
+            content: "•";
+            color: #2c5aa0;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+        
+        /* SWOT Analysis */
+        .swot-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            height: 100%;
+        }
+        
+        .swot-box {
+            background: white;
+            border-radius: 6px;
+            padding: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+            border-top: 3px solid;
+            overflow: hidden;
+        }
+        
+        .swot-box.strengths { border-top-color: #2c5aa0; }
+        .swot-box.weaknesses { border-top-color: #666; }
+        .swot-box.opportunities { border-top-color: #f4c430; }
+        .swot-box.threats { border-top-color: #999; }
+        
+        .swot-title {
+            font-size: 0.85rem;
+            font-weight: 700;
+            margin-bottom: 5px;
+            text-align: center;
+        }
+        
+        .swot-box.strengths .swot-title { color: #2c5aa0; }
+        .swot-box.weaknesses .swot-title { color: #666; }
+        .swot-box.opportunities .swot-title { color: #d4a300; }
+        .swot-box.threats .swot-title { color: #999; }
+        
+        /* Financial Table */
+        .financial-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 6px 0;
+            font-size: 0.75rem;
+        }
+        
+        .financial-table th,
+        .financial-table td {
+            border: 1px solid #2c5aa0;
+            padding: 3px 5px;
+            text-align: center;
+        }
+        
+        .financial-table th {
+            background: #2c5aa0;
+            color: white;
+            font-weight: 700;
+        }
+        
+        .financial-table tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+        
+        .financial-table .highlight {
+            background: #e8f2ff;
+            font-weight: 700;
+            color: #2c5aa0;
+        }
+        
+        /* Metric Cards */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 6px;
+            margin: 6px 0;
+        }
+        
+        .metric-card {
+            background: white;
+            border: 1px solid #2c5aa0;
+            border-radius: 6px;
+            padding: 6px;
+            text-align: center;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        }
+        
+        .metric-value {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 2px;
+        }
+        
+        .metric-label {
+            font-size: 0.65rem;
+            color: #666;
+            font-weight: 500;
+        }
+        
+        /* Pipeline */
+        .pipeline-section {
+            margin: 4px 0;
+            padding: 4px;
+            background: white;
+            border-radius: 4px;
+            border-left: 3px solid #2c5aa0;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        
+        .pipeline-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 2px;
+        }
+        
+        .pipeline-amount {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #f4c430;
+            float: right;
+        }
+        
+        /* Organization Chart */
+        .org-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            height: 100%;
+        }
+        
+        .position-card {
+            background: white;
+            border: 1px solid #2c5aa0;
+            border-radius: 4px;
+            padding: 4px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex: 1;
+        }
+        
+        .position-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 1px;
+        }
+        
+        .position-desc {
+            font-size: 0.65rem;
+            color: #666;
+        }
+        
+        .position-salary {
+            font-size: 0.7rem;
+            font-weight: 700;
+            color: #f4c430;
+        }
+        
+        /* Roadmap */
+        .roadmap-phases {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 6px;
+            height: 100%;
+        }
+        
+        .phase-card {
+            background: white;
+            border-radius: 4px;
+            padding: 6px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+            border-top: 3px solid #2c5aa0;
+            overflow: hidden;
+        }
+        
+        .phase-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            text-align: center;
+            margin-bottom: 3px;
+        }
+        
+        .phase-period {
+            font-size: 0.65rem;
+            color: #666;
+            text-align: center;
+            margin-bottom: 4px;
+        }
+        
+        /* ROI Highlight */
+        .roi-highlight {
+            background: linear-gradient(135deg, #2c5aa0, #1e4080);
+            color: white;
+            padding: 6px;
+            border-radius: 6px;
+            text-align: center;
+            margin: 6px 0;
+            flex-shrink: 0;
+        }
+        
+        .roi-title {
+            font-size: 0.8rem;
+            font-weight: 700;
+            margin-bottom: 3px;
+        }
+        
+        .roi-desc {
+            font-size: 0.7rem;
+            opacity: 0.9;
+        }
+        
+        /* Conclusion Page */
+        .conclusion-page {
+            background: linear-gradient(135deg, #2c5aa0, #1e4080);
+            color: white;
+            text-align: center;
+            justify-content: center;
+        }
+        
+        .conclusion-title {
+            font-size: 1.6rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+        
+        .success-formula {
+            font-size: 0.8rem;
+            margin: 8px 0;
+            padding: 8px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 6px;
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        .contact-info {
+            font-size: 0.8rem;
+            margin-top: 15px;
+        }
+        
+        /* Two Column Layout */
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            height: 100%;
+        }
+        
+        /* Print Styles */
+        @media print {
+            * {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+                color-adjust: exact !important;
+            }
+            
+            @page {
+                size: A4 landscape;
+                margin: 8mm;
+            }
+            
+            body {
+                background: white;
+                padding: 0;
+            }
+            
+            .print-btn {
+                display: none !important;
+            }
+            
+            .page {
+                width: 29.7cm !important;
+                height: 21cm !important;
+                margin: 0 !important;
+                padding: 1.2cm !important;
+                page-break-after: always !important;
+                page-break-inside: avoid !important;
+                box-shadow: none !important;
+                border: none !important;
+                overflow: hidden !important;
+            }
+            
+            .page:last-child {
+                page-break-after: avoid !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="print-btn" onclick="window.print()">🖨️ Print</button>
+
+    <!-- Page 1: Cover -->
+    <div class="page cover-page">
+        <h1 class="cover-title">WR Logistics Korea Business Plan</h1>
+        <div class="cover-subtitle">Advancing as a Global Project Logistics Specialist</div>
+        <div class="cover-meta">
+            <div>Submission Date: September 11, 2025</div>
+            <div>Author: Sangjin Han (Branch Manager Candidate)</div>
+            <br>
+            <div style="font-style: italic;">"Global Network, Local Expertise"</div>
+            <div style="margin-top: 10px; font-size: 0.9rem; color: #ffeb3b;">✅ Resume-Based Revised Version</div>
+        </div>
+    </div>
+
+    <!-- Page 2: Table of Contents -->
+    <div class="page">
+        <div class="page-number">1</div>
+        <div class="page-header">
+            <h2 class="page-title">Table of Contents</h2>
+        </div>
+        <div class="page-content">
+            <div class="toc-list">
+                <div class="toc-item">
+                    <span class="toc-number">1</span>
+                    <span class="toc-title-text">Business Overview & Objectives</span>
+                    <span class="toc-page-num">2</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">2</span>
+                    <span class="toc-title-text">Market Analysis & Growth Potential</span>
+                    <span class="toc-page-num">3</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">3</span>
+                    <span class="toc-title-text">SWOT Analysis</span>
+                    <span class="toc-page-num">4</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">4</span>
+                    <span class="toc-title-text">Core Service Portfolio</span>
+                    <span class="toc-page-num">5</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">5</span>
+                    <span class="toc-title-text">Confirmed Project Pipeline</span>
+                    <span class="toc-page-num">6</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">6</span>
+                    <span class="toc-title-text">Financial Plan & ROI</span>
+                    <span class="toc-page-num">7</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">7</span>
+                    <span class="toc-title-text">Network-Based Marketing Strategy</span>
+                    <span class="toc-page-num">8</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">8</span>
+                    <span class="toc-title-text">Organization Structure & HR Plan</span>
+                    <span class="toc-page-num">9</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">9</span>
+                    <span class="toc-title-text">Phased Implementation Roadmap</span>
+                    <span class="toc-page-num">10</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">10</span>
+                    <span class="toc-title-text">Conclusion & Expected Outcomes</span>
+                    <span class="toc-page-num">11</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 3: Business Overview -->
+    <div class="page">
+        <div class="page-number">2</div>
+        <div class="page-header">
+            <h2 class="page-title">1. Business Overview</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">WR Logistics Korea Introduction</div>
+                <ul class="bullet-list">
+                    <li>Korean branch of global project logistics specialist headquartered in Düsseldorf, Germany</li>
+                    <li>Engineering-focused logistics solutions for complex industrial and infrastructure projects</li>
+                    <li>Synergy of 25-year Middle East network + German headquarters global network</li>
+                    <li>Brand differentiation and trust building through chess sponsorship and other initiatives</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Business Objectives</div>
+                <ul class="bullet-list">
+                    <li>Securing leading position in Korea's project logistics market</li>
+                    <li>Specialized logistics services for petrochemical, energy, and heavy industry sectors</li>
+                    <li>Leveraging German headquarters network and 25-year Middle East experience</li>
+                    <li>Building Asia's global project logistics hub</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">$150M</div>
+                    <div class="metric-label">Year 1 Revenue</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">310%</div>
+                    <div class="metric-label">Year 1 ROI</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">$192M</div>
+                    <div class="metric-label">Confirmed Pipeline</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">18 Months</div>
+                    <div class="metric-label">Investment Recovery</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 4: Market Analysis -->
+    <div class="page">
+        <div class="page-number">3</div>
+        <div class="page-header">
+            <h2 class="page-title">2. Market Analysis - Scale & Growth Potential</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">Global Project Logistics Market</div>
+                <ul class="bullet-list">
+                    <li>2025: $462.3B → 2030: $617.2B (CAGR 5.95%)</li>
+                    <li>Asia-Pacific region holds 37.84% share (largest market)</li>
+                    <li>Korea logistics automation: 2024 $1.015B → 2035 $4.832B</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Korea Market Growth Drivers</div>
+                <ul class="bullet-list">
+                    <li>Infrastructure investment expansion under K-New Deal policy</li>
+                    <li>Surge in renewable energy projects for carbon neutrality</li>
+                    <li>Accelerated overseas expansion of major EPC companies</li>
+                    <li>Asia-centered shift due to global supply chain reorganization</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">$50B</div>
+                    <div class="metric-label">Korea Market Size</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">15%</div>
+                    <div class="metric-label">Annual Growth Rate</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">43.7%</div>
+                    <div class="metric-label">Offshore Wind Growth</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">37.84%</div>
+                    <div class="metric-label">Asia Market Share</div>
+                </div>
+            </div>
+
+            <div class="roi-highlight">
+                <div class="roi-title">Market Opportunity Summary</div>
+                <div class="roi-desc">
+                    Winning strategy leveraging government policy support<br>
+                    and global network in 15% annual growth project logistics market
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 5: SWOT Analysis -->
+    <div class="page">
+        <div class="page-number">4</div>
+        <div class="page-header">
+            <h2 class="page-title">3. SWOT Analysis</h2>
+        </div>
+        <div class="page-content">
+            <div class="swot-grid">
+                <div class="swot-box strengths">
+                    <div class="swot-title">■ STRENGTHS</div>
+                    <ul class="bullet-list">
+                        <li>German HQ global network</li>
+                        <li>25-year Middle East-Korea network</li>
+                        <li>Project logistics expertise</li>
+                        <li>Royal family & government relations</li>
+                        <li>Proven brand credibility</li>
+                        <li>Immediate execution capability</li>
+                    </ul>
+                </div>
+
+                <div class="swot-box weaknesses">
+                    <div class="swot-title">■ WEAKNESSES</div>
+                    <ul class="bullet-list">
+                        <li>Initial entry into Korean market</li>
+                        <li>Lack of local competitor relationships</li>
+                        <li>Initial investment cost burden</li>
+                        <li>Limited local brand recognition</li>
+                        <li>Organization building & talent acquisition</li>
+                    </ul>
+                </div>
+
+                <div class="swot-box opportunities">
+                    <div class="swot-title">■ OPPORTUNITIES</div>
+                    <ul class="bullet-list">
+                        <li>15% project logistics growth</li>
+                        <li>K-New Deal, carbon neutral policies</li>
+                        <li>Global supply chain reorganization</li>
+                        <li>Asia-centered shift</li>
+                        <li>43.7% offshore wind surge</li>
+                        <li>$192M confirmed pipeline</li>
+                    </ul>
+                </div>
+
+                <div class="swot-box threats">
+                    <div class="swot-title">■ THREATS</div>
+                    <ul class="bullet-list">
+                        <li>Existing major company competition</li>
+                        <li>Global economic uncertainty</li>
+                        <li>Rapid technological changes</li>
+                        <li>Regulatory tightening & cost increases</li>
+                        <li>New market entrants</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 6: Core Services -->
+    <div class="page">
+        <div class="page-number">5</div>
+        <div class="page-header">
+            <h2 class="page-title">4. Core Service Portfolio</h2>
+        </div>
+        <div class="page-content">
+            <div class="two-column">
+                <div>
+                    <div class="section">
+                        <div class="section-title">Project Logistics</div>
+                        <div class="bullet-title">Large Industrial Project Specialist</div>
+                        <ul class="bullet-list">
+                            <li>Petrochemical, power plant, steel sectors</li>
+                            <li>Super-heavy/oversized cargo (100+ tons)</li>
+                            <li>Multimodal transportation solutions</li>
+                            <li>JIT delivery management</li>
+                        </ul>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">Heavy Lift/Special Cargo Transportation</div>
+                        <div class="bullet-title">German Engineering Expertise</div>
+                        <ul class="bullet-list">
+                            <li>German engineering know-how</li>
+                            <li>3D modeling route simulation</li>
+                            <li>Specialized transport equipment</li>
+                            <li>Integrated inspection & certification services</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="section">
+                        <div class="section-title">Differentiated Competitive Advantages</div>
+                        <ul class="bullet-list">
+                            <li><strong>Middle East VIP Network:</strong> Sheikh Ahmed Al Maktoum</li>
+                            <li><strong>German HQ Synergy:</strong> 18 European branches</li>
+                            <li><strong>Korean EPC Relations:</strong> Hyundai Engineering, Samsung Engineering</li>
+                            <li><strong>Integrated Solutions:</strong> Inspection & certification + logistics</li>
+                            <li><strong>Current Network:</strong> Bureau Veritas ongoing projects</li>
+                        </ul>
+                    </div>
+
+                    <div class="metrics-grid" style="grid-template-columns: 1fr 1fr;">
+                        <div class="metric-card">
+                            <div class="metric-value">25 Years</div>
+                            <div class="metric-label">Middle East Experience</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">38 Countries</div>
+                            <div class="metric-label">Global Network</div>
+                        </div>
+                    </div>
+
+                    <div class="roi-highlight">
+                        <div class="roi-title">Core Competitiveness</div>
+                        <div class="roi-desc">
+                            German HQ + 25-year Middle East network<br>
+                            + Current ongoing project connections
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 7: Confirmed Project Pipeline -->
+    <div class="page">
+        <div class="page-number">6</div>
+        <div class="page-header">
+            <h2 class="page-title">5. Confirmed Project Pipeline (Resume-Based)</h2>
+        </div>
+        <div class="page-content">
+            <div class="two-column">
+                <div>
+                    <div class="section">
+                        <div class="section-title">Hyundai Steel Middle East Projects</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Saudi Aramco Amiral Petrochemical</div>
+                            <div class="pipeline-amount">$67M</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">$11B EPC project (ongoing)</div>
+                        </div>
+                        <div style="font-size: 0.65rem; color: #28a745; margin-top: 3px; font-weight: 600;">✅ Confirmed based on current partnership</div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">LG Energy Solution ESS</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Poland PGE 981MWh ESS</div>
+                            <div class="pipeline-amount">$25M</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">2026-2027 EPC</div>
+                        </div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Texas ESS Projects</div>
+                            <div class="pipeline-amount">$17M</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">Burns & McDonnell EPC</div>
+                        </div>
+                        <div style="font-size: 0.65rem; color: #28a745; margin-top: 3px; font-weight: 600;">✅ Direct cooperation with HQ logistics manager (former colleague)</div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="section">
+                        <div class="section-title">Qatar Gas & Middle East Network</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Qatar Gas North Field</div>
+                            <div class="pipeline-amount">$33M</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">$10B EPC (past experience)</div>
+                        </div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Petronas Malaysia</div>
+                            <div class="pipeline-amount">$17M</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">Existing network + Bureau Veritas</div>
+                        </div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">Inspection & Certification (Current Work)</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Qatar Energy (€3M)</div>
+                            <div class="pipeline-amount">$17M</div>
+                        </div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Saudi Royal Family (€2.5M)</div>
+                            <div class="pipeline-amount">$17M</div>
+                        </div>
+                        <div style="font-size: 0.65rem; color: #28a745; margin-top: 3px; font-weight: 600;">✅ Bureau Veritas ongoing projects</div>
+                    </div>
+
+                    <div class="roi-highlight">
+                        <div class="roi-title">Realistic Pipeline Total</div>
+                        <div class="roi-desc">
+                            <strong>Total $192M</strong><br>
+                            127% vs Year 1 target of $150M<br>
+                            <small>High-certainty revenue: $125M (65%)</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 8: Financial Plan -->
+    <div class="page">
+        <div class="page-number">7</div>
+        <div class="page-header">
+            <h2 class="page-title">6. Financial Plan - 3-Year Profit Targets</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">3-Year Revenue and Profit Plan</div>
+                <table class="financial-table">
+                    <thead>
+                        <tr>
+                            <th>Year</th>
+                            <th>Revenue ($M)</th>
+                            <th>Net Profit ($M)</th>
+                            <th>Growth Rate</th>
+                            <th>ROI</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="highlight">
+                            <td>2026</td>
+                            <td>150</td>
+                            <td>28.5</td>
+                            <td>-</td>
+                            <td class="highlight">310%</td>
+                        </tr>
+                        <tr>
+                            <td>2027</td>
+                            <td>250</td>
+                            <td>56.3</td>
+                            <td>67%</td>
+                            <td>545%</td>
+                        </tr>
+                        <tr>
+                            <td>2028</td>
+                            <td>375</td>
+                            <td>81.3</td>
+                            <td>50%</td>
+                            <td>818%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Realistic Pipeline-Based Plan</div>
+                <ul class="bullet-list">
+                    <li>Year 1: Target 78% achievement of $192M confirmed projects</li>
+                    <li>Hyundai Steel: Saudi Amiral project ($67M, 44% contribution)</li>
+                    <li>LG Energy Solution: ESS project connections ($42M, 28% contribution)</li>
+                    <li>Middle East Network: Qatar Gas + inspection certification ($42M, 28% contribution)</li>
+                    <li>Safety margin: 28% buffer vs target to minimize risk</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">$17M</div>
+                    <div class="metric-label">Total Investment</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">18 Months</div>
+                    <div class="metric-label">Investment Recovery</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">$775M</div>
+                    <div class="metric-label">3-Year Total Revenue</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">$166M</div>
+                    <div class="metric-label">3-Year Total Profit</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 9: Network Marketing -->
+    <div class="page">
+        <div class="page-number">8</div>
+        <div class="page-header">
+            <h2 class="page-title">7. Proven Network-Based Marketing Strategy</h2>
+        </div>
+        <div class="page-content">
+            <div class="two-column">
+                <div>
+                    <div class="section">
+                        <div class="section-title">Middle East Network (25 Years)</div>
+                        <div class="bullet-title">Royal Family & Government Officials</div>
+                        <ul class="bullet-list">
+                            <li>UAE Sheikh Ahmed Al Maktoum</li>
+                            <li>Kuwait Sheikha Mariyam Al Sabah</li>
+                            <li>Qatar Ministry of Energy senior officials</li>
+                            <li>Saudi Aramco executives</li>
+                        </ul>
+                        
+                        <div class="bullet-title">Proven Project Track Record</div>
+                        <ul class="bullet-list">
+                            <li>Qatar Gas North Field contracts</li>
+                            <li>Saudi Aramco Amiral ongoing</li>
+                            <li>Bureau Veritas €5.5M ongoing</li>
+                        </ul>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">Korean Corporate Network</div>
+                        <ul class="bullet-list">
+                            <li><strong>Hyundai Steel:</strong> Current partnership</li>
+                            <li><strong>LG Energy Solution:</strong> Logistics manager (former colleague)</li>
+                            <li><strong>Hyundai Engineering:</strong> Middle East projects</li>
+                            <li><strong>Samsung Engineering:</strong> EPC cooperation</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="section">
+                        <div class="section-title">German Headquarters Synergy</div>
+                        <ul class="bullet-list">
+                            <li>18 European branch network</li>
+                            <li>Global project logistics expertise</li>
+                            <li>German engineering technology</li>
+                            <li>Brand differentiation through chess sponsorship</li>
+                        </ul>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">Marketing Execution Strategy</div>
+                        <div class="bullet-title">Phase 1 (0-6 months)</div>
+                        <ul class="bullet-list">
+                            <li>Activate existing networks</li>
+                            <li>Execute confirmed projects</li>
+                            <li>Brand launch events</li>
+                        </ul>
+                        
+                        <div class="bullet-title">Phase 2 (6-12 months)</div>
+                        <ul class="bullet-list">
+                            <li>Expand Korean EPC companies</li>
+                            <li>Build government relations</li>
+                            <li>Connect global projects</li>
+                        </ul>
+                    </div>
+
+                    <div class="roi-highlight">
+                        <div class="roi-title">Network Credibility</div>
+                        <div class="roi-desc">
+                            25-year proven relationships + ongoing<br>
+                            €5.5M project-based credibility
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 10: Organization Structure -->
+    <div class="page">
+        <div class="page-number">9</div>
+        <div class="page-header">
+            <h2 class="page-title">8. Organization Structure & HR Plan</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">Initial Organization (Year 1)</div>
+                <div class="org-grid">
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">Branch Manager (Sangjin Han)</div>
+                            <div class="position-desc">Strategy planning, sales, network management</div>
+                        </div>
+                        <div class="position-salary">$100K/year</div>
+                    </div>
+                    
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">Sales Manager</div>
+                            <div class="position-desc">Korean market development, customer relations</div>
+                        </div>
+                        <div class="position-salary">$67K/year</div>
+                    </div>
+                    
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">Operations Manager</div>
+                            <div class="position-desc">Project execution, logistics operations</div>
+                        </div>
+                        <div class="position-salary">$58K/year</div>
+                    </div>
+                    
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">Finance/Admin</div>
+                            <div class="position-desc">Financial management, administrative work</div>
+                        </div>
+                        <div class="position-salary">$42K/year</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Expansion Plan (Years 2-3)</div>
+                <ul class="bullet-list">
+                    <li><strong>Sales Team Expansion:</strong> 3 regional sales specialists</li>
+                    <li><strong>Technical Team:</strong> 2 project engineering experts</li>
+                    <li><strong>Operations Enhancement:</strong> 4 field managers and logistics specialists</li>
+                    <li><strong>Support Team:</strong> 3 IT, marketing, and legal experts</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">4 People</div>
+                    <div class="metric-label">Year 1 Staff</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">16 People</div>
+                    <div class="metric-label">Year 3 Staff</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">$310K</div>
+                    <div class="metric-label">Year 1 Personnel Cost</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">$1.04M</div>
+                    <div class="metric-label">Year 3 Personnel Cost</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 11: Implementation Roadmap -->
+    <div class="page">
+        <div class="page-number">10</div>
+        <div class="page-header">
+            <h2 class="page-title">9. Phased Implementation Roadmap</h2>
+        </div>
+        <div class="page-content">
+            <div class="roadmap-phases">
+                <div class="phase-card">
+                    <div class="phase-title">Phase 1: Foundation</div>
+                    <div class="phase-period">0-6 months</div>
+                    <ul class="bullet-list">
+                        <li>Corporate establishment & licensing</li>
+                        <li>Initial organization (4 people)</li>
+                        <li>Office setup (Gangnam)</li>
+                        <li>Execute confirmed projects</li>
+                        <li>Brand launch</li>
+                        <li>Target: $50M revenue</li>
+                    </ul>
+                </div>
+
+                <div class="phase-card">
+                    <div class="phase-title">Phase 2: Market Expansion</div>
+                    <div class="phase-period">6-18 months</div>
+                    <ul class="bullet-list">
+                        <li>Expand Korean EPC companies</li>
+                        <li>Sales team expansion (+2 people)</li>
+                        <li>Build government relations</li>
+                        <li>Secure new projects</li>
+                        <li>Establish operating systems</li>
+                        <li>Target: $100M revenue</li>
+                    </ul>
+                </div>
+
+                <div class="phase-card">
+                    <div class="phase-title">Phase 3: Market Leadership</div>
+                    <div class="phase-period">18-36 months</div>
+                    <ul class="bullet-list">
+                        <li>Build Asia hub</li>
+                        <li>Establish technical team</li>
+                        <li>Build digital platform</li>
+                        <li>Expand global projects</li>
+                        <li>Achieve industry #1 position</li>
+                        <li>Target: $375M revenue</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="roi-highlight">
+                <div class="roi-title">Success Key Factors</div>
+                <div class="roi-desc">
+                    Existing Network × German HQ Synergy × Confirmed Pipeline<br>
+                    = Investment recovery within 18 months & market leader leap
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 12: Conclusion -->
+    <div class="page conclusion-page">
+        <div class="conclusion-title">Conclusion: WR Logistics Korea Success Formula</div>
+        
+        <div class="success-formula">
+            <strong>Proven Network</strong><br>
+            25-year Middle East + German HQ + Korean EPC relations
+        </div>
+        
+        <div class="success-formula">
+            <strong>Confirmed Pipeline</strong><br>
+            $192M confirmed projects + ongoing work
+        </div>
+        
+        <div class="success-formula">
+            <strong>Exceptional Profitability</strong><br>
+            Year 1 ROI 310% + 18-month investment recovery
+        </div>
+        
+        <div class="contact-info">
+            <div style="font-size: 1.2rem; margin-bottom: 15px;">
+                <strong>"Global Network, Local Expertise"</strong>
+            </div>
+            <div>Submitted by: Sangjin Han (Branch Manager Candidate)</div>
+            <div>Contact: +82-10-XXXX-XXXX</div>
+            <div>Email: sangjin.han@wrlogistics.com</div>
+        </div>
+    </div>
+
+</body>
+</html>

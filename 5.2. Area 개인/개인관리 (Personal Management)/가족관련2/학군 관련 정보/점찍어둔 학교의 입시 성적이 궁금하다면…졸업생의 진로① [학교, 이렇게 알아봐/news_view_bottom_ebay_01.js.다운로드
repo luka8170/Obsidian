@@ -1,0 +1,2 @@
+adURL = "//yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x36";
+document.write ("<SCR" + "IPT " + "type='text/javascript" + "' src='" + adURL + "'></SCR" + "IPT>");

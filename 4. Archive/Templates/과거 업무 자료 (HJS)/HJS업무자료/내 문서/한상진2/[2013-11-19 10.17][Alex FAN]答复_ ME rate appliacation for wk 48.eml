@@ -1,0 +1,724 @@
+Received: from COW380D.hanjin.com (192.168.100.244) by kovhhvmd.hanjin.com
+ (203.246.154.26) with Microsoft SMTP Server (TLS) id 14.3.123.3; Tue, 19 Nov
+ 2013 10:17:24 +0900
+Received: from COW380F.hanjin.com ([192.168.10.2]) by cow380d.hanjin.com
+ ([222.68.181.254]) with mapi id 14.03.0123.003; Tue, 19 Nov 2013 09:17:18
+ +0800
+From: Alex FAN <alexfan@cn.hanjin.com>
+To: Jason SHI <jasonshi@cn.hanjin.com>, Paris PENG <paris@cn.hanjin.com>,
+	Grace WANG <gracewang@cn.hanjin.com>, Spike CHEN <spike@cn.hanjin.com>,
+	Jessica LU <jessicalu@cn.hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>
+CC: "TH(Tae-Hoon) AN" <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>,
+	Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, "Lloyd(Woosik)
+ Yang" <shakin@hanjin.com>, "Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>,
+	Andrew Hou <andrew@cn.hanjin.com>, Claud Yan <claud@cn.hanjin.com>, Oasis
+ Shen <oasis@cn.hanjin.com>, Alex Lin <alexlin@cn.hanjin.com>
+Subject: =?gb2312?B?tPC4tDogTS9FIHJhdGUgYXBwbGlhY2F0aW9uIGZvciB3ayA0OA==?=
+Thread-Topic: M/E rate appliacation for wk 48
+Thread-Index: Ac7kNWdupA4MOHQXQZeRdUMQry1buAAAkuBQACGaokQAAaOT4A==
+Date: Tue, 19 Nov 2013 10:17:17 +0900
+Message-ID: <D06C2507ECE1F749B7CA328054DBEC4E03C1FF@cow380f.hanjin.com>
+References:
+ <042F75715228074E81BA67919BE28D2907BB3C@cow380f.hanjin.com>,<D06C2507ECE1F749B7CA328054DBEC4E03A69C@cow380f.hanjin.com>
+ <042F75715228074E81BA67919BE28D2907BF04@cow380f.hanjin.com>
+In-Reply-To: <042F75715228074E81BA67919BE28D2907BF04@cow380f.hanjin.com>
+Accept-Language: en-US
+Content-Language: zh-CN
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380d.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.100.86]
+Content-Type: multipart/alternative;
+	boundary="_000_D06C2507ECE1F749B7CA328054DBEC4E03C1FFcow380fhanjincom_"
+MIME-Version: 1.0
+
+--_000_D06C2507ECE1F749B7CA328054DBEC4E03C1FFcow380fhanjincom_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: base64
+
+VE86IENDRQ0KRk06IFNIQUFTSQ0KDQpEZWFyIE1yLiBIYW4NCg0KQXMgcmVwb3J0ZWQgYnkgU0hB
+QkJTIGFuZCBnb3QgdGhlIGluZm9ybWF0aW9uIGZyb20gdGhlIGNvbW11bmljYXRpb24gY2hhbm5l
+bCwgdGhlIG1hcmtldCByYXRlIGlzIGRyb3BwaW5nIHNoYXJwbHkuDQoNCkFTSSBzdWdnZXN0IHRv
+IHN1cHBvcnQgU0hBQkJTIGFwcGxpY2F0aW9uIHRvIGFkanVzdCBNL0UgcmF0ZSBHL0wgdG8gVVNE
+NjAwLzEwMDAgZm9yIEVURCBOb3YgMjZ0aCBQU0cuDQoNCldhaXQgZm9yIHlvdXIgY29tbWVudCB3
+aXRoIHRoYW5rcyENCg0KVGhhbmtzICYgQmVzdCBSZWdhcmRzIQ0KQWxleCBGYW4vU0hBQVNHL0FT
+SQ0KDQq3orz+yMs6IEphc29uIFNISQ0Kt6LLzcqxvOQ6IDIwMTPE6jEx1MIxOcjVIDg6MzENCsrV
+vP7IyzogQWxleCBGQU47IFBhcmlzIFBFTkc7IEdyYWNlIFdBTkc7IFNwaWtlIENIRU47IEplc3Np
+Y2EgTFU7IEplb25nLUphZSBDSE9JDQqzrcvNOiBUSChUYWUtSG9vbikgQU47IFNhbmctSmluIEhB
+TjsgWW9vLUt5dW5nIEtJTTsgQXJhbSBLSU07IExsb3lkKFdvb3NpaykgWWFuZzsgTHV0aChLeXVu
+Zy1Xb24pIENIT0k7IEFuZHJldyBIb3U7IENsYXVkIFlhbjsgT2FzaXMgU2hlbjsgQWxleCBMaW4N
+Ctb3zOI6IFJFOiBNL0UgcmF0ZSBhcHBsaWFjYXRpb24gZm9yIHdrIDQ4DQoNClRPOiBBU0kNCkND
+OkNDRQ0KRk06U0hBQkJTL0pBU09ODQoNCkRlYXIgc2lyDQoNClRrcyBmb3IgeW91ciBjb25jZXJu
+IGFsd2F5cw0KDQpXaGlsZSBtYXJrZXQgY2hhbmdlZCB2ZXJ5IHF1aWNrbHksIGZyb20geWVzdGVy
+ZGF5IDE4MDAsIEFQTCBzdWRkZW5seSBhZGp1c3QgcmF0ZSBvZmZlciBhZ2FpbiBieSA2MDAvMTAw
+MCwgbWVhbndoaWxlIE9PQ0wvQ09TQ08gZm9sbG93ZWQgdGhlaXIgYWN0aW9uDQoNCkFsc28gZ2V0
+IHRoZSBwaG9uZSBjYWxsIGZyb20gWU1MIHRoYXQgdGhleSBhcmUgaW50ZW50aW9uIHRvIGZvbGxv
+dyBtYXJrZXQgcmF0ZSBtb3ZlbW5ldCBvbiB0aGUgbGFzdCB3ZWVrIG9mIE5vdg0KDQpBcyBmb3Ig
+aXQsIHdlIGhhdmUgbm8gY2hvaWNlIGJ1dCB0byBmb2xsb3cgLCBXZSBhcHBseSBIL08gIGNvbnNp
+ZGUgdG8gc3VwcG9ydCB1cyA2MDAvMTAwMCBvbiB3aXRoIDQ4UFNHDQoNCldhaXRpbmcgZm9yIHlv
+dXIgY29tbWVudA0KDQp0a3MNCmJyZ2RzDQoNCg0KX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX18NCkZyb20gOiAiQWxleCBGQU4iIDxhbGV4ZmFuQGNuLmhhbmppbi5jb208bWFpbHRvOmFs
+ZXhmYW5AY24uaGFuamluLmNvbT4+DQpTZW50IDogMjAxMy0xMS0xOCAxNjozNjoxMSAoICswODow
+MCApDQpUbyA6IEphc29uIFNISSA8amFzb25zaGlAY24uaGFuamluLmNvbTxtYWlsdG86amFzb25z
+aGlAY24uaGFuamluLmNvbT4+LCBQYXJpcyBQRU5HIDxwYXJpc0Bjbi5oYW5qaW4uY29tPG1haWx0
+bzpwYXJpc0Bjbi5oYW5qaW4uY29tPj4sIEdyYWNlIFdBTkcgPGdyYWNld2FuZ0Bjbi5oYW5qaW4u
+Y29tPG1haWx0bzpncmFjZXdhbmdAY24uaGFuamluLmNvbT4+LCBTcGlrZSBDSEVOIDxzcGlrZUBj
+bi5oYW5qaW4uY29tPG1haWx0bzpzcGlrZUBjbi5oYW5qaW4uY29tPj4sIEplc3NpY2EgTFUgPGpl
+c3NpY2FsdUBjbi5oYW5qaW4uY29tPG1haWx0bzpqZXNzaWNhbHVAY24uaGFuamluLmNvbT4+LCBK
+ZW9uZy1KYWUgQ0hPSSA8ampjaG9pQGhhbmppbi5jb208bWFpbHRvOmpqY2hvaUBoYW5qaW4uY29t
+Pj4NCkNjIDogVEgoVGFlLUhvb24pIEFOIDx0aGFuQGhhbmppbi5jb208bWFpbHRvOnRoYW5AaGFu
+amluLmNvbT4+LCBTYW5nLUppbiBIQU4gPHNqaGFuQGhhbmppbi5jb208bWFpbHRvOnNqaGFuQGhh
+bmppbi5jb20+PiwgWW9vLUt5dW5nIEtJTSA8a2lteWtAaGFuamluLmNvbTxtYWlsdG86a2lteWtA
+aGFuamluLmNvbT4+LCBBcmFtIEtJTSA8YXJhbUBoYW5qaW4uY29tPG1haWx0bzphcmFtQGhhbmpp
+bi5jb20+PiwgTGxveWQoV29vc2lrKSBZYW5nIDxzaGFraW5AaGFuamluLmNvbTxtYWlsdG86c2hh
+a2luQGhhbmppbi5jb20+PiwgTHV0aChLeXVuZy1Xb24pIENIT0kgPGx1dGhjaG9pQGhhbmppbi5j
+b208bWFpbHRvOmx1dGhjaG9pQGhhbmppbi5jb20+PiwgQW5kcmV3IEhvdSA8YW5kcmV3QGNuLmhh
+bmppbi5jb208bWFpbHRvOmFuZHJld0Bjbi5oYW5qaW4uY29tPj4sIENsYXVkIFlhbiA8Y2xhdWRA
+Y24uaGFuamluLmNvbTxtYWlsdG86Y2xhdWRAY24uaGFuamluLmNvbT4+LCBPYXNpcyBTaGVuIDxv
+YXNpc0Bjbi5oYW5qaW4uY29tPG1haWx0bzpvYXNpc0Bjbi5oYW5qaW4uY29tPj4sIEFsZXggTGlu
+IDxhbGV4bGluQGNuLmhhbmppbi5jb208bWFpbHRvOmFsZXhsaW5AY24uaGFuamluLmNvbT4+DQpT
+dWJqZWN0IDogtPC4tDogTS9FIHJhdGUgYXBwbGlhY2F0aW9uIGZvciB3ayA0OA0KVE86Q0NFDQpG
+TTogU0hBQVNJDQoNCkRlYXIgTXIuIEhhbjoNCg0KV2VlayA0Nywgb3VyIFBTRyByYXRlIEcvTCBp
+cyBVU0Q2NzUvMTE1MCBvZiBTSEFCQiBhbmQgaGFkIGEgdmVyeSBwb29yIHBmbWMgd2l0aCBhYm91
+dCA2NiUgTC9GIGFnYWluc3QgUVRBIDIyMFRFVS4NCg0KQ29uc2lkZXJpbmcgdGhlIG92ZXJhbGwg
+bWFya2V0IGlzIGdldHRpbmcgd2VhayBhbmQgY2FwYWNpdHkgcmVjb3ZlcnksIEFTSSBzdWdnZXN0
+IHRvIGFkanVzdCBTSEFCQlMgcmF0ZSBHL0wgZm9yIE0vRSB0byBVU0Q2MDAvMTA1MC4NCg0KUGxl
+YXNlIGdpdmUgeW91ciBjb21tZW50IGJlZm9yZSBzYWxlcyBhY3Rpb24uDQoNClRoYW5rIHlvdSEN
+Cg0KVGhhbmtzICYgQmVzdCBSZWdhcmRzIQ0KQWxleCBGYW4vU0hBQVNHL0FTSQ0KDQq3orz+yMs6
+IEphc29uIFNISQ0Kt6LLzcqxvOQ6IDIwMTPE6jEx1MIxOMjVIDE2OjA5DQrK1bz+yMs6IFBhcmlz
+IFBFTkc7IEdyYWNlIFdBTkc7IFNwaWtlIENIRU47IEplc3NpY2EgTFU7IEFsZXggRkFOOyBKZW9u
+Zy1KYWUgQ0hPSQ0Ks63LzTogVEgoVGFlLUhvb24pIEFOOyBTYW5nLUppbiBIQU47IFlvby1LeXVu
+ZyBLSU07IEFyYW0gS0lNOyBMbG95ZChXb29zaWspIFlhbmc7IEx1dGgoS3l1bmctV29uKSBDSE9J
+OyBBbmRyZXcgSG91OyBDbGF1ZCBZYW47IE9hc2lzIFNoZW47IEFsZXggTGluDQrW98ziOiBNL0Ug
+cmF0ZSBhcHBsaWFjYXRpb24gZm9yIHdrIDQ4DQoNClRPOiBBU0kNCkNDOkNDRQ0KRk06U0hBQkJT
+L0pBU09ODQoNCkRlYXIgc2lyDQoNClRrcyBmb3IgeW91ciBzdXBwb3J0IGFsd2F5cywgUGxzIGNo
+ZWNrIE0vRSBtYXJrZXQgc2l0dWF0aW9uIGJlbG93IGZvciB5b3VyIHJlZg0KDQpNL0UgbWFya2V0
+IG1vdmVtZW50IHNob3cga2VlcCBkcm9wcGluZyB0cmVuZCBjb250aW5vdXNseSBzaW5jZSBOb3Yg
+MXN0IFJSLiBtYXJrZXQgcmF0ZSBkZWNyZWFzZWQgd2Vla2x5IGJ5IGJpZyBxdWFudHVtDQoNCkZv
+ciB3ayA0NywgRk1YIGZpbmFsIGxvYWRpbmcgOTV0ZXUgYW5kIFBTRyBmaW5hbCBpcyBhcm91bmQg
+MTMzdGV1KDYwJSkgb25seSAsIHRoZSBtYWluIHJlYXNvbiBpcyBtYXJrZXQgY2FwYWNpdHkgcmVj
+b3ZlciB0b3RhbGx5IGZyb20gdGhpcyB3ZWVrIGFuZCBNYXJrZXQgcmF0ZSBrZWVwIGRyb3AgMiBv
+ciAzdGltZXMgZHVyaW5nIHRoaXMgd2Vlaywgd2UgaGF2ZSBubyB3YXkgYnV0IGZvbGxvdy4NCg0K
+Rm9yIHdrIDQ4LCB3ZSBqdXN0IGNoZWNrZWQgb3RoZXIgY29tcGV0b3JzIHJhdGUgb2ZmZXIgYWdh
+aW4sIGl0IHNlZW1zIG1hcmtldCByYXRlIGRyb3AgYWdhaW4gZXZlbiB0aG91Z2ggb24gdGhlIGxh
+c3Qgd2VlayBiZWZvcmUgRGVjIDFzdCBSUi4NCg0KQ1NDTDo2NTAvMTEwMA0KQVBMOiA2MDAvMTA1
+MA0KT09DTDogNjAwLzEwNTAoYXMgdGhlaXIgc2FsZXMsIHRoZXkgd2lsbCBhZGp1c3QgcmF0ZSB0
+byAxMDAwIGZvciBENC9ENSBiZWNhdXNlIGJpZyBzaXplIHZzbCBwcmVzc3VyZSBidXQgbm90IGZp
+eGVkKQ0KUElMOiA2MDAvMTAwMA0KDQpGb3IgSEpTLCBldmVuIHRob3VnaCBGTVggQ1BTIHBsYW4g
+b24gd2sgNDgsIGJ1dCBtYXJrZXQgY2FwYWNpdHkgaXMgc3RpbGwgbXVjaCBtb3JlIHRoYW4gdGhl
+IGRlbWFuZGluZywgd2Ugd2FudCB0byBzdGVwIGluIGFkdmFjZSBhbmQgcmVjb3ZlciBvdXIgcGZt
+YyBmcm9tIG5leHQgUFNHLg0KDQpQbHMgY29uc2lkZSB0byBhZGpzdXQgb3VyIHJhdGUgdG8gbWF0
+Y2ggNjAwLzEwNTAgZnJvbSBXSyA0OA0KDQp3YWl0aW5nIGZvciB5b3VyIGNvbW1lbnQNCg0KdGtz
+DQpicmdkL2phc29uDQoNCg0KDQo=
+
+--_000_D06C2507ECE1F749B7CA328054DBEC4E03C1FFcow380fhanjincom_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:=CB=CE=CC=E5;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@=CB=CE=CC=E5";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+@font-face
+	{font-family:\B9D1\C740\ACE0\B515;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@\B9D1\C740\ACE0\B515";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\B9D1\C740 \ACE0\B515";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:=CB=CE=CC=E5;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"=C5=FA=D7=A2=BF=F2=CE=C4=B1=BE Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:=CB=CE=CC=E5;}
+span.Char
+	{mso-style-name:"=C5=FA=D7=A2=BF=F2=CE=C4=B1=BE Char";
+	mso-style-priority:99;
+	mso-style-link:=C5=FA=D7=A2=BF=F2=CE=C4=B1=BE;
+	font-family:=CB=CE=CC=E5;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Arial","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ZH-CN" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#365F91">TO: CCE
+<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#365F91">FM: SHAASI<o:p></o:p></span></u></b></=
+p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#365F91"><o:p><span style=3D"text-decoration:no=
+ne">&nbsp;</span></o:p></span></u></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#365F91">Dear Mr. Han<o:p></o:p></span></u></b>=
+</p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">As reported by SHABBS =
+and got the information from the communication channel, the
+ market rate is dropping sharply.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">ASI suggest to support=
+ SHABBS application to adjust M/E rate G/L to USD600/1000 for
+ ETD Nov 26<sup>th</sup> PSG.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Wait for your comment =
+with thanks!<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#365F91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;
+<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><b><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;;color:#365F91">Thanks &amp; Best Regards!<o:p></o:p></sp=
+an></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><b><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;;color:#365F91">Alex Fan/SHAASG/ASI<o:p></o:p></span></b>=
+</p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;<=
+/o:p></span></p>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt">=B7=A2=BC=FE=C8=
+=CB<span lang=3D"EN-US">:</span></span></b><span lang=3D"EN-US" style=3D"fo=
+nt-size:10.0pt"> Jason SHI
+<br>
+</span><b><span style=3D"font-size:10.0pt">=B7=A2=CB=CD=CA=B1=BC=E4<span la=
+ng=3D"EN-US">:</span></span></b><span lang=3D"EN-US" style=3D"font-size:10.=
+0pt"> 2013</span><span style=3D"font-size:10.0pt">=C4=EA<span lang=3D"EN-US=
+">11</span>=D4=C2<span lang=3D"EN-US">19</span>=C8=D5<span lang=3D"EN-US"> =
+8:31<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> Alex FAN; Paris PENG; Grace WANG; Spike CHEN; Jessica LU; Jeong-Jae=
+ CHOI<br>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yan=
+g; Luth(Kyung-Won) CHOI; Andrew Hou; Claud Yan; Oasis Shen; Alex Lin<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> RE: M/E rate appliacation for wk 48<o:p></o:p></span></span></p>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<div id=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">TO: ASI<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">CC:CCE<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">FM:SHABBS/JASON<o:p></o:p></span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">Dear sir
+<o:p></o:p></span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">Tks for your concern always
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">While market changed very quickly, from yesterday =
+1800, APL suddenly adjust rate offer again by 600/1000, meanwhile OOCL/COSC=
+O followed their action
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">Also get the phone call from YML that they are int=
+ention to follow market rate movemnet on the last week of Nov<o:p></o:p></s=
+pan></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">As for it, we have no&nbsp;choice&nbsp;but to foll=
+ow ,&nbsp;We apply H/O &nbsp;conside to support us 600/1000 on with 48PSG<o=
+:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">Waiting for your comment<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">tks<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;">brgds<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span lang=3D"EN-US" =
+style=3D"font-family:&quot;\B9D1\C740 \ACE0\B515&quot;"><o:p>&nbsp;</o:p></=
+span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;\B9D=
+1\C740 \ACE0\B515&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;,&quot;sans-s=
+erif&quot;">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span lang=3D"EN-U=
+S" style=3D"font-family:&quot;Malgun Gothic&quot;,&quot;sans-serif&quot;">F=
+rom :
+</span></b><span lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&qu=
+ot;,&quot;sans-serif&quot;">&quot;Alex FAN&quot; &lt;<a href=3D"mailto:alex=
+fan@cn.hanjin.com">alexfan@cn.hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-18 16:36:11 ( &#43;08:00 )<br>
+<b>To : </b>Jason SHI &lt;<a href=3D"mailto:jasonshi@cn.hanjin.com">jasonsh=
+i@cn.hanjin.com</a>&gt;, Paris PENG &lt;<a href=3D"mailto:paris@cn.hanjin.c=
+om">paris@cn.hanjin.com</a>&gt;, Grace WANG &lt;<a href=3D"mailto:gracewang=
+@cn.hanjin.com">gracewang@cn.hanjin.com</a>&gt;, Spike CHEN
+ &lt;<a href=3D"mailto:spike@cn.hanjin.com">spike@cn.hanjin.com</a>&gt;, Je=
+ssica LU &lt;<a href=3D"mailto:jessicalu@cn.hanjin.com">jessicalu@cn.hanjin=
+.com</a>&gt;, Jeong-Jae CHOI &lt;<a href=3D"mailto:jjchoi@hanjin.com">jjcho=
+i@hanjin.com</a>&gt;<br>
+<b>Cc : </b>TH(Tae-Hoon) AN &lt;<a href=3D"mailto:than@hanjin.com">than@han=
+jin.com</a>&gt;, Sang-Jin HAN &lt;<a href=3D"mailto:sjhan@hanjin.com">sjhan=
+@hanjin.com</a>&gt;, Yoo-Kyung KIM &lt;<a href=3D"mailto:kimyk@hanjin.com">=
+kimyk@hanjin.com</a>&gt;, Aram KIM &lt;<a href=3D"mailto:aram@hanjin.com">a=
+ram@hanjin.com</a>&gt;,
+ Lloyd(Woosik) Yang &lt;<a href=3D"mailto:shakin@hanjin.com">shakin@hanjin.=
+com</a>&gt;, Luth(Kyung-Won) CHOI &lt;<a href=3D"mailto:luthchoi@hanjin.com=
+">luthchoi@hanjin.com</a>&gt;, Andrew Hou &lt;<a href=3D"mailto:andrew@cn.h=
+anjin.com">andrew@cn.hanjin.com</a>&gt;, Claud Yan &lt;<a href=3D"mailto:cl=
+aud@cn.hanjin.com">claud@cn.hanjin.com</a>&gt;,
+ Oasis Shen &lt;<a href=3D"mailto:oasis@cn.hanjin.com">oasis@cn.hanjin.com<=
+/a>&gt;, Alex Lin &lt;<a href=3D"mailto:alexlin@cn.hanjin.com">alexlin@cn.h=
+anjin.com</a>&gt;<br>
+<b>Subject : </b></span>=B4=F0=B8=B4<span lang=3D"EN-US" style=3D"font-fami=
+ly:&quot;Malgun Gothic&quot;,&quot;sans-serif&quot;">: M/E rate appliacatio=
+n for wk 48<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#365F91">TO:CCE
+<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#365F91">FM: SHAASI<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91">Dear Mr. Han:<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91">Week 47, our PSG rate G/L is=
+ USD675/1150 of SHABB and had a very poor pfmc with about 66% L/F against Q=
+TA 220TEU.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91">Considering the overall mark=
+et is getting weak and capacity recovery, ASI suggest to adjust SHABBS rate=
+ G/L for M/E to USD600/1050.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91">Please give your comment bef=
+ore sales action.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;Bookman Ol=
+d Style&quot;,&quot;serif&quot;;color:#365F91">Thank you! &nbsp;<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<b><u><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#365F91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<b><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#365F91">Thanks &amp; Best Regards!<o:p></o:p></span></b=
+></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-align:justify;text-justify:inter-ideograph">
+<b><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#365F91">Alex Fan/SHAASG/ASI<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-size:10.5pt;font-family:&quot;A=
+rial&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></=
+p>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><b><span style=3D"font-size:10.0pt">=B7=A2=BC=FE=C8=CB<span lang=
+=3D"EN-US">:</span></span></b><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t"> Jason SHI
+<br>
+</span><b><span style=3D"font-size:10.0pt">=B7=A2=CB=CD=CA=B1=BC=E4<span la=
+ng=3D"EN-US">:</span></span></b><span lang=3D"EN-US" style=3D"font-size:10.=
+0pt"> 2013</span><span style=3D"font-size:10.0pt">=C4=EA<span lang=3D"EN-US=
+">11</span>=D4=C2<span lang=3D"EN-US">18</span>=C8=D5<span lang=3D"EN-US"> =
+16:09<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> Paris PENG; Grace WANG; Spike CHEN; Jessica LU; Alex FAN; Jeong-Jae=
+ CHOI<br>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yan=
+g; Luth(Kyung-Won) CHOI; Andrew Hou; Claud Yan; Oasis Shen; Alex Lin<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> M/E rate appliacation for wk 48<o:p></o:p></span></span></p>
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">TO: ASI<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">CC:CCE<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">FM:SHABBS/JASON<o:p></o:p></span></=
+p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">Dear sir
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">Tks for your support always, Pls ch=
+eck M/E market situation below for your ref<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">M/E market movement show keep dropp=
+ing trend continously since Nov 1st RR. market rate decreased weekly by big=
+ quantum
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">For wk 47, FMX final loading 95teu =
+and PSG final is around 133teu(60%) only , the main reason is market capaci=
+ty recover totally
+ from this week and Market rate keep drop 2 or 3times during this week, we =
+have no way but follow.
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">For wk 48, we just checked other co=
+mpetors rate offer again, it seems market rate drop again even though on th=
+e last week before
+ Dec 1st RR. <o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">CSCL:650/1100
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">APL: 600/1050<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">OOCL: 600/1050(as their sales, they=
+ will adjust rate to 1000 for D4/D5 because big size vsl pressure but not f=
+ixed)<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">PIL: 600/1000<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">For HJS, even though FMX CPS plan o=
+n wk 48, but market capacity is still much more than the demanding, we want=
+ to step in advace
+ and recover our pfmc from next PSG. <o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">Pls conside to adjsut our rate to m=
+atch 600/1050 from WK 48<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">waiting for your comment<o:p></o:p>=
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">tks<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US" style=3D"font-family:&quot;&#47569;&#51008;&#=
+44256;&#46357;&quot;,&quot;serif&quot;">brgd/jason<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN-US">&nbsp;</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;&#47569;&#51008;&#44256;&#46357;&quot;,&quot;serif&quot;"><=
+o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_D06C2507ECE1F749B7CA328054DBEC4E03C1FFcow380fhanjincom_--

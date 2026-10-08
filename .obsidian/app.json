@@ -1,0 +1,17 @@
+{
+  "attachmentFolderPath": "Attached file",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "openBehavior": "daily",
+  "userIgnoreFilters": [
+    "2. Area/** 마켓 info & intelligence/시장변화분석/Bureau Veritas/비즈니스 - Documents"
+  ],
+  "focusNewTab": false
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2bc88b6578dac425","type":"text","text":"신한","x":-620,"y":-300,"width":250,"height":61},
+		{"id":"ba7cadd3d89ff85f","type":"text","text":"Hyundai","x":-620,"y":-200,"width":250,"height":60},
+		{"id":"d8d676899feb025d","type":"text","text":"하나","x":-620,"y":-80,"width":250,"height":60},
+		{"id":"ff93128477a9d7a3","type":"text","text":"하이패스","x":-620,"y":20,"width":250,"height":60},
+		{"id":"4792b5c01ef99f72","type":"text","text":"비용 정리 : 21_31(5/18_8/2)","x":-620,"y":-460,"width":250,"height":60},
+		{"id":"1b6d6aa593719cc3","x":-620,"y":120,"width":250,"height":60,"type":"text","text":"자동차 운행 기록"}
+	],
+	"edges":[]
+}

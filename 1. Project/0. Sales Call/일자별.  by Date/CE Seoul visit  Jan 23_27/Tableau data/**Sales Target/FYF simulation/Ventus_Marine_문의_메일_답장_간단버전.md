@@ -1,0 +1,35 @@
+Subject: Re: FYF simulation - CTV / Current Vessel Profitability Question
+
+Dear Young-Tae,
+
+Thank you for the FYF simulation.
+
+I have a question regarding the significant price gap between the current vessel and the proposed simulation:
+
+**Current Vessel (48257F):**
+- PV: 0.52 EUR
+- Profitability: Very-Low (bottom 10%)
+- Revenue: €4,986 / 9,620 points
+
+**FYF Simulation (New vessel):**
+- Proposed PV: 1.236 USD
+- Gap: +121% vs current
+
+**Questions:**
+1. Is the current PV 0.52 EUR correct? Why is it so low?
+2. Can we adjust the existing vessel's tariff to match the new proposal?
+3. What is the realistic price range for both vessels going forward?
+
+We're planning to add a similar CTV vessel, but need to address the current vessel's low profitability first before proceeding.
+
+Could you please clarify these points?
+
+Best regards,
+
+Sang-Jin Han
+Marine Marketing & Sales Manager (理事)
++82 10 4167 0528
+
+BUREAU VERITAS KOREA MARINE & OFFSHORE
+(Seoul) #1011, 42, Hwangsaeul-ro 360-gil, Bundang-gu, Seongnam
+(Busan) 24th Floor, 639, Jungang-daero, Busanjin-gu, Busan

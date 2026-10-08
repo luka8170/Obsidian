@@ -1,0 +1,1 @@
+[[단독] LS전선, '약 1조 규모' 카타르 전력망 확충 초대형 프로젝트 계약](https://www.theguru.co.kr/mobile/article.html?no=103527)

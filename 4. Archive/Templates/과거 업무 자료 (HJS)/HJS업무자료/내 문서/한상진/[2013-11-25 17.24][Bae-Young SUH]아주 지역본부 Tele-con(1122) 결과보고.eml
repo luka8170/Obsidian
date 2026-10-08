@@ -1,0 +1,2295 @@
+Received: from COW380C.hanjin.com (192.168.100.243) by kovhhvmd.hanjin.com
+ (203.246.154.26) with Microsoft SMTP Server (TLS) id 14.3.123.3; Mon, 25 Nov
+ 2013 18:24:33 +0900
+Received: from COW380E.hanjin.com ([192.168.10.1]) by cow380c.hanjin.com
+ ([192.168.100.243]) with mapi id 14.03.0123.003; Mon, 25 Nov 2013 17:23:55
+ +0800
+From: Bae-Young SUH <bysuh@hanjin.com>
+To: Sang-Real BAEK <srbaek@hanjin.com>, Sang-Keun KIM <sangkkim@hanjin.com>,
+	"Rainbow(Chae-Hong) LEE" <chonglee@hanjin.com>, "SW(Seung-Woo) OH"
+	<swoh@hanjin.com>, Dong-Hwan KIM <kimdh@hanjin.com>, "JH(Jong-Hoon) KIM"
+	<jhkima@hanjin.com>, Sang-Mook MOON <smmoon@hanjin.com>, "MY(Mun-Young) KIM"
+	<mykim@hanjin.com>, Kuk-Jong Lee <kjlee@hanjin.com>, Kwang-Heuy CHO
+	<khcho@hanjin.com>, Hyung-Su KIM <hskim@hanjin.com>, Seon-Woo NAM
+	<swnam@hanjin.com>, Seon-Young HWANG <syhwang@hanjin.com>, Chan-Young KANG
+	<cykang@hanjin.com>, Dae-Kyu KIM <forbong@hanjin.com>, Jung-Hwan PARK
+	<jhpark323@hanjin.com>, Kang-Soo KIM <kskim03@hanjin.com>, Kwang-Oog RYU
+	<ryuko@hanjin.com>, "David(Hyoung-Wook) PARK" <hwpark@hanjin.com>, Yoon-Han
+ JUNG <jungyh@hanjin.com>, Gi-Hyun KWON <khkwon@hanjin.com>, "MD(Myung-Deok)
+ CHO" <mdcho@hanjin.com>, Young-Kyu SONG <yk.song@hanjin.com>, "JC(Jin-Cheol)
+ KIM" <kjc10@hanjin.com>, "JS(Ji-Suk) KIM" <jskim@hanjin.com>, Hee-Do PARK
+	<hdpark@hanjin.com>, Soo-Hyun KONG <shkong@hanjin.com>, Boo-Young CHUNG
+	<byjung@hanjin.com>, Jin-Woo AHN <jwahn@hanjin.com>
+CC: Moo-Kyoon OH <mkoh@hanjin.com>, Jong-Hyun Kim <jhkim@hanjin.com>,
+	Young-Kuk YUN <ykyun@hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>,
+	Kyong-Sik PARK <ksikpark@hanjin.com>, Young-Jun LIM <yjlim@hanjin.com>,
+	"Mark(Yoon-Jai) LEE" <yjlee@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>,
+	Hong-Kyoo LEE <hklee@hanjin.com>, Young-Joo KANG <yjkang1@hanjin.com>,
+	Jung-Moo LEE <jmleea@hanjin.com>, Hi-Chan CHO <hccho@hanjin.com>, Ki-Young
+ KIM <kiykim@hanjin.com>, "Suk-Hyun(Brian) Lee" <shl1@hanjin.com>, Jong-Man
+ HONG <jmhong@hanjin.com>, Sang-Young SHIN <syshin@hanjin.com>,
+	"Jessie(Ji-Soo) YOON" <jessyoon@hanjin.com>, Yeong-Sig PARK
+	<parkys@hanjin.com>, Ho-Jun KANG <hojkang@hanjin.com>, "Emily (Min-Jeong)
+ JEONG" <mjjeong@hanjin.com>, Jung-Min KANG <jmkang@hanjin.com>,
+	"Michael(Jong-Min) Kim" <bigfish7@hanjin.com>, "Jacob(Sung-Min) JEAN"
+	<jeansm@hanjin.com>, "Luke(Donguk) Joung" <lukejoung@hanjin.com>, Chil-Ho KIM
+	<chilhkim@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, Hyun-Sup SHIN
+	<hsshin@hanjin.com>, Jong-Suk LIM <jslim@hanjin.com>, Jung-Seo MOON
+	<jsmoona@hanjin.com>, Eung-Sig BAI <esbae@hanjin.com>, "Kooks(Kook-Shin) KIM"
+	<kookskim@hanjin.com>, Jae-Hee JANG <jhjang@hanjin.com>, Young-Ho SON
+	<yhson@hanjin.com>, Chong-Soo KIM <bbol94@hanjin.com>, "YI(Yong-In) Lee"
+	<yilee@hanjin.com>, Joon-Sang PARK <jspark1@hanjin.com>, "Ara(A-RA) CHO"
+	<archo@hanjin.com>, Sang-Soo LEE <2ss@hanjin.com>, Ho-Sik PARK
+	<hspark@hanjin.com>, "Edward(Kwang-Min) LEE" <kmlee@hanjin.com>,
+	"Dynia(Min-Sun) Kim" <mskim@hanjin.com>, Sungjae Kang <sjkang81@hanjin.com>,
+	Ken-Hyoung HONG <khhong@hanjin.com>, Tae-Jin KIM <ktj5274@hanjin.com>,
+	"Claire(Gong-Hee) LEE" <becoz@hanjin.com>, Hye-In AHN <hiahn@hanjin.com>,
+	"Matt(Wonil) Choi" <willchoi@hanjin.com>, Sung-Ku KIM <imsungku@hanjin.com>,
+	Seung-Min PARK <sminpark@hanjin.com>, "TH(Tae-Hoon) AN" <than@hanjin.com>,
+	Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>,
+	"Lloyd(Woosik) Yang" <shakin@hanjin.com>, WON-SEO JEONG <wsjeong@hanjin.com>,
+	Jin-Ki PARK <jkpark@hanjin.com>, "HH(Han-Hoe) KIM" <hhkim@hanjin.com>,
+	Cheon-Won PACK <cwpark@hanjin.com>
+Subject:
+ =?ks_c_5601-1987?B?vsbB1iDB9r+quru6ziBUZWxlLWNvbigxMS8yMikgsOGw+rq4sO0=?=
+Thread-Topic:
+ =?ks_c_5601-1987?B?vsbB1iDB9r+quru6ziBUZWxlLWNvbigxMS8yMikgsOGw+rq4sO0=?=
+Thread-Index: AQHO6cAPfIWd3bLIkEaDxd3yTwL10w==
+Disposition-Notification-To: Bae-Young SUH <bysuh@hanjin.com>
+Date: Mon, 25 Nov 2013 18:23:53 +0900
+Message-ID: <D0BEC7A785CC00468D868AE84E6E0894050152@cow380e.hanjin.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380c.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [222.68.181.254]
+Content-Type: multipart/alternative;
+	boundary="_000_D0BEC7A785CC00468D868AE84E6E0894050152cow380ehanjincom_"
+MIME-Version: 1.0
+
+--_000_D0BEC7A785CC00468D868AE84E6E0894050152cow380ehanjincom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+RFQgOiAyMDEzLjExLjI1DQpUTyA6IENFQywgUkFTLCBTU0MsIFNTVCwgQ0NNLCBDQ0EsIENDRQ0K
+Q0MgOiBCQkcvQkJTLCBSTkEvTlNHLCBSV0EvV1NHLCBSVVIvVVNHDQpGTSA6IEFTRw0KDQpTVUJK
+RUNUIDogvsbB1iDB9r+quru6ziBUZWxlLWNvbiCw4bD6KDExLzIyKSC6uLDtDQoNCjEuIMi4wMcg
+wM+9wyA6IDIwMTMuIDExLiAyMiAosd0pIEJlaWppbmcgVGltZSAxMDowMH4xMTo0NQ0KDQoyLiDC
+/LyuwNogOiBSQVMsIEFTRywgQVNUL0UvSS9NILnXIL7Gwda6u7rOILvqx88gMTOwsyDBobzSDQoN
+CjMuIMi4wMcgs7u/6w0KDQogsKEuILnMwdaz67yxIDExLzE1wM8gR1JJwMzIxCBNYXJrZXQgtb/H
+4rD6IMfiyMQgNMHWIMD8uMENCg0KICAgMSkgS09SDQogICAgICAtIDExv/kgMTXAz7rOIFcvQyBV
+JDE1MH4yMDAvNDAnLCBFL0MgVSQxMDAvNDAnwMwgwPu/67XHvvrAuLjnIE1hcmtldCC/7sDTwLoN
+CiAgICAgICAgRkFLILHiwdggVy9DIFUkMTgwMC80MCcgRS9DIFUkMzI1MC80MCfAuLfOIMf8vLq1
+x77uIL3HwfogwPu/6yC/7sDTwLogVy9DDQogICAgICAgIFUkMTcwMC80MCcgRS9DIFUkMzEwMC80
+MCe3ziDH/Ly6DQogICAgICAtIDQ3wdbC97rOxc0gsKHA/LvnILDowP3A+yC68bz2seK3ziA2MCXA
+zLvzILmwt64gsd6wqMfRILvzxcLAzLjnIL+pxbggQkNPLw0KICAgICAgICBOVk9DQ8DHIMitubC1
+tSDHz7b0vLy4piC6uMDMsO0gwNbAvQ0KICAgICAgLSBNYXJrZXQgTC9GtMIgUFMvUE4gODAlLCBB
+VyA5MCUgvPbB2L+hvK0gMTK/+bHuwfYgwK/B9iC/ucGkLCDH0bG5wfbBocC6DQogICAgICAgIDEy
+v/kgwPzDvMD7wLi3ziA5MCWzu7/cwMcgRidjYXN0IL+5u/MNCiAgICAgIC0gUFPAxyC9x8D7sLO8
+scC7IMCnx9ggTlZPQ0PIrbmwILCzud/AuyDF68fYIFNob3J0ZmFsbCC4uMi4IMHWt8K/ucGkwMyz
+qg0KICAgICAgICCwocD8u+csIMW4wMy+7rmwt67AzCDA/MO8IDUwJbimIML3wfbHz7DtIMDWvu4g
+wPzDvCC9x8D7ILi4yLi/oSC+7rfBv/Igv7m78w0KDQogIDIpIEpQTg0KICAgICAgLSAxMb/5IDE1
+wM+6ziBHUkm0wiBITU217iAxMr/5IDHAz7rOt84gv6yx4rXHvvrAuLOqIMW4vLG757TCIFdhaXZl
+IMG2xKHB3w0KICAgICAgLSBNYXJrZXQgTC9GtMIgvuAgODUlILz2wdjAuLfOIMbEvse1x7jnIDEw
+v/m6zsXNIL3DwOUgubC3rrCovNK3ziDB1rfCILPrvLHAzg0KICAgICAgICBKUFggvcfA+7TevLq/
+oSC+7rfBv/LAzCDA1rTCILvzyLLAuLfOIFNwb3QsIFNwZWNpYWwgyK25sCDB373JwLi3ziDGx7jF
+L8CvxKHHz7+pDQogICAgICAgIL3HwPsgyLi6uSCz67fCDQoNCiAgMykgVFdODQogICAgICAtIMfi
+yMQgNcHWIEYnY2FzdLTCIFBTIDg1fjkwJSwgUE4gMTAwJSwgQVcgOTUlvPbB2MDMuOcgMTG/+SAx
+NcDPus4gR1JJtMINCiAgICAgICAgVy9DIFUkMjAwLzQwJyBFQyBOTyBHUkkgwPu/68fPv6kgUFMg
+VSQxODAwLzQwJyBBVyBVJDMxNTB+MzIwMC80MCcNCiAgICAgICAgvPbB2MDMs6ogxbi758DHILDm
+v+wgUFMgVSQxNzAwfjE3NTAvNDAnIEFXIFUkMjgwMH4zMDAwLzQwJyC89sHYwLi3ziC/7sDTDQog
+ICAgICAgIML3wMwgud+7/Q0KICAgICAgLSBQU8DHILDmv+wgRk9CIEJDTyC5sLeusKi80iAsIEF1
+dG8gcGFydHO5sLeuwMcgv+7A08L3t84gvLHA+7mwt64gsd6wqMfPv6kgwda3wg0KICAgICAgICCz
+67yxwM4gWVBTwMcgsOa/7CA4NSUgvPbB2MDMuOcsIFBOwLogvsjBpMD7wM4gQ29uc29sLCBCQ0+5
+sLeuwLi3ziAxMDAlIL+5u/MNCg0KICA0KSBOLlBSQw0KICAgICAgLSBHUknAzMjEIL/uwNPAuiBX
+L0MgVSQxODAwfjE5MDAvNDAnwMy45yBNU0u17iDAz7rOvLG75yBVJDE3NTAvNDAnwLi3zg0KICAg
+ICAgICC/7sDTx8+29CDBpLq4sKEgwNbAuLjnIE1UUi9UT1IgVSQzMzAwfjMzNTAvNDAnLCBBVyBV
+JDI4NTB+MzE1MC80MCcgvPbB2MDMuOcNCiAgICAgIC0gx+LIxCBmJ2Nhc3S0wiBQUyA5NX4xMDAl
+IFBOIDg1fjEwMCW89sHYIEFXtMIgOTB+OTUlIL+5u/MNCiAgICAgICAgUE7AxyCw5r/stMIgNDjB
+1rrOxc0gRnJlZCBNZXllcsDHILmwt67B9bChsKEgv7m787XHuOcgUFO0wiA0OcHWwve6zsXNIENT
+Q0wNCiAgICAgICAgL1lNTC9VQVNDwMcgs+u8sSBNZXJnZbfOILvzx9i53yDB1rCjIDYwMH43MDBU
+KMD8w7wgMiUpwMcgvLG6uSCwqLzSIL+5u/MNCiAgICAgIC0gVFNOQkIgOiBQU8fiIFlpbmdsacit
+ubAgwd+03CC51yC777y6wPzA2iC5sLeusKi80rfOIFBTWCC9x8D7tN68uiCzrcfXDQogICAgICAt
+IFRBT0JCIDogUmVlZmVytMIgR1JJwPu/67XHwfYgvsq+0sC4uOcgx/bA5yC9w8Dlv+7A0yBVJDEz
+MDAvNDAnIHJlZWZlciC89sHYwLi3zg0KICAgICAgICAgICAgICAgICAgILO3sNQgx/y8urXHvu4g
+wNa+7iC9w8DlILD8uMHB3w0KDQogNSkgUy5QUkMNCiAgICAgIC0gwPzDvMD7wLi3ziCzssHfsbkg
+MTK/+SBGJ2Nhc3S0wiA5NSW89sHYIL+5u/O1x7jnIFhNTsH2waHAxyBGJ2Nhc3S0wiDA/LPrvLEg
+ODAlDQogICAgICAgIMHfud3AxyC+4Ly8sKEgv7m78w0KICAgICAgLSBIS0dCQiA6IE0vTLTCIFBT
+IDkwJSwgUE4gODglLCBBVyA4NSW89sHYwMy45yBNU0sgVSQxNzUwLzQwJ8C4t84gv+7A0yBvZmZl
+csHfDQogICAgICAgIMfiyMQgMTK/+SCwob3DwPsgubC3rsH1sKEgv7m787XHwfYgvsrAuLjnIMDM
+tMIgMb/5ILr8uKUgw+HA/bfOIMDOx9ggMb/5wMzIxCC5sLeuDQogICAgICAgIMH1sKEgv7m78w0K
+ICAgICAgLSBTWlBCQiA6IDExv/kgMTXAz7rOIEdSSbTCILyxu+e6sCBXL0MgVSQyNTB+MzUwLzQw
+JyBFL0MgVSQwfjMwMC80MCfA+7/rwMzIxA0KICAgICAgICC/7sDTx8/H4iDBtsGkwd/AzLjnIMf2
+wOcgTWFya2V0IL/uwNO89sHYwLogVy9DIFUkMTcwMH4xODUwLzQwJyBFL0MNCiAgICAgICAgVSQy
+ODAwfjMxMDAvNDAnILz2wdgNCg0Ks6ouILG4wdaz67yxIDExLzHAzyBSL1LAzMjEIE1hcmtldLW/
+x+Kw+iBDSUYguvHB3yDB9bTrILnmvsgNCg0KICAgIDEpIEtPUg0KICAgICAgLSC6z7G4ILPrvLHA
+uiBSL1LAzMjEIDPB1ig0NX40N8HWKbCjIE1hcmtldCC5sLeuILCovNK3ziBML0YgNzB+ODAlDQog
+ICAgICAgIChSUrfOIMDOx9EgwNu+9yDB9r+sILnXIEJVWUVSIE9SREVSILCovNIgv7XH4ikNCiAg
+ICAgIC0gwfbB38fYILPrvLHAuiBNU0ssIE1TQyCw+LHet64gsKjD4MC4t84gwM+6ziBSZXNpbiBs
+b3QgubC3riA2MC04MFSwoSC057vnt84NCiAgICAgICAgwPzIr7XHvu4gu/O068D7wLi3ziAgvufI
+o8fRILzSvK7AsiDAr8H2IMHfDQogICAgICAtIDEyv/kgM8DPIMPix9cgv7nBpMDOIE5FNiAgIkhK
+R04wMDA0VyIgIEYnY2FzdCDAuiC48celtOu68SA3MCUgvPbB2MC4t84sDQogICAgICAgIFIvUsDM
+yMQgwK+9x7XIIMitwdYgwKfB1rfOIFByb21vdGlvbiDHyr/kILDoyLkgwNrDvCC89rizDQogICAg
+ICAtIMPWsdkgwM+6ziC067iuwaEgvLG75yAoWU1ML0tMSU5FILXuKSDAp8HWt84gwPqwoSC/7sDT
+IMitwda/obDUIMGmsPggwd8NCiAgICAgICAgKFUkIDk1MC0xMDAwLzIwJykNCiAgICAyKSBKUE4N
+CiAgICAgIC0gMTEvMcDPus4gUi9SwLogwM+6u7nfIMGmv9y3ziBNYXJrZXQguq/IrSC++MC4uOcg
+MTG/+SDB3y/Hz7z4ILyxwPu5sLeuwMwNCiAgICAgICAgtbXC+MH2IL+syN63ziDAzsfYIMD8w7zA
++8DOILmwt67AuiC02bzSILCovNLHz7+0wLizqiAxMr/5IMO5wOfB1iC6zsXNtMINCiAgICAgICAg
+v7nA/CC89sHYwLi3ziC5sLeuIMi4urkgv7m78w0KICAgICAgLSDAz7q7IMavvLq78yBCQ08gudcg
+TlZPQ0PAxyBOYW1lZCBCaXogubC3rsDMIMHfwOWx4iCw6L7gIMitwda3ziDB+MfgDQogICAgICAg
+ILTcseLA+8C4t84gQ0lGILmwt64gyK606yC+7rfBv+4gu/PIssDMs6ogU3BvdCC51yBQcm9qZWN0
+vLogyK25sCDAr8ShuKYgxevH2A0KICAgICAgICBDSUYgubC3riDB9bTrIMPfwfggwd8NCiAgICAg
+IC0gsbjB1iDH17fOIFlpZWxkIE1hbmFnZW1lbnQgsPy3wyC9w8Dlu/PIsr+hILX7tvMgvLHA+8H2
+urAoVFlPLCBPU0EsIE5HTykNCiAgICAgICAgQ01QQrChILvztOfI9yDC98DMsKEgwNa+7iC9usbk
+wMy9uiC6zsG3vcMgQ01QQiCw7bfBIL+1vve80rqwIEFMTE9DILnowaTB3w0KICAgIDMpIFRQRQ0K
+ICAgICAgLSAxMb/5IDLB1sL3us7FzSBNYXJrZXQgubC1v7euILCovNK/oSC1+7ilIL/uwNMgx8+2
+9MC4t84gUi9SIMD7v+sNCiAgICAgICAgM8HWwve6zsXNIL/uwNMgwM7HzyDBtsShDQogICAgICAt
+ICC057vnIENvbnNvbCC/7sDTwLogVSQyNjAwLzQwJywgQ1m/7sDTIFUkMjQwMH4yNTAwLzQwJyC8
+9sHYwMyzqiwgsd3B1rrOxc0NCiAgICAgICC/7sDTwMwgwbbBpLXHvu4gWU1Mv6G8rSDBprD4tce0
+wiBDb25zb2wgv+7A08C6IFUkMjI1MC80MCfA0w0KICAgLSAxMr/5IFByb2plY3Rpb27AuiC6z8Cv
+t7QgOTV+MTAwJSwgwfbB38fYIDkwJSC89sHYwLi3ziCwrcfPwfYgvsrAuiC788iywMy45w0KICAg
+ICC68bfPIDEyLzE1us4gUi9SILD8t8PHz7+pILTrus660CC8sbvnsKEgVSQ3NTAvMjAnILz2wdjA
+uLfOILHiILD4wfYgx8+/tMC4s6oNCiAgICAgUi9SILy6sPggv6m6zrTCIL7GwfcgutLF9bjtx9QN
+Cg0KICAgIDQpIEROQw0KICAgICAgLSC6z7G4IE1hcmtldCBML0YgODUtOTAlICwgIMH2wd/H2CBN
+YXJrZXQgTC9GIDcwLTc1JSC89sHYwNMNCiAgICAgIC0gMTG/+SBSL1IgwMzIxCCwoiC8sbvntenA
+zCCz9MC6IENJRiC5sLeuIMCvxKG4piDAp8fYIERhaWx5ILTcwKe3ziC/7sDTwLsgwbbBpA0KICAg
+ICAgICDH9sDnIE1hcmtldCC/7sDTILz2wdjAuiBVJDE4MDAtMjAwMC9ENLHuwfYgx8+29A0KICAg
+ICAgLSC/qcD8yPcgRzYsIEVNQywgQ1NDTMC6IL3DwOUgv+7A0yDAzsfPuKYgwda1tcfPsO0gwNbA
+uLjnIMavyPcgQVBMwMwgvcPA5b+hvK0NCiAgICAgICAgv+7A0yBhY3Rpb27AuyCwocDlILr8uKOw
+1CDBtsGkwd+/oSDA1sC9DQogICAgICAtIMPWsdkgus/B37G5IMGhvNLAxyBTY2hlbmtlciwgQ2V2
+YcDHILrPsbggubC3riAxMCUgsKi80iDD37y8wMy45ywgwfbB38fYs+u8scDHDQogICAgICAgIMHW
+v+QgRk9CyK3B1sDOIFNjaGVua2VyLCBTYWltYSC5sLeuILbHx9EgMTV+MjAlsKi80iC/ubvzDQog
+ICAgICAtIFlpZWxkIE1hbmFnZW1lbnQgwfa808HfwMy45yDGr8j3IL/uwNMgvPbB2MDMILO3wLog
+TmFtZWQgyK3B1r+hILTrx9i8rbTCDQogICAgICAgIMH2vNPA+8C4t84gvLG6uSDBpsfRwd8NCg0K
+ICAgICA1KSAgRFNDDQotIFIvUiC9w8fgIMHWwvcsIE1hcmtldCC/7sDTIEZFVbHiwdggVSQyNzAw
+fjI5MDAvNDAnvLEgwK/B9rXHvvrAuLOqLCDD1rHZDQogIFNwb3QgcmF0ZSC/7sDTILz2wdggVSQx
+ODUwfjIwMDAvNDAnILz2wdix7sH2IMfPtvQuDQotIDEyv/kgwd+8+CBSL1IgwPyx7sH2IMH2vNPA
++8DOIL/uwNMgx8+29MDMIL+5u/O1x7jnLCBNYXJrZXQgUi5SIMDMwPwgv+7A0yC89sHYDQogIFUk
+MTUwMH4xNjAwLzQwJyC/ubvzDQotIFlpZWxkIG1hbmFnZW1lbnQgsK3IrbimIMCnx9ggus+xuCBN
+T0EgyK3B1iBTLk5BQyBCS0cgwbbA/bfOIMDOx9ggTU9BIL3HwPsNCiAgwPrBtsfPv7TAuLOqLCC9
+w8DlIL/uwNMgx8+29L+hILX7uKUgTU9BIEZBSywgTkFDIL/uwNMgwbbBpCC51yDD37ChILmwt64g
+yK66uCDF68fYDQogILrPsbjH4iBDSUYguvHB3yDB9bTrIMPfwfggwd8NCi0gvK3B9sHfx9ggubC3
+riCwqLzSv6Egtfu28yC1v8H2wd/H2CBDSUYgubC3riDA+7HYIFByb21vdGlvbsHfv6EgwNbAuLjn
+ILHiwbggwdawow0KICDG8rHVIDY4VL+hvK0gwdawoyAxMDBUIFRhcmdldMC4t84gwMy9urbzv6Qs
+IMDMwf3Griwgxc2x4iC51yCx17iuvbrH4iC5sLeuIMH1tOsgw9/B+A0KDQq02S4gs7K5zLPrvLEg
+WWllbGQgTWFuYWdlbWVudCC9w8fgsPy3wyDH9siyDQoNCiAgICAxKSBLT1INCiAgICAgLSAxMr/5
+uLux7sH2ILW/L7ytvsggsPjI9yAxMjB+MTMwJSBGJ2Nhc3Qgv7m787XKv6Egtfu28yBCaWTIrcHW
+wM4gR2xvdmlzLCDBpsDPuPDB98C7DQogICAgICAgwaa/3CBHL2xpbmXHz8fiIMitubAgw7bA+sj3
+IFNwYWNlsPy4rr/NILT1utK+7iBTcGFjZSC6zsG3v6Egtfu4pSCwx7yzwNrA5yDIrbmwKEFXSynA
+ug0KICAgICAgILyxurDA+8C4t84gU3BhY2Ugus6/qQ0KDQogICAgMikgTi5QUkMNCiAgICAgLSBN
+YXJrZXQgTC9GtMIgRUNTQSA5MCUsIFdDU0EgODB+ODUlvPbB2MC4t84gw9ax2SC5sLeusKi80rCh
+ILXOtc63wcH2sO0gwNbAuLjnDQogICAgICAgtb++yMDHILDmv+wgQ01QQiBHUknA/CBVJDUwMC8y
+MCe/obytIFUkMTAwMH4xMTAwLzIwJ7z2wdjAuLfOILvzvcIgudcgvK2+yMDHILDmv+y1tQ0KICAg
+ICAgIDExv/kgR1JJwMzIxCBDTVBCsKEgVSQ0NTAvMjAnv6G8rSBVJDE1MDAvMjAnILz2wdjAuLfO
+ILvzvcLH1L+hILX7tvMgQ0lGILrxwd8NCiAgICAgICDB9bTrILnXIMHfvNLH/CDIrcHWIMCvxKG4
+piDF68fYIMitwdYgtNm6r8itIMPfwfgNCiAgICAgLSC8rb7IwMcgsOa/7CAxMr/5wMzIxCC9w8Dl
+sPix3reuIDEwJbO7v9wgsKi80rfOIEdSSSCx4MGkwPvAuLfOIMbHtNy1yr+hILX7tvMNCiAgICAg
+ICBHUkkgu/PIsiC46bnQyPcgsMvF5A0KDQogICAgNCkgUy5QUkMNCiAgICAgLSCzsrnMtb++yCAx
+Mb/5IDE5wM+6zsXNILyxu+e6sCC/7sDTwbbBpMC4t84gvcPA5b/uwNMgVSQxNTAvMjAnIMfPtvTH
+z7+pIMf2wOcgVSQxNzAwLzIwJw0KICAgICAgILz2wdjAzLjnILytvsjAxyCw5r/stMIgMTG/+SA5
+wM8gtOu68SBVJDIwMC8yMCcgx8+29MfPv6kgVSQxMzAwLzIwJyC89sHYIMf8vLoNCiAgICAgLSBD
+TElRUcDHIENNUEKwoSDFuCBEZXN0aW5hdGlvbiC067rxILO3vsYgxbggRGVzdGluYXRpb27Irbmw
+ILCzud8gwda3wiC51yDAz7rOIExvdw0KICAgICAgIENNUELIrbmwwM4gUFJEIMitubAgU3BhY2Ug
+Q29udHJvbMHfDQoNCrbzLiC6u7rOIL/kw7sgudcgsK3Btrvnx9cNCg0KICAxKSAxMb/5IDHAz7rO
+ILG4wdYsILOyucwvyKPB1iCz67yxwMcgsK23wsfRIFIvUr+htbUgutKxuCDAz7rOIMGhvNK0wiC5
+zMH4x9EgsOGw+rChDQogICAgILOqxbizqrDtIMDWtMK52SwgsKIgwaG80sDlwLogsKIgyK25sLqw
+IL/uwNMgud2/tcC7IMiuwM7Hz7+pIGJvb2tpbmfAzCC1x7W1t88NCiAgICAgsPy4riDDtsD6IL/k
+w7sNCiAgMikguczB1rPrvLHAxyCw5r/sIMDPus4gQkNPyK3B1sDHIE1RQ7TevLrAuLfOIMW4u+e3
+zsDHIMitubAgwK+9x8DMIL+5u/O1x7nHt84NCiAgICAgvLq89rHiIFNwYWNlIMH2v/jIrcHWsKEg
+xbi757fOIMitubAgwPy56LChILOqxbizqsH2IL7KtbW3zyCwoiDIrcHWurAgvsjBpMD7wM4NCiAg
+ICAgubC3riDAr8H2sKEgtcm89iDA1rW1t88gx9fC97qwL0Jvb2tpbme6sCDIrsDOIL/kw7sNCiAg
+Mykgs7K5zLytvsjAxyC057vnIFNWQyBSZXNodWZmbGW3ziDAzsfRIE1hcmtldCBDYXBhY2l0ebCh
+IDEwJSg1MDAwVCmwoSAxMr/5IMPKus7FzQ0KICAgICCwqLzStcq/oSC1+7bzILW/ILHiyLi4piDA
+zL/rx8+/qSDIrcHWILTZuq/Irb/NIL/uwNPAzrvzILPrt8Igv+TDuw0KICA0KSCxuMHWs+u8scC6
+IDExv/kgUi9Suri02SC09SCws7yxtcggsOGw+iC1tcPiwLsgwKfH2CAxMr/5IDE1wM8gvce9wyC/
+ucGkwM4NCiAgICAgIFIvUiBVU0QgODAwLzE2MDAgwPux2CC9w8fgILnXIEhpZ2ggQ01QQiDIrbmw
+wMwgv+y8scD7wLi3ziC8scD7ILXHvu4gw9+woSBSRVYNCiAgICAgIMOiw+IgtckgvPYgwNa1tbfP
+ILCiIEJvb2tpbmcgtNzAp7+hvK26zsXNIMO2wPrHz7DUIFlpZWxkIG1hbmFnZW1lbnQgsK3IrQ0K
+ICA1KSDD1rHZILTnu+cgwfbB38fYILPrvLEgTC9GIMC6IL7gIDY1JSC89sHYwLi3ziDH9sDlIMH2
+waG/obytIL7wsd7Hz7TCIE1hcmtldCBML0YNCiAgICAgNzAtNzUlILTruvEgs7fAuiC788iyILCo
+vsggwe+wosD7wM4gbG9hZCB1cCDD38H4wLsgxevH2CC80ryuwLIgwaaw7SC/5MO7DQo2KSDIq8fY
+L8Hftb8gs+u8scC6IDExv/kgw7kgwdbC97i4IL/uwNMgwM6788DMILy6sPi1x776wLizqiDB9rzT
+wPvAziCw5sDvIL3JyK23zg0KICAgx/Ygv+7A08DMIDEwv/m4uyC/7sDTILz2wdix7sH2IMDnx8+2
+9CC1x77uIDEyv/kgMcDPLCAxNcDPILDoyLm1yCBSL1INCiAgIMD7sdggvcPH4CDHyr/kDQogIDcp
+IMijwdYgs+u8scDHIL/uwNMgwM6788C6ILy6sPjA+8DMwfa4uCCwoiDH9sDlIMH2waG/oSC56MGk
+x9EgTU9BIEFDQ1QgTmFtZWQNCiAgICAgIEJpeiBhbGxvY2F0aW9uIMHYvPbHz7DtILnduOkgRkFL
+ILrxwd8gwfa80yDIrrTrIMfKv+QNCiAgOCkgv8PH2CC/tb73wMzAzSDD38GkvcfA+8C6IL7gIDK+
+7zXDtbi4ILrSIMD7wNqwoSC/ubvztce45yCzu7PitbUgu+e+97DoyLnAug0KICAgICCx3cC2uvG/
+68C7ILCovsggudcgyLi75yC+yMbGwMcgu/PIssC7ILDtt8EgvuAgMb7vIDfDtbi4ILrSIMD8yMS3
+ziDB+MfgIL+5u/MNCiAgICAgtOe758DHIDO60LHiIL+1vve9x8D7wLogxbggvLG757/NILrxsbMg
+vcMgwd+woyC89sHYwMcgvcfA+8C4t84gx+LIxCC09b/tDQogICAgILrQud/AzCDHyr/kx9EgsOGw
++sDTwLsguO29ySDH0iCwzQ0KICA5KSCzu7PitbUgvcWx1CDAzrz2ILyxudq/obW1ILrSsbjHz7Dt
+ILHds+K1tSC067rxILD4sd7AzCDB9bChx8/B9iC+ysC7ILDNwLi3zg0KICAgICC/ubvztce45yC+
+1cC4t87AxyC9w8DlILvzyLLAzCC60sX1uO3Hz7DtILTnu+e/obDUIL/syKPA+8DMwfYgvsrAuyCw
+zcC4t84NCiAgICAgxse03LXHuce3ziCwoiDBobzSwOXAuiC/+MSisPogseK6u7+hIMPmvcfI9yDH
+z7+pIMGhvNKw/Liuv6EguLjA/MC7ILHix9IgsM0uILOhLg0KDQoNCiAgYmVzdCByZWdhcmRzLA0K
+DQo=
+
+--_000_D0BEC7A785CC00468D868AE84E6E0894050152cow380ehanjincom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+</head>
+<body>
+<div style=3D"FONT-FAMILY: =B8=BC=C0=BA =B0=ED=B5=F1; FONT-SIZE: 12pt" id=
+=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>
+<div id=3D"ORGMAIL_CONTENT">
+<div style=3D"FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt"><span style=3D"B=
+ACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-fam=
+ily: 'Times New Roman'; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1=
+'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">DT
+ : 2013.11.25 </span></div>
+</div>
+<div>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">TO : CEC=
+, RAS, SSC, SST,&nbsp;CCM, CCA, CCE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">CC : BBG=
+/BBS, RNA/NSG, RWA/WSG, RUR/USG</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">FM : ASG=
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">SUBJECT =
+:
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BE=C6=C1=D6 =C1=
+=F6=BF=AA=BA=BB=BA=CE<span lang=3D"EN-US"> Tele-con
+</span>=B0=E1=B0=FA<span lang=3D"EN-US">(11/22) </span>=BA=B8=B0=ED</span><=
+/p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">1.
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C8=B8=C0=C7 =C0=
+=CF=BD=C3<span lang=3D"EN-US"> : 2013. 11.&nbsp;22 (</span>=B1=DD<span lang=
+=3D"EN-US">) Beijing Time
+ 10:00~11:45&nbsp;</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">2.
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C2=FC=BC=AE=C0=
+=DA<span lang=3D"EN-US"> :&nbsp;RAS,&nbsp;ASG, AST/E/I/M
+</span>=B9=D7 =BE=C6=C1=D6=BA=BB=BA=CE =BB=EA=C7=CF<span lang=3D"EN-US"> 13=
+</span>=B0=B3 =C1=A1=BC=D2</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">3.
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C8=B8=C0=C7 =B3=
+=BB=BF=EB</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span><b><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning=
+: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B0=A1<span lang=
+=3D"EN-US">.
+</span>=B9=CC=C1=D6=B3=EB=BC=B1<span lang=3D"EN-US"> 11/15</span>=C0=CF<spa=
+n lang=3D"EN-US">&nbsp;GRI</span>=C0=CC=C8=C4<span lang=3D"EN-US">&nbsp;Mar=
+ket
+</span>=B5=BF=C7=E2=B0=FA =C7=E2=C8=C4<span lang=3D"EN-US"> 4</span>=C1=D6 =
+=C0=FC=B8=C1</span></b></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;1) KOR</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;11</span><span style=3D"BACKGROUND: white; FO=
+NT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; m=
+so-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font=
+: minor-latin">=BF=F9<span lang=3D"EN-US">
+ 15</span>=C0=CF=BA=CE<span lang=3D"EN-US"> W/C U$150~200/40', E/C U$100/40=
+'</span>=C0=CC =C0=FB=BF=EB=B5=C7=BE=FA=C0=B8=B8=E7<span lang=3D"EN-US"> Ma=
+rket
+</span>=BF=EE=C0=D3=C0=BA</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FAK
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B1=E2=C1=D8<spa=
+n lang=3D"EN-US"> W/C U$1800/40' E/C U$3250/40'</span>=C0=B8=B7=CE =C7=FC=
+=BC=BA=B5=C7=BE=EE =BD=C7=C1=FA =C0=FB=BF=EB =BF=EE=C0=D3=C0=BA<span lang=
+=3D"EN-US">
+ W/C</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U$1700/40' E/C U$3100/40'</span><span st=
+yle=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-=
+font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=
+=F1'; mso-fareast-theme-font: minor-latin">=B7=CE
+ =C7=FC=BC=BA</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; - 47</span><span style=3D"BACKGROUND: white; FONT-SI=
+ZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fa=
+reast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: min=
+or-latin">=C1=D6=C2=F7=BA=CE=C5=CD
+ =B0=A1=C0=FC=BB=E7 =B0=E8=C0=FD=C0=FB =BA=F1=BC=F6=B1=E2=B7=CE<span lang=
+=3D"EN-US"> 60%</span>=C0=CC=BB=F3 =B9=B0=B7=AE =B1=DE=B0=A8=C7=D1 =BB=F3=
+=C5=C2=C0=CC=B8=E7 =BF=A9=C5=B8<span lang=3D"EN-US"> BCO/</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin"><span lang=3D"EN-US">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NVOCC</span>=C0=C7</span><span sty=
+le=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-f=
+ont-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=
+=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C8=AD=B9=B0=B5=
+=B5 =C7=CF=B6=F4=BC=BC=B8=A6 =BA=B8=C0=CC=B0=ED =C0=D6=C0=BD</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;- Market L/F</span><span style=3D"BACKGROUND: w=
+hite; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=
+=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-t=
+heme-font: minor-latin">=B4=C2<span lang=3D"EN-US">
+ PS/PN 80%, AW 90% </span>=BC=F6=C1=D8=BF=A1=BC=AD <span lang=3D"EN-US">12<=
+/span>=BF=F9=B1=EE=C1=F6 =C0=AF=C1=F6 =BF=B9=C1=A4<span lang=3D"EN-US">,
+</span>=C7=D1=B1=B9=C1=F6=C1=A1=C0=BA</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12</span><span style=3D"BACKGROUND: whit=
+e; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=
+=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-them=
+e-font: minor-latin">=BF=F9
+ =C0=FC=C3=BC=C0=FB=C0=B8=B7=CE<span lang=3D"EN-US"> 90%</span>=B3=BB=BF=DC=
+=C0=C7<span lang=3D"EN-US"> F'cast </span>=BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;PS</span><span style=3D"BACKGROUND: white; FO=
+NT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; m=
+so-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font=
+: minor-latin">=C0=C7
+ =BD=C7=C0=FB=B0=B3=BC=B1=C0=BB =C0=A7=C7=D8<span lang=3D"EN-US"> NVOCC</sp=
+an>=C8=AD=B9=B0 =B0=B3=B9=DF=C0=BB =C5=EB=C7=D8 <span lang=3D"EN-US">Shortf=
+all </span>
+=B8=B8=C8=B8 =C1=D6=B7=C2=BF=B9=C1=A4=C0=CC=B3=AA</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B0=A1=C0=FC=BB=
+=E7<span lang=3D"EN-US">,
+</span>=C5=B8=C0=CC=BE=EE=B9=B0=B7=AE=C0=CC =C0=FC=C3=BC<span lang=3D"EN-US=
+">&nbsp;50%</span>=B8=A6 =C2=F7=C1=F6=C7=CF=B0=ED<span lang=3D"EN-US">&nbsp=
+;</span>=C0=D6=BE=EE =C0=FC=C3=BC =BD=C7=C0=FB =B8=B8=C8=B8=BF=A1 =BE=EE=B7=
+=C1=BF=F2 =BF=B9=BB=F3<span lang=3D"EN-US">&nbsp;</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;2) JPN
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;11</span><span style=3D"BACKGROUND: whit=
+e; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=
+=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-them=
+e-font: minor-latin">=BF=F9<span lang=3D"EN-US">
+ 15</span>=C0=CF=BA=CE<span lang=3D"EN-US"> GRI</span>=B4=C2<span lang=3D"E=
+N-US"> HMM</span>=B5=EE<span lang=3D"EN-US"> 12</span>=BF=F9<span lang=3D"E=
+N-US"> 1</span>=C0=CF=BA=CE=B7=CE =BF=AC=B1=E2=B5=C7=BE=FA=C0=B8=B3=AA =C5=
+=B8=BC=B1=BB=E7=B4=C2<span lang=3D"EN-US"> Waive
+</span>=C1=B6=C4=A1=C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; - Market L/F</span><span style=3D"BACKGROUND: white;=
+ FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2=
+; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-f=
+ont: minor-latin">=B4=C2
+ =BE=E0<span lang=3D"EN-US"> 85% </span>=BC=F6=C1=D8=C0=B8=B7=CE =C6=C4=BE=
+=C7=B5=C7=B8=E7<span lang=3D"EN-US"> 10</span>=BF=F9=BA=CE=C5=CD =BD=C3=C0=
+=E5 =B9=B0=B7=AE=B0=A8=BC=D2=B7=CE =C1=D6=B7=C2 =B3=EB=BC=B1=C0=CE
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPX
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BD=C7=C0=FB=B4=
+=DE=BC=BA=BF=A1 =BE=EE=B7=C1=BF=F2=C0=CC =C0=D6=B4=C2 =BB=F3=C8=B2=C0=B8=B7=
+=CE<span lang=3D"EN-US">&nbsp;Spot,&nbsp;Special
+</span>=C8=AD=B9=B0 =C1=DF=BD=C9=C0=B8=B7=CE =C6=C7=B8=C5<span lang=3D"EN-U=
+S">/</span>=C0=AF=C4=A1=C7=CF=BF=A9</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; &nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BD=C7=C0=FB =C8=
+=B8=BA=B9<span lang=3D"EN-US">&nbsp;</span>=B3=EB=B7=C2</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;3) TWN</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;</span><span style=3D"BACKGROUND: white; FONT=
+-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso=
+-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: =
+minor-latin">=C7=E2=C8=C4<span lang=3D"EN-US">
+ 5</span>=C1=D6<span lang=3D"EN-US"> F'cast</span>=B4=C2<span lang=3D"EN-US=
+"> PS 85~90%, PN 100%, AW 95%</span>=BC=F6=C1=D8=C0=CC=B8=E7<span lang=3D"E=
+N-US"> 11</span>=BF=F9<span lang=3D"EN-US"> 15</span>=C0=CF=BA=CE<span lang=
+=3D"EN-US"> GRI</span>=B4=C2</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W/C U$200/40' EC NO GRI
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C0=FB=BF=EB=C7=
+=CF=BF=A9<span lang=3D"EN-US"> PS U$1800/40' AW U$3150~3200/40'</span></spa=
+n></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: w=
+hite; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=
+=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-t=
+heme-font: minor-latin">=BC=F6=C1=D8=C0=CC=B3=AA
+ =C5=B8=BB=E7=C0=C7 =B0=E6=BF=EC<span lang=3D"EN-US"> PS U$1700~1750/40' AW=
+ U$2800~3000/40' </span>=BC=F6=C1=D8=C0=B8=B7=CE =BF=EE=C0=D3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: w=
+hite; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=
+=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-t=
+heme-font: minor-latin">=C2=F7=C0=CC
+ =B9=DF=BB=FD</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;PS</span><span style=3D"BACKGROUND: white; FO=
+NT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; m=
+so-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font=
+: minor-latin">=C0=C7
+ =B0=E6=BF=EC<span lang=3D"EN-US"> FOB BCO </span>=B9=B0=B7=AE=B0=A8=BC=D2 =
+<span lang=3D"EN-US">, Auto parts</span>=B9=B0=B7=AE=C0=C7 =BF=EE=C0=D3=C2=
+=F7=B7=CE =BC=B1=C0=FB=B9=B0=B7=AE =B1=DE=B0=A8=C7=CF=BF=A9 =C1=D6=B7=C2
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B3=EB=BC=B1=C0=
+=CE<span lang=3D"EN-US"> YPS</span>=C0=C7 =B0=E6=BF=EC<span lang=3D"EN-US">=
+ 85%
+</span>=BC=F6=C1=D8=C0=CC=B8=E7<span lang=3D"EN-US">, PN</span>=C0=BA =BE=
+=C8=C1=A4=C0=FB=C0=CE<span lang=3D"EN-US"> Consol, BCO</span>=B9=B0=B7=AE=
+=C0=B8=B7=CE<span lang=3D"EN-US"> 100%
+</span>=BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;4) N.PRC</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;GRI</span><span style=3D"BACKGROUND: white; F=
+ONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; =
+mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-fon=
+t: minor-latin">=C0=CC=C8=C4
+ =BF=EE=C0=D3=C0=BA<span lang=3D"EN-US"> W/C U$1800~1900/40'</span>=C0=CC=
+=B8=E7<span lang=3D"EN-US"> MSK</span>=B5=EE =C0=CF=BA=CE=BC=B1=BB=E7<span =
+lang=3D"EN-US"> U$1750/40'</span>=C0=B8=B7=CE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=EE=C0=D3=C7=
+=CF=B6=F4 =C1=A4=BA=B8=B0=A1 =C0=D6=C0=B8=B8=E7<span lang=3D"EN-US"> MTR/TO=
+R U$3300~3350/40', AW U$2850~3150/40'
+</span>=BC=F6=C1=D8=C0=CC=B8=E7</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C7=E2=C8=C4<spa=
+n lang=3D"EN-US"> f'cast</span>=B4=C2<span lang=3D"EN-US"> PS 95~100% PN 85=
+~100%</span>=BC=F6=C1=D8<span lang=3D"EN-US">&nbsp;AW</span>=B4=C2<span lan=
+g=3D"EN-US">
+ 90~95% </span>=BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;PN</span><span style=3D"BACKGROUND: whit=
+e; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=
+=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-them=
+e-font: minor-latin">=C0=C7
+ =B0=E6=BF=EC=B4=C2<span lang=3D"EN-US"> 48</span>=C1=D6=BA=CE=C5=CD<span l=
+ang=3D"EN-US">&nbsp;Fred Meyer</span>=C0=C7 =B9=B0=B7=AE=C1=F5=B0=A1=B0=A1 =
+=BF=B9=BB=F3=B5=C7=B8=E7<span lang=3D"EN-US"> PS</span>=B4=C2<span lang=3D"=
+EN-US"> 49</span>=C1=D6=C2=F7=BA=CE=C5=CD<span lang=3D"EN-US"> CSCL</span><=
+/span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin"><span lang=3D"EN-US">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/YML/UASC</span>=C0=C7
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B3=EB=BC=B1<spa=
+n lang=3D"EN-US"> Merge</span>=B7=CE =BB=F3=C7=D8=B9=DF =C1=D6=B0=A3<span l=
+ang=3D"EN-US"> 600~700T(</span>=C0=FC=C3=BC<span lang=3D"EN-US">
+ 2%)</span>=C0=C7 =BC=B1=BA=B9 =B0=A8=BC=D2 =BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; - TSNBB : PS</span><span style=3D"BACKGROUND: white;=
+ FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2=
+; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-f=
+ont: minor-latin">=C7=E2<span lang=3D"EN-US">
+ Yingli</span>=C8=AD=B9=B0 =C1=DF=B4=DC =B9=D7 =BB=EF=BC=BA=C0=FC=C0=DA =B9=
+=B0=B7=AE=B0=A8=BC=D2=B7=CE<span lang=3D"EN-US"> PSX&nbsp;</span>=BD=C7=C0=
+=FB=B4=DE=BC=BA =B3=AD=C7=D7</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;TAOBB :&nbsp;Reefer</span><span style=3D"BACK=
+GROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family=
+: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-f=
+areast-theme-font: minor-latin">=B4=C2<span lang=3D"EN-US">
+ GRI</span>=C0=FB=BF=EB=B5=C7=C1=F6 =BE=CA=BE=D2=C0=B8=B8=E7 =C7=F6=C0=E7 =
+=BD=C3=C0=E5=BF=EE=C0=D3<span lang=3D"EN-US"> U$1300/40' reefer&nbsp;</span=
+>=BC=F6=C1=D8=C0=B8=B7=CE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B3=B7=B0=D4 =C7=
+=FC=BC=BA=B5=C7=BE=EE =C0=D6=BE=EE =BD=C3=C0=E5 =B0=FC=B8=C1=C1=DF<span lan=
+g=3D"EN-US">&nbsp;</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;5)=
+ S.PRC</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C0=FC=C3=BC=C0=
+=FB=C0=B8=B7=CE =B3=B2=C1=DF=B1=B9<span lang=3D"EN-US"> 12</span>=BF=F9<spa=
+n lang=3D"EN-US"> F'cast</span>=B4=C2<span lang=3D"EN-US">
+ 95%</span>=BC=F6=C1=D8 =BF=B9=BB=F3=B5=C7=B8=E7<span lang=3D"EN-US"> XMN</=
+span>=C1=F6=C1=A1=C0=C7<span lang=3D"EN-US"> F'cast</span>=B4=C2 =C0=FC=B3=
+=EB=BC=B1<span lang=3D"EN-US"> 80%</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: w=
+hite; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=
+=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-t=
+heme-font: minor-latin">=C1=DF=B9=DD=C0=C7
+ =BE=E0=BC=BC=B0=A1 =BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; - HKGBB : M/L</span><span style=3D"BACKGROUND: white=
+; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=
+=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-them=
+e-font: minor-latin">=B4=C2<span lang=3D"EN-US">
+ PS 90%, PN 88%, AW 85%</span>=BC=F6=C1=D8=C0=CC=B8=E7<span lang=3D"EN-US">=
+&nbsp;MSK U$1750/40'</span>=C0=B8=B7=CE =BF=EE=C0=D3<span lang=3D"EN-US"> o=
+ffer</span>=C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C7=E2=C8=C4<spa=
+n lang=3D"EN-US"> 12</span>=BF=F9<span lang=3D"EN-US">&nbsp;</span>=B0=A1=
+=BD=C3=C0=FB =B9=B0=B7=AE=C1=F5=B0=A1<span lang=3D"EN-US">&nbsp;</span>=BF=
+=B9=BB=F3=B5=C7=C1=F6
+ =BE=CA=C0=B8=B8=E7 =C0=CC=B4=C2<span lang=3D"EN-US"> 1</span>=BF=F9<span l=
+ang=3D"EN-US">&nbsp;</span>=BA=FC=B8=A5 =C3=E1=C0=FD=B7=CE =C0=CE=C7=D8<spa=
+n lang=3D"EN-US"> 1</span>=BF=F9=C0=CC=C8=C4 =B9=B0=B7=AE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C1=F5=B0=A1 =BF=
+=B9=BB=F3<span lang=3D"EN-US">&nbsp;</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; - SZPBB : 11</span><span style=3D"BACKGROUND: white;=
+ FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2=
+; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-f=
+ont: minor-latin">=BF=F9<span lang=3D"EN-US">
+ 15</span>=C0=CF=BA=CE<span lang=3D"EN-US"> GRI</span>=B4=C2 =BC=B1=BB=E7=
+=BA=B0<span lang=3D"EN-US"> W/C U$250~350/40' E/C U$0~300/40'</span>=C0=FB=
+=BF=EB=C0=CC=C8=C4
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=EE=C0=D3=C7=
+=CF=C7=E2 =C1=B6=C1=A4=C1=DF=C0=CC=B8=E7 =C7=F6=C0=E7<span lang=3D"EN-US"> =
+Market
+</span>=BF=EE=C0=D3=BC=F6=C1=D8=C0=BA<span lang=3D"EN-US"> W/C U$1700~1850/=
+40' E/C</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin"><span lang=3D"EN-US">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;U$2800~3100/40'
+</span></span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-k=
+erning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=
+=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BC=F6=C1=
+=D8<span lang=3D"EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan" class=3D"Mso=
+Normal" align=3D"left">
+<b><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt=
+; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=
+=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B3=AA<span lang=3D=
+"EN-US">.
+</span>=B1=B8=C1=D6=B3=EB=BC=B1<span lang=3D"EN-US"> 11/1</span>=C0=CF<span=
+ lang=3D"EN-US"> R/R</span>=C0=CC=C8=C4<span lang=3D"EN-US"> Market</span>=
+=B5=BF=C7=E2=B0=FA<span lang=3D"EN-US"> CIF
+</span>=BA=F1=C1=DF =C1=F5=B4=EB =B9=E6=BE=C8</span></b></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp; 1) KOR</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BA=CF=B1=B8 =B3=
+=EB=BC=B1=C0=BA<span lang=3D"EN-US"> R/R</span>=C0=CC=C8=C4<span lang=3D"EN=
+-US"> 3</span>=C1=D6<span lang=3D"EN-US">(45~47</span>=C1=D6<span lang=3D"E=
+N-US">)</span>=B0=A3<span lang=3D"EN-US">
+ Market </span>=B9=B0=B7=AE =B0=A8=BC=D2=B7=CE<span lang=3D"EN-US"> L/F&nbs=
+p;70~80% </span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (RR</span><span style=3D"BACKGROUND: whi=
+te; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=
+=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-them=
+e-font: minor-latin">=B7=CE
+ =C0=CE=C7=D1 =C0=DB=BE=F7 =C1=F6=BF=AC =B9=D7<span lang=3D"EN-US"> BUYER O=
+RDER </span>=B0=A8=BC=D2 =BF=B5=C7=E2<span lang=3D"EN-US">)</span></span></=
+p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C1=F6=C1=DF=C7=
+=D8 =B3=EB=BC=B1=C0=BA<span lang=3D"EN-US"> MSK, MSC
+</span>=B0=F8=B1=DE=B7=AE =B0=A8=C3=E0=C0=B8=B7=CE =C0=CF=BA=CE<span lang=
+=3D"EN-US"> Resin lot </span>=B9=B0=B7=AE<span lang=3D"EN-US"> 60-80T</span=
+>=B0=A1 =B4=E7=BB=E7=B7=CE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: w=
+hite; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=
+=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-t=
+heme-font: minor-latin">=C0=FC=C8=AF=B5=C7=BE=EE
+ =BB=F3=B4=EB=C0=FB=C0=B8=B7=CE <span lang=3D"EN-US">&nbsp;</span>=BE=E7=C8=
+=A3=C7=D1 =BC=D2=BC=AE=C0=B2 =C0=AF=C1=F6 =C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; - 12</span><span style=3D"BACKGROUND: white; FONT-SI=
+ZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fa=
+reast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: min=
+or-latin">=BF=F9<span lang=3D"EN-US">
+ 3</span>=C0=CF =C3=E2=C7=D7 =BF=B9=C1=A4=C0=CE<span lang=3D"EN-US"> NE6&nb=
+sp; &quot;HJGN0004W&quot;&nbsp; F'cast&nbsp;</span>=C0=BA =B8=F1=C7=A5=B4=
+=EB=BA=F1<span lang=3D"EN-US"> 70%
+</span>=BC=F6=C1=D8=C0=B8=B7=CE<span lang=3D"EN-US">,&nbsp;</span></span></=
+p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;R/R</span><span style=3D"BACKGROUND: whi=
+te; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=
+=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-them=
+e-font: minor-latin">=C0=CC=C8=C4
+ =C0=AF=BD=C7=B5=C8 =C8=AD=C1=D6 =C0=A7=C1=D6=B7=CE<span lang=3D"EN-US"> Pr=
+omotion </span>=C7=CA=BF=E4 =B0=E8=C8=B9 =C0=DA=C3=BC =BC=F6=B8=B3 </span><=
+/p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C3=D6=B1=D9 =C0=
+=CF=BA=CE =B4=EB=B8=AE=C1=A1 =BC=B1=BB=E7<span lang=3D"EN-US"> (YML/KLINE
+</span>=B5=EE<span lang=3D"EN-US">) </span>=C0=A7=C1=D6=B7=CE =C0=FA=B0=A1 =
+=BF=EE=C0=D3 =C8=AD=C1=D6=BF=A1=B0=D4 =C1=A6=B0=F8 =C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 12pt; TEXT-AUTOSPACE: ideogra=
+ph-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-=
+top-alt: auto" class=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(U$ 950-1000/20')
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;2) JPN</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;11/1</span><span style=3D"BACKGROUND: white; =
+FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2;=
+ mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-fo=
+nt: minor-latin">=C0=CF=BA=CE<span lang=3D"EN-US">
+ R/R</span>=C0=BA =C0=CF=BA=BB=B9=DF<span lang=3D"EN-US">&nbsp;</span>=C1=
+=A6=BF=DC=B7=CE<span lang=3D"EN-US"> Market </span>=BA=AF=C8=AD =BE=F8=C0=
+=B8=B8=E7<span lang=3D"EN-US"> 11</span>=BF=F9 =C1=DF<span lang=3D"EN-US">/=
+</span>=C7=CF=BC=F8 =BC=B1=C0=FB=B9=B0=B7=AE=C0=CC</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><span style=3D"BACKGROUND: white;=
+ FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2=
+; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-f=
+ont: minor-latin">=B5=B5=C2=F8=C1=F6
+ =BF=AC=C8=DE=B7=CE =C0=CE=C7=D8 =C0=FC=C3=BC=C0=FB=C0=CE =B9=B0=B7=AE=C0=
+=BA =B4=D9=BC=D2 =B0=A8=BC=D2=C7=CF=BF=B4=C0=B8=B3=AA<span lang=3D"EN-US"> =
+12=BF=F9 =C3=B9=C0=E7=C1=D6 =BA=CE=C5=CD=B4=C2</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin"><span lang=3D"EN-US"></=
+span></span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-ker=
+ning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=
+=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN=
+-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"=
+BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-fa=
+mily: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; m=
+so-fareast-theme-font: minor-latin">=BF=B9=C0=FC
+ =BC=F6=C1=D8=C0=B8=B7=CE =B9=B0=B7=AE =C8=B8=BA=B9 =BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -&nbsp;</span><span style=3D"BACKGROUND: white; FONT=
+-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso=
+-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: =
+minor-latin">=C0=CF=BA=BB
+ =C6=AF=BC=BA=BB=F3<span lang=3D"EN-US"> BCO </span>=B9=D7<span lang=3D"EN-=
+US"> NVOCC</span>=C0=C7<span lang=3D"EN-US"> Named Biz
+</span>=B9=B0=B7=AE=C0=CC =C1=DF=C0=E5=B1=E2 =B0=E8=BE=E0 =C8=AD=C1=D6=B7=
+=CE =C1=F8=C7=E0 </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B4=DC=B1=E2=C0=
+=FB=C0=B8=B7=CE<span lang=3D"EN-US"> CIF
+</span>=B9=B0=B7=AE =C8=AE=B4=EB =BE=EE=B7=C1=BF=EE =BB=F3=C8=B2=C0=CC=B3=
+=AA<span lang=3D"EN-US"> Spot </span>=B9=D7<span lang=3D"EN-US"> Project</s=
+pan>=BC=BA =C8=AD=B9=B0 =C0=AF=C4=A1=B8=A6 =C5=EB=C7=D8
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CIF
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B9=B0=B7=AE =C1=
+=F5=B4=EB =C3=DF=C1=F8 =C1=DF
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B1=B8=C1=D6 =C7=
+=D7=B7=CE<span lang=3D"EN-US"> Yield Management
+</span>=B0=FC=B7=C3 =BD=C3=C0=E5=BB=F3=C8=B2=BF=A1 =B5=FB=B6=F3 =BC=B1=C0=
+=FB=C1=F6=BA=B0<span lang=3D"EN-US">(TYO, OSA, NGO)</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 12pt; TEXT-AUTOSPACE: ideogra=
+ph-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-=
+top-alt: auto" class=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CMPB</span><span style=3D"BACKGROUND: wh=
+ite; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=
+=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-t=
+heme-font: minor-latin">=B0=A1
+ =BB=F3=B4=E7=C8=F7 =C2=F7=C0=CC=B0=A1 =C0=D6=BE=EE =BD=BA=C6=E4=C0=CC=BD=
+=BA =BA=CE=C1=B7=BD=C3<span lang=3D"EN-US"> CMPB </span>=B0=ED=B7=C1 =BF=B5=
+=BE=F7=BC=D2=BA=B0<span lang=3D"EN-US"> ALLOC
+</span>=B9=E8=C1=A4=C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp; 3) TPE&nbsp;</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp; &=
+nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;11</span><span style=3D"BACKGROUND: white; FO=
+NT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; m=
+so-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font=
+: minor-latin">=BF=F9<span lang=3D"EN-US">
+ 2</span>=C1=D6=C2=F7=BA=CE=C5=CD<span lang=3D"EN-US"> Market </span>=B9=B0=
+=B5=BF=B7=AE =B0=A8=BC=D2=BF=A1 =B5=FB=B8=A5 =BF=EE=C0=D3 =C7=CF=B6=F4=C0=
+=B8=B7=CE<span lang=3D"EN-US"> R/R
+</span>=C0=FB=BF=EB </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3</span><span style=3D"BACKGROUND: =
+white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=
+=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-t=
+heme-font: minor-latin">=C1=D6=C2=F7=BA=CE=C5=CD
+ =BF=EE=C0=D3 =C0=CE=C7=CF =C1=B6=C4=A1</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -</span><span style=3D"BACKGROUND: white; FONT-SIZE:=
+ 7pt; mso-font-kerning: 0pt; mso-bidi-font-family: 'Times New Roman'; mso-f=
+areast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: mi=
+nor-latin" lang=3D"EN-US">&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B4=E7=BB=E7<spa=
+n lang=3D"EN-US"> Consol
+</span>=BF=EE=C0=D3=C0=BA<span lang=3D"EN-US"> U$2600/40', CY</span>=BF=EE=
+=C0=D3<span lang=3D"EN-US"> U$2400~2500/40'
+</span>=BC=F6=C1=D8=C0=CC=B3=AA<span lang=3D"EN-US">, </span>=B1=DD=C1=D6=
+=BA=CE=C5=CD</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=EE=C0=D3=C0=
+=CC =C1=B6=C1=A4=B5=C7=BE=EE<span lang=3D"EN-US"> YML</span>=BF=A1=BC=AD =
+=C1=A6=B0=F8=B5=C7=B4=C2<span lang=3D"EN-US"> Consol
+</span>=BF=EE=C0=D3=C0=BA<span lang=3D"EN-US"> U$2250/40'</span>=C0=D3 </sp=
+an></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: 12pt; MARGIN: 0cm 0cm 0pt; TEXT-=
+AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow-o=
+rphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoN=
+ormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp; - 12</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font=
+-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family:=
+ '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=F9<s=
+pan lang=3D"EN-US">
+ Projection</span>=C0=BA =BA=CF=C0=AF=B7=B4<span lang=3D"EN-US"> 95~100%, <=
+/span>=C1=F6=C1=DF=C7=D8<span lang=3D"EN-US"> 90%
+</span>=BC=F6=C1=D8=C0=B8=B7=CE =B0=AD=C7=CF=C1=F6 =BE=CA=C0=BA =BB=F3=C8=
+=B2=C0=CC=B8=E7</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: 12pt; MARGIN: 0cm 0cm 0pt; TEXT-=
+AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow-o=
+rphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoN=
+ormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp; &nbsp;</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; =
+mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font=
+-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=
+=BA=F1=B7=CF<span lang=3D"EN-US">
+ 12/15</span>=BA=CE<span lang=3D"EN-US"> R/R </span>=B0=FC=B7=C3=C7=CF=BF=
+=A9 =B4=EB=BA=CE=BA=D0 =BC=B1=BB=E7=B0=A1<span lang=3D"EN-US"> U$750/20'
+</span>=BC=F6=C1=D8=C0=B8=B7=CE =B1=E2 =B0=F8=C1=F6 =C7=CF=BF=B4=C0=B8=B3=
+=AA</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: 12pt; MARGIN: 0cm 0cm 0pt; TEXT-=
+AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow-o=
+rphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoN=
+ormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp; &nbsp;R/R
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BC=BA=B0=F8 =BF=
+=A9=BA=CE=B4=C2 =BE=C6=C1=F7 =BA=D2=C5=F5=B8=ED=C7=D4
+</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: 48pt; MARGIN: 0cm 0cm 0pt; TEXT-=
+AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow-o=
+rphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoN=
+ormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;4) DNC</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; -
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BA=CF=B1=B8<spa=
+n lang=3D"EN-US"> Market L/F 85-90% ,&nbsp;
+</span>=C1=F6=C1=DF=C7=D8 <span lang=3D"EN-US">Market L/F 70-75% </span>=BC=
+=F6=C1=D8=C0=D3 </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; - 11</span><span style=3D"BACKGROUND: white; FONT-SI=
+ZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fa=
+reast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: min=
+or-latin">=BF=F9<span lang=3D"EN-US">
+ R/R </span>=C0=CC=C8=C4 =B0=A2 =BC=B1=BB=E7=B5=E9=C0=CC =B3=F4=C0=BA<span =
+lang=3D"EN-US"> CIF </span>=B9=B0=B7=AE =C0=AF=C4=A1=B8=A6 =C0=A7=C7=D8<spa=
+n lang=3D"EN-US"> Daily
+</span>=B4=DC=C0=A7=B7=CE =BF=EE=C0=D3=C0=BB =C1=B6=C1=A4 </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C7=F6=C0=E7<spa=
+n lang=3D"EN-US"> Market
+</span>=BF=EE=C0=D3 =BC=F6=C1=D8=C0=BA<span lang=3D"EN-US"> U$1800-2000/D4<=
+/span>=B1=EE=C1=F6 =C7=CF=B6=F4 </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp; - =BF=A9=C0=FC=C8=F7 G6, EMC, CSCL=C0=BA =BD=C3=C0=E5 =BF=EE=C0=D3 =
+=C0=CE=C7=CF=B8=A6 =C1=D6=B5=B5=C7=CF=B0=ED =C0=D6=C0=B8=B8=E7 =C6=AF=C8=F7=
+ APL=C0=CC =BD=C3=C0=E5=BF=A1=BC=AD</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;=BF=EE=C0=D3 action=C0=BB =B0=A1=C0=E5 =BA=FC=B8=
+=A3=B0=D4 =C1=B6=C1=A4=C1=DF=BF=A1 =C0=D6=C0=BD</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp; - =C3=D6=B1=D9 =BA=CF=C1=DF=B1=B9 =C1=A1=BC=D2=C0=C7 Schenker, Ceva=
+=C0=C7 =BA=CF=B1=B8 =B9=B0=B7=AE 10% =B0=A8=BC=D2 =C3=DF=BC=BC=C0=CC=B8=E7,=
+ =C1=F6=C1=DF=C7=D8=B3=EB=BC=B1=C0=C7</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp; =C1=D6=BF=E4 FOB=C8=AD=C1=D6=C0=CE Schenker, Saima =B9=
+=B0=B7=AE =B6=C7=C7=D1 15~20%=B0=A8=BC=D2 =BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp; - Yield Management =C1=F6=BC=D3=C1=DF=C0=CC=B8=E7 =C6=AF=C8=F7 =BF=
+=EE=C0=D3 =BC=F6=C1=D8=C0=CC =B3=B7=C0=BA Named =C8=AD=C1=D6=BF=A1 =B4=EB=
+=C7=D8=BC=AD=B4=C2</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp; =C1=F6=BC=D3=C0=FB=C0=B8=B7=CE =BC=B1=BA=B9 =C1=A6=C7=
+=D1=C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><font style=3D"BACKGROUND-COLOR: #ffffff=
+"><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt;=
+ mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA=
+ =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;</span></font><s=
+pan style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso=
+-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=
+=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</spa=
+n></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp; 5) &nbsp;DSC</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">- R/R
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BD=C3=C7=E0 =C1=
+=D6=C2=F7<span lang=3D"EN-US">, Market
+</span>=BF=EE=C0=D3<span lang=3D"EN-US"> FEU</span>=B1=E2=C1=D8<span lang=
+=3D"EN-US"> U$2700~2900/40'</span>=BC=B1 =C0=AF=C1=F6=B5=C7=BE=FA=C0=B8=B3=
+=AA<span lang=3D"EN-US">,
+</span>=C3=D6=B1=D9&nbsp;&nbsp; </span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp; S=
+pot rate
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=EE=C0=D3 =BC=
+=F6=C1=D8
+<span lang=3D"EN-US">U$1850~2000/40' </span>=BC=F6=C1=D8=B1=EE=C1=F6 =C7=CF=
+=B6=F4<span lang=3D"EN-US">.</span></span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">- 12</sp=
+an><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt=
+; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=
+=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=F9
+ =C1=DF=BC=F8<span lang=3D"EN-US"> R/R </span>=C0=FC=B1=EE=C1=F6 =C1=F6=BC=
+=D3=C0=FB=C0=CE =BF=EE=C0=D3 =C7=CF=B6=F4=C0=CC =BF=B9=BB=F3=B5=C7=B8=E7<sp=
+an lang=3D"EN-US">, Market R.R
+</span>=C0=CC=C0=FC =BF=EE=C0=D3 =BC=F6=C1=D8<span lang=3D"EN-US"> </span><=
+/span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin"><span lang=3D"EN-US">&n=
+bsp;&nbsp;U$1500~1600/40'
+</span>=BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">-&nbsp;<=
+/span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: =
+0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">Y=
+ield
+ management </span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-f=
+ont-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-fami=
+ly: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B0=
+=AD=C8=AD=B8=A6 =C0=A7=C7=D8 =BA=CF=B1=B8<span lang=3D"EN-US"> MOA
+</span>=C8=AD=C1=D6<span lang=3D"EN-US"> S.NAC BKG </span>=C1=B6=C0=FD=B7=
+=CE =C0=CE=C7=D8<span lang=3D"EN-US"> MOA </span>
+=BD=C7=C0=FB </span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kern=
+ing: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=
+=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C0=FA=C1=B6=
+=C7=CF=BF=B4=C0=B8=B3=AA<span lang=3D"EN-US">,
+</span>=BD=C3=C0=E5 =BF=EE=C0=D3 =C7=CF=B6=F4=BF=A1 =B5=FB=B8=A5<span lang=
+=3D"EN-US"> MOA FAK, NAC </span>=BF=EE=C0=D3 =C1=B6=C1=A4 =B9=D7 =C3=DF=B0=
+=A1 =B9=B0=B7=AE =C8=AE=BA=B8 =C5=EB=C7=D8</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp; =BA=CF=B1=B8=C7=
+=E2
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">C=
+IF
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BA=F1=C1=DF =C1=
+=F5=B4=EB =C3=DF=C1=F8 =C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">- =BC=AD=C1=F6=C1=DF=C7=
+=D8 =B9=B0=B7=AE =B0=A8=BC=D2=BF=A1 =B5=FB=B6=F3 =B5=BF=C1=F6=C1=DF=C7=D8 C=
+IF =B9=B0=B7=AE =C0=FB=B1=D8 Promotion=C1=DF=BF=A1 =C0=D6=C0=B8=B8=E7 =B1=
+=E2=C1=B8 =C1=D6=B0=A3</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">&nbsp;&nbsp;=C6=F2=B1=
+=D5 68T=BF=A1=BC=AD =C1=D6=B0=A3 100T Target=C0=B8=B7=CE =C0=CC=BD=BA=B6=F3=
+=BF=A4, =C0=CC=C1=FD=C6=AE, =C5=CD=B1=E2 =B9=D7 =B1=D7=B8=AE=BD=BA=C7=E2 =
+=B9=B0=B7=AE =C1=F5=B4=EB =C3=DF=C1=F8</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 43.75=
+pt; TEXT-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination=
+: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" clas=
+s=3D"MsoNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<b><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt=
+; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=
+=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B4=D9<span lang=3D=
+"EN-US">.
+</span>=B3=B2=B9=CC=B3=EB=BC=B1<span lang=3D"EN-US"> Yield Management </spa=
+n>=BD=C3=C7=E0=B0=FC=B7=C3 =C7=F6=C8=B2<span lang=3D"EN-US">&nbsp;</span></=
+span></b></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;1) KOR</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp; -&nbsp;12</span><span style=3D"BACKGROUND: white; FONT-SIZ=
+E: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-far=
+east-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: mino=
+r-latin">=BF=F9=B8=BB=B1=EE=C1=F6
+ =B5=BF<span lang=3D"EN-US">/</span>=BC=AD=BE=C8 =B0=F8=C8=F7<span lang=3D"=
+EN-US"> 120~130% F'cast&nbsp;</span>=BF=B9=BB=F3=B5=CA=BF=A1 =B5=FB=B6=F3<s=
+pan lang=3D"EN-US"> Bid</span>=C8=AD=C1=D6=C0=CE<span lang=3D"EN-US"> Glovi=
+s,
+</span>=C1=A6=C0=CF=B8=F0=C1=F7=C0=BB </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: white; =
+FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2;=
+ mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-fo=
+nt: minor-latin">=C1=A6=BF=DC<span lang=3D"EN-US">
+ G/line</span>=C7=CF=C7=E2 =C8=AD=B9=B0 =C3=B6=C0=FA=C8=F7<span lang=3D"EN-=
+US"> Space</span>=B0=FC=B8=AE=BF=CD =B4=F5=BA=D2=BE=EE<span lang=3D"EN-US">=
+ Space
+</span>=BA=CE=C1=B7=BF=A1 =B5=FB=B8=A5 =B0=C7=BC=B3=C0=DA=C0=E7 =C8=AD=B9=
+=B0<span lang=3D"EN-US">(AWK)</span>=C0=BA</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BC=B1=BA=B0=C0=
+=FB=C0=B8=B7=CE<span lang=3D"EN-US"> Space
+</span>=BA=CE=BF=A9</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;2) N.PRC</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp; -&nbsp;Market L/F</span><span style=3D"BACKGROUND: white; =
+FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2;=
+ mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-fo=
+nt: minor-latin">=B4=C2<span lang=3D"EN-US">
+ ECSA 90%, WCSA 80~85%</span>=BC=F6=C1=D8=C0=B8=B7=CE =C3=D6=B1=D9 =B9=B0=
+=B7=AE=B0=A8=BC=D2=B0=A1 =B5=CE=B5=CE=B7=C1=C1=F6=B0=ED =C0=D6=C0=B8=B8=E7<=
+/span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: white; =
+FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2;=
+ mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-fo=
+nt: minor-latin">=B5=BF=BE=C8=C0=C7
+ =B0=E6=BF=EC<span lang=3D"EN-US">&nbsp;CMPB&nbsp;GRI</span>=C0=FC<span lan=
+g=3D"EN-US"> U$500/20'</span>=BF=A1=BC=AD<span lang=3D"EN-US">&nbsp;U$1000~=
+1100/20'</span>=BC=F6=C1=D8=C0=B8=B7=CE<span lang=3D"EN-US">&nbsp;</span>=
+=BB=F3=BD=C2 =B9=D7 =BC=AD=BE=C8=C0=C7 =B0=E6=BF=EC=B5=B5</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; 11</span><span style=3D"BACKGROUND: white; FON=
+T-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; ms=
+o-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font:=
+ minor-latin">=BF=F9<span lang=3D"EN-US">
+ GRI</span>=C0=CC=C8=C4<span lang=3D"EN-US"> CMPB</span>=B0=A1<span lang=3D=
+"EN-US"> U$450/20'</span>=BF=A1=BC=AD<span lang=3D"EN-US"> U$1500/20'
+</span>=BC=F6=C1=D8=C0=B8=B7=CE =BB=F3=BD=C2=C7=D4=BF=A1 =B5=FB=B6=F3<span =
+lang=3D"EN-US"> CIF&nbsp;</span>=BA=F1=C1=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C1=F5=B4=EB<spa=
+n lang=3D"EN-US">&nbsp;</span>=B9=D7 =C1=DF=BC=D2=C7=FC =C8=AD=C1=D6 =C0=AF=
+=C4=A1=B8=A6 =C5=EB=C7=D8 =C8=AD=C1=D6 =B4=D9=BA=AF=C8=AD<span lang=3D"EN-U=
+S">&nbsp;</span>=C3=DF=C1=F8</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;-&nbsp;</span><span style=3D"BACKGROUND: white; FONT-=
+SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-=
+fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: m=
+inor-latin">=BC=AD=BE=C8=C0=C7
+ =B0=E6=BF=EC<span lang=3D"EN-US"> 12</span>=BF=F9=C0=CC=C8=C4 =BD=C3=C0=E5=
+=B0=F8=B1=DE=B7=AE<span lang=3D"EN-US"> 10%</span>=B3=BB=BF=DC =B0=A8=BC=D2=
+=B7=CE <span lang=3D"EN-US">
+GRI </span>=B1=E0=C1=A4=C0=FB=C0=B8=B7=CE<span lang=3D"EN-US">&nbsp;</span>=
+=C6=C7=B4=DC=B5=CA=BF=A1 =B5=FB=B6=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GRI&nbsp;</span><span style=3D"BACKGROUND=
+: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=
+=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareas=
+t-theme-font: minor-latin">=BB=F3=C8=B2
+ =B8=E9=B9=D0=C8=F7 =B0=CB=C5=E4</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;4) S.PRC</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp; -&nbsp;</span><span style=3D"BACKGROUND: white; FONT-SIZE:=
+ 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-farea=
+st-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-=
+latin">=B3=B2=B9=CC=B5=BF=BE=C8<span lang=3D"EN-US">
+ 11</span>=BF=F9<span lang=3D"EN-US"> 19</span>=C0=CF=BA=CE=C5=CD =BC=B1=BB=
+=E7=BA=B0 =BF=EE=C0=D3=C1=B6=C1=A4=C0=B8=B7=CE =BD=C3=C0=E5=BF=EE=C0=D3<spa=
+n lang=3D"EN-US"> U$150/20'
+</span>=C7=CF=B6=F4=C7=CF=BF=A9 =C7=F6=C0=E7<span lang=3D"EN-US"> U$1700/20=
+'</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: white; =
+FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2;=
+ mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-fo=
+nt: minor-latin">=BC=F6=C1=D8=C0=CC=B8=E7
+ =BC=AD=BE=C8=C0=C7 =B0=E6=BF=EC=B4=C2<span lang=3D"EN-US"> 11</span>=BF=F9=
+<span lang=3D"EN-US"> 9</span>=C0=CF =B4=EB=BA=F1<span lang=3D"EN-US"> U$20=
+0/20'
+</span>=C7=CF=B6=F4=C7=CF=BF=A9<span lang=3D"EN-US"> U$1300/20' </span>=BC=
+=F6=C1=D8 =C7=FC=BC=BA</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;- CLIQQ</span><span style=3D"BACKGROUND: white; FONT-=
+SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-=
+fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: m=
+inor-latin">=C0=C7<span lang=3D"EN-US">
+ CMPB</span>=B0=A1 =C5=B8<span lang=3D"EN-US"> Destination </span>=B4=EB=BA=
+=F1 =B3=B7=BE=C6 =C5=B8<span lang=3D"EN-US"> Destination</span>=C8=AD=B9=B0=
+ =B0=B3=B9=DF =C1=D6=B7=C2 =B9=D7 =C0=CF=BA=CE<span lang=3D"EN-US"> Low
+</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CMPB</span><span style=3D"BACKGROUND: whi=
+te; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=
+=B2; mso-fareast-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-them=
+e-font: minor-latin">=C8=AD=B9=B0=C0=CE<span lang=3D"EN-US">
+ PRD </span>=C8=AD=B9=B0<span lang=3D"EN-US"> Space&nbsp;Control</span>=C1=
+=DF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;</=
+span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<b><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt=
+; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=
+=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B6=F3<span lang=3D=
+"EN-US">.
+</span>=BA=BB=BA=CE =BF=E4=C3=BB =B9=D7 =B0=AD=C1=B6=BB=E7=C7=D7</span></b>=
+</p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<b><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt=
+; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=
+=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin"></span></b>&nbsp;</=
+p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;1) 11</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font=
+-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family:=
+ '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=F9<s=
+pan lang=3D"EN-US">
+ 1</span>=C0=CF=BA=CE<span lang=3D"EN-US">&nbsp;</span>=B1=B8=C1=D6<span la=
+ng=3D"EN-US">, </span>=B3=B2=B9=CC<span lang=3D"EN-US">/</span>=C8=A3=C1=D6=
+ =B3=EB=BC=B1=C0=C7 =B0=AD=B7=C2=C7=D1<span lang=3D"EN-US"> R/R</span>=BF=
+=A1=B5=B5 =BA=D2=B1=B8 =C0=CF=BA=CE =C1=A1=BC=D2=B4=C2 =B9=CC=C1=F8=C7=D1 =
+=B0=E1=B0=FA=B0=A1</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B3=AA=C5=B8=B3=
+=AA=B0=ED =C0=D6=B4=C2=B9=D9<span lang=3D"EN-US">,
+</span>=B0=A2 =C1=A1=BC=D2=C0=E5=C0=BA =B0=A2 =C8=AD=B9=B0=BA=B0 =BF=EE=C0=
+=D3 =B9=DD=BF=B5=C0=BB =C8=AE=C0=CE=C7=CF=BF=A9<span lang=3D"EN-US"> bookin=
+g</span>=C0=CC =B5=C7=B5=B5=B7=CF</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B0=FC=B8=AE =C3=
+=B6=C0=FA =BF=E4=C3=BB</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;2)
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B9=CC=C1=D6=B3=
+=EB=BC=B1=C0=C7 =B0=E6=BF=EC =C0=CF=BA=CE<span lang=3D"EN-US"> BCO</span>=
+=C8=AD=C1=D6=C0=C7<span lang=3D"EN-US"> MQC</span>=B4=DE=BC=BA=C0=B8=B7=CE =
+=C5=B8=BB=E7=B7=CE=C0=C7
+ =C8=AD=B9=B0 =C0=AF=BD=C7=C0=CC =BF=B9=BB=F3=B5=C7=B9=C7=B7=CE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"BACKGROUND: white; FONT-SIZE: 1=
+2pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast=
+-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-la=
+tin">=BC=BA=BC=F6=B1=E2<span lang=3D"EN-US">
+ Space </span>=C1=F6=BF=F8=C8=AD=C1=D6=B0=A1 =C5=B8=BB=E7=B7=CE =C8=AD=B9=
+=B0 =C0=FC=B9=E8=B0=A1 =B3=AA=C5=B8=B3=AA=C1=F6 =BE=CA=B5=B5=B7=CF =B0=A2 =
+=C8=AD=C1=D6=BA=B0<span lang=3D"EN-US">&nbsp;</span>=BE=C8=C1=A4=C0=FB=C0=
+=CE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B9=B0=B7=AE =C0=
+=AF=C1=F6=B0=A1 =B5=C9=BC=F6 =C0=D6=B5=B5=B7=CF =C7=D7=C2=F7=BA=B0<span lan=
+g=3D"EN-US">/Booking</span>=BA=B0 =C8=AE=C0=CE =BF=E4=C3=BB</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;3)
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B3=B2=B9=CC=BC=
+=AD=BE=C8=C0=C7 =B4=E7=BB=E7<span lang=3D"EN-US"> SVC Reshuffle</span>=B7=
+=CE =C0=CE=C7=D1<span lang=3D"EN-US"> Market Capacity</span>=B0=A1<span lan=
+g=3D"EN-US">
+ 10%(5000T)</span>=B0=A1<span lang=3D"EN-US"> 12</span>=BF=F9 =C3=CA=BA=CE=
+=C5=CD</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B0=A8=BC=D2=B5=
+=CA=BF=A1 =B5=FB=B6=F3 =B5=BF =B1=E2=C8=B8=B8=A6 =C0=CC=BF=EB=C7=CF=BF=A9<s=
+pan lang=3D"EN-US">&nbsp;</span>=C8=AD=C1=D6 =B4=D9=BA=AF=C8=AD=BF=CD =BF=
+=EE=C0=D3=C0=CE=BB=F3 =B3=EB=B7=C2 =BF=E4=C3=BB</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp; 4=
+)
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B1=B8=C1=D6=B3=
+=EB=BC=B1=C0=BA<span lang=3D"EN-US"> 11</span>=BF=F9<span lang=3D"EN-US"> R=
+/R</span>=BA=B8=B4=D9<span lang=3D"EN-US">&nbsp;</span>=B4=F5
+ =B0=B3=BC=B1=B5=C8 =B0=E1=B0=FA =B5=B5=C3=E2=C0=BB =C0=A7=C7=D8<span lang=
+=3D"EN-US">&nbsp;12</span>=BF=F9<span lang=3D"EN-US"> 15</span>=C0=CF =BD=
+=C7=BD=C3 =BF=B9=C1=A4=C0=CE
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; R/R USD 800/1600
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C0=FB=B1=D8 =BD=
+=C3=C7=E0 =B9=D7<span lang=3D"EN-US"> High CMPB
+</span>=C8=AD=B9=B0=C0=CC<span lang=3D"EN-US">&nbsp;</span>=BF=EC=BC=B1=C0=
+=FB=C0=B8=B7=CE =BC=B1=C0=FB =B5=C7=BE=EE =C3=DF=B0=A1<span lang=3D"EN-US">=
+ REV</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp; &nbsp;</span><span style=3D"BACKGROUND: white; FONT-SIZE: =
+12pt; mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareas=
+t-font-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-l=
+atin">=C3=A2=C3=E2
+ =B5=C9 =BC=F6 =C0=D6=B5=B5=B7=CF =B0=A2<span lang=3D"EN-US"> Booking </spa=
+n>=B4=DC=C0=A7=BF=A1=BC=AD=BA=CE=C5=CD =C3=B6=C0=FA=C7=CF=B0=D4<span lang=
+=3D"EN-US"> Yield management
+</span>=B0=AD=C8=AD<span lang=3D"EN-US">&nbsp; </span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;5)
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C3=D6=B1=D9 =B4=
+=E7=BB=E7 =C1=F6=C1=DF=C7=D8 =B3=EB=BC=B1<span lang=3D"EN-US"> L/F
+</span>=C0=BA =BE=E0<span lang=3D"EN-US"> 65% </span>=BC=F6=C1=D8=C0=B8=B7=
+=CE =C7=F6=C0=E5 =C1=F6=C1=A1=BF=A1=BC=AD =BE=F0=B1=DE=C7=CF=B4=C2<span lan=
+g=3D"EN-US"> Market L/F</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp; &nbsp;70-75%
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B4=EB=BA=F1 =B3=
+=B7=C0=BA =BB=F3=C8=B2 =B0=A8=BE=C8 =C1=EF=B0=A2=C0=FB=C0=CE<span lang=3D"E=
+N-US"> load up
+</span>=C3=DF=C1=F8=C0=BB =C5=EB=C7=D8 =BC=D2=BC=AE=C0=B2 =C1=A6=B0=ED =BF=
+=E4=C3=BB </span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: 9.75pt; MARGIN: 0cm 0cm 0pt; TEX=
+T-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow=
+-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"Ms=
+oNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">6)
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C8=AB=C7=D8<spa=
+n lang=3D"EN-US">/</span>=C1=DF=B5=BF =B3=EB=BC=B1=C0=BA<span lang=3D"EN-US=
+">&nbsp;11</span>=BF=F9 =C3=B9 =C1=D6=C2=F7=B8=B8 =BF=EE=C0=D3 =C0=CE=BB=F3=
+=C0=CC =BC=BA=B0=F8=B5=C7=BE=FA=C0=B8=B3=AA
+ =C1=F6=BC=D3=C0=FB=C0=CE =B0=E6=C0=EF =BD=C9=C8=AD=B7=CE</span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: 9.75pt; MARGIN: 0cm 0cm 0pt; TEX=
+T-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow=
+-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"Ms=
+oNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C7=F6 =BF=EE=C0=
+=D3=C0=CC<span lang=3D"EN-US"> 10</span>=BF=F9=B8=BB =BF=EE=C0=D3 =BC=F6=C1=
+=D8=B1=EE=C1=F6 =C0=E7=C7=CF=B6=F4 =B5=C7=BE=EE<span lang=3D"EN-US"> 12</sp=
+an>=BF=F9<span lang=3D"EN-US">
+ 1</span>=C0=CF<span lang=3D"EN-US">, 15</span>=C0=CF =B0=E8=C8=B9=B5=C8<sp=
+an lang=3D"EN-US"> R/R </span></span></p>
+<p style=3D"TEXT-ALIGN: left; TEXT-INDENT: 9.75pt; MARGIN: 0cm 0cm 0pt; TEX=
+T-AUTOSPACE: ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow=
+-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"Ms=
+oNormal" align=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C0=FB=B1=D8 =BD=
+=C3=C7=E0 =C7=CA=BF=E4<span lang=3D"EN-US">&nbsp;
+</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp; 7=
+)
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C8=A3=C1=D6<spa=
+n lang=3D"EN-US">&nbsp;</span>=B3=EB=BC=B1=C0=C7 =BF=EE=C0=D3 =C0=CE=BB=F3=
+=C0=BA =BC=BA=B0=F8=C0=FB=C0=CC=C1=F6=B8=B8 =B0=A2 =C7=F6=C0=E5 =C1=F6=C1=
+=A1=BF=A1 =B9=E8=C1=A4=C7=D1<span lang=3D"EN-US"> MOA
+ ACCT Named</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp; &nbsp;Biz allocation
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C1=D8=BC=F6=C7=
+=CF=B0=ED =B9=DD=B8=E9<span lang=3D"EN-US"> FAK
+</span>=BA=F1=C1=DF =C1=F6=BC=D3 =C8=AE=B4=EB =C7=CA=BF=E4 </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp; 8=
+)&nbsp;</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-k=
+erning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=
+=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=C3=C7=
+=D8
+ =BF=B5=BE=F7=C0=CC=C0=CD =C3=DF=C1=A4=BD=C7=C0=FB=C0=BA =BE=E0<span lang=
+=3D"EN-US"> 2</span>=BE=EF<span lang=3D"EN-US">5</span>=C3=B5=B8=B8 =BA=D2 =
+=C0=FB=C0=DA=B0=A1 =BF=B9=BB=F3=B5=C7=B8=E7 =B3=BB=B3=E2=B5=B5 =BB=E7=BE=F7=
+=B0=E8=C8=B9=C0=BA
+</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B1=DD=C0=B6=BA=
+=F1=BF=EB=C0=BB =B0=A8=BE=C8 =B9=D7 =C8=B8=BB=E7 =BE=C8=C6=C6=C0=C7 =BB=F3=
+=C8=B2=C0=BB =B0=ED=B7=C1 =BE=E0<span lang=3D"EN-US"> 1</span>=BE=EF<span l=
+ang=3D"EN-US"> 7</span>=C3=B5=B8=B8
+ =BA=D2 =C0=FC=C8=C4=B7=CE =C1=F8=C7=E0 =BF=B9=BB=F3</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp; &nbsp;</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; =
+mso-font-kerning: 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font=
+-family: '=B8=BC=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=
+=B4=E7=BB=E7=C0=C7<span lang=3D"EN-US">
+ 3</span>=BA=D0=B1=E2 =BF=B5=BE=F7=BD=C7=C0=FB=C0=BA =C5=B8 =BC=B1=BB=E7=BF=
+=CD =BA=F1=B1=B3 =BD=C3 =C1=DF=B0=A3 =BC=F6=C1=D8=C0=C7 =BD=C7=C0=FB=C0=B8=
+=B7=CE =C7=E2=C8=C4 =B4=F5=BF=ED </span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BA=D0=B9=DF=C0=
+=CC =C7=CA=BF=E4=C7=D1 =B0=E1=B0=FA=C0=D3=C0=BB =B8=ED=BD=C9 =C7=D2 =B0=CD<=
+span lang=3D"EN-US">&nbsp;</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp; 9=
+)
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=B3=BB=B3=E2=B5=
+=B5 =BD=C5=B1=D4 =C0=CE=BC=F6 =BC=B1=B9=DA=BF=A1=B5=B5 =BA=D2=B1=B8=C7=CF=
+=B0=ED =B1=DD=B3=E2=B5=B5 =B4=EB=BA=F1 =B0=F8=B1=DE=C0=CC =C1=F5=B0=A1=C7=
+=CF=C1=F6 =BE=CA=C0=BB =B0=CD=C0=B8=B7=CE</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=BF=B9=BB=F3=B5=
+=C7=B8=E7 =BE=D5=C0=B8=B7=CE=C0=C7 =BD=C3=C0=E5 =BB=F3=C8=B2=C0=CC<span lan=
+g=3D"EN-US">&nbsp;</span>=BA=D2=C5=F5=B8=ED=C7=CF=B0=ED =B4=E7=BB=E7=BF=A1=
+=B0=D4 =BF=EC=C8=A3=C0=FB=C0=CC=C1=F6 =BE=CA=C0=BB =B0=CD=C0=B8=B7=CE</span=
+></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;
+</span><span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning:=
+ 0pt; mso-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=
+=C0=BA =B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin">=C6=C7=B4=DC=B5=
+=C7=B9=C7=B7=CE =B0=A2 =C1=A1=BC=D2=C0=E5=C0=BA =BF=F8=C4=A2=B0=FA =B1=E2=
+=BA=BB=BF=A1 =C3=E6=BD=C7=C8=F7 =C7=CF=BF=A9 =C1=A1=BC=D2=B0=FC=B8=AE=BF=A1=
+ =B8=B8=C0=FC=C0=BB =B1=E2=C7=D2 =B0=CD<span lang=3D"EN-US">.
+</span>=B3=A1<span lang=3D"EN-US">.</span></span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<font size=3D"2"><span style=3D"BACKGROUND: white; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin; mso-bidi-font-size: 10.=
+0pt" lang=3D"EN-US">&nbsp;</span></font></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 43.75pt; TEXT-AUTOSPACE: =
+ideograph-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-=
+margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" alig=
+n=3D"left">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;&nbsp;&nbsp;</span></p>
+<p style=3D"TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ideograp=
+h-numeric; WORD-BREAK: keep-all; mso-pagination: widow-orphan; mso-margin-t=
+op-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal" align=3D"lef=
+t">
+<span style=3D"BACKGROUND: white; FONT-SIZE: 12pt; mso-font-kerning: 0pt; m=
+so-bidi-font-family: =B1=BC=B8=B2; mso-fareast-font-family: '=B8=BC=C0=BA =
+=B0=ED=B5=F1'; mso-fareast-theme-font: minor-latin" lang=3D"EN-US">&nbsp;&n=
+bsp;best regards,</span></p>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_D0BEC7A785CC00468D868AE84E6E0894050152cow380ehanjincom_--

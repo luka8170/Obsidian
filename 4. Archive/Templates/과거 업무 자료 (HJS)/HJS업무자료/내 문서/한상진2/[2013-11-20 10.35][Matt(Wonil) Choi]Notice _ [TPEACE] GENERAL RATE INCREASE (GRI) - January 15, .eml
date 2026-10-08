@@ -1,0 +1,284 @@
+Received: from KOVHHVMC.hanjin.com ([172.20.10.130]) by kovhgvme.hanjin.com
+ ([203.246.154.25]) with mapi id 14.03.0123.003; Wed, 20 Nov 2013 10:35:36
+ +0900
+From: "Matt(Wonil) Choi" <willchoi@hanjin.com>
+To: "Mark(Yoon-Jai) LEE" <yjlee@hanjin.com>, Kenny CHIN <kchin@us.hanjin.com>,
+	Brian MARTORANO <mbrian@us.hanjin.com>, Han CHO <hcho@us.hanjin.com>, Vincent
+ MIN <vmin@us.hanjin.com>, Losa Junghee PARK <junghee@us.hanjin.com>, Philip
+ SUH <psuh@us.hanjin.com>, "Zhi Hui (Mike) LIAN" <mlian@us.hanjin.com>,
+	"Eric(Sung-Wook) KWON" <swkwon@hanjin.com>, Richard NUZZI
+	<rnuzzi@us.hanjin.com>, Mark BYRNE <mbyrne@us.hanjin.com>, Kevin MILNES
+	<kmilnes@us.hanjin.com>, Joe VOAKES <joev@us.hanjin.com>, Tom YU
+	<tomyu@us.hanjin.com>, Sang-Ryun JEON <srjeon@hanjin.com>, Sheldon SHIKHEL
+	<sshikhel@us.hanjin.com>, "Peter (Ho Seob) LEE" <hplee@us.hanjin.com>, Peter
+ F SCANLON <pscanlon@us.hanjin.com>, Jane CHOE <jchoe@us.hanjin.com>, Minsoo
+ CHUNG <chung@us.hanjin.com>, YoungSook KIM <ysookkim@us.hanjin.com>, Chil-Ho
+ KIM <chilhkim@hanjin.com>, Bae-Young SUH <bysuh@hanjin.com>, Jeong-Jae CHOI
+	<jjchoi@hanjin.com>, "Jessie(Ji-Soo) YOON" <jessyoon@hanjin.com>, Daisy Wang
+	<daisy_w@cn.hanjin.com>, Monica Xu <monicaxu@cn.hanjin.com>, Terry ZHUANG
+	<terryzhuang@cn.hanjin.com>, Ryan Shaw <ywgh@cn.hanjin.com>, Seven LIU
+	<sevenliu@cn.hanjin.com>, Email LI <emailli@cn.hanjin.com>, Veronica ZHANG
+	<veronica@cn.hanjin.com>, David CHEN <davidchen@cn.hanjin.com>, Brianna ZHANG
+	<brianna_zhang@cn.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik
+ PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG
+	<joseph.ng@sg.hanjin.com>, Kenny KEE <cykee@sg.hanjin.com>, Victoria CHEN
+	<chenfu@sg.hanjin.com>, Alan TAY <alantay@sg.hanjin.com>, "Bak Teng (Alvin)
+ YEO" <btyeo@sg.hanjin.com>, "Philip(Ee Hang) LOH" <ehloh@sg.hanjin.com>, Jess
+ YAM <kyyam@sg.hanjin.com>, Karen Michelle <karendecastro@sg.hanjin.com>,
+	ROZITAH Bte ATAN <rozitah@sg.hanjin.com>, Karen HONG
+	<karenhong@sg.hanjin.com>, Kim LEE <splee@sg.hanjin.com>, "Kooks(Kook-Shin)
+ KIM" <kookskim@hanjin.com>, "Ara(A-RA) CHO" <archo@hanjin.com>, "Ole
+ JOHANNSEN  (USA)" <ole.johannsen@de.hanjin.com>, Anja SERKE
+	<anja.serke@de.hanjin.com>, Jesse Turner <jesse.turner@de.hanjin.com>,
+	"Marcus C. FIELD" <marcus.field@de.hanjin.com>, Gabriele SCHERNER
+	<gabriele.scherner@de.hanjin.com>, Rob DURENKAMP
+	<rob.durenkamp@nl.hanjin.com>, Dirk-Carsten Wiegers
+	<dirk.wiegers@de.hanjin.com>, Marko Sevke <marko.sevke@de.hanjin.com>, Denis
+ Helmke <denis.helmke@de.hanjin.com>, David Malbos <david@hanjin.com>, Soja
+ BONG <soja.bong@de.hanjin.com>, Jana Fuhrhop <jana.fuhrhop@de.hanjin.com>,
+	Michael Stein <michael.stein@de.hanjin.com>
+CC: Yoon-Han JUNG <jungyh@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>,
+	Hyun-Sup SHIN <hsshin@hanjin.com>, Dongsoo AHN <dsahn@hanjin.com>, Yong-Hwa
+ JUN <yongma27@hanjin.com>, Ki-up KIM <kimkiup@hanjin.com>, Kyung-Su SIN
+	<kssin@hanjin.com>, "Lucy(Ji-Young) Rhee" <lucyrhee@hanjin.com>, Sang-Hyeob
+ YEO <ysh517@hanjin.com>, Chul-Wan PARK <jcpark@hanjin.com>, Joo-Won Lee
+	<lejo@hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>, Jong-Suk LIM
+	<jslim@hanjin.com>, Sang-Soo LEE <2ss@hanjin.com>, Ho-Sik PARK
+	<hspark@hanjin.com>, "Edward(Kwang-Min) LEE" <kmlee@hanjin.com>,
+	"Dynia(Min-Sun) Kim" <mskim@hanjin.com>, Sungjae Kang <sjkang81@hanjin.com>,
+	Sang-Young SHIN <syshin@hanjin.com>, Ken-Hyoung HONG <khhong@hanjin.com>,
+	Tae-Jin KIM <ktj5274@hanjin.com>, "Claire(Gong-Hee) LEE" <becoz@hanjin.com>,
+	Hye-In AHN <hiahn@hanjin.com>, Sung-Ku KIM <imsungku@hanjin.com>, Alex SONG
+	<alex@cn.hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>, Seung-Min PARK
+	<sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG
+	<ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>, "Daisy(Ji-Kyong) BHANG"
+	<jkbhang@hanjin.com>, "TH(Tae-Hoon) AN" <than@hanjin.com>, Sang-Jin HAN
+	<sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM
+	<aram@hanjin.com>, "Lloyd(Woosik) Yang" <shakin@hanjin.com>,
+	"Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>, "JH(Jin-Ha) LEE"
+	<jinhalee@hanjin.com>, Byung-Ro YOO <bryoo1@hanjin.com>, "Chris(Seonmyung)
+ Kim" <kimsm@hanjin.com>, "Sylvia(He-Jung) KIM" <sylvia_k@hanjin.com>,
+	Myung-Han KANG <mhkang@hanjin.com>, "SH(Sung-Hwan) CHANG"
+	<shchang@hanjin.com>, "SH(Su-Han) KIM" <shkim1@hanjin.com>,
+	"Lawrence(Byung-Woo) OH" <bwoh@hanjin.com>, Kyeong-Nam JEONG
+	<kn.jeong@hanjin.com>, Yeon-Hui YI <yh.yi@hanjin.com>
+Subject: Notice : [TPE/ACE] GENERAL RATE INCREASE (GRI) - January 15, 2014
+Thread-Topic: Notice : [TPE/ACE] GENERAL RATE INCREASE (GRI) - January 15,
+ 2014
+Thread-Index: AQHO5ZDPuMKeGBSeQ0iCDzgBiapVcQ==
+Disposition-Notification-To: "Matt(Wonil) Choi" <willchoi@hanjin.com>
+Date: Wed, 20 Nov 2013 10:35:35 +0900
+Message-ID: <606EAE14D07DF94DA32998DE05A221E2055F59@kovhhvmc.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: kovhgvme.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.246.154.253]
+Content-Type: multipart/alternative;
+	boundary="_000_606EAE14D07DF94DA32998DE05A221E2055F59kovhhvmchanjincom_"
+MIME-Version: 1.0
+
+--_000_606EAE14D07DF94DA32998DE05A221E2055F59kovhhvmchanjincom_
+Content-Type: text/plain; charset="us-ascii"
+
+TO : NSG / NCG / ASG / ASM / WSG / WCG / USG / UCG
+
+CC : CCM / CCE / CCB
+
+FM : CCA
+
+
+
+Please be informed January 15, 2014 GRI for TPE/ACE as below.
+
+===========================================================================
+
+[TPE]
+
+Tariff Code: HJSC-700
+
+Rule No : 102-Z7
+
+Effective Date : January 15, 2014
+
+===========================================================================
+
+All cargo moving under this tariff is subject to the following amount of General Rate Increase as indicated below.
+
+A. General Rate Increase Amount
+
+1. From : All origins except Japan, Sub-Continent (India, Pakistan, Bangladesh, Colombo), and Middle East
+To : All US Destinations (including Mexico via US WC)
+
+
+
+- USD 240    Per 20'
+- USD 300    Per 40'
+- USD 340    Per 40' HIGH CUBE and REEFER Container
+- USD 380    Per 45'
+
+
+
+B. Effective Date
+
+GRI is effective January 15, 2014.
+
+2. From : Japan, Sub-Continent
+
+Please refer to 102-Z8
+
+3. From : Middle East
+
+GRI is not applicable
+
+===========================================================================
+
+
+
+
+
+===========================================================================
+
+[ACE]
+
+Tariff Code: HJSC-014
+
+Rule No : 107-AF
+
+Effective Date : January 15, 2014
+
+===========================================================================
+
+All cargo moving under this tariff is subject to the following amount of General Rate Increase as indicated below.
+
+
+
+A. General Rate Increase Amount
+
+1. From : All origins except Japan, Sub-Continent (India, Pakistan, Bangladesh, Colombo) and Middle East.
+To : Canada
+
+
+
+- USD 240    Per 20'
+- USD 300    Per 40'
+- USD 340    Per 40' HIGH CUBE and REEFER Container
+- USD 380    Per 45'
+
+
+
+B. Effective Date
+
+GRI is effective January 15, 2014.
+
+2. From : Japan, Sub-Continent (India, Pakistan, Bangladesh, Colombo)
+
+Please refer to 107-AG
+
+
+
+3. From : Middle East.
+
+GRI is not applicable.
+
+===========================================================================
+
+
+
+
+
+Rgds.
+
+Matt(Wonil) Choi
+
+Trans-Pacific Customer Team (CCA)
+
+Tel : +82 2 3770 6763
+
+
+
+--_000_606EAE14D07DF94DA32998DE05A221E2055F59kovhhvmchanjincom_
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<p><font face="Times New Roman"><strong>TO : NSG / NCG / ASG / ASM / WSG / WCG / USG / UCG</strong></font></p>
+<p><font face="Times New Roman"><strong>CC : CCM / CCE / CCB</strong></font></p>
+<p><font face="Times New Roman"><strong>FM : CCA</strong></font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">Please be informed January 15, 2014 GRI for TPE/ACE as below.</font></p>
+<p><font face="Times New Roman">===========================================================================</font></p>
+<p><font face="Times New Roman">[TPE]</font></p>
+<p><font face="Times New Roman">Tariff Code: HJSC-700</font></p>
+<p><font face="Times New Roman">Rule No : 102-Z7</font></p>
+<p><font face="Times New Roman">Effective Date : January 15, 2014</font></p>
+<p><font face="Times New Roman">===========================================================================</font></p>
+<p><font face="Times New Roman">All cargo moving under this tariff is subject to the following amount of General Rate Increase as indicated below.</font></p>
+<p><br>
+<font face="Times New Roman">A. General Rate Increase Amount</font></p>
+<p><font face="Times New Roman">1. From : All origins except Japan, Sub-Continent (India, Pakistan, Bangladesh, Colombo), and Middle East<br>
+To : All US Destinations (including Mexico via US WC)</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">- USD 240&nbsp;&nbsp;&nbsp; Per 20'<br>
+- USD 300&nbsp;&nbsp;&nbsp; Per 40'<br>
+- USD 340&nbsp;&nbsp;&nbsp; Per 40' HIGH CUBE and REEFER Container<br>
+- USD 380&nbsp;&nbsp;&nbsp; Per 45'</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">B. Effective Date</font></p>
+<p><font face="Times New Roman">GRI is effective January 15, 2014.</font></p>
+<p><br>
+<font face="Times New Roman">2. From : Japan, Sub-Continent </font></p>
+<p><font face="Times New Roman">Please refer to 102-Z8</font></p>
+<p><br>
+<font face="Times New Roman">3. From : Middle East</font></p>
+<p><font face="Times New Roman">GRI is not applicable</font></p>
+<p><font face="Times New Roman">===========================================================================</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">===========================================================================</font></p>
+<p><font face="Times New Roman">[ACE]</font></p>
+<p><font face="Times New Roman">Tariff Code: HJSC-014</font></p>
+<p><font face="Times New Roman">Rule No : 107-AF</font></p>
+<p><font face="Times New Roman">Effective Date : January 15, 2014</font></p>
+<p><font face="Times New Roman">===========================================================================</font></p>
+<p><font face="Times New Roman">All cargo moving under this tariff is subject to the following amount of General Rate Increase as indicated below.</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">A. General Rate Increase Amount</font></p>
+<p><font face="Times New Roman">1. From : All origins except Japan, Sub-Continent (India, Pakistan, Bangladesh, Colombo) and Middle East.<br>
+To : Canada</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">- USD 240&nbsp;&nbsp;&nbsp; Per 20'<br>
+- USD 300&nbsp;&nbsp;&nbsp; Per 40'<br>
+- USD 340&nbsp;&nbsp;&nbsp; Per 40' HIGH CUBE and REEFER Container<br>
+- USD 380&nbsp;&nbsp;&nbsp; Per 45'</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">B. Effective Date</font></p>
+<p><font face="Times New Roman">GRI is effective January 15, 2014.</font></p>
+<p><br>
+<font face="Times New Roman">2. From : Japan, Sub-Continent (India, Pakistan, Bangladesh, Colombo)</font></p>
+<p><font face="Times New Roman">Please refer to 107-AG</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">3. From : Middle East.</font></p>
+<p><font face="Times New Roman">GRI is not applicable.</font></p>
+<p><font face="Times New Roman">===========================================================================</font></p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman"></font>&nbsp;</p>
+<p><font face="Times New Roman">Rgds.</font></p>
+<p><font face="Times New Roman">Matt(Wonil) Choi</font></p>
+<p><font face="Times New Roman">Trans-Pacific Customer Team (CCA)</font></p>
+<p><font face="Times New Roman">Tel : &#43;82 2 3770 6763<br>
+</font></p>
+<p>&nbsp;</p>
+</div>
+</body>
+</html>
+
+--_000_606EAE14D07DF94DA32998DE05A221E2055F59kovhhvmchanjincom_--

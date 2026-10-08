@@ -1,0 +1,82 @@
+
+$(document).ready(function(){
+	$(".pop_sns_wrap").hide();
+	$(".btn_share").click(function(){
+		$(".pop_sns_wrap").show();
+		$('.pop_sns_wrap').css({opacity:'1'});
+	});
+	$(".btn_sns_close").click(function(){
+		$(".pop_sns_wrap").hide();
+	});
+	$(".btn_notice_close").click(function(){
+		$(".rp_notice").hide();
+	});
+	//응원하기
+	$('#btn_like').click(function(){
+		if($('#btn_like').addClass('active')){
+		 $('#btn_like span').text("응원중");
+		 $('.count').css({display:'block'});
+		}
+		else
+		{
+		 $('.count').css({display:'none'});
+		}
+	});
+
+	
+});
+function addCheerCnt(id)
+{
+	var cnt;
+	$.ajax({
+		type: "GET",
+		url: "updateCheerCnt.asp?wt_id="+id,
+		cache: false,
+		async: false,
+		success: function(data){
+			//console.log(data);
+			cnt = data;
+		},
+		error: function(){
+			cmt = 0;
+		}
+	});
+	return cnt;
+}
+function checkCheerDup(id)
+{
+	var cklist = getCookie("cheerUpList");
+	if (getCookie("cheerUpList"))
+	{
+		var cklist = getCookie("cheerUpList");
+		//console.log(cklist);
+		var ckArr = cklist.split(",");
+		if (ckArr.indexOf(id)!=-1)
+		{
+			return "y";
+		}
+		else
+		{
+			return "a";
+		}
+	}
+	else
+	{
+		return "n";
+	}
+}
+function getCookie(name) {
+    var value = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+    return value ? unescape(value[2]) : null;
+};
+function setCookie(name, value, exp) {
+	var todayDate = new Date(); 
+	var domain = "kmib.co.kr";
+	todayDate = new Date(parseInt(todayDate.getTime() / 86400000) * 86400000 + 54000000);
+	if ( todayDate > new Date() )
+	{
+	exp = exp - 1;
+	}
+	todayDate.setDate( todayDate.getDate() + exp ); 
+	 document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";" + "domain=" + domain + ";";
+};

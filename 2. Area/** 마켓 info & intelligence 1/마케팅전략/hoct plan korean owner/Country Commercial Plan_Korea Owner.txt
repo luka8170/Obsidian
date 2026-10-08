@@ -1,0 +1,903 @@
+COUNTRY XXX 
+COMMERCIAL 
+PLANREGION XXX . COUNTRY XXXREV DRAFT . JANUARY 2025HOCT-SEK-TPL-001-REGIONAL COMMERCIAL PLAN TEMPLATE REV 0
+
+
+PURPOSE OF THE DOCUMENT | GUIDANCE FOR THE TEAM
+
+This template is designed to guide the development of country-level commercial plans for Bureau Veritas Marine & 
+Offshore. The purpose of this document is to:
+1.Provide a structured framework for market and competitive analysis
+2.Guide the development of clear, actionable sales and marketing strategies
+3.Ensure alignment between local initiatives and global commercial priorities
+4.Facilitate effective communication of plans to senior leadership
+
+
+
+When completed, this plan will serve as a comprehensive roadmap for commercial success in each territory. It will 
+function as a strategic planning tool and ultimately implemented in our commercial & performance tools namely 
+Salesforce and Vivagoals.
+The completed plan should be:
+.Data-driven and insightful
+.Specific to each market's unique challenges and opportunities
+.Focused on achievable objectives with clear metrics for success under the format of OKRs
+
+
+
+Thoughtful completion of each section is crucial in shaping our collective path forward. This document is not just a 
+report, but a dynamic tool to guide commercial efforts throughout the year and should be updated every 6 months.
+The final plan will be reviewed by senior management to support and enable local commercial success and set sales 
+objectives of each year.
+
+
+Slide to be deleted in final version
+
+
+01
+
+02
+
+03
+
+2024 Look back
+
+Market Analysis
+
+2025 Sales Objectives & Commercial Strategy
+
+Une image contenant horloge, Instrument de mesure, regarder
+Description generee automatiquement
+
+EXECUTIVE SUMMARY | GUIDANCE FOR THE TEAM
+
+Executive summary needs to be completed last and should highlight:
+.market outlook key take aways, main changes and drivers in few lines only.
+.Strategic priorities for the country (in terms of market & services)
+.growth initiatives i.e. key actions that will make your ambition achievable. 
+
+
+
+
+
+A summary table with the following information can be used:
+
+Key Market Segment 
+(top 3)
+
+Key Services to be proposed per Segment
+
+(Both C&S and Advisory)
+
+Key Marketing Initiatives
+
+Key Clients Expected 
+for 2025
+
+(top 3)
+
+Targeted Sales 
+
+(m¢æ)
+
+Tanker
+
+Bulk
+
+Offshore Wind
+
+NC 
+
+NS, CAC and CAP
+
+Integrated Load Analysis, Structural Analysis 
+
+Seminar, conference, committee, etc¡¦
+
+CMA CGM
+
+LDA
+
+Piriou
+
+XXX XXX¢æ
+
+
+
+Slide to be deleted in final version
+
+
+EXECUTIVE SUMMARY | COUNTRY A
+
+Executive Summary should not exceed 3 slides
+
+
+
+A compass pointing to the top of the compass
+01.
+
+2024 Look Back
+
+
+KEY SUCCESSES & ACHIEVEMENT IN 2024
+
+01. 2024 LOOK BACK
+
+
+Describe in few bullet points the key projects you won, new markets you entered, new services you proposed, new clients you converted¡¦Etc
+
+
+REVENUE BY SERVICE IN 2024
+
+01. 2024 LOOK BACK
+
+
+Revenue in COUNTRY A (2024)
+
+OperatingMarginin COUNTRY A (2024)
+
+Proposition below can be changed to bar to show trend if data is available for several years (5 years max)
+
+XX m¢æ
+
+XX m¢æ
+
+
+REVENUE / MARKET SHARE BY CLIENT IN 2024
+
+01. 2024 LOOK BACK
+
+
+Revenue in COUNTRY A (2024)
+
+Operating Margin in COUNTRY A (2024)
+
+Snapshot can be changed to bar to show trend if data is available (5 years max)
+
+Snapshot can be changed to bar to show trend if data is available for several years (5 years max)
+
+
+COUNTRY SALES RESULTS VS M&O OVERALL SALES RESULTS
+
+01. 2024 LOOK BACK
+
+
+In 2024 COUNTRY A NS sales was XX%of NS direct sales for M&O
+
+In 2024 COUNTRY ANC SY direct sales was YY%of NC SY direct sales for M&O
+
+In 2024 COUNTRY ANC SO indirect sales was ZZ%of NC SO indirect sales for M&O
+
+In 2024 COUNTRY ACNO sales was QQ%of CNO sales for M&O
+
+Importance of sales activities as a share of global M&O
+
+
+02.
+
+Market AnalysisCountry A
+
+
+MARKET ANALYSIS | GUIDANCE FOR THE TEAM
+
+02. MARKET ANALYSIS
+
+
+The market analysis shall provide Bureau Veritas with critical insights to guide its strategic planning, business development, and 
+competitive positioning in the Marine & Offshore industry. It helps the company identify growth opportunities. 
+Market analysis will be used to understand our future and guide our commercial forces to focus on the right markets, clients and 
+services
+Main topics to be covered in this Market Analysis section are, for both Marine & Offshore:
+1.Market Overview & Territory Analysis
+2.Competition Analysis
+3.BV Value Analysis in Country
+
+
+Slide to be deleted in final version
+
+
+MARINE MARKET 
+- 
+COUNTRY A
+
+Une image contenant transport, capture d¡¯ecran, bateau
+Description generee automatiquement
+
+MARINE | MARKET OVERVIEW | GUIDANCE FOR THE TEAM
+
+02. MARKET ANALYSIS
+
+
+Target maximum of 10 slides focusing on your country/region (when data are available) with the following questions to be covered:
+.What are the key markets segments (vessel type) in my country? (Market priorities)
+.What¡¯s the size of each of the market segments for the existing fleets (NS-CAC and advisory)
+.What's the outlook / trends in terms of shipbuilding order for the different vessel types (tankers, bulk carriers, container ships¡¦)? (NC)
+.What will be the evolution of those market segments on a mid / long term basis (growth? Stable? Shrinkage?). (NC)
+.What are the key reasons / drivers for those changes? (value proposition, service offer)
+.Which shipyards are emerging as leaders in building specific vessel types? (NC)
+.What are the upcoming international maritime regulations that could impact the industry? (NC, value proposition, advisory service offer, NS)
+.What are the other new trends in your country? (i.e. Alternative fuel, sustainability, safety, new technologies, economic or political factors¡¦)
+.¡¦(non exhaustive list of questions)
+
+
+
+
+
+Use graphs to justify your analysis
+
+Data can come from (1) Market Leaders, (2) HOCT Sharepoints, (3) seasearcheror (4) Clarkson (contact Annie Lavrencic)
+
+Slide to be deleted in final version
+
+
+MARINE | MARKET OVERVIEW
+
+02. MARKET ANALYSIS
+
+
+Market Overview should not exceed 10 slides
+
+
+MARINE | TERRITORY ANALYSIS | GUIDANCE FOR THE TEAM
+
+02. MARKET ANALYSIS
+
+
+1-2 slides with the list of the top 10 (or more) shipowners with the following information
+.their fleets (nbr/ GT and possibly by type)
+.the number of vessels per class society
+.the revenue generated in 2024 (if it is a client)
+.BV Revenue trend expected for the coming years (qualitatively like + or ++ or -or --)
+
+
+
+
+
+Date source to be used: Seasearcher.com
+
+Typical graph that can be prepared by segment and/or by country
+
+Slide to be deleted in final version
+
+Account creation is FREE with your BV email address
+
+by clicking on ¡°don¡¯t¡¯ have an account?¡±
+
+
+MARINE | TERRITORY ANALYSIS | GUIDANCE FOR THE TEAM
+
+02. MARKET ANALYSIS
+
+
+
+MARINE | TERRITORY ANALYSIS
+
+02. MARKET ANALYSIS
+
+
+xxxx
+
+
+
+MARINE | COMPETITION ANALYSIS
+
+02. MARKET ANALYSIS
+
+
+Competitor
+
+Market Share
+
+Headcount
+
+Strength
+
+Weakness
+
+Differentiator
+
+DNV
+
+LR
+
+ABS
+
+CCS
+
+Class NK
+
+RINA
+
+¡¦
+
+
+
+
+MARINE | COMPETITION ANALYSIS
+
+02. MARKET ANALYSIS
+
+
+More details can be added on the key competitor(s) if necessary
+
+
+
+Bureau Veritas Group | C2 - Internal 
+MARINE | COMPETITION ANALYSIS 
+OVERALL VALUE PERCEIVED BY OUR CLIENTS 
+21 
+0 2 . MA R K E T A N A L Y S I S 
+0
+1
+2
+3
+4
+5
+6 
+Pricing Perceived Quality Reputation Experience / 
+References 
+Local Footprint Customer 
+Relastionship 
+Technology Leadership Range of services Environmental 
+Leadership 
+Bureau Veritas DNV LR ABS CCS Class NK RINA 
+How to build this graph: https://www.blueoceanstrategy.com/tools/strategy-canvas/ 
+
+Bureau Veritas Group | C2 - Internal 
+WEAKNESSES 
+THREATS 
+ABC 
+XXX 
+STRENGTHS 
+XXX 
+XXX 
+OPPORTUNITIES 
+S W 
+O T XXX 
+XXX 
+ABC 
+XXX 
+MARINE | SWOT FOR BV IN THE REGION / COUNTRY 
+22 
+0 2 . MA R K E T A N A L Y S I S
+
+WEAKNESSES
+
+THREATS
+
+W
+
+T
+
+MARINE | SWOT FOR BV IN THE REGION / COUNTRY
+
+02. MARKET ANALYSIS
+
+
+List of key actions to reduce our weaknesses
+
+List of key actions to reduce threats or their 
+impacts
+
+ABC
+
+XXX
+
+ABC
+
+XXX
+
+
+SALES, KAM & MARKETING ORGANIZATION AND RESOURCES
+
+02. MARKET ANALYSIS
+
+
+Describe your current organization & headcount in Sales & Marketing
+
+
+
+OFFSHORE MARKET 
+- 
+COUNTRY A
+
+Une image contenant eau, plein air, sol
+Description generee automatiquement
+
+OFFSHORE | MARKET OVERVIEW | GUIDANCE FOR THE TEAM
+
+02. MARKET ANALYSIS
+
+
+Target maximum of 10 slides focusing on your country/region (when data are available) with the following questions to be covered:
+.What are the key markets segments (FPSO, FSRU, Floating Wind, Subsea) in my country? (Market priorities)
+.What¡¯s the size of each of the market segments for the existing fleets (NS-CAC and Advisory)
+.What's the outlook / trends in terms of new developments for the different markets? (NC)
+.What will be the evolution of those market segments on a mid / long term basis (growth? Stable? Shrinkage?). (NC)
+.What are the key reasons / drivers for those changes? (value proposition, service offer)
+.Which shipyards & EPCs are emerging as leaders in building specific asset types? (NC)
+.What are the upcoming international regulations that could impact the industry? (NC, value proposition, advisory service offer, NS)
+.What are the other new trends in your country? (i.e. Sustainability, safety, new technologies, economic or political factors¡¦)
+.¡¦(non exhaustive list of questions)
+
+
+
+
+
+Use graphs to justify your analysis
+
+Data can come from (1) Market Leaders, (2) HOCT Sharepoints, (3) seasearcher
+
+Slide to be deleted in final version
+
+
+OFFSHORE | MARKET OVERVIEW
+
+02. MARKET ANALYSIS
+
+
+Market Overview should not exceed 10 slides
+
+
+OFFSHORE | TERRITORY ANALYSIS | GUIDANCE FOR THE TEAM
+
+02. MARKET ANALYSIS
+
+
+1-2 slides with the list of the top 10 (max) operators with the following information
+.their fleets (nbr)
+.the number of asset per class society
+.the revenue generated (if it is a client)
+.BV Revenue trend expected for the coming years (qualitatively like + or ++ or -or --)
+
+
+
+
+
+Date source to be used: EMA
+
+Typical graph that can be prepared by segment and/or by country
+
+Slide to be deleted in final version
+
+
+OFFSHORE | TERRITORY ANALYSIS
+
+02. MARKET ANALYSIS
+
+
+xxx
+
+
+
+OFFSHORE | REGIONAL COMPETITION ANALYSIS
+
+02. MARKET ANALYSIS
+
+
+Competitor
+
+Market Share
+
+Headcount
+
+Strength
+
+Weakness
+
+Differentiator
+
+DNV
+
+LR
+
+ABS
+
+CCS
+
+Class NK
+
+RINA
+
+¡¦
+
+
+
+
+Bureau Veritas Group | C2 - Internal 
+OFFSHORE | OVERALL VALUE PERCEIVED BY OUR CLIENTS 
+31 
+0 2 . MA R K E T A N A L Y S I S 
+0
+1
+2
+3
+4
+5
+6 
+Pricing Perceived Quality Reputation Experience / 
+References 
+Local Footprint Customer 
+Relastionship 
+Technology Leadership Range of services Environmental 
+Leadership 
+Bureau Veritas DNV LR ABS CCS Class NK RINA 
+How to build this graph: https://www.blueoceanstrategy.com/tools/strategy-canvas/ 
+
+Bureau Veritas Group | C2 - Internal 
+WEAKNESSES 
+THREATS 
+ABC 
+XXX 
+STRENGTHS 
+XXX 
+XXX 
+OPPORTUNITIES 
+S W 
+O T XXX 
+XXX 
+ABC 
+XXX 
+OFFSHORE | SWOT FOR BV IN THE REGION / COUNTRY 
+32 
+0 2 . MA R K E T A N A L Y S I S
+
+WEAKNESSES
+
+THREATS
+
+W
+
+T
+
+OFFSHORE | SWOT FOR BV IN THE REGION / COUNTRY
+
+02. MARKET ANALYSIS
+
+
+List of key actions to reduce our weaknesses
+
+List of key actions to reduce threats or their 
+impacts
+
+ABC
+
+XXX
+
+ABC
+
+XXX
+
+
+SALES, KAM & MARKETING ORGANIZATION AND RESOURCES
+
+02. MARKET ANALYSIS
+
+
+Describe your current organization & headcount in Sales & Marketing
+It can be the same for Marine & Offshore
+
+
+
+Une image contenant texte, personne, interieur, boite
+Description generee automatiquement
+03.
+
+Sales Objectives &
+Commercial Strategy
+
+
+OBJECTIVES & KEY RESULTS EXPECTED | GUIDANCE FOR THE TEAM
+
+03. SALES OBJECTIVES & COMMERCIAL STRATEGY
+
+
+Objective: Surpass annual sales targets through enhanced sales strategies and team performance
+Key Results:
+1.Increase the average contract value by 25% by proposing additional class notations such as XX
+2.Improve sales team productivity by training 70% of our sales team on salesforce and sales techniques
+3.Increase the success rate of proposals from 30% to 45% through better customization and by 
+performing at least 2 value proposition canvas workshops
+
+
+
+Objective: Expand and deepen relationships with top-tier Marine and Offshore clients
+Key Results:
+1.Increase revenue from our top 3 clients (name it)by 30% year-over-year
+2.Secure at least 2 enterprise-wide service agreements with major shipping companies (name it)
+3.Implement strategic account plans for our top 5 clients (name it), with quarterly executive-level reviews
+
+
+
+Objective: Establish strong presence in emerging Marine and Offshore markets
+Key Results:
+1.Generate $1 million in new revenue from the offshore floating wind sector
+2.Secure contracts for 3 major projects in the methanol fuelledship market
+3.Achieve 20% market share in providing classification services for autonomous vessels
+
+
+
+
+
+Slide to be deleted in final version
+
+Click on the picture to get more Information on how to 
+build Objectives & Key Results (OKRs)
+
+A maximum of 4 objectives and 3 key results per objectives need to be defined. Exempleare presented below:
+
+
+
+Bureau Veritas Group | C2 - Internal 
+CONTEXTUALIZATION | M&O OVERALL 2025 COMMERCIAL PRIORITIES 
+37 
+0 3 . S A L E S OB J E C T I V E S & C OMME R C I A L S T R A T EGY 
+Financial Priority 
+1 2 3 
+Portfolio Priority Market Segment priorities 
+Protect the Operating Margin 
+within the OG 
+Increase sales of LEAP 28 
+SPPs and M&O Advisory 
+Services 
+Increase sales on global 
+growing markets 
+Passenger ships (tbc) 
+Crude tankers (tbc) 
+FPSOs (tbc)
+
+SALES STRATEGY- 
+COUNTRY A
+
+Une image contenant transport, capture d¡¯ecran, bateau
+Description generee automatiquement
+
+Bureau Veritas Group | C2 - Internal 
+COUNTRY SALES OBJECTIVES PER SERVICE 
+39 
+0 3 . S A L E S OB J E C T I V E S & C OMME R C I A L S T R A T EGY 
+2025 M&O Sales Objectives 
+SuB-RL Level 2 CAPEX MNO (MOC) 
+Sub-RL Level 3 NEW CONST (NC) BVN 
+2025 BVN/NC Ration = 1.57 
+NC - Owner NC - Yard BVN - C 
+kGT Nbr ¢æ kGT Nbr ¢æ ¢æ 
+Sales Objectives 
+APA 3460,3 260 XX 10347,2 502 45 240 995,73 ¢æ 71 028 363,30 ¢æ 
+WEA 3680,9 237 XX 176,8 124 6 608 521,47 ¢æ 10 375 378,71 ¢æ 
+EMA 3737,0 254 XX 297,8 129 7 440 422,70 ¢æ 11 681 463,63 ¢æ 
+TOTAL M&O 10878,3 750 XX 10821,8 756 59 289 939,90 ¢æ 93 085 205,64 ¢æ 
+SuB-RL Level 2 OPEX MNO (MOO) 
+Sub-RL Level 3 SHIP IN SERVICE (NS) 
+NS - CAC Transfer NS - CAC NewCon NS - CAC Ren Other CNO BVS + RAS Total (CNO) 
+kGT Nbr ¢æ kGT Nbr ¢æ kGT Nbr ¢æ ¢æ ¢æ ¢æ 
+Sales Objectives 
+APA 1900 82 4 420 000,00 ¢æ X X 3 315 000,00 ¢æ X X 12 840 986,25 ¢æ 3 000 000,00 ¢æ 6 948 000,00 ¢æ 9 948 000,00 ¢æ 
+WEA 660 125 9 890 000,00 ¢æ X X 7 417 500,00 ¢æ X X 40 706 760,45 ¢æ 4 800 000,00 ¢æ 8 347 000,00 ¢æ 13 147 000,00 ¢æ 
+EMA 4000 220 8 800 000,00 ¢æ X X 6 600 000,00 ¢æ X X 27 188 475,95 ¢æ 6 500 000,00 ¢æ 3 212 000,00 ¢æ 9 712 000,00 ¢æ 
+TOTAL M&O 6560 427 23 110 000,00 ¢æ 0 0 17 332 500,00 ¢æ 0 0 80 736 222,65 ¢æ 14 300 000,00 ¢æ 18 507 000,00 ¢æ 32 807 000,00 ¢æ 
+
+Bureau Veritas Group | C2 - Internal 
+OBJECTIVES & KEY RESULTS EXPECTED 
+40 
+0 3 . S A L E S OB J E C T I V E S & C OMME R C I A L S T R A T EGY 
+Objective 1 
+Key Result 1 
+Key Result 2 
+Key Result 3 
+1
+
+Bureau Veritas Group | C2 - Internal 
+OBJECTIVES & KEY RESULTS EXPECTED 
+41 
+0 3 . S A L E S OB J E C T I V E S & C OMME R C I A L S T R A T EGY 
+Objective 2 
+Key Result 1 
+Key Result 2 
+Key Result 3 
+2
+
+Bureau Veritas Group | C2 - Internal 
+OBJECTIVES & KEY RESULTS EXPECTED 
+42 
+0 3 . S A L E S OB J E C T I V E S & C OMME R C I A L S T R A T EGY 
+Objective 3 
+Key Result 1 
+Key Result 2 
+Key Result 3 
+3
+
+Bureau Veritas Group | C2 - Internal 
+OBJECTIVES & KEY RESULTS EXPECTED 
+43 
+0 3 . S A L E S OB J E C T I V E S & C OMME R C I A L S T R A T EGY 
+Objective 4 
+Key Result 1 
+Key Result 2 
+Key Result 3 
+4
+
+ACCOUNT MANAGEMENT 
+STRATEGY- 
+COUNTRY A
+
+Une image contenant transport, capture d¡¯ecran, bateau
+Description generee automatiquement
+
+EXISTING KEY ACCOUNTS
+
+03. SALES OBJECTIVES & COMMERCIAL STRATEGY
+
+
+Client
+
+Head Office
+
+Headcounts
+
+Client 
+Revenue 
+
+Main office
+
+Worldwide
+
+KAM Ranking 
+(1 M&O,2 
+Region, 3 
+Local)
+
+Potential 
+Sales 2025 
+with this key 
+account
+
+Level of 
+proximity 
+with this 
+client ?
+
+Prokopiou
+
+Athens
+
+105 000
+
+184 B USD
+
+-
+
+2
+
+m¢æ
+
+3
+
+Maran Gas
+
+Athens
+
+33 000
+
+76 B USD
+
+-
+
+3
+
+m¢æ
+
+2
+
+Greek owner 3
+
+Athens
+
+12 000
+
+6 B USD
+
+-
+
+3
+
+3m¢æ
+
+5
+
+¡¦
+
+
+
+
+NEW / STRATEGIC ACCOUNTS FOR PROSPECTION
+
+03. SALES OBJECTIVES & COMMERCIAL STRATEGY
+
+
+Client
+
+Head Office
+
+Headcounts
+
+Client Revenue 
+
+Main office
+
+Worldwide
+
+Potential Sales 
+2025 with this 
+key account
+
+Level of 
+proximity with 
+this client ?
+
+¡¦
+
+
+
+
+MARKETING & 
+COMMUNICATION 
+STRATEGY- 
+COUNTRY A
+
+Une image contenant transport, capture d¡¯ecran, bateau
+Description generee automatiquement
+
+KEY CONFERENCES & NETWORKING EVENTS 
+
+03. SALES OBJECTIVES & COMMERCIAL STRATEGY
+
+
+Conference & 
+Events
+
+Location
+
+Size / Tiering
+
+Attendees Level 
+(tech, C-Level) 
+
+Market
+
+Date of Event
+
+Key Objectives
+
+¡¦
+
+
+
+
+MARINE & OFFSHORE CLUSTERS / ASSOCIATION
+
+03. SALES OBJECTIVES & COMMERCIAL STRATEGY
+
+
+Conference & 
+Events
+
+Location
+
+Size / Tiering
+
+Attendees Level (tech, 
+C-Level) 
+
+Market
+
+Key Objectives
+
+¡¦
+
+
+
+
+WWW.BUREAUVERITAS.COM
+
+Une image contenant texte, Police, logo, symbole
+

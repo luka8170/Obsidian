@@ -1,0 +1,224 @@
+MEETING REPORT
+
+Bureau Veritas Korea - Yeosu Ocean & Ventus Marine Discussion
+
+Date: January 2026
+Attendees:
+• Mr. Jung In-hyun, Chairman, Yeosu Ocean Co., Ltd.
+• Representative, Ventus Marine Korea Co., Ltd.
+• Bureau Veritas Korea Branch Manager
+
+EXECUTIVE SUMMARY
+
+This report provides a comprehensive overview of Yeosu Ocean’s maritime activities and Ventus Marine’s offshore wind service vessel operations, highlighting strategic opportunities fo sureau Veritas (Bv) to strengthen its partnership in Korea’s emerging offshore wind secto
+
+Key Highlights:
+• Ventus Marine operates 2 BV-classed Wind Farm Service Ships with annual revenue of €7,027
+Yeosu Ocean has no current newbuilding projects but strong ship repair capabilitie Strategic opportunity in offshore wind CTV market expansio
+
+1. COMPANY OVERVIEW
+
+1.1 Yeosu Ocean Co., Ltd.
+Business Profile:
+• Korea’s largest ship repair yard • Specializes in eco-friendly vessel retrofits and modifications Strong focus on safety management (ISO 45001 certified) • Export achievement: USD 10 million (2023)
+
+Strategic Direction:
+• Expanding into offshore wind support services Developing CTV (Crew Transfer Vessel) operation expertise • Planning joint venture for SOV (Service Operation Vessel)
+
+Management Philosophy:
+Chairman Jung In-hyun emphasizes “Safety First” principles • Conservative but innovation oriented approach
+
+• Strong government and industry relationships
+
+1.2 Ventus Marine Korea Co., Ltd.
+Business Focus:
+• Offshore wind farm service vessel operations • Partnership with Singapore Strategic Marine
+• International collaborations (PSA Marine, Nord Offshore) • Target markets: Korean offshore wind farms
+
+2. CURRENT BV-CLASSED FLEET ANALYSIS
+
+2.1 Fleet Overview
+
+Total Fleet: 2 vessels
+Total Annual Revenue: 7,027
+Average PV: 0.56 (Below market average of 1.01)
+Flag: Republic of Korea
+Ship Type: Wind Farms Service Ship
+
+2.2 Vessel Details
+VENTUS CAMELLIA (Reg: 47376X)
+Specifications:
+• GT: 222 tons
+• Built: July 2025 (Strategic Marine, Singapore)
+• Hull: Aluminum
+• Speed: 26 knots
+• Propulsion: 2 x Caterpillar engines (2,162 kW total)
+
+Classification:
+• Class: I CHULL RMACH
+• Service notation: Wind farms service ship SO
+• Navigation area: Sea area 3
+• Additional notation: GREEN PASSPORT
+
+Status:
+Definitive classification received January 2, 2026 • Currently experiencing IP Code certification delays (CRITICAL ISSUE) • Scheduled for deplayment at Yeonggwang Nakwol offshore wind farm
+Annual Revenue: €4,986
+Contract Value (PV): 0.52
+
+VENTUS YULAN (Reg: 48257F)
+Specifications:
+• IMO: 8355956
+
+• GT: 57 tons
+Built: 2012 (Originally as NJORD PUFFIN)
+Hull: Aluminum
+Speed: 25 knots
+Propulsion: 2 x MTU engines (1,444 kW total)
+
+Classification:
+• Class: I RHULL &MACH
+• Service notation: Wind farms service ship
+• Navigation area: Sea area 3
+
+Status:
+• Classitication after construction
+• Active operation
+• Next dry-dock survey: March 2026
+Annual Revenue: E2,041 Contract Value (PV): 0.77
+
+3. NEWBUILDING PERFORMANCE (2022-2025)
+
+3.1 Historical Newbuilding Activity
+According to BV records analyzing Korean owners’ newbuilding performance from 2022-2025:
+Yeosu Ocean has NO recorded newbuilding orders during this period.
+
+Context:
+
+• Focus has been on ship repair and modification business
+• Recent entry into offshore wind sector through vessel acquisition • Joint venture approach for vessel operations rather than ownership
+
+3.2 Market Position
+Korean Market Newbuilding Landscape (2022-2025):
+• Total: 28 vessels delivered by Korean owners
+Top performers.
+• SK Shipping: 11 vesselS (39%)
+• Sinokor: 4 vessels (14%)
+o H-Line Shipping: 2 vessels (7%)
+
+Offshore Wind Sector:
+• No significant Korean owner newbuilding activity in CTV/SOv segment during 2022-
+2025 Market dominated by vessel acquisitions and conversions Yeosu Ocean Ventus Marine following industry pattern of purchasing built vessels
+
+4. STRATEGIC OPPORTUNITIES FOR BV
+4.1 Current Challenges Requiring BV Support
+
+Immediate Issues:
+1. VENTUS CAMELLIA IP Code Certification
+• Delayed approval process (2+ months)
+• Critical for 80% complete Yeonggwang Nakwol project deployment • Risk of commercial penalties and reputation damage
+
+2. Classitication Process Efficiency
+• Need for dedicated Singapore office liaison
+• Streamined drawing approval process
+• Clear timeline and communication
+
+3. Technical Standards Harmonization
+• Korean post-Sewol passenger vessel regulations
+• International CTV design standards
+• Fire safety, stability, and emergency systems compliance
+
+4.2 Medium-term Partnership Opportunities
+1. Digital & Hybrid Certifications
+• SMART 3 notation (enhanced data utilization)
+• Hybrid-Ready certification System
+• Competitive advantage in chartering market
+2. Fleet Expansion Support
+• Potential SOV joint venture project
+• Vietnam Ha Long Shipyard newbuilding (3 vessels under construction)
+• Additional CTV acquisitions
+3. Retrofit & Modification Services
+• LNG/Ammonia engine conversions
+• Carbon capture system installations
+• Methane slip reduction technologles
+Digital twin-based repair management
+
+4. Safety & HSE Excellence
+• Advanced safety risk diagnostics • Global standard safety culture implementation • Quality assurance for international market expansion
+
+6. CHAIRMAN JUNG IN-HYUN’S CONCERNS &
+EXPECTATIONS
+
+6.1 Immediate Concerns
+
+Based on November 18, 2025 conversation:
+1. Classification Process Delays
+• VENTUS CAMELLIA approval 2+ months “unacceptable”
+Singapore office responsiveness insuiticient
+•
+
+• Drawing review process: sequential rather than comprehensive
+No clear timeline provided
+2. Commercial Impact
+• Vessel idle for 2 months awaiting certification Yeonggwang Nakwol project 6 months behind schedule • Additional delays due to CTV unavailability • Financial penalties and reputation risk
+3. Communication Breakdown
+• 200+ emails exchanged without resolution Lack of dedicated project coordinator
+• Field surveyors and plan approval office disconnect • Need for senior-level intervention
+
+6.3 Specitic Requests
+1. Dedicated Singapore Liaison
+• Senior person to control Singapore office • Commercial mindset and authority Physical presence if necessary (offered to pay costs) • Direct communication channel
+
+2. Immediate Actions
+• Emergency meeting with all relevant BV departments • Clear timeline for outstanding approvals
+On-site survey coordination
+• Drawing review acceleration
+3. Long-term Partnership
+• Support for future SOV project
+• Technical assistance for vessel modifications
+Training for shore-based personnel • Competitive pricing for fleet expansion
+
+7. RECOMMENDED ACTION PLAN
+7.1 Immediate Actions (Week 1)
+1. Emergency Response Team
+• BV Korea Branch Manager direct oversight • Singapore Plan Approval Office coordination meeting
+• Field surveyor briefing and alignment • Daily progress reporting to Chairman Jung
+
+2. VENTUS CAMELLIA Resolution
+• Comprehensive review of all pending items • Prioritized approval timeline (target: 2 weeks)
+• On-site survey completion coordination
+• IP Code certification expedited processing
+3. Communication Protocol
+• Direct line: Chairman Jung ~ BV Korea Branch Manager
+• Weekly progress meetings
+• Transparent issue escalation process
+• Success metrics and milestones
+
+9. CONCLUSION & RECOMMENDATIONS
+
+9.1 Critical Success Factors
+
+1. Immediate Crisis Resolution
+• VENTUS CAMELLIA certification completion within 2 weeks • Dedicated senior liaison for Singapore coordination
+Transparent communication and daily updates
+
+2. Trust Restoration
+• Branch Manager personal involvement • Premium project management framework deployment • Proactive problem-solving and flexibility
+3. Long-term Value Creation
+• Technical expertise demonstration (offshore wind specialization) • Digital and environmental services positioning • Competitive pricing for strategic partnership • Industry leadership and government relationship building
+9.2 Strategic Recommendation
+Bureau Veritas has a critical opportunity to establish leadership in Korea’s emerging offshore
+wind vessel classification market through the Yeosu Ocean Ventus Marine partnership.
+However, this opportunity is at high risk due to current classification process delays and
+communication challenges.
+
+Success Probability:
+: Wit immediate crisis resolution: 85%6 long term partnership Without resolution: 20% relationship retention
+
+he choice is clear: immediate, decisive action is required to convert this crisis into
+trategic partnership that positions BV as the preferred classification society for Korea’s offshor
+wind martime sector.
+
+Report Prepared by:
+Bureau Veritas Korea Branch
+Date: January 2026
+Classification: Internal Use - Strategic Partnership Development

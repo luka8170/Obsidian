@@ -1,0 +1,40 @@
+/* Nitmus */
+//document.write("<scr"+"ipt src=\"http://adsvr.kmib.co.kr/NetInsight/trace/script\" type=\"text/javascript\"></scr"+"ipt>");
+
+/* 구글 검색 */
+document.write("<scr"+"ipt src='//www.google.com/jsapi' type='text/javascript'></scr"+"ipt>");
+
+function setCookie_main(name, value) {
+	var todayDate = new Date();
+	var expire = 1;
+	todayDate.setTime(todayDate.getTime() + (60 * 60 * 1000));
+	document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";"
+}
+
+function getCookie_main(name){
+	var nameOfCookie = name + "=";
+	var x = 0;
+	while (x <= document.cookie.length)
+	{
+		var y = (x+nameOfCookie.length);
+		if (document.cookie.substring( x, y )==nameOfCookie)
+		{
+			if ((endOfCookie=document.cookie.indexOf( ";", y ))== -1)
+				endOfCookie = document.cookie.length;
+			return unescape(document.cookie.substring( y, endOfCookie ));
+		}
+		x = document.cookie.indexOf( " ", x ) + 1;
+		if ( x == 0 )
+			break;
+	}
+	return "";
+}
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+document.write("<script async src='https://www.googletagmanager.com/gtag/js?id=UA-113087220-1'></script>");
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-113087220-1');

@@ -1,0 +1,310 @@
+Received: from COW380D.hanjin.com (192.168.100.244) by kovhhvmd.hanjin.com
+ (203.246.154.26) with Microsoft SMTP Server (TLS) id 14.3.123.3; Fri, 15 Nov
+ 2013 18:31:44 +0900
+Received: from COW380F.hanjin.com ([192.168.10.2]) by cow380d.hanjin.com
+ ([222.68.181.254]) with mapi id 14.03.0123.003; Fri, 15 Nov 2013 17:31:11
+ +0800
+From: Chil-Ho KIM <chilhkim@hanjin.com>
+To: Sang-Keun KIM <sangkkim@hanjin.com>, Dae-Kyu KIM <forbong@hanjin.com>,
+	Seon-Young HWANG <syhwang@hanjin.com>, Kwang-Oog RYU <ryuko@hanjin.com>,
+	Seon-Woo NAM <swnam@hanjin.com>, "YI(Yong-In) Lee" <yilee@hanjin.com>,
+	Jin-Woo AHN <jwahn@hanjin.com>, Sang-Real BAEK <srbaek@hanjin.com>, Soo-Hyun
+ KONG <shkong@hanjin.com>, Joon-Sang PARK <jspark1@hanjin.com>, Boo-Young
+ CHUNG <byjung@hanjin.com>, "JS(Ji-Suk) KIM" <jskim@hanjin.com>,
+	"Rainbow(Chae-Hong) LEE" <chonglee@hanjin.com>, "SW(Seung-Woo) OH"
+	<swoh@hanjin.com>, Kang-Soo KIM <kskim03@hanjin.com>, "MY(Mun-Young) KIM"
+	<mykim@hanjin.com>, Hee-Do PARK <hdpark@hanjin.com>, Man-Seok MOON
+	<msmoon@hanjin.com>, Dong-Hwan KIM <kimdh@hanjin.com>, "David(Hyoung-Wook)
+ PARK" <hwpark@hanjin.com>, "JH(Jong-Hoon) KIM" <jhkima@hanjin.com>, Jung-Hwan
+ PARK <jhpark323@hanjin.com>, Chan-Young KANG <cykang@hanjin.com>, Han-Jong
+ KANG <hjkang@hanjin.com>, Eung-Sig BAI <esbae@hanjin.com>, Dae-Won KANG
+	<dwkang@hanjin.com>, Jae-Hee JANG <jhjang@hanjin.com>, Kyu-Hyun SONG
+	<khsong@hanjin.com>, Yeong-Sig PARK <parkys@hanjin.com>, Hoon PARK
+	<hpark@hanjin.com>, Jung-Seo MOON <jsmoona@hanjin.com>, Man-Young HUR
+	<myhur@hanjin.com>, "JM(Jeong-Min) LEE" <jmlee@hanjin.com>, Myung-Sik PARK
+	<parkms@hanjin.com>, "S. J. (Seung-Jong) PARK" <sjpark@hanjin.com>, Young-Kuk
+ YUN <ykyun@hanjin.com>, Cheong-Rim WOO <clwoo@hanjin.com>, Young-Chung OK
+	<ycok@hanjin.com>, Ju-Sig CHO <jscho@hanjin.com>, Hyung-Su KIM
+	<hskim@hanjin.com>, Dae-Young KANG <dykang@hanjin.com>, "JC(Jin-Cheol) KIM"
+	<kjc10@hanjin.com>
+CC: Young-Ho SON <yhson@hanjin.com>, Yoon-Han JUNG <jungyh@hanjin.com>, Jin-Ki
+ PARK <jkpark@hanjin.com>, Kuk-Jong Lee <kjlee@hanjin.com>, Young-Jun LIM
+	<yjlim@hanjin.com>, "HH(Han-Hoe) KIM" <hhkim@hanjin.com>, Cheon-Won PACK
+	<cwpark@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Jong-Suk LIM
+	<jslim@hanjin.com>, Sang-Soo LEE <2ss@hanjin.com>, Ho-Sik PARK
+	<hspark@hanjin.com>, "Edward(Kwang-Min) LEE" <kmlee@hanjin.com>,
+	"Dynia(Min-Sun) Kim" <mskim@hanjin.com>, Sungjae Kang <sjkang81@hanjin.com>,
+	"MD(Myung-Deok) CHO" <mdcho@hanjin.com>, Seung-Min PARK
+	<sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG
+	<ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>, "Daisy(Ji-Kyong) BHANG"
+	<jkbhang@hanjin.com>, "TH(Tae-Hoon) AN" <than@hanjin.com>, Sang-Jin HAN
+	<sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM
+	<aram@hanjin.com>, "Lloyd(Woosik) Yang" <shakin@hanjin.com>,
+	"Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>, Bae-Young SUH
+	<bysuh@hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>, "Jessie(Ji-Soo) YOON"
+	<jessyoon@hanjin.com>, Sang-Young SHIN <syshin@hanjin.com>, Ken-Hyoung HONG
+	<khhong@hanjin.com>, Tae-Jin KIM <ktj5274@hanjin.com>, Hye-In AHN
+	<hiahn@hanjin.com>, "Matt(Wonil) Choi" <willchoi@hanjin.com>, Sung-Ku KIM
+	<imsungku@hanjin.com>
+Subject: =?ks_c_5601-1987?B?WWllbGQgTUdNVCCwrcitIMDnIL/kw7s=?=
+Thread-Topic: =?ks_c_5601-1987?B?WWllbGQgTUdNVCCwrcitIMDnIL/kw7s=?=
+Thread-Index: Ac7h5WrZc2a93TbHRb6QmGezxlqGUg==
+Disposition-Notification-To: Chil-Ho KIM <chilhkim@hanjin.com>
+Date: Fri, 15 Nov 2013 18:31:09 +0900
+Message-ID: <3B2C0F46C9EFA442B161F4F60AB3B97D05BC30@cow380f.hanjin.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380d.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.100.243]
+Content-Type: multipart/alternative;
+	boundary="_000_3B2C0F46C9EFA442B161F4F60AB3B97D05BC30cow380fhanjincom_"
+MIME-Version: 1.0
+
+--_000_3B2C0F46C9EFA442B161F4F60AB3B97D05BC30cow380fhanjincom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+VE8gOiBCQkdzIHVuZGVyIFNIQUFTDQpDQyA6IFJBUywgU1NDLCBTU1QsIENDQSwgQ0NFLCBDQ00s
+IENDWQ0KRk0gOiBBU0cNCg0KMTEvMcDPus4gsbjB1iwgvsbB1iC51yCzsrnMILPrvLEgUi5SIMD7
+v+vAzCC1x776wLi45yC6zrrQwPvAuLfOILy6sPjA+8DOILjpsPogtNm80iC+xr2sv/INCrjptbUg
+wNa0wrDUILvnvcfA1LTPtNkuILHXuK6w7SCx3cDPKDExLzE1wM+6zim3ziC5zMHWILPrvLG/oSC0
+68fYvK21tSBHUkkgwPu/68DMILXHvvq9wLTPtNkNCg0Kuru75ywguru6ziC51yCwoiC047TnwNqw
+oSBUcmFkZS9zdWIgdHJhZGW6sLfOIFlpZWxkIE1HTVS/oSC068fYILvzvLzH0SBHdWlkZcC7IMXr
+x9gNCsH2vNMgsK3BtrimIMfPsO0gwNaw7Swgx/bA5b+hvK21tSDAz7rOIMitwda16bfOus7FzSC6
+0ri4wMwgwNbB9ri4IMH2sd2x7sH2tMIgwN8gx9jB1r3DsO0NCsDWtMIgsM3AuLfOILq4v6kgwf20
+z7TZLiDHz8H2uLggwM+6ziDB9r+qILnXILPrvLG/obytILvnwPwgQktHIERhdGEgudcgvcfA+yDB
+obDLILDhsPoNCkxvdyBQYXlpbmfIrcHWILmwt67AzCDG8rHVwMy78yC8scD7tcew7SDA1rDFs6os
+IMD8w7zA+8C4t84gUi5SIMD8yMQgtNy8+CC68bGzIL3DDQpDTVBCsKEgUi5SLiDA+7/rIMHWwve/
+oSDHz7b0tce0wiCw5r/stbUgwNa9wLTPtNkuILW/IENhc2W/oSC068fYvK0gv/jAziCx1LjtIMHf
+v6EgwNa9wLTPtNkNCg0Ktfu287ytIMDMufggseLIuLimIMPWtOvH0SDD68fPwNq0wiDD+Ljpv6G8
+rSC+xrehv80gsLDAzCBZaWVsZCBNZ210v6EgtOvH2CC47iCwocH2IMDnILCtwba4pg0KteW4rr/A
+tM8gw7bA+sj3IMHYvPbHz7+pIMHWvcOx4iC52bb4tM+02S4NCg0KMS4gsbjB1iCz67yxIFlpZWxk
+IE1hbmFnZW1lbnQgwfa808C7IMXrx9EgvPbAzby6IMH1tOsNCiAgICAtIDExLzHAzyBSLlIgwMzI
+xCC/7sDTILqvtb/AzCDB9rzTtcew7SDA1sH2uLggx/bA58DHIE1hcmtldCC/7sDTwLsgxevH2CDD
+1rTrx9EgvPbAzQ0KICAgICAgw6LD4sDMILXJILz2IMDWtbW3zyDH9iC/qbDHx8+/obytIMPWtOvH
+0SC89sDNvLrAuyCw7bfBx9EgvLG6uSCw/LiuIMH2vNPHz7+pIMHWvcOx4iC52bbzuOcNCiAgICAt
+IMDPus4gxasgxvjAxyBGJyBDYXN0IL7gvLy4piC6uMDMtMIgTUVEILPrvLG/oSC068fYvK20wiDA
++8GkILz2wdggTC9GIMCvwfawoSDHyr/kx9HBoSCw7bfBDQogICAgICCx4sG4IMitwdYgubC3riDD
+1rTrx9Eguea+7r/NIExvc3QgyK25sCDA5yDAr8Shx8+/qSDB1r3DseIgudm2+LTPtNkuDQoNCjIu
+ILOyucwgs+u8sQ0KICAgIC0gRUMsIFdDILPrvLEgR1JJsKEgvLqw+MD7wLi3ziDGx7Tctcu0z7TZ
+LiDAz7rOIMitwda3ziC6zsXNIL/uwNMgwM7HzyC+0LnawMwgwNaw7SwgtsfH0Q0KICAgICAgV0NT
+QcDHILDmv+wgRicgQ2FzdLW1IMH2s60gMi0zwda067rxIL7gIDEwJSDBpLW1IMfPtvS1yCC+57vz
+wMyzqiwgvcPA5SBEZW1hbmTAxyCx2bq7wMwgyOe16biusO0NCiAgICAgIMDWtNmw7bTCIMbHtNy1
+x8H2IL7KtMIgudksIMDMufggseLIuL+hIL3HwfrA+8DOIMitwdYgtNm6r8itsKEgtckgvPYgwNa1
+tbfPILTrx/wgyK3B1sDHIE5hbWVkIEJJWg0KICAgICAguvHB38C7IMPgvNLHz7DtILz2wM28usDM
+ILP0wLogRkFLIG9yILz2wM28usDMILP0wLogsO3BpCDIrcHWIMCvxKEguLbB9ri3ILHiyLi3ziC6
+uL3DsO0NCiAgICAgIMH3waIgQm9va2luZyC788iyIE1vbml0b3JpbmfHz7+pIMHWvcOx4iC52bb4
+tM+02S4gwvyw7bfOIDExLzEsIDnAz7rOt84gtOvH/CBOVk9DQ8DHDQogICAgICBMb3cgcGF5aW5n
+IG5hbWVkIEJJWrChIMDlseIgsOi+4MC4t84gR1JJIMD7v+vAzCC+yLXIIMitwda0wiC++L3AtM+0
+2S4NCg0KMy4gSUFTDQogICAtIMHftb8sIMirx9iz67yxIFIuUiDIv7D6sKEgucy5zMfPs6ogsdcg
+wd8gvPbAzby6wMwgs/TAuiDIrcHWLCBERVNUsKEgutC47cj3IMDWvcC0z7TZDQogICAgIMf2wOcg
+v6mwx8fPv6G8rSDD1rTrx9EgvPbAzby6v6EgseK53cfRIMitwdYgsbi8ui+6r8itLCBERVNUxse4
+xSC17sDMILXJILz2IMDWtbW3zyDBtsShx8+/qQ0KICAgICDB1r3DsO0sICDIo8HWILPrvLG/oSC0
+68fYvK20wiC8sbq5IMG2wP0gv7XH4sC4t84gMTAvMjTAzyBSLlIgyL+w+rChIMH2vNMgtcew7SDA
+1r3AtM+02Q0KICAgICDHz8H2uLggOS8xML/5IL/uwNPAzCDD1sD6wM8gtqcgwM+6ziCw6L7gtcgg
+TlZPQ0MgTmFtZWQgyK3B1iC5sLeuIMXrwaawoSDHyr/kIMfVtM+02S4NCiAgICAgseIgR3VpZGXH
+0SC52b/NILCwwMwgSEtHIEJhc2UgIE5WT0NDwMcgTmFtZWQgQUNDVL+hILTrx9i8rbTCIMH2waG6
+sCBHdWlkZcfRDQogICAgILn8wKezu7+hILyxwPvAzCC1ybz2IMDWtbW3zyBCS0cgsPy4riDHz7+p
+IMHWvcOx4iC52bb4tM+02S4gwvyw7bfOILW/IE5hbWVkIEJJWr+hDQogICAgILTrx9ggseLBuCC/
+7sDTtOu68SDD1rzSIFUkMjAwLzQwMChUL0YpwLsgMTEvMjLAz7rOt84gwM6788DMILHgwaTA+8C4
+t84gwfjH4MHfv6EgwNa9wLTPtNkNCg0KNC4gVFBFDQogICAtILHdwM8gUG9zdCBHUkkgv+7A0yC9
+w8DlIL/uwNOw+iC/rLDox8+/qSDA5yBTZXR0aW5nIMfPv7S9wLTPtNkNCiAgICAgTlZPQ0MgU3Bv
+dCBSYXRlsKEgwM+6ziBCQ08gv+7A07q4tNkgs/S+xsH8v6G1+7bzIE5WT0NDILmwt64gwfW067im
+IMXrx9ggs+u8sQ0KICAgICC89sDNvLogsLO8scDMILXJILz2IMDWtbW3zyDB1r/kIE5WT0NDILvT
+uLi+xrTPtvMgwd+80sf8IE5WT0NDt84gus7FzSC5sLeuIMH1tOuwoQ0KICAgICC1ySC89iDA1rW1
+t88gTlZPQ0O/oSC068fRILnQwvggv7W+9yC6zsW5teW4rrjnLCBBV0Wz67yxwMcgRidjYXN0LLCh
+IDExv/m/obW1IMH2vNMNCiAgICAgsK28vMDOwaHAuyCw7bfBIEhpZ2ggUkVWILmwt67AzCDD1rTr
+x9EgvLHA+yC1ybz2IMDWtbW3zyCz67fCx8+/qSDB1r3DsO0sIMPWsdkgsKHA5SCzt8C6DQogICAg
+IL3HwPuw+iBGJ0Nhc3S4piC6uMDMsO0gwNa0wiBQTlez67yxv6EgtOvH2LytLCDEs7OqtNkgtb+6
+ziBENSBQcm9tb3Rpb24sIFBOIFBvcnQNCiAgICAgTG9jYWwgubC3rsH1tOssICBDQVBSUiCw5sCv
+IE1pZCBXZXN0IElQSSC5sLeuIMH1tOu17iC5zMHWILPrvLEgwd/BoSDGx7jFIEl0ZW1zv6EgtOvH
+2A0KICAgICDB9rzTwPvAziDGx7jFILCtyK0gus7FuSC15biztM+02S4NCg0KICAgILvzseK/zSCw
+sMDMILCiILPrvLG/oSC068fYIFlpZWxkIE1nbnS/oSC068fYIMDnILCtwbYgx8+/tMC4uOcsIDEx
+v/kgwPzF68D7wM4guvG89rHitvOw7Q0KICDHz8H2uLggQ1BTuKYgxevH0SCw+LHeIMG2wP0sILCi
+ILPrvLG6sCAxMSwgMTK/+SBHUkkvUlLAzCC/ucGktce+7iDA1rTCwaEgte7AuyCw7bfBx8+/qQ0K
+ICDB9sGhwOW01LXpsrK8rbTCIMD8ILPrvLEsIMD8IMitwdYgtOu788C4t84gWWllbGQgTUdOVLCh
+ILXJvPYgwNa1tbfPILjFwfjHz7+pIMHWvcOx4iC52bb4tM+02S4NCg0KICCwqLvnx9W0z7TZDQoN
+CiAgQi5SR0RTDQogIENIIEtJTQ0KDQoNCg0KDQo=
+
+--_000_3B2C0F46C9EFA442B161F4F60AB3B97D05BC30cow380fhanjincom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+</head>
+<body>
+<div style=3D"FONT-FAMILY: =B8=BC=C0=BA =B0=ED=B5=F1; FONT-SIZE: 12pt" id=
+=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>TO : BBGs under SHAAS</div>
+<div>CC : RAS, SSC, SST, CCA, CCE, CCM, CCY</div>
+<div>FM : ASG</div>
+<div>&nbsp;</div>
+<div>11/1=C0=CF=BA=CE =B1=B8=C1=D6, =BE=C6=C1=D6 =B9=D7&nbsp;=B3=B2=B9=CC =
+=B3=EB=BC=B1&nbsp;R.R =C0=FB=BF=EB=C0=CC&nbsp;=B5=C7=BE=FA=C0=B8=B8=E7&nbsp=
+;=BA=CE=BA=D0=C0=FB=C0=B8=B7=CE =BC=BA=B0=F8=C0=FB=C0=CE =B8=E9=B0=FA =B4=
+=D9=BC=D2 =BE=C6=BD=AC=BF=F2</div>
+<div>=B8=E9=B5=B5 =C0=D6=B4=C2=B0=D4 =BB=E7=BD=C7=C0=D4=B4=CF=B4=D9. =B1=D7=
+=B8=AE=B0=ED =B1=DD=C0=CF(11/15=C0=CF=BA=CE)=B7=CE =B9=CC=C1=D6 =B3=EB=BC=
+=B1=BF=A1 =B4=EB=C7=D8=BC=AD=B5=B5 GRI =C0=FB=BF=EB=C0=CC =B5=C7=BE=FA=BD=
+=C0=B4=CF=B4=D9</div>
+<div>&nbsp;</div>
+<div>=BA=BB=BB=E7, =BA=BB=BA=CE =B9=D7 =B0=A2 =B4=E3=B4=E7=C0=DA=B0=A1 Trad=
+e/sub trade=BA=B0=B7=CE Yield MGMT=BF=A1 =B4=EB=C7=D8 =BB=F3=BC=BC=C7=D1 Gu=
+ide=C0=BB =C5=EB=C7=D8</div>
+<div>=C1=F6=BC=D3 =B0=AD=C1=B6=B8=A6 =C7=CF=B0=ED =C0=D6=B0=ED, =C7=F6=C0=
+=E5=BF=A1=BC=AD=B5=B5 =C0=CF=BA=CE =C8=AD=C1=D6=B5=E9=B7=CE=BA=CE=C5=CD =BA=
+=D2=B8=B8=C0=CC =C0=D6=C1=F6=B8=B8 =C1=F6=B1=DD=B1=EE=C1=F6=B4=C2 =C0=DF =
+=C7=D8=C1=D6=BD=C3=B0=ED</div>
+<div>=C0=D6=B4=C2 =B0=CD=C0=B8=B7=CE&nbsp;=BA=B8=BF=A9 =C1=FD=B4=CF=B4=D9. =
+=C7=CF=C1=F6=B8=B8 =C0=CF=BA=CE =C1=F6=BF=AA =B9=D7 =B3=EB=BC=B1=BF=A1=BC=
+=AD =BB=E7=C0=FC BKG Data =B9=D7 =BD=C7=C0=FB =C1=A1=B0=CB =B0=E1=B0=FA</di=
+v>
+<div>Low Paying=C8=AD=C1=D6 =B9=B0=B7=AE=C0=CC =C6=F2=B1=D5=C0=CC=BB=F3 =BC=
+=B1=C0=FB=B5=C7=B0=ED =C0=D6=B0=C5=B3=AA, =C0=FC=C3=BC=C0=FB=C0=B8=B7=CE R.=
+R =C0=FC=C8=C4 =B4=DC=BC=F8 =BA=F1=B1=B3 =BD=C3 </div>
+<div>CMPB=B0=A1 R.R. =C0=FB=BF=EB =C1=D6=C2=F7=BF=A1 =C7=CF=B6=F4=B5=C7=B4=
+=C2 =B0=E6=BF=EC=B5=B5 =C0=D6=BD=C0=B4=CF=B4=D9. =B5=BF Case=BF=A1 =B4=EB=
+=C7=D8=BC=AD =BF=F8=C0=CE =B1=D4=B8=ED =C1=DF=BF=A1 =C0=D6=BD=C0=B4=CF=B4=
+=D9</div>
+<div>&nbsp;</div>
+<div>=B5=FB=B6=F3=BC=AD&nbsp;=C0=CC=B9=F8&nbsp;=B1=E2=C8=B8=B8=A6 =C3=D6=B4=
+=EB=C7=D1 =C3=EB=C7=CF=C0=DA=B4=C2&nbsp;=C3=F8=B8=E9=BF=A1=BC=AD&nbsp;=BE=
+=C6=B7=A1=BF=CD =B0=B0=C0=CC Yield Mgmt=BF=A1 =B4=EB=C7=D8 =B8=EE =B0=A1=C1=
+=F6 =C0=E7&nbsp;=B0=AD=C1=B6=B8=A6 </div>
+<div>=B5=E5=B8=AE=BF=C0=B4=CF =C3=B6=C0=FA=C8=F7 =C1=D8=BC=F6=C7=CF=BF=A9 =
+=C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>1. =B1=B8=C1=D6 =B3=EB=BC=B1 Yield Management =C1=F6=BC=D3=C0=BB =C5=
+=EB=C7=D1 =BC=F6=C0=CD=BC=BA =C1=F5=B4=EB</div>
+<div>&nbsp;&nbsp;&nbsp; - 11/1=C0=CF R.R =C0=CC=C8=C4 =BF=EE=C0=D3 =BA=AF=
+=B5=BF=C0=CC =C1=F6=BC=D3=B5=C7=B0=ED =C0=D6=C1=F6=B8=B8&nbsp;=C7=F6=C0=E7=
+=C0=C7 Market =BF=EE=C0=D3=C0=BB =C5=EB=C7=D8&nbsp;=C3=D6=B4=EB=C7=D1 =BC=
+=F6=C0=CD</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;=C3=A2=C3=E2=C0=CC =B5=C9 =BC=F6 =C0=D6=
+=B5=B5=B7=CF =C7=F6 =BF=A9=B0=C7=C7=CF=BF=A1=BC=AD =C3=D6=B4=EB=C7=D1 =BC=
+=F6=C0=CD=BC=BA=C0=BB =B0=ED=B7=C1=C7=D1 =BC=B1=BA=B9 =B0=FC=B8=AE =C1=F6=
+=BC=D3=C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F3=B8=E7</div>
+<div>&nbsp;&nbsp;&nbsp; - =C0=CF=BA=CE =C5=AB =C6=F8=C0=C7 F' Cast =BE=E0=
+=BC=BC=B8=A6 =BA=B8=C0=CC=B4=C2 MED =B3=EB=BC=B1=BF=A1 =B4=EB=C7=D8=BC=AD=
+=B4=C2&nbsp;=C0=FB=C1=A4 =BC=F6=C1=D8&nbsp;L/F&nbsp;=C0=AF=C1=F6=B0=A1 =C7=
+=CA=BF=E4=C7=D1=C1=A1&nbsp;=B0=ED=B7=C1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B1=E2=C1=B8 =C8=AD=C1=D6 =B9=B0=
+=B7=AE =C3=D6=B4=EB=C7=D1 =B9=E6=BE=EE=BF=CD Lost =C8=AD=B9=B0 =C0=E7 =C0=
+=AF=C4=A1=C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>2. =B3=B2=B9=CC =B3=EB=BC=B1</div>
+<div>&nbsp;&nbsp;&nbsp; - EC, WC =B3=EB=BC=B1 GRI=B0=A1 =BC=BA=B0=F8=C0=FB=
+=C0=B8=B7=CE =C6=C7=B4=DC=B5=CB=B4=CF=B4=D9. =C0=CF=BA=CE =C8=AD=C1=D6=B7=
+=CE =BA=CE=C5=CD&nbsp;=BF=EE=C0=D3 =C0=CE=C7=CF =BE=D0=B9=DA=C0=CC =C0=D6=
+=B0=ED, =B6=C7=C7=D1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;WCSA=C0=C7 =B0=E6=BF=EC F' Cast=B5=B5 =
+=C1=F6=B3=AD 2-3=C1=D6=B4=EB=BA=F1 =BE=E0 10% =C1=A4=B5=B5 =C7=CF=B6=F4=B5=
+=C8 =BE=E7=BB=F3=C0=CC=B3=AA, =BD=C3=C0=E5 Demand=C0=C7 =B1=D9=BA=BB=C0=CC&=
+nbsp;=C8=E7=B5=E9=B8=AE=B0=ED </div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =C0=D6=B4=D9=B0=ED=B4=C2 =C6=C7=B4=DC=
+=B5=C7=C1=F6&nbsp;=BE=CA=B4=C2 =B9=D9, =C0=CC=B9=F8 =B1=E2=C8=B8=BF=A1 =BD=
+=C7=C1=FA=C0=FB=C0=CE =C8=AD=C1=D6 =B4=D9=BA=AF=C8=AD=B0=A1 =B5=C9 =BC=F6 =
+=C0=D6=B5=B5=B7=CF =B4=EB=C7=FC =C8=AD=C1=D6=C0=C7 Named BIZ</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;=BA=F1=C1=DF=C0=BB =C3=E0=BC=D2=C7=CF=
+=B0=ED =BC=F6=C0=CD=BC=BA=C0=CC =B3=F4=C0=BA FAK or =BC=F6=C0=CD=BC=BA=C0=
+=CC =B3=F4=C0=BA =B0=ED=C1=A4 =C8=AD=C1=D6&nbsp;=C0=AF=C4=A1 =B8=B6=C1=F6=
+=B8=B7 =B1=E2=C8=B8=B7=CE =BA=B8=BD=C3=B0=ED</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C1=F7=C1=A2 Booking =BB=F3=C8=B2 =
+Monitoring=C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9. =C2=FC=
+=B0=ED=B7=CE 11/1, 9=C0=CF=BA=CE=B7=CE =B4=EB=C7=FC NVOCC=C0=C7</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Low paying named BIZ=B0=A1 =C0=E5=B1=E2=
+ =B0=E8=BE=E0=C0=B8=B7=CE GRI =C0=FB=BF=EB=C0=CC =BE=C8=B5=C8&nbsp;=C8=AD=
+=C1=D6=B4=C2 =BE=F8=BD=C0=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>3. IAS</div>
+<div>&nbsp;&nbsp; -&nbsp;=C1=DF=B5=BF, =C8=AB=C7=D8=B3=EB=BC=B1 R.R =C8=BF=
+=B0=FA=B0=A1 =B9=CC=B9=CC=C7=CF=B3=AA =B1=D7 =C1=DF =BC=F6=C0=CD=BC=BA=C0=
+=CC&nbsp;=B3=F4=C0=BA =C8=AD=C1=D6, DEST=B0=A1 =BA=D0=B8=ED=C8=F7&nbsp;=C0=
+=D6=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =C7=F6=C0=E7&nbsp;=BF=A9=B0=C7=C7=CF=BF=A1=BC=
+=AD =C3=D6=B4=EB=C7=D1 =BC=F6=C0=CD=BC=BA=BF=A1 =B1=E2=B9=DD=C7=D1&nbsp;=C8=
+=AD=C1=D6 =B1=B8=BC=BA/=BA=AF=C8=AD, DEST=C6=C7=B8=C5 =B5=EE=C0=CC =B5=C9 =
+=BC=F6 =C0=D6=B5=B5=B7=CF =C1=B6=C4=A1=C7=CF=BF=A9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C1=D6=BD=C3=B0=ED,&nbsp; =C8=A3=C1=D6 =
+=B3=EB=BC=B1=BF=A1 =B4=EB=C7=D8=BC=AD=B4=C2 =BC=B1=BA=B9 =C1=B6=C0=FD =BF=
+=B5=C7=E2=C0=B8=B7=CE 10/24=C0=CF R.R =C8=BF=B0=FA=B0=A1 =C1=F6=BC=D3 =B5=
+=C7=B0=ED =C0=D6=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C7=CF=C1=F6=B8=B8 9/10=BF=F9 =BF=EE=C0=
+=D3=C0=CC =C3=D6=C0=FA=C0=CF =B6=A7 =C0=CF=BA=CE =B0=E8=BE=E0=B5=C8 NVOCC N=
+amed =C8=AD=C1=D6 =B9=B0=B7=AE =C5=EB=C1=A6=B0=A1 =C7=CA=BF=E4 =C7=D5=B4=CF=
+=B4=D9.</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B1=E2 Guide=C7=D1 =B9=D9=BF=CD =B0=B0=
+=C0=CC&nbsp;HKG Base&nbsp;&nbsp;NVOCC=C0=C7 Named ACCT=BF=A1 =B4=EB=C7=D8=
+=BC=AD=B4=C2&nbsp;=C1=F6=C1=A1=BA=B0 Guide=C7=D1 </div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =B9=FC=C0=A7=B3=BB=BF=A1 =BC=B1=C0=FB=C0=CC&n=
+bsp;=B5=C9=BC=F6 =C0=D6=B5=B5=B7=CF&nbsp;BKG&nbsp;=B0=FC=B8=AE =C7=CF=BF=A9=
+ =C1=D6=BD=C3=B1=E2&nbsp;=B9=D9=B6=F8=B4=CF=B4=D9. =C2=FC=B0=ED=B7=CE =B5=
+=BF Named&nbsp;BIZ=BF=A1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B4=EB=C7=D8&nbsp;=B1=E2=C1=B8 =BF=EE=C0=
+=D3=B4=EB=BA=F1 =C3=D6=BC=D2 U$200/400(T/F)=C0=BB 11/22=C0=CF=BA=CE=B7=CE =
+=C0=CE=BB=F3=C0=CC =B1=E0=C1=A4=C0=FB=C0=B8=B7=CE =C1=F8=C7=E0=C1=DF=BF=A1 =
+=C0=D6=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;</div>
+<div>4. TPE</div>
+<div>&nbsp;&nbsp; -&nbsp;=B1=DD=C0=CF Post GRI =BF=EE=C0=D3 =BD=C3=C0=E5 =
+=BF=EE=C0=D3=B0=FA =BF=AC=B0=E8=C7=CF=BF=A9&nbsp;=C0=E7 Setting =C7=CF=BF=
+=B4=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; NVOCC Spot Rate=B0=A1 =C0=CF=BA=CE BCO =BF=EE=
+=C0=D3=BA=B8=B4=D9 =B3=F4=BE=C6=C1=FC=BF=A1=B5=FB=B6=F3 NVOCC =B9=B0=B7=AE =
+=C1=F5=B4=EB=B8=A6 =C5=EB=C7=D8 =B3=EB=BC=B1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =BC=F6=C0=CD=BC=BA =B0=B3=BC=B1=C0=CC =B5=C9 =
+=BC=F6 =C0=D6=B5=B5=B7=CF =C1=D6=BF=E4 NVOCC =BB=D3=B8=B8=BE=C6=B4=CF=B6=F3=
+ =C1=DF=BC=D2=C7=FC NVOCC=B7=CE =BA=CE=C5=CD&nbsp;=B9=B0=B7=AE =C1=F5=B4=EB=
+=B0=A1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B5=C9 =BC=F6 =C0=D6=B5=B5=B7=CF NVOCC=
+=BF=A1 =B4=EB=C7=D1 =B9=D0=C2=F8 =BF=B5=BE=F7 =BA=CE=C5=B9=B5=E5=B8=AE=B8=
+=E7, AWE=B3=EB=BC=B1=C0=C7 F'cast,=B0=A1 11=BF=F9=BF=A1=B5=B5 =C1=F6=BC=D3<=
+/div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =B0=AD=BC=BC=C0=CE=C1=A1=C0=BB =B0=ED=B7=C1&n=
+bsp;High REV&nbsp;=B9=B0=B7=AE=C0=CC =C3=D6=B4=EB=C7=D1 =BC=B1=C0=FB =B5=C9=
+=BC=F6 =C0=D6=B5=B5=B7=CF =B3=EB=B7=C2=C7=CF=BF=A9 =C1=D6=BD=C3=B0=ED, =C3=
+=D6=B1=D9 =B0=A1=C0=E5 =B3=B7=C0=BA</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =BD=C7=C0=FB=B0=FA F'Cast=B8=A6 =BA=B8=C0=CC=
+=B0=ED =C0=D6=B4=C2 PNW=B3=EB=BC=B1=BF=A1 =B4=EB=C7=D8=BC=AD, =C4=B3=B3=AA=
+=B4=D9 =B5=BF=BA=CE D5 Promotion, PN Port</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Local =B9=B0=B7=AE=C1=F5=B4=EB,&nbsp; CA=
+PRR =B0=E6=C0=AF Mid West IPI =B9=B0=B7=AE =C1=F5=B4=EB=B5=EE =B9=CC=C1=D6 =
+=B3=EB=BC=B1 =C1=DF=C1=A1&nbsp;=C6=C7=B8=C5 Items=BF=A1 =B4=EB=C7=D8</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C1=F6=BC=D3=C0=FB=C0=CE =C6=C7=B8=C5 =
+=B0=AD=C8=AD&nbsp;=BA=CE=C5=B9 =B5=E5=B8=B3=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>&nbsp;&nbsp;&nbsp; =BB=F3=B1=E2=BF=CD =B0=B0=C0=CC =B0=A2&nbsp;=B3=EB=
+=BC=B1=BF=A1 =B4=EB=C7=D8 Yield Mgnt=BF=A1 =B4=EB=C7=D8 =C0=E7 =B0=AD=C1=B6=
+ =C7=CF=BF=B4=C0=B8=B8=E7, 11=BF=F9 =C0=FC=C5=EB=C0=FB=C0=CE =BA=F1=BC=F6=
+=B1=E2=B6=F3=B0=ED</div>
+<div>&nbsp; =C7=CF=C1=F6=B8=B8 CPS=B8=A6 =C5=EB=C7=D1 =B0=F8=B1=DE =C1=B6=
+=C0=FD, =B0=A2 =B3=EB=BC=B1=BA=B0 11, 12=BF=F9 GRI/RR=C0=CC =BF=B9=C1=A4=B5=
+=C7=BE=EE =C0=D6=B4=C2=C1=A1 =B5=EE=C0=BB =B0=ED=B7=C1=C7=CF=BF=A9</div>
+<div>&nbsp;&nbsp;=C1=F6=C1=A1=C0=E5=B4=D4=B5=E9=B2=B2=BC=AD=B4=C2 =C0=FC =
+=B3=EB=BC=B1, =C0=FC =C8=AD=C1=D6 =B4=EB=BB=F3=C0=B8=B7=CE Yield MGNT=B0=A1=
+ =B5=C9=BC=F6 =C0=D6=B5=B5=B7=CF&nbsp;=B8=C5=C1=F8=C7=CF=BF=A9 =C1=D6=BD=C3=
+=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9.</div>
+<div>&nbsp; </div>
+<div>&nbsp;&nbsp;=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9</div>
+<div>&nbsp;</div>
+<div>&nbsp; B.RGDS</div>
+<div>&nbsp; CH KIM&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_3B2C0F46C9EFA442B161F4F60AB3B97D05BC30cow380fhanjincom_--

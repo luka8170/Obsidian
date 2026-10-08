@@ -1,0 +1,659 @@
+# KC 174K LNGC Class Proposal Summary
+
+## Class Fee (1년차 ~ 15년차 Class Fee)
+
+### 4 ships case
+
+| Item | BV+DNV/LR/ABS | BV+KR | BV Single |
+|------|---------------|--------|-----------|
+| **Quotation** | 10 years discounted and 9,000 USD/ship/year the 3rd term | 10 years discounted and 6,000 USD/ship/year the 3rd term | 10 years discounted and 6,000 USD/ship/year the 3rd term |
+| **15년 Total per ship** | USD 45,000 | USD 30,000 | USD 30,000 |
+| **Yearly average per ship** | USD 3,000 | USD 2,000 | USD 2,000 |
+| **15년 Total for 4 ships** | USD 180,000 | USD 120,000 | USD 120,000 |
+
+- Class
+- Statutory
+- Expenses (Travelling, Over Time Fee, etc)
+- Block Fee
+- Total cost of 15 years
+- Original tariff (Original tariff)
+
+---
+
+*Page 1*
+
+---
+
+## 2. New Building Technical Support
+
+### 2.1. Before Construction
+
+#### 2.1.1. Building specification review
+
+Team of experts (minimum 4 people with experience in LNG carriers) focus on newbuilding LNG carrier projects, cargo containment and cargo handling systems, propulsion systems and other critical aspects of the LNG carrier newbuildings. The Team is to provide a detailed newbuilding specification review and comments will be included in an excel table with reference to the relevant chapters, paragraphs, etc. The review will include class and statutory part but also some others not directly linked to class or regulations.
+
+#### 2.1.2. Plan Approval (Design approval by Local Plan Approval Office)
+
+**도면 한국에서 승인:**
+
+All Drawings(excl.CCS) for Hull/Stability/Safety/Cargo(CHS)/Machinery/Electricity will be reviewed by Local Plan Approval Office(KPO) 거의 모든 도면은 지역 승인 사무소(KPO)에서 수행하므로 다음과 같은 이점이 있습니다.
+- 빠른 도면 승인
+- 고객과의 긴밀한 협의
+- 고객을 위한 기술 지원 및 교육
+
+**BBC-HP 관련 도면 승인:**
+
+국적 취득부 나용선 관련 도면 검토 및 승인도 한국 도면 승인사무소에서 수행. BBC-HP 관련 도면 승인을 독자적으로 수행함으로써 고객과 해양수산부의 요구에 신속하게 대응할 수 있습니다.
+
+**프리미엄 프로젝트로 지정 및 관리:**
+
+The list of reviewed drawings, pending comments, and the drawing approval schedule are regularly reported to the shipyard.
+
+**Plan Approval Team 승인팀 조직도**
+
+**Dual Fuel 승인한 경험**
+
+- **운항선:** For the LNG carrier segment as of April 14th we have 89 ships in service. For ships other than LNG carriers we have 66 ships in service.
+- **신조선:** For the LNG carrier segment as of April 14th we have 50 ships under construction. For ships other than LNG carriers we have 71 ships under construction.
+
+**Plan Approval 관련 지원이 가능 여부 (Class scope 에서 벗어나서, 선사 입장에서)**
+
+Hull part 등 Approval에 도움을 줄 수 있는 인력의 지원을 위해, 기술적 사항들에 대해 선사가 필요로 하는 교육 및 지원 진행.
+
+**승인용 Platform**
+
+BV VPM(Veristar Project Management)에 선사가 access하면, 도면 승인의 진행 사항 및 comment사항 실시간 확인 가능.
+
+#### 2.1.3. Classification notations
+
+**Proposed class notations**
+
+선가에 미미한 영향이 있을 수 있으나, 선택을 고려할 만한 Notation: EFP-AMC 를 추천 (enhanced fire protection 추가 방화 설비)
+
+**Additional class notations (Optional class notations)**
+
+- Strength analysis (yielding, buckling and deterministic fatigue analysis) including 2D MARS and 3Hold Finite Elements analysis **(25,000€)**
+- Spectral Fatigue analysis **(30,000€)**
+- Full Ship Model Structural analysis **(60,000€)**
+- Sloshing analysis **(40,000€)**
+
+#### 2.1.4. New-Building Technical Proposal (per project, '동일 디자인을 전제로 함')
+
+**Analysis and Assessment for Hull & Engineering (including Enhanced Analysis/Assessment)**
+
+---
+
+*Page 2*
+
+---
+
+### Item | Original tariff (Original tariff)
+
+**Analysis and Assessment for Hull & Engineering (including Enhanced Analysis/Assessment)**
+
+- **Ship to shore terminal** (45,000€)
+- **Ship to floating terminal(FSRU)** (45,000€)
+
+For now keep it per ship per case, we can look to optimize for repetitive work if any identified, this assumption does take into account about 3,500€ of repetitive work per ship.
+
+**\* Terminal(2개로 가정), FSRU(2개로 가정) 시,**
+- Ship to shore terminal : 45,000€ + 3,500€ x 4 척 x 2(터미널수) = **73,000€**
+- Ship to floating terminal(FSRU) : 45,000€ + 3,500€ x 4 척 x 2(FSRU수) = **73,000€**
+
+- Reduced cargo tank capacity. Tanks N1 void space **(2,000€)**
+- Slamming **(25,000€)**
+- 3D F.E Hold analysis in all cargo hold for yielding and buckling. 모든 cargo hold 범위안에 선체 구조들에 대한 강도 검증을 위해 유한 요소 해석을 수행함 **(50,000€)**
+
+**BWMS feasibility study**
+
+Two services scenarios are proposed hereafter:
+
+**Scenario 1:** Technical Supervision and Feasibility Study to include a BWTS into an already completed design: Market research and liaison with the potential suppliers in order to obtain product specs and options Comparison of various existing BWTS technologies & proposal of best suited technology taking the following into consideration: Capex considerations / Reliability of technology Identification of the design limitations: Physical (workspace) limitations / Electrical (power supply) limitations / Capacity limitations Ease of maintenance and Opex considerations Ease of integration into ship's systems Flexibility and modularity of system
+
+**<Value>** Budget: 37-42 k€, depending on number of systems to be compared and vendor response Timeline: 35-40 mandays
+
+**Scenario 2:** Verification of the BWTS that is already selected and included in the design: 3rd party review of proposed installation design System components' location selection Electrical power requirements – electrical load chart review Ease of maintenance / OPEX considerations Review of system capacity with respect to ballast pump/s capacity P&ID review 3d pipework routing review integration to other systems (ballast pipework system, electrical system, alarm management system, gps, ballast pump & ballast valve control panel etc..) Conformance of system design with regulations.
+
+**<Value>** Budget: 26-32k€ Timeline: 25-30 mandays
+
+**3D Modeling**
+
+- Screening check only. The yards are to provide this 3D models in the frame of structural analysis for instance. **(20,000€)**
+- 3D classification (provided a pilot case is run before the approval of the model). The yards are to provide this 3D models in the frame of structural analysis for instance. **FREE OF CHARGE**
+
+**Local Vibration Analysis for LNGC**
+
+The vibration predictions will be performed as follows: • A three-dimensional (3D) Finite Element Model of the whole ship structure will be developed. This model will take into account structural particularities, distributed masses, effects of added mass and excitation forces. • The vibration levels will be predicted using the forced response analysis, which consists in applying to the model the forces induced by the main vibration sources. The vibration levels are mostly linked with the propeller excitations, it is then highly recommended either to perform suitable numerical simulations (not included in this offer) or to carry out experimental tests of the pressure pulses induced by the propeller on the ship hull (not included in this offer). • The predicted vibration levels will be compared with the vibration limits required in the specifications. Where the expected vibration levels exceed the limits, corrective actions will be proposed in order to reduce these levels. • Finally, a new calculation will be performed to validate the effectiveness of the structural modifications and to verify that the new expected vibration levels meet the specifications. One (1) operating condition to be defined by the CLIENT and maximum two (2) minor changes in structure design are included in the scope of this proposal. Any deviations would trigger a variation of this offer. Deliverable: One technical report will be submitted and will include a detailed description of the calculation model used, the obtained results as well as conclusions and recommendations. The FE model will not be provided.
+
+**Budget:** 23-25k€ **Timeline:** 10-12 weeks
+
+**Whipping & Springing Assessment**
+
+- Springing (see Spectral fatigue analysis above)
+- Whipping **(7,000€)**
+
+---
+
+*Page 3*
+
+---
+
+### Item | Original tariff (Original tariff)
+
+**ESA Calculation**
+
+The WORK encompasses the shaft alignment calculation following Bureau Veritas Rule Note NR 592 (April 2015). The purpose of the ESA study is to investigate the shaft line behaviour both in static and running conditions, and particularly to determine the optimum alignment conditions during operational service conditions of the considered vessel. As an option, BV's proposed to provide CLIENT with self-propulsion simulations for the determination of propeller forces and excitations. Simulations would be performed using a RANSE-CFD software, with a rotating propeller, to determine the mean values of forces and moments as well as the excitation values generated by the propeller. The description of practical operations for the line shafting fitting on board is also part of the proposed service and will include: Stern tube bearing machining drawing including slopes Gap/Sag calculations Jack up test loading values Influence coefficients
+
+**Budget:** ESA Analysis: **42.2k€**
+- Option 1: Propeller loads calculation: **+12.3 k€**
+- Option 2: Hull Form Reconstruction, per ship: **+3k€**
+- Option 3: Propeller form reconstruction, per form: **+2k€**
+- Option 4: Appendages form reconstruction per form: **+3k€**
+
+**Calculation of fuel oil consumption and CO2 emission**
+
+The proposed service is to build SEECAT models for 174K LNGCs which models are adapted to support the decision. The fees for the service will highly depend on the number of alternatives of LNGCs designs to study, if there are some optimization of scantling of some equipment and the number of operating profiles to consider. A more sophisticated model and study (with heat model, cooling water) would cost more. For each design and operating profile, the outputs are fuel quantities (LNG, pilot), gas emissions (CO2, SOx, Nox, CH4), running hours of main engines and gensets. By knowing the distance, the CII and CII rating can be calculated for each design/scenario. This is a small post treatment of simulations.
+
+**<Value>** Budget: from about **40K€** (basic need) to **200K€** (for an extensive support for their decision).
+
+#### 2.1.5. New-Building Technical Proposal (per ship)
+
+**Green Ship Design Service**
+
+**Airborne noise measurements**
+
+**Objective:** To assess the noise levels radiated by the vessel at the harbor To guide the client towards suitable solutions in case of high noise levels
+
+**Content of the service:** Airborne noise measurements according to the applicable standard at delivery of the vessel
+
+**<Value>** Airborne noise measurements
+- **Budget:** 6-8k€
+- **Timeline:** 2-4 weeks
+
+**Underwater noise measurements**
+
+**Objective:** To assess the underwater noise levels radiated by the vessel To guide the client towards suitable solutions in case of non-compliance with the requirements
+
+**Content of the service:** Underwater noise measurements according to the applicable standard at delivery of the vessel
+
+**<Value>** Underwater noise measurements
+- **Budget:** 30-35k€
+- **Timeline:** 4-6 weeks
+
+---
+
+*Page 4*
+
+---
+
+### 2.2. During Construction
+
+#### 2.2.1. Local survey procedure 상세
+
+**Review of shipyards' workmanship criteria and fabrication procedures:**
+
+The cover page of Shipyard Fabrication Standard reviewed by PL will be uploaded in Shipbuilder document of BV VPM System.
+
+⇒ 조선소 제작기준 및 제작절차 검토: Project 책임자가 조선소 제작 표준절차서 검토된 표지를 BV VPM 시스템에 올립니다
+
+**Technical review and survey during construction at the yard**
+- NDT Plan
+- WPS and Welder Qualification
+- Onboard Test Procedure
+- Sea Trial and Gas Trial Procedure
+
+⇒ 건조 중 기술 검토 및 조사: -. 비파괴시험 -. 용접 절차서 및 용접사 자격 -. 장비 선상 시운전 절차 -. 해상 시운전 및 가스 시운전 절차
+
+**Production Kick-Off Meeting:**
+
+Hold the KOM with Shipyard and Owner representative before S/C as per BV PNC 16 Instruction.
+
+⇒ 제작 시작 회의: BV 내부 절차서에 따라서 Steel Cutting 전에 Kick-Off-Meeting을 조선소 담당자와 현장파견감독관 함께 개최 합니다
+
+**Training for New Building Team:**
+
+Depend on new building team demand, BV SAY(Survey At Yard) team can provide detailed program.
+
+⇒ 신조팀 교육: 현장파견감독 요청에 따라, BV현장 검사관팀에서 상세한 프로그램을 제공 할수 있습니다
+
+**Inspection & Test Procedure Review:**
+
+The ITP will be reviewed as per BV Rule and regulation agreed RFC(Request for Certificate) and approved drawing by KPO.
+
+⇒ 검사 및 시험 절차 검토: 검사 및 시험 입회 항목은 협의된 RFC(증서요청) 과 BV 한국 도면 승인 부서에서 승인된 도면에 따라서 검토 할것 입니다
+
+**Hull Construction Monitoring:**
+
+The Hull CM Plan will be reviewed by KPO and SAY will follow up it during construction.
+
+⇒ 선체 건설 모니터링: 선체 CM 계획은 KPO에서 검토하고 SAY는 건설 중 후속 조치를 취할 것입니다.
+
+**Regular meeting for Quality and QC Training:**
+
+BV site office are always open and QA QC comes freely almost everyday
+
+⇒ 품질 및 QC 훈련을 위한 정기 회의: BV 현장사무소는 항시 열려 있으며 품질보증/품질관리원 매일 자유롭게 올수 있습니다
+
+**Certificates and Report:**
+
+The Certificates and reports will be issued as per the RFC(Request For Certificates)
+
+⇒ 인증서 및 보고서: 인도서류 및 리포트는 협의된 RFC(증서요청) 따라서 발행 할 것 입니다
+
+**Experience/knowledge transfer:**
+
+Depend on new building team demand, BV Surveyors' experience and knowledge can transfer during construction.
+
+⇒ 경험/지식 이전: 현장파견감독 요청에 따라, BV현장 검사관들의 경험과 지식을 건조 중에 전달 할 것입니다
+
+**Quality Meeting:**
+
+It will be frequently held whenever necessary.
+
+⇒ 품질 회의: 필요할 때마다 수시로 개최합니다.
+
+**Tripartite quality meetings and release of technical correspondences:**
+
+will be shared and discussed for anything
+
+⇒ 3자 품질 회의 및 기술 서신 공개: 무엇이든 공유하고 토론 할 것 입니다
+
+#### 2.2.2. Project 전담팀
+
+**프로젝트 전담 조직도**
+
+**2022 Geographical coverage of Korea NC Area**
+
+**Local Survey팀 투입 계획(Qatar Gas 프로젝트에 한함)**
+
+1. **Hull:** 최대 8명(4척 기준), 척당 평균 1.5~2명.
+2. **LNG Cargo Containment System:** 최대 4명(4척 기준), 척당 평균 1명.
+3. **LNG Cargo Handling System:** 최대 4명(4척 기준). 척당 평균 1명.
+4. **Machinery & Outfitting, Commissioning, LNG DF Etc.:** 최대 8명(4척 기준), 척당 평균 1.5~2명.
+
+지금까지, 각 조선소의 모든 Project에서 검사관 부족 때문에 어떠한 Complaint 을 선주나 조선소로부터 받은 적이 없습니다. 또한, 고객의 요청이나 및 건조공정에 지연이 되지 않도록 상황에 따라 검사관 배치를 반영하고 있습니다.
+
+**Dual Fuel 에 경험 있는 검사원을 파견**
+
+#### 2.2.3. Project management
+
+**BV Premium Project Management를 통해, 프로젝트 진행이 원활하게 진행**
+
+귀사의 프로젝트는 Premium project 로 지정되어, 프로젝트 매니저를 지정하여, 그 매니저가 프로젝트 진행이 원활하게 진행하도록 follow up 예정입니다. In order to have a smooth process BV will nominate a project manager dedicated to the drawing review process and a dedicated team of experts for the different disciplines. In addition BV will follow a defined process plan for drawing review taking into account yard's schedule. Here the yard is requested to inform BV when which drawing will be submitted so that BV is also able to plan resources as needed.
+
+**Notes:** Assume that you will add some words explaining VPM.
+
+We strongly recommend to organize a kick-off meeting (as early as possible) with all involved parties to agree on organization, mile stones and to share expectations.
+
+Project can be considered as Premium project
+
+**TYPICAL PROJECT ORGANIZATION**
+
+**VeriSTAR Project Management(VPM)을 통한 도면 승인 과정 실시간 확인**
+
+도면 승인 과정에서 기자재 Spec이 달라지거나 선급의 지적사항 관련, BV의 도면 승인 Platform인 VPM(Veristar Project Management)에 선사가 access하면, 도면 승인의 진행 사항 및 comment 사항 실시간 확인 가능합니다. BV By granting permission to the shipping company to VPM (Verista Project Management) and accessing the VPM from the shipping company, the progress of drawing approval and comments can be checked in real time.
+
+**Advisory Service during construction**
+
+요청이 있을 경우, 도면 승인과 현장 검사 관련, Advisory service 진행
+
+**Newbuild project management at S.Korean yards**
+
+---
+
+*Page 5*
+
+---
+
+### 2.3. After Construction
+
+#### 2.3.1. Survey
+
+**Bureau Veritas network of qualified gas carrier surveyors**
+
+- Bureau Veritas has a worldwide network of 257 gas carrier qualified surveyors
+- Bureau Veritas has gas carrier qualified surveyors represented in 61 countries and 86 survey centres.
+
+#### 2.3.3. Prevention of PSC detentions
+
+**PSC**
+
+BV는 선주의 요청이 있을 경우 PSC 검사에 대비하여 예비 검사에 협조: BV Global Network 는 선주가 편리한 장소에서 PSC 검사에 대비하여 예비 검사를 받을 수 있음.
+
+BV 의 PSC Ready 앱이 개발되어있으며, 필요한 경우 PSC 동향과 관련하여 회람을 제공하고 있고, 관련 세미나는 수요가 있으면 수시로 제공: 선장 및 감독은 PSC Ready 앱을 이용하여, PSC 검사에 적절히 대응 할 수 있다.
+
+#### 2.3.4. Fuel Oil Change Over Program
+
+**In BV, Low Sulphur Fuel Oil Analysis is available**
+
+Bureau Veritas' Low Sulphur Fuel Oil Analysis program allows us to estimate the time needed to switch your vessel to low sulfur fuel oil and reach a fuel mixture within the permissible sulfur content prior to entry into Sulphur Emission Control Areas (SECAs).
+
+#### 2.3.5. Ship Emergency Response Service
+
+A team of specialists at your service 24 h a day throughout the year
+
+무료 제공(Registration 및 Annual subscription fee 모두 포함)
+
+#### 2.3.6. Global coverage with a dedicated account manager
+
+A global key account manager support Korea consortium in any aspect and to facilitate the communication with the BV global network.
+- **Name of Global Key Account Manager (GKAM):** Mr. Christophe Capitant (Country Chief Executive in BV Korea)
+- **Contact details:** christophe.capitant@bureauveritas.com
+
+#### 2.3.7. Class Direct
+
+Bureau Veritas Marine & Offshore Directory'(https://myveristar-directory.bureauveritas.com/fmd-directory/#/) 통해 확인 가능
+
+### 2.4. Others
+
+Owner-Class Periodically meeting: Plan Approval Issue / Class Technical Seminar
+
+⇒SAY 정기미팅 외에, 선주의 요청이 있으면, 언제든지 진행.
+
+---
+
+## 3. Class & Non-Class Proposal
+
+### 3.1. Proposal related to GHG regulations
+
+#### 3.1. EEXI: Qatar Project 외 선박에 대한 제공 가능여부 => BV 입급선은 모두 적용 가능
+
+**EEXI Technical Plan(file) approval & OMM (by 도면승인부서)**
+
+**Document Approval for EEXI Technical Plan & OMM(by 도면승인부서)**
+
+- in case of EEXI(A) <= EEXI(R): EEXI TF review **1500 USD/ship** for post-EEDI
+- in case of EEXI(A) <= EEXI(R): EEXI TF review **2500 USD/ship** for pre-EEDI
+- in case of EEXI(A) > EEXI(R) with EPL(Engine Power Limitation) or ShaPoLi(Shaft Power Limitation): EEXI+OMM review **3500 USD/ship** (if the EEXI standard are not met)
+
+-. 본선에 Shaft power limitation이 적용되면, 선주가 EEXI TF와 OMM 를 제출하여 Plan approval center에서 review를 하여, EEXI 값을 만족 할 경우에 EEXI attestation을 발행하게 됩니다.
+
+-. 그리고 EEXI attestation과 본선 검사를 통해 본선 검사관이 새로운 IEEC를 발행하게 됩니다.
+
+---
+
+*Page 6*
+
+---
+
+**EEXI calculation & EEXI Technical file preparation for EEXI verification (by BVSolutions)**
+
+**● EEXI Calculation(for Attained EEXI <= Required EEXI)**
+- 4 ships: 2250 x 4 ships = **9000 EURO**
+- 15 ships: 2250 x 15 ships= **33750 EURO**
+
+**● Additional EEXI calculation per each 1 operating condition (for Attained EEXI > Required EEXI) until meet IMO requirement**
+- 950 x 4 ships = **3800 EURO**
+- 950 x 15 ships = **14250 EURO**
+
+**● Final EEXI Technical File Preparation**
+- 950 x 4 ships = **3800 EURO**
+- 950 x 15 ships = **14250 EURO**
+
+EEXI Certificate 무료 발급. On-Board survey가 필요한 경우에는, 검사 scope & location에 따라 상이하게 검사비 발생 가능. (추후 협의 가능.) (by 운항선 검사 부서)
+
+⇒ the fee for issuance of IEEC is 0 USD and FlagAdministration Fee(if applicable, e.g. 75 USD forPanama Flag).
+
+EEXI 관련, Qatar Project 이외의 선박(BV 입급선)에 대해서도 동일한 가격, 서비스 적용.
+
+#### 2.3.2. EU MRV service
+
+**EU & UK MRV Monitoring plan service(=EU-MRV Calculation and Report)**
+
+4 ships: 600 x 4 Ships = **2400 USD**
+
+**EU & UK MRV verification service**
+
+1) MRV Monitoring Plan assessment
+- 1st vessel: **3000 USD**
+- 2nd ~ 10th vessel: **2000 USD**
+- 10th ~ 15th vessel: **1500 USD**
+
+2) MRV yearly Monitoring Report Verification: **4200 USD**/each vessel
+
+**ETS $ UK ETS Calculation, Consult Alongside EU MRV support**
+
+EU ETS Calculation: **10k€**
+
+**SEEMP Part III approval service**
+
+- 1st vessel: **890 USD**
+- 2nd ~ 10th vessel: **630 USD**
+- 10th ~ 15th vessel: **450 USD**
+
+-. Annual verification: **USD 950 / ship**
+
+-. SEEMP Part2 Review: 1st vessel: **950 USD / ship**, 2nd ~ 4th vessel: **665 USD / ship**
+
+IMO DCS review and verification
+
+**CII Monitoring Platform**
+
+**BV 자체 개발 운항관리 솔루션 VERISTAR GREEN**
+
+### 3.2. ERS (Emergency Response Service)
+
+#### 3.2.1. ERS-S
+
+ERS-S establishment phase fee: **4500 EUR**
+ERS-S annual subscription fee: **900 EUR**
+
+**100% discount (18,000EUR discount)** *15년 운항 기준
+
+**<Value>** 18000 EUR (during 15 years: 4500 EUR + 15 x 900 EUR)
+
+=> 무상 등록(establishment phase fee) 및 Qatar Gas 용선기간(15years) Service 비용(annual subscription fee) 무상 제공
+
+### 3.3. PSC, Sire Support
+
+**PSC**
+
+PSC Ready digital tool. **FREE OF CHARGE**
+
+**SIRE support**
+
+SIRE Inspection market review and information Two services are proposed here: SIRE Inspection and report OR Reviewing the SIRE Inspection report for pre-Vetting purposes
+
+⇒ SIRE Inspection and report: **1500€** Reviewing the SIRE Inspection report for pre-Vetting purposes: **1000€**
+
+### 3.4. Pre-vetting advisory
+
+**Two types of services are proposed here:**
+
+**- Scenario 1: Per Ship:** A Condition Survey is proposed with adapted criteria and verification that the Vetting requirements are fulfilled
+
+**- Scenario 2: Per Project:** Implementation of the Vetting requirements in the Quality assurance process of the shipowner
+
+**Budget:** Condition Survey: **25k€**
+**Timeline:** 4 days of survey and 1 week of reporting
+
+**Budget:** **25k€**
+**Timeline:**
+- 1 workshop to collect the Vetting criteria provided by the shipowner and get a presentation of the current Quality Assurance process of the shipowner
+- 10 days to issue the deliverables and/or adapt the current procedures
+
+### 3.5. TMSA Information
+
+**The proposed service is to review the TMSA provided by the ship management team in order to verify the compliance of the TMSA as per the Vetting requirement**
+
+**Budget:** Review of the TMSA as per Vetting specifications: **2k€**
+
+### 3.6. Cyber Security Notation or equivalent statement
+
+**CYBER MANAGED**
+
+When receiving a CYBER MANAGED PREPARED vessel, it is logical that Owner requests a CYBER MANAGED notation for the vessel now in service.
+
+CYBER MANAGED will essentially focus on human organization (owner cyber rules, procedures, crew training…).
+
+**Doc to be provided:**
+- Risk Assessment (phase 2 of Risk Analysis, taking owner environment into consideration)
+- Policy (cyber rules, roles and responsibilities valid for the whole fleet)
+- Crew training (cyber trained the crew on board)
+- Possible Handbook update if Owner has added new critical CBS equipment
+
+Fees for additional Class Notation « CYBER MANAGED » are **3,000€**.
+
+Fees for 1 day of NS local surveyor are **1600 USD**.
+
+-. Cyber Managed 관련 risk assessment: **30,000 Euro**
+
+**Owner scope evaluation & support:**
+
+If Owner cannot provide required Class documentation, which depends on their resources and time constraint, Owner can ask for third-party (such as BVS) support.
+
+In that case, BVS support for CYBER MANAGED cost is **6,000€**.
+
+### 3.7. Secondment surveyor for Owner
+
+**An independent surveyor who in role of the owner side.**
+
+For daily visit fee per 1 surveyor at one Korean shipyard we assume 420 USD excluding travelling cost and overtime.
+
+The surveyor is in the role of the owner side.
+
+Surveyor 1명 x 22일 x 30개월 파견으로 가정 시, USD 420 X 22 days x 30 month = **USD 277,200**
+
+**An engineer will be assigned to support Korea Consortium for the review of drawings from the owner's perspective as a selective technical assistance Service**
+
+An engineer will be assigned to support Korea Consortium for the review of drawings from the owner's perspective as a selective technical assistance Service.
+
+Fees is USD 530 per day (excluding travelling cost and overtime.)
+
+Engineer 1명 x 1개월(Working 22 day) 파견으로 도면 review 가정 시, USD 530 X 22 = **USD 11,660** 발생.
+
+---
+
+*Page 7*
+
+---
+
+## 4. Training & Education
+
+### 4.1. General technical support
+
+#### 4.1.1. 선주의 관련 내용 이해도 제고
+
+#### 4.1.2. Classification notations: 
+선박사양에 지정된 부호에 관한 설명 (기타 부호에 대한 설명 요청시 내용추가)
+
+#### 4.1.3. Health & Safety
+
+다음과 같은 교육 프로그램 진행
+
+- Fire & Explosion;
+- Working at height;
+- Driving risk prevention;
+- Entry into space;
+- Safe boarding of vessels;
+- Surveys by boats/rafts;
+- Other Additional training
+
+### 4.2. Technical support for Owner's design review
+
+육상 인력 교육: 육상 인력을 위한 규정, 기술 및 업계 모범사례 소개
+
+Support on technical aspects in relation with main equipment or systems on board (GTT membrane, DF engines, cargo handling system)
+
+선상 주요 장비 또는 시스템과 관련된 기술적 측면 지원(GTT 멤브레인, DF 엔진, 화물 취급 시스템)
+
+#### 4.2.1. 도면 전반: 
+VPM(Veristar Project Management) 프로그램 사용법 교육(조선소와 합의 후), LNG선 도면 특성 설명
+
+#### 4.2.2. 구조적 측면:
+(1) Hull의 주요 계획 검토 후, LNG선 건조의 핵심 측면 Presentation
+(2) + VeriSTAR-HULL CM FAT xx 에 관련된 교육 및 설명
+
+#### 4.2.3. 시스템 측면(LNG CCS & Cargo Handling System):
+(1) GTT membrane containment system 평가 교육 및 중요사항에 대한 설명
+(2) 저속 DF 엔진 추진 시스템 평가 및 중요 측면에 대한 설명
+(3) Re-liquefaction, sub-cooling 및 기타 cargo handling systems 평가에 대한 교육 및 중요 측면에 대한 설명
+
+### 4.3. New-building Technician Course
+
+Depend on new building team demand, BV SAY team can provide detailed program.
+
+#### 4.3.1. New-building Technician Course
+
+-. 일반 교육: 선박설계에 대한 숙지 위한 워크숍: Yard에있는 Owner의Site team이 선박에 대한 일반적인 개요와 선박 건조 중 예상되는 주요 issue들에 대한 이해를 돕는 워크숍
+
+-. 최근 LNG선 신조 프로젝트에 적용 된 사례 및 관련 기술사항에 대한 교육:
+
+1. Hull 신조 Hull new construction
+2. Welding and NDE
+3. PSPC
+4. GTT 멤브레인 Mark III Flex 탱크 및 화물 취급 시스템 GTT membrane Mark III Flex tanks and cargo handling system
+5. 연료 가스 공급 시스템 Fuel gas supply system
+6. DF engines and other LNG consumers
+7. Shaft alignment
+8. 대한민국 선박 안전법의 법적 요건 교육 Statutory requirements for Korean Ship Safety Act
+
+### 4.4. Training after delivery
+
+- BV 입급 선박의 운항 관련, 사용 필요한 BV IT Tool 관련 교육
+- Port State Control 관련 교육
+- Remote survey program 관련 교육
+- ERS(Emergeny Response Service) 서비스 이용 교육
+
+### 4.5. Training Center Specific Course or Web-based Education
+
+**BV Solutions E-Learning program**
+
+-. 현재 BV에서 개설한 교육 리스트(https://eacademy.bvsolutions-m-o.com/catalogue.aspx)를 Korea Consortium 프로젝트 관련 업무 담당자에 무제한 무료 제공
+
+-. **12,120 EUR** (총 41개 코스)
+
+-. 12,120 EUR per person. (가령, 10명이 전 코스 모두 수강 시, 총 121,200 EUR 교육비 절감 혜택.)
+
+---
+
+## 5. Others
+
+### 5.1. Travel time & expense
+
+BV shall not charge KC(Korea consortium) for travel expenses during the execution of the FYF Agreement.
+
+⇒ FYF 적용 검사 시, Travel expense는 청구하지 않음.
+
+### 5.2. Special tariff for Overtime and Occasional survey
+
+임시검사나, Over time fee 발생 검사 경우, 검사관의 travel time은 청구 하지 않음. 즉 선박 검사 시간만을 계상함. *국내에 지부가 없는 지역에서도, 임시검사비와 Overtime비가 검사를 진행하는 시간만 검사 시간으로 counting 됨으로써, 임시검사 등을 위해 이동하는 시간은 Travel time은 청구하지 않음.
+
+**BV shall only charge KC for any inspection overtime(or occasional survey) during the execution of the FYF Agreement.**
+
+The applicable rate for such overtime(or occasional survey) shall be:
+- For overtime in Korea during working days: **USD 95 per hour**.
+- For overtime in Korea during weekends and holidays: **USD 190 per hour**.
+- For overtime outside of Korea during working days: **USD 140 per hour**.
+- For overtime outside of Korea during weekends and holidays: **USD 280 per hour**
+
+### 5.3. Reference
+
+**신조선 건조 이력(as leading class)(최근 5년간)**
+
+총 1821척(2017년 4월 ~ 2022년 3월까지 집계) 중, Liquefied gas carrier는 71척
+
+**운항선 입급 현황**
+
+Total fleet is around 12,003 ships
+
+*2022년 4월 19일 기준, BV 입급 운항선 선박은 12,003 으로, 이 중에, Liquefied Gas Carrier는 총 348척(LNGC 124, LPGC 224) 입니다.
+
+**Reference**
+
+- BV Company Profile – experts in LNG carrier classification for safer operations
+- LNGC Reference
+- GTT Cargo Containment System & Dual Fuel Reference List
+- Sloshing and Ship to Ship LNG transfer
+- Other reference
+- Newbuild project management at S.Korean yards
+- In-service project management
+- Proposal Sample of Energy Efficiency Services
+- Proposal Sample of Sloshing Studies
+- LNG Facilities
+- LNG carriers of 170-200k cargo capacity 상세
+- Integrated Solution Database of Equipment Documentation
+
+**Total discount on services**
+
+**US$1,077,200**

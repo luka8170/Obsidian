@@ -1,0 +1,1755 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WR Logistics Korea 사업계획서</title>
+    <style>
+        @media print {
+            @page {
+                size: A4 landscape;
+                margin: 5mm;
+            }
+            
+            * {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            
+            .slide {
+                page-break-after: always !important;
+                page-break-inside: avoid !important;
+                height: auto !important;
+                min-height: auto !important;
+                max-height: none !important;
+                overflow: visible !important;
+                margin: 0 !important;
+                padding: 10px !important;
+            }
+            
+            .slide:last-child {
+                page-break-after: avoid !important;
+            }
+            
+            .nav-controls, .slide-indicator {
+                display: none !important;
+            }
+            
+            body {
+                background: white !important;
+            }
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #f0f2f5;
+            color: #333;
+            line-height: 1.3;
+        }
+        
+        .presentation-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .slide {
+            width: 100%;
+            background: white;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            padding: 20px;
+            position: relative;
+            overflow: visible;
+            height: auto;
+            min-height: auto;
+        }
+        
+        .slide::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #1e3c72, #2a5298, #667eea);
+        }
+        
+        .slide-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e9ecef;
+        }
+        
+        .slide-title {
+            font-size: 1.6em;
+            font-weight: 700;
+            color: #1e3c72;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .slide-number {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 15px;
+            font-weight: 600;
+            font-size: 0.8em;
+        }
+        
+        .slide-content {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        
+        .three-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 15px;
+        }
+        
+        .four-column {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+        
+        .highlight-box {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        .highlight-box h3 {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        
+        .highlight-box .big-number {
+            font-size: 2.5em;
+            font-weight: 900;
+            margin: 8px 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .stats-card {
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        .stats-card:hover {
+            border-color: #667eea;
+            transform: translateY(-2px);
+        }
+        
+        .stats-card .number {
+            font-size: 2.2em;
+            font-weight: 900;
+            color: #1e3c72;
+            margin-bottom: 5px;
+        }
+        
+        .stats-card .label {
+            font-size: 1em;
+            color: #666;
+            font-weight: 600;
+        }
+        
+        .stats-card .description {
+            font-size: 0.8em;
+            color: #888;
+            margin-top: 3px;
+        }
+        
+        .table-responsive {
+            overflow-x: auto;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            font-size: 0.8em;
+        }
+        
+        th {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            padding: 8px 6px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.8em;
+        }
+        
+        td {
+            padding: 6px;
+            border-bottom: 1px solid #e9ecef;
+            vertical-align: middle;
+            font-size: 0.8em;
+        }
+        
+        tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+        
+        .progress-container {
+            background: #e9ecef;
+            border-radius: 4px;
+            height: 8px;
+            margin: 5px 0;
+            overflow: hidden;
+        }
+        
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            border-radius: 4px;
+            transition: width 1s ease;
+        }
+        
+        .bullet-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .bullet-list li {
+            padding: 4px 0;
+            padding-left: 20px;
+            position: relative;
+            font-size: 0.9em;
+            line-height: 1.4;
+        }
+        
+        .bullet-list li:before {
+            content: '▶';
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+        }
+        
+        .network-card {
+            background: linear-gradient(135deg, #f8f9fa, #ffffff);
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            padding: 12px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        .network-card h4 {
+            color: #1e3c72;
+            font-size: 1em;
+            margin-bottom: 8px;
+        }
+        
+        .star-rating {
+            color: #ffc107;
+            font-size: 1em;
+            margin: 3px 0;
+        }
+        
+        .timeline {
+            position: relative;
+            padding-left: 25px;
+        }
+        
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 12px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: linear-gradient(180deg, #667eea, #764ba2);
+        }
+        
+        .timeline-item {
+            position: relative;
+            margin-bottom: 15px;
+            background: white;
+            padding: 10px 15px;
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+        }
+        
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -30px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 8px;
+            height: 8px;
+            background: #667eea;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 0 0 2px #667eea;
+        }
+        
+        .timeline-item h4 {
+            color: #1e3c72;
+            font-size: 1em;
+            margin-bottom: 5px;
+        }
+        
+        .cover-slide {
+            background: linear-gradient(135deg, #1e3c72, #2a5298, #667eea);
+            color: white;
+            text-align: center;
+            justify-content: center;
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .cover-slide .main-title {
+            font-size: 3em;
+            font-weight: 900;
+            margin-bottom: 15px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .cover-slide .subtitle {
+            font-size: 1.4em;
+            margin-bottom: 25px;
+            opacity: 0.95;
+        }
+        
+        .cover-slide .meta-info {
+            background: rgba(255,255,255,0.15);
+            padding: 20px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            display: inline-block;
+            font-size: 1em;
+        }
+        
+        .risk-matrix {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+        }
+        
+        .risk-item {
+            padding: 12px;
+            border-radius: 6px;
+            border-left: 3px solid;
+            background: white;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+        }
+        
+        .risk-high {
+            border-color: #dc3545;
+            background: linear-gradient(135deg, #fff5f5, #ffffff);
+        }
+        
+        .risk-medium {
+            border-color: #ffc107;
+            background: linear-gradient(135deg, #fffdf0, #ffffff);
+        }
+        
+        .risk-low {
+            border-color: #28a745;
+            background: linear-gradient(135deg, #f0fff4, #ffffff);
+        }
+        
+        .conclusion-slide {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            text-align: center;
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .conclusion-slide .slide-title {
+            color: white;
+        }
+        
+        .cta-section {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+        
+        .cta-button {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 20px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1em;
+            display: inline-block;
+            margin-top: 10px;
+            transition: all 0.3s ease;
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .nav-controls {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: flex;
+            gap: 8px;
+            z-index: 1000;
+        }
+        
+        .nav-btn {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            font-size: 0.9em;
+        }
+        
+        .nav-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(30, 60, 114, 0.4);
+        }
+        
+        .nav-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .slide-indicator {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(30, 60, 114, 0.9);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 15px;
+            font-weight: 600;
+            z-index: 1000;
+            font-size: 0.9em;
+        }
+        
+        .pipeline-card {
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
+        }
+        
+        .pipeline-card:hover {
+            border-color: #667eea;
+            transform: translateY(-2px);
+        }
+        
+        .pipeline-card.high-certainty {
+            border-color: #28a745;
+            background: linear-gradient(135deg, #f0fff4, #ffffff);
+        }
+        
+        .pipeline-card.medium-certainty {
+            border-color: #ffc107;
+            background: linear-gradient(135deg, #fffdf0, #ffffff);
+        }
+        
+        .pipeline-card h4 {
+            color: #1e3c72;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+        
+        .pipeline-amount {
+            font-size: 1.8em;
+            font-weight: 900;
+            color: #1e3c72;
+            margin: 8px 0;
+        }
+        
+        .certainty-stars {
+            margin: 8px 0;
+            font-size: 0.9em;
+        }
+        
+        /* 조직도 슬라이드 특별 최적화 */
+        .org-chart {
+            text-align: center;
+            margin: 10px 0;
+        }
+        
+        .org-chart .ceo-box {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            display: inline-block;
+            font-size: 0.9em;
+        }
+        
+        .org-chart .team-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .org-chart .team-box {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 6px;
+            text-align: center;
+            font-size: 0.85em;
+        }
+        
+        .org-chart .admin-box {
+            grid-column: 1 / -1;
+            max-width: 300px;
+            margin: 10px auto 0;
+        }
+        
+        .compact-section {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 6px;
+            margin: 8px 0;
+        }
+        
+        .compact-section h4 {
+            color: #1e3c72;
+            margin-bottom: 6px;
+            font-size: 1em;
+        }
+        
+        .compact-list {
+            font-size: 0.8em;
+            line-height: 1.3;
+        }
+        
+        .compact-list div {
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="presentation-container">
+        <!-- Slide 1: Cover -->
+        <div class="slide cover-slide">
+            <div class="slide-content">
+                <h1 class="main-title">WR Logistics Korea</h1>
+                <div class="subtitle">아시아 글로벌 프로젝트 물류 허브 구축 전략</div>
+                <div class="meta-info">
+                    <div><strong>제출일:</strong> 2025년 9월 8일</div>
+                    <div><strong>작성자:</strong> 한상진 (Korea Branch Manager 후보)</div>
+                    <div><strong>버전:</strong> Final Presentation v2.0</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 2: Executive Summary -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">🎯 Executive Summary</div>
+                <div class="slide-number">2/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="two-column">
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 15px;">핵심 성과 목표</h3>
+                        <div style="display: grid; gap: 10px;">
+                            <div class="highlight-box" style="padding: 12px;">
+                                <div class="big-number" style="font-size: 2em;">180억원</div>
+                                <div>1차년도 매출 (ROI 309%)</div>
+                            </div>
+                            <div class="highlight-box" style="padding: 12px;">
+                                <div class="big-number" style="font-size: 2em;">450억원</div>
+                                <div>3차년도 매출 (시장점유율 5%)</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 15px;">Success Foundation</h3>
+                        <ul class="bullet-list">
+                            <li><strong>25년 글로벌 네트워크:</strong> 중동 정부/왕족 + 한국 EPC 대기업</li>
+                            <li><strong>확정 파이프라인:</strong> 230억원 규모, 65% 고확정성</li>
+                            <li><strong>독일 본사 시너지:</strong> 유럽-아시아 네트워크 완성</li>
+                            <li><strong>차별화 서비스:</strong> 검사·인증 + 물류 통합</li>
+                            <li><strong>압도적 수익성:</strong> 업계 평균 ROI의 4배</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 3: Market Analysis -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">📈 Market Analysis</div>
+                <div class="slide-number">3/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="four-column">
+                    <div class="stats-card">
+                        <div class="number">6,000억</div>
+                        <div class="label">시장 규모</div>
+                        <div class="description">2025년 기준</div>
+                    </div>
+                    <div class="stats-card">
+                        <div class="number">5-7%</div>
+                        <div class="label">연평균 성장률</div>
+                        <div class="description">향후 5년간</div>
+                    </div>
+                    <div class="stats-card">
+                        <div class="number">43.7%</div>
+                        <div class="label">해상풍력 성장</div>
+                        <div class="description">2024년 기준</div>
+                    </div>
+                    <div class="stats-card">
+                        <div class="number">60억$</div>
+                        <div class="label">EPC 수주</div>
+                        <div class="description">현대엔지니어링</div>
+                    </div>
+                </div>
+                <div style="margin-top: 20px;">
+                    <h3 style="color: #1e3c72; margin-bottom: 12px;">Growth Drivers & Market Opportunities</h3>
+                    <div class="two-column">
+                        <div>
+                            <h4 style="color: #2a5298; margin-bottom: 8px;">정부 정책 지원</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>역동경제 로드맵 & 신성장 4.0</li>
+                                <li>탄소중립 2050 추진</li>
+                                <li>공급망 안정화 2.1조원 지원</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4 style="color: #2a5298; margin-bottom: 8px;">해외 프로젝트 확대</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>중동 메가 프로젝트 수주 급증</li>
+                                <li>사우디 Vision 2030, UAE 2071</li>
+                                <li>신재생에너지 프로젝트 확산</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 4: Competitive Landscape -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">🥊 Competitive Landscape</div>
+                <div class="slide-number">4/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="table-responsive">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>구분</th>
+                                <th>회사명</th>
+                                <th>강점</th>
+                                <th>약점</th>
+                                <th>점유율</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td rowspan="3" style="font-weight: bold;">글로벌</td>
+                                <td>Kuehne+Nagel</td>
+                                <td>글로벌 네트워크, 브랜드</td>
+                                <td>중동 현지화 부족</td>
+                                <td>15%</td>
+                            </tr>
+                            <tr>
+                                <td>DHL Supply Chain</td>
+                                <td>시스템화, 규모</td>
+                                <td>EPC 전문성 제한</td>
+                                <td>12%</td>
+                            </tr>
+                            <tr>
+                                <td>DB Schenker</td>
+                                <td>독일 기반, 철도</td>
+                                <td>아시아 네트워크</td>
+                                <td>8%</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3" style="font-weight: bold;">로컬</td>
+                                <td>태웅로지스틱스</td>
+                                <td>EPC 경험, 삼성E&A</td>
+                                <td>글로벌 네트워크</td>
+                                <td>20%</td>
+                            </tr>
+                            <tr>
+                                <td>CJ대한통운</td>
+                                <td>규모, 국내 네트워크</td>
+                                <td>프로젝트 전문성</td>
+                                <td>18%</td>
+                            </tr>
+                            <tr>
+                                <td>현대글로비스</td>
+                                <td>현대그룹 시너지</td>
+                                <td>외부 고객 제한</td>
+                                <td>15%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="margin-top: 15px;">
+                    <div class="highlight-box" style="padding: 12px;">
+                        <strong>WR Logistics Korea 목표:</strong> 3년차 시장점유율 5% 달성
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 5: Competitive Advantages -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">🏆 Competitive Advantages</div>
+                <div class="slide-number">5/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="three-column">
+                    <div class="network-card">
+                        <h4>🇩🇪 독일 본사 글로벌 네트워크</h4>
+                        <div class="stats-card" style="margin: 10px 0; box-shadow: none;">
+                            <div class="number" style="font-size: 1.5em;">95%</div>
+                            <div class="label">글로벌 경쟁력</div>
+                        </div>
+                        <ul class="bullet-list" style="font-size: 0.8em;">
+                            <li>유럽 물류 엔지니어링 리더십</li>
+                            <li>프리미엄 브랜드 파워</li>
+                            <li>철도-해운 멀티모달</li>
+                            <li>Industry 4.0 디지털 물류</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="network-card">
+                        <h4>🕌 중동 25년 현지화 네트워크</h4>
+                        <div class="stats-card" style="margin: 10px 0; box-shadow: none;">
+                            <div class="number" style="font-size: 1.5em;">100%</div>
+                            <div class="label">현지 접근성</div>
+                        </div>
+                        <ul style="list-style: none; padding: 0; font-size: 0.75em;">
+                            <li style="padding: 2px 0;">• UAE Sheikh Ahmed Al Maktoum <span class="star-rating">⭐⭐⭐⭐⭐</span></li>
+                            <li style="padding: 2px 0;">• Sharaf Group 회장 <span class="star-rating">⭐⭐⭐⭐⭐</span></li>
+                            <li style="padding: 2px 0;">• Globe Marine 회장 <span class="star-rating">⭐⭐⭐⭐⭐</span></li>
+                            <li style="padding: 2px 0;">• Kuwait 정부 고위층 <span class="star-rating">⭐⭐⭐⭐</span></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="network-card">
+                        <h4>🏢 한국 EPC/조선업계</h4>
+                        <div class="stats-card" style="margin: 10px 0; box-shadow: none;">
+                            <div class="number" style="font-size: 1.5em;">90%</div>
+                            <div class="label">접근 가능성</div>
+                        </div>
+                        <ul style="list-style: none; padding: 0; font-size: 0.75em;">
+                            <li style="padding: 2px 0;">• 현대엔지니어링 그룹 <span class="star-rating">⭐⭐⭐⭐⭐</span></li>
+                            <li style="padding: 2px 0;">• 삼성중공업 <span class="star-rating">⭐⭐⭐⭐⭐</span></li>
+                            <li style="padding: 2px 0;">• 두산에너빌리티 <span class="star-rating">⭐⭐⭐⭐</span></li>
+                            <li style="padding: 2px 0;">• LG에너지솔루션 <span class="star-rating">⭐⭐⭐⭐</span></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div style="margin-top: 20px;">
+                    <h3 style="color: #1e3c72; margin-bottom: 12px;">차별화된 서비스 역량</h3>
+                    <div class="four-column">
+                        <div class="stats-card">
+                            <div class="number">30%</div>
+                            <div class="label">비용 절감</div>
+                            <div class="description">멀티모달 최적화</div>
+                        </div>
+                        <div class="stats-card">
+                            <div class="number">100+톤</div>
+                            <div class="label">초중량화물</div>
+                            <div class="description">전문 운송</div>
+                        </div>
+                        <div class="stats-card">
+                            <div class="number">24/7</div>
+                            <div class="label">프로젝트 지원</div>
+                            <div class="description">현장 설치 지원</div>
+                        </div>
+                        <div class="stats-card">
+                            <div class="number">100%</div>
+                            <div class="label">규정 준수</div>
+                            <div class="description">ADR/IMDG</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 6: Project Pipeline A & B -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">💰 Confirmed Project Pipeline (1/2)</div>
+                <div class="slide-number">6/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="two-column">
+                    <div class="pipeline-card high-certainty">
+                        <h4>A. 현대스틸산업 중동 프로젝트</h4>
+                        <div class="pipeline-amount">80억원</div>
+                        <div class="certainty-stars">확정성: <span class="star-rating">⭐⭐⭐⭐⭐</span> (95%)</div>
+                        <ul class="bullet-list" style="font-size: 0.8em;">
+                            <li><strong>프로젝트:</strong> 사우디 아람코 아미랄 석유화학 (110억$ EPC)</li>
+                            <li><strong>서비스:</strong> 철강제품 전문 물류</li>
+                            <li><strong>확정성:</strong> 현재 진행 중 파트너십</li>
+                            <li><strong>기간:</strong> 2026.1 ~ 2027.12</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="pipeline-card medium-certainty">
+                        <h4>B. Qatar Gas 북부가스전 프로젝트</h4>
+                        <div class="pipeline-amount">60억원</div>
+                        <div class="certainty-stars">확정성: <span class="star-rating">⭐⭐⭐⭐</span> (85%)</div>
+                        <ul class="bullet-list" style="font-size: 0.8em;">
+                            <li><strong>프로젝트:</strong> North Field South Project (100억$ EPC)</li>
+                            <li><strong>서비스:</strong> LNG 플랜트 모듈 운송</li>
+                            <li><strong>확정성:</strong> 중동 네트워크 활용</li>
+                            <li><strong>기간:</strong> 2026.3 ~ 2028.6</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div style="margin-top: 15px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+                    <h4 style="color: #1e3c72; margin-bottom: 8px;">A + B 프로젝트 총 140억원 (1차년도 목표의 78%)</h4>
+                    <div class="progress-container">
+                        <div class="progress-bar" style="width: 78%;"></div>
+                    </div>
+                    <div style="font-size: 0.8em; color: #666; margin-top: 5px;">
+                        고확정성 프로젝트만으로도 1차년도 목표의 대부분 달성 가능
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 7: Project Pipeline C & D -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">💰 Confirmed Project Pipeline (2/2)</div>
+                <div class="slide-number">7/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="two-column">
+                    <div class="pipeline-card medium-certainty">
+                        <h4>C. LG에너지솔루션 ESS 글로벌</h4>
+                        <div class="pipeline-amount">50억원</div>
+                        <div class="certainty-stars">확정성: <span class="star-rating">⭐⭐⭐⭐</span> (90%)</div>
+                        <ul class="bullet-list" style="font-size: 0.8em;">
+                            <li><strong>프로젝트:</strong> 폴란드 PGE 981MWh ESS, 텍사스 ESS</li>
+                            <li><strong>서비스:</strong> 배터리 시스템 운송</li>
+                            <li><strong>확정성:</strong> 본사 물류팀장 직접 협력</li>
+                            <li><strong>기간:</strong> 2026.1 ~ 2027.12</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="pipeline-card">
+                        <h4>D. 검사·인증 연계 EPC</h4>
+                        <div class="pipeline-amount">40억원</div>
+                        <div class="certainty-stars">확정성: <span class="star-rating">⭐⭐⭐</span> (75%)</div>
+                        <ul class="bullet-list" style="font-size: 0.8em;">
+                            <li><strong>프로젝트:</strong> 이라크 Kuwait Energy, 카타르 에너지</li>
+                            <li><strong>서비스:</strong> 검사인증 + 물류 패키지</li>
+                            <li><strong>확정성:</strong> 타부서 협업 확장</li>
+                            <li><strong>기간:</strong> 2026.1 ~ 지속</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div style="margin-top: 15px;">
+                    <div class="highlight-box" style="padding: 15px;">
+                        <h3>총 파이프라인 분석</h3>
+                        <div class="two-column" style="margin-top: 10px;">
+                            <div style="text-align: left;">
+                                <div style="font-size: 1.1em; margin-bottom: 8px;">
+                                    <strong>총 파이프라인:</strong> <span style="font-size: 1.3em;">230억원</span>
+                                </div>
+                                <div style="font-size: 1.1em;">
+                                    <strong>고확정성 매출:</strong> <span style="font-size: 1.3em;">150억원 (65%)</span>
+                                </div>
+                            </div>
+                            <div style="text-align: left;">
+                                <div style="font-size: 1.1em; margin-bottom: 8px;">
+                                    <strong>1차년도 목표:</strong> <span style="font-size: 1.3em;">180억원</span>
+                                </div>
+                                <div style="font-size: 1.1em;">
+                                    <strong>목표 달성률:</strong> <span style="font-size: 1.3em;">78%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 8: Financial Plan Overview -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">💹 Financial Plan Overview</div>
+                <div class="slide-number">8/15</div>
+            </div>
+            <div class="slide-content">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 15px;">
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 12px;">매출 구조</h3>
+                        <div style="margin-bottom: 15px;">
+                            <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
+                                <span>프로젝트 물류 (고부가가치)</span>
+                                <span><strong>60%</strong></span>
+                            </div>
+                            <div class="progress-container">
+                                <div class="progress-bar" style="width: 60%;"></div>
+                            </div>
+                        </div>
+                        <div style="margin-bottom: 15px;">
+                            <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
+                                <span>특수화물 운송</span>
+                                <span><strong>25%</strong></span>
+                            </div>
+                            <div class="progress-container">
+                                <div class="progress-bar" style="width: 25%; background: linear-gradient(90deg, #ffc107, #fd7e14);"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
+                                <span>일반 화물 (안정성)</span>
+                                <span><strong>15%</strong></span>
+                            </div>
+                            <div class="progress-container">
+                                <div class="progress-bar" style="width: 15%; background: linear-gradient(90deg, #28a745, #20c997);"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 12px;">비용 구조 (연간)</h3>
+                        <div class="stats-card" style="margin-bottom: 12px;">
+                            <div class="number">44억원</div>
+                            <div class="label">손익분기점</div>
+                            <div class="description">월 3.7억원</div>
+                        </div>
+                        <div style="font-size: 0.8em;">
+                            <div style="margin-bottom: 8px;"><strong>고정비:</strong> 11억원 (인건비 7.2억 + 기타 3.8억)</div>
+                            <div><strong>변동비:</strong> 매출의 75% (운송비 60% + 기타 15%)</div>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 12px;">투자 수익률</h3>
+                        <div class="stats-card" style="margin-bottom: 12px;">
+                            <div class="number">309%</div>
+                            <div class="label">1차년도 ROI</div>
+                            <div class="description">업계 평균의 4배</div>
+                        </div>
+                        <div style="font-size: 0.8em;">
+                            <div style="margin-bottom: 8px;"><strong>투자 회수:</strong> 3.9개월 (업계 평균 36개월)</div>
+                            <div><strong>초기 투자:</strong> 11억원 vs 1차년도 순이익 34억원</div>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 12px;">3년 성장 전망</h3>
+                        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; font-size: 0.8em;">
+                            <div style="text-align: center; padding: 8px; background: #f8f9fa; border-radius: 6px;">
+                                <div style="font-weight: bold; color: #1e3c72;">2026년</div>
+                                <div style="font-size: 1.3em; font-weight: bold;">180억</div>
+                                <div>순이익: 34억</div>
+                            </div>
+                            <div style="text-align: center; padding: 8px; background: #f8f9fa; border-radius: 6px;">
+                                <div style="font-weight: bold; color: #1e3c72;">2027년</div>
+                                <div style="font-size: 1.3em; font-weight: bold;">300억</div>
+                                <div>순이익: 62억</div>
+                            </div>
+                            <div style="text-align: center; padding: 8px; background: #f8f9fa; border-radius: 6px;">
+                                <div style="font-weight: bold; color: #1e3c72;">2028년</div>
+                                <div style="font-size: 1.3em; font-weight: bold;">450억</div>
+                                <div>순이익: 97.5억</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 9: 3-Year Financial Forecast -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">📊 3-Year Financial Forecast</div>
+                <div class="slide-number">9/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="table-responsive">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>구분</th>
+                                <th>2026년 (1차년도)</th>
+                                <th>2027년 (2차년도)</th>
+                                <th>2028년 (3차년도)</th>
+                                <th>3년 평균</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>매출액</strong></td>
+                                <td>180억원</td>
+                                <td>300억원</td>
+                                <td>450억원</td>
+                                <td>310억원</td>
+                            </tr>
+                            <tr>
+                                <td><strong>성장률</strong></td>
+                                <td>-</td>
+                                <td>67%</td>
+                                <td>50%</td>
+                                <td>58%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>변동비</strong></td>
+                                <td>135억원 (75%)</td>
+                                <td>225억원 (75%)</td>
+                                <td>337.5억원 (75%)</td>
+                                <td>232.5억원</td>
+                            </tr>
+                            <tr>
+                                <td><strong>고정비</strong></td>
+                                <td>11억원</td>
+                                <td>13억원</td>
+                                <td>15억원</td>
+                                <td>13억원</td>
+                            </tr>
+                            <tr style="background: #e8f5e8;">
+                                <td><strong>순이익</strong></td>
+                                <td><strong>34억원</strong></td>
+                                <td><strong>62억원</strong></td>
+                                <td><strong>97.5억원</strong></td>
+                                <td><strong>64.5억원</strong></td>
+                            </tr>
+                            <tr style="background: #e8f5e8;">
+                                <td><strong>순이익률</strong></td>
+                                <td><strong>18.9%</strong></td>
+                                <td><strong>20.7%</strong></td>
+                                <td><strong>21.7%</strong></td>
+                                <td><strong>20.4%</strong></td>
+                            </tr>
+                            <tr style="background: #fff3cd;">
+                                <td><strong>ROI</strong></td>
+                                <td><strong>309%</strong></td>
+                                <td><strong>564%</strong></td>
+                                <td><strong>886%</strong></td>
+                                <td><strong>586%</strong></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <div style="margin-top: 20px;">
+                    <div class="two-column">
+                        <div>
+                            <h3 style="color: #1e3c72; margin-bottom: 12px;">누적 수익성</h3>
+                            <div class="highlight-box" style="padding: 15px;">
+                                <div style="font-size: 2em; font-weight: 900; margin-bottom: 8px;">193.5억원</div>
+                                <div style="font-size: 1.1em;">3년 누적 순이익</div>
+                                <div style="margin-top: 10px; font-size: 0.9em;">
+                                    초기 투자 11억원 대비 <strong>1,659% 누적 ROI</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <h3 style="color: #1e3c72; margin-bottom: 12px;">업계 대비 우위</h3>
+                            <div style="background: #f8f9fa; padding: 15px; border-radius: 8px;">
+                                <div style="margin-bottom: 12px;">
+                                    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+                                        <span>순이익률 우위</span>
+                                        <span><strong>+4~7%p</strong></span>
+                                    </div>
+                                    <div style="font-size: 0.8em; color: #666;">업계 평균 12-15% vs WR Korea 18.9%</div>
+                                </div>
+                                <div style="margin-bottom: 12px;">
+                                    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+                                        <span>ROI 우위</span>
+                                        <span><strong>+229%p</strong></span>
+                                    </div>
+                                    <div style="font-size: 0.8em; color: #666;">업계 평균 50-80% vs WR Korea 309%</div>
+                                </div>
+                                <div>
+                                    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+                                        <span>투자 회수 기간</span>
+                                        <span><strong>-20개월</strong></span>
+                                    </div>
+                                    <div style="font-size: 0.8em; color: #666;">업계 평균 24-36개월 vs WR Korea 3.9개월</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 10: Organization Plan - 완전히 새로 작성 -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">👥 Organization Plan</div>
+                <div class="slide-number">10/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="two-column">
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 12px; font-size: 1.2em;">초기 조직 구성 (5명)</h3>
+                        <div class="org-chart">
+                            <div class="ceo-box">
+                                <strong>지사장 (1명) - 한상진</strong><br>
+                                전체 총괄, VIP 관계관리<br>
+                                <span style="font-size: 1.1em; font-weight: bold;">연봉: 2.5억원</span>
+                            </div>
+                            
+                            <div class="team-grid">
+                                <div class="team-box">
+                                    <strong>영업팀 (2명)</strong><br>
+                                    EPC 전담 영업<br>
+                                    각 1.2억원
+                                </div>
+                                <div class="team-box">
+                                    <strong>운영팀 (1명)</strong><br>
+                                    프로젝트 관리<br>
+                                    1.0억원
+                                </div>
+                            </div>
+                            <div class="team-box admin-box">
+                                <strong>관리팀 (1명)</strong><br>
+                                재무/총무/법무<br>
+                                0.7억원
+                            </div>
+                        </div>
+                        
+                        <div style="margin-top: 12px; padding: 10px; background: #e8f5e8; border-radius: 6px; text-align: center;">
+                            <strong>총 인건비: 7.2억원/년</strong><br>
+                            <span style="font-size: 0.8em; color: #666;">+ 제수당/복리후생 0.6억원</span>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 12px; font-size: 1.2em;">단계별 조직 확장</h3>
+                        <div class="compact-section">
+                            <h4>2차년도 (8명)</h4>
+                            <div class="compact-list">
+                                <div>• Key Account Manager 추가 (1명)</div>
+                                <div>• 현장 지원 전문가 (1명)</div>
+                                <div>• 부산/울산 지역 담당 (1명)</div>
+                            </div>
+                        </div>
+                        
+                        <div class="compact-section">
+                            <h4>3차년도 (12명)</h4>
+                            <div class="compact-list">
+                                <div>• 중동 현지 사무소 (2명)</div>
+                                <div>• 프로젝트 코디네이터 (2명)</div>
+                                <div>• IT/시스템 전담 (1명)</div>
+                            </div>
+                        </div>
+                        
+                        <div class="compact-section">
+                            <h4>핵심 인재 요구사항</h4>
+                            <div class="compact-list">
+                                <div><strong>영업팀:</strong> EPC 10년+ 경력, 영어 가능, 중동 경험 우대</div>
+                                <div><strong>운영팀:</strong> 물류 관리 12년+, PMP 인증, 특수화물 경험</div>
+                                <div><strong>헤드헌팅:</strong> 태웅로지스틱스, CJ대한통운, 현대글로비스 핵심 인력</div>
+                            </div>
+                        </div>
+                        
+                        <div class="compact-section">
+                            <h4>성과 관리 시스템</h4>
+                            <div class="compact-list">
+                                <div>• 매출 목표 달성률: 40%</div>
+                                <div>• 신규 고객 확보: 20%</div>
+                                <div>• 프로젝트 성공률: 20%</div>
+                                <div>• 고객 만족도: 20%</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 11: Implementation Roadmap -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">🚀 Implementation Roadmap</div>
+                <div class="slide-number">11/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <h4>Phase 1: 기반 구축 (2025년 11-12월)</h4>
+                        <div class="two-column" style="margin-top: 8px;">
+                            <div>
+                                <strong>11월:</strong>
+                                <ul style="font-size: 0.8em; margin: 4px 0; list-style: none; padding: 0;">
+                                    <li>• 한국 법인 등기 완료</li>
+                                    <li>• 사무실 확보 (강남 프리미엄 오피스)</li>
+                                    <li>• 기본 인프라 구축</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <strong>12월:</strong>
+                                <ul style="font-size: 0.8em; margin: 4px 0; list-style: none; padding: 0;">
+                                    <li>• 핵심 인력 4명 채용</li>
+                                    <li>• 독일 본사 시스템 연동</li>
+                                    <li>• 중동/한국 네트워크 재활성화</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div style="background: #fff3cd; padding: 8px; border-radius: 4px; margin-top: 8px; font-size: 0.8em;">
+                            <strong>예산 소요:</strong> 3억원 (설립비 1억 + 운영비 2억)
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <h4>Phase 2: 시장 진입 (2026년 1-6월)</h4>
+                        <div class="two-column" style="margin-top: 8px;">
+                            <div>
+                                <strong>1-2월:</strong>
+                                <ul style="font-size: 0.8em; margin: 4px 0; list-style: none; padding: 0;">
+                                    <li>• ERP/CRM 시스템 구축</li>
+                                    <li>• 중동 파트너 미팅 (출장)</li>
+                                    <li>• 물류 추적 시스템 연동</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <strong>3-4월:</strong>
+                                <ul style="font-size: 0.8em; margin: 4px 0; list-style: none; padding: 0;">
+                                    <li>• 현대스틸 계약 체결</li>
+                                    <li>• Qatar Gas 예비협상</li>
+                                    <li>• LG ESS 프로젝트 착수</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div style="background: #d4edda; padding: 8px; border-radius: 4px; margin-top: 8px; font-size: 0.8em;">
+                            <strong>목표:</strong> 상반기 매출 250억원 (연간 목표의 50%)
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <h4>Phase 3: 확장 (2026년 7월-2027년)</h4>
+                        <div style="margin-top: 8px; font-size: 0.8em;">
+                            <div style="margin-bottom: 8px;">
+                                <strong>7-9월:</strong> 삼성엔지니어링, 두산에너빌리티 계약 체결
+                            </div>
+                            <div style="margin-bottom: 8px;">
+                                <strong>10-12월:</strong> 연간 목표 180억원 달성, 부산/울산 거점 검토
+                            </div>
+                            <div style="background: #e8f5e8; padding: 8px; border-radius: 4px;">
+                                <strong>2027년:</strong> 매출 300억원, 시장점유율 5%, 동남아 진출 준비
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 12: Risk Management -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">⚠️ Risk Management</div>
+                <div class="slide-number">12/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="risk-matrix">
+                    <div class="risk-item risk-high">
+                        <h4>🔴 HIGH RISK</h4>
+                        <ul style="font-size: 0.8em; margin: 8px 0; list-style: none; padding: 0;">
+                            <li>• 글로벌 경기 침체</li>
+                            <li>• 중동 정치 불안정</li>
+                            <li>• 핵심 인력 이탈</li>
+                            <li>• 대형 프로젝트 집중</li>
+                        </ul>
+                        <div style="background: rgba(220,53,69,0.1); padding: 6px; border-radius: 4px; margin-top: 8px; font-size: 0.75em;">
+                            <strong>대응:</strong> 포트폴리오 분산, 정치리스크 보험, 리텐션 프로그램
+                        </div>
+                    </div>
+                    
+                    <div class="risk-item risk-medium">
+                        <h4>🟡 MEDIUM RISK</h4>
+                        <ul style="font-size: 0.8em; margin: 8px 0; list-style: none; padding: 0;">
+                            <li>• 환율 변동</li>
+                            <li>• 프로젝트 일정 연기</li>
+                            <li>• 가격 경쟁 심화</li>
+                            <li>• 운송비 급등</li>
+                        </ul>
+                        <div style="background: rgba(255,193,7,0.1); padding: 6px; border-radius: 4px; margin-top: 8px; font-size: 0.75em;">
+                            <strong>대응:</strong> 환율 헤지, 유연한 계약 조건, 차별화 서비스
+                        </div>
+                    </div>
+                    
+                    <div class="risk-item risk-low">
+                        <h4>🟢 LOW RISK</h4>
+                        <ul style="font-size: 0.8em; margin: 8px 0; list-style: none; padding: 0;">
+                            <li>• 기술 혁신 지연</li>
+                            <li>• 소규모 안전사고</li>
+                            <li>• 시스템 장애</li>
+                            <li>• 법규 변경</li>
+                        </ul>
+                        <div style="background: rgba(40,167,69,0.1); padding: 6px; border-radius: 4px; margin-top: 8px; font-size: 0.75em;">
+                            <strong>대응:</strong> 지속적 R&D, 안전 교육, 백업 시스템, 컴플라이언스
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="margin-top: 20px;">
+                    <h3 style="color: #1e3c72; margin-bottom: 12px;">핵심 리스크 관리 지표</h3>
+                    <div class="four-column">
+                        <div class="stats-card">
+                            <div class="number">30%</div>
+                            <div class="label">단일 고객 한계</div>
+                            <div class="description">포트폴리오 다각화</div>
+                        </div>
+                        <div class="stats-card">
+                            <div class="number">110%</div>
+                            <div class="label">종합보험</div>
+                            <div class="description">프로젝트 가치 대비</div>
+                        </div>
+                        <div class="stats-card">
+                            <div class="number">80%</div>
+                            <div class="label">환율 헤지</div>
+                            <div class="description">주요 계약 커버</div>
+                        </div>
+                        <div class="stats-card">
+                            <div class="number">3개월</div>
+                            <div class="label">현금 보유</div>
+                            <div class="description">운영비 기준</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 13: Investment Analysis -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">💎 Investment Analysis</div>
+                <div class="slide-number">13/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="two-column">
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 15px;">초기 투자 분석</h3>
+                        <div class="table-responsive">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>투자 항목</th>
+                                        <th>금액</th>
+                                        <th>비율</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>설립비용</td>
+                                        <td>1억원</td>
+                                        <td>9%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>사무실 보증금/인테리어</td>
+                                        <td>2억원</td>
+                                        <td>18%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1년차 인건비</td>
+                                        <td>7.2억원</td>
+                                        <td>65%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>시스템/기타 운영비</td>
+                                        <td>0.8억원</td>
+                                        <td>8%</td>
+                                    </tr>
+                                    <tr style="background: #e8f5e8; font-weight: bold;">
+                                        <td>총 초기 투자</td>
+                                        <td>11억원</td>
+                                        <td>100%</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div style="margin-top: 15px; background: #f8f9fa; padding: 12px; border-radius: 6px;">
+                            <h4 style="color: #1e3c72; margin-bottom: 8px;">투자 회수 계획</h4>
+                            <div style="font-size: 0.8em;">
+                                <div style="margin-bottom: 6px;"><strong>월 평균 순이익:</strong> 2.83억원</div>
+                                <div style="margin-bottom: 6px;"><strong>투자 회수 기간:</strong> 3.9개월</div>
+                                <div><strong>연간 ROI:</strong> 309% (투자금 회수 + 209% 추가 수익)</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 15px;">업계 대비 투자 매력도</h3>
+                        <div class="table-responsive">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>비교 지표</th>
+                                        <th>WR Korea</th>
+                                        <th>업계 평균</th>
+                                        <th>우위</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>순이익률</td>
+                                        <td>18.9%</td>
+                                        <td>12-15%</td>
+                                        <td>+4~7%p</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ROI</td>
+                                        <td>309%</td>
+                                        <td>50-80%</td>
+                                        <td>+229%p</td>
+                                    </tr>
+                                    <tr>
+                                        <td>투자회수 기간</td>
+                                        <td>3.9개월</td>
+                                        <td>24-36개월</td>
+                                        <td>-20개월</td>
+                                    </tr>
+                                    <tr>
+                                        <td>연평균 성장률</td>
+                                        <td>58%</td>
+                                        <td>10-20%</td>
+                                        <td>+38%p</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div style="margin-top: 15px;">
+                            <div class="highlight-box" style="padding: 15px;">
+                                <h4>3년 누적 수익 전망</h4>
+                                <div style="font-size: 2em; font-weight: 900; margin: 8px 0;">193.5억원</div>
+                                <div style="font-size: 1em;">
+                                    초기 투자 11억원 대비<br>
+                                    <strong>1,659% 누적 ROI</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="margin-top: 20px;">
+                    <h3 style="color: #1e3c72; margin-bottom: 12px;">가치 창출 효과</h3>
+                    <div class="three-column">
+                        <div style="background: #f8f9fa; padding: 12px; border-radius: 6px; text-align: center;">
+                            <h4 style="color: #1e3c72; margin-bottom: 8px;">독일 본사</h4>
+                            <ul style="font-size: 0.8em; text-align: left; list-style: none; padding: 0;">
+                                <li>• 아시아 시장 진출 교두보</li>
+                                <li>• 글로벌 네트워크 완성</li>
+                                <li>• 브랜드 가치 제고</li>
+                                <li><strong>• 무형자산 가치: 100억원</strong></li>
+                            </ul>
+                        </div>
+                        <div style="background: #f8f9fa; padding: 12px; border-radius: 6px; text-align: center;">
+                            <h4 style="color: #1e3c72; margin-bottom: 8px;">한국 시장</h4>
+                            <ul style="font-size: 0.8em; text-align: left; list-style: none; padding: 0;">
+                                <li>• 고용 창출: 3년간 12명</li>
+                                <li>• 기술 이전 효과</li>
+                                <li>• 산업 경쟁력 강화</li>
+                                <li><strong>• 사회적 가치: 50억원</strong></li>
+                            </ul>
+                        </div>
+                        <div style="background: #f8f9fa; padding: 12px; border-radius: 6px; text-align: center;">
+                            <h4 style="color: #1e3c72; margin-bottom: 8px;">글로벌 효과</h4>
+                            <ul style="font-size: 0.8em; text-align: left; list-style: none; padding: 0;">
+                                <li>• 새로운 물류 표준 창조</li>
+                                <li>• 유럽-아시아-중동 연결</li>
+                                <li>• 멀티모달 효율성 혁신</li>
+                                <li><strong>• 전략적 가치: 무한대</strong></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 14: Success Factors -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">🎯 Key Success Factors</div>
+                <div class="slide-number">14/15</div>
+            </div>
+            <div class="slide-content">
+                <div class="two-column">
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 15px;">핵심 성공 요인</h3>
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="color: #2a5298; margin-bottom: 10px;">1. 검증된 글로벌 네트워크</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>25년간 구축된 중동 현지 네트워크</li>
+                                <li>한국 EPC/조선업계 기존 관계</li>
+                                <li>독일 본사 유럽 네트워크</li>
+                                <li>즉시 사업화 가능한 자산</li>
+                            </ul>
+                        </div>
+                        
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="color: #2a5298; margin-bottom: 10px;">2. 확실한 수익성</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>1차년도 ROI 309%의 압도적 수익률</li>
+                                <li>3.9개월 투자 회수 (업계 평균 36개월)</li>
+                                <li>230억원 확정 파이프라인 (65% 고확정성)</li>
+                                <li>안정적 현금흐름 보장</li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <h4 style="color: #2a5298; margin-bottom: 10px;">3. 차별화된 서비스</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>검사·인증과 물류 통합 원스톱</li>
+                                <li>멀티모달 최적화로 30% 비용 절감</li>
+                                <li>100톤+ 초중량화물 전문 운송</li>
+                                <li>24/7 프로젝트 지원 서비스</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 style="color: #1e3c72; margin-bottom: 15px;">지속 가능한 성장 동력</h3>
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="color: #2a5298; margin-bottom: 10px;">4. 완벽한 시장 타이밍</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>중동 메가 프로젝트 급증 (Vision 2030)</li>
+                                <li>한국 신재생에너지 시장 확대</li>
+                                <li>공급망 다변화 니즈 증가</li>
+                                <li>ESG 친환경 물류 수요 급증</li>
+                            </ul>
+                        </div>
+                        
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="color: #2a5298; margin-bottom: 10px;">5. 리스크 관리 역량</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>포트폴리오 다각화 (고객/지역/프로젝트)</li>
+                                <li>종합보험 110% 가입</li>
+                                <li>환율 헤지 80% 커버</li>
+                                <li>3개월 운영비 현금 보유</li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <h4 style="color: #2a5298; margin-bottom: 10px;">6. 확장 가능성</h4>
+                            <ul class="bullet-list" style="font-size: 0.85em;">
+                                <li>3년차 동남아 진출 계획</li>
+                                <li>아시아 전체 허브로 발전 가능</li>
+                                <li>새로운 물류 표준 창조</li>
+                                <li>무한한 시장 확장성</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="margin-top: 25px;">
+                    <div class="highlight-box" style="padding: 20px;">
+                        <h3 style="margin-bottom: 12px;">Why WR Logistics Korea Will Succeed</h3>
+                        <div style="font-size: 1.1em; line-height: 1.5;">
+                            <strong>검증된 실행력</strong> + <strong>확실한 수익성</strong> + <strong>독보적 네트워크</strong> + <strong>완벽한 타이밍</strong> = <strong>성공 보장</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 15: Conclusion -->
+        <div class="slide conclusion-slide">
+            <div class="slide-header">
+                <div class="slide-title" style="color: white;">🎯 Conclusion & Call to Action</div>
+                <div class="slide-number">15/15</div>
+            </div>
+            <div class="slide-content">
+                <div style="text-align: center; margin-bottom: 25px;">
+                    <h2 style="font-size: 2.2em; margin-bottom: 15px; color: white;">WR Logistics Korea</h2>
+                    <div style="font-size: 1.2em; margin-bottom: 25px; opacity: 0.95;">
+                        단순한 한국 진출이 아닌, <strong>글로벌 프로젝트 물류 시장의 게임 체인저</strong>
+                    </div>
+                </div>
+                
+                <div class="three-column" style="margin-bottom: 25px;">
+                    <div class="stats-card" style="background: rgba(255,255,255,0.15); color: white; border: 2px solid rgba(255,255,255,0.3);">
+                        <div class="number" style="color: white;">309%</div>
+                        <div class="label" style="color: rgba(255,255,255,0.9);">1차년도 ROI</div>
+                        <div class="description" style="color: rgba(255,255,255,0.8);">업계 평균의 4배</div>
+                    </div>
+                    <div class="stats-card" style="background: rgba(255,255,255,0.15); color: white; border: 2px solid rgba(255,255,255,0.3);">
+                        <div class="number" style="color: white;">230억</div>
+                        <div class="label" style="color: rgba(255,255,255,0.9);">확정 파이프라인</div>
+                        <div class="description" style="color: rgba(255,255,255,0.8);">65% 고확정성</div>
+                    </div>
+                    <div class="stats-card" style="background: rgba(255,255,255,0.15); color: white; border: 2px solid rgba(255,255,255,0.3);">
+                        <div class="number" style="color: white;">25년</div>
+                        <div class="label" style="color: rgba(255,255,255,0.9);">글로벌 네트워크</div>
+                        <div class="description" style="color: rgba(255,255,255,0.8);">즉시 사업화 가능</div>
+                    </div>
+                </div>
+                
+                <div class="cta-section">
+                    <h3 style="margin-bottom: 15px; color: white;">최종 제안</h3>
+                    <p style="font-size: 1.1em; line-height: 1.5; margin-bottom: 20px; color: rgba(255,255,255,0.95);">
+                        독일 본사의 혁신적 비전과 저의 실행 역량이 결합될 때,<br>
+                        WR Logistics는 글로벌 EPC 물류 업계의 새로운 리더로 자리매김할 것입니다.
+                    </p>
+                    
+                    <div style="margin-bottom: 20px;">
+                        <div style="font-size: 1em; font-style: italic; color: rgba(255,255,255,0.9);">
+                            <strong>"Your Success, Our Commitment"</strong><br>
+                            <strong>"Global Network, Local Expertise"</strong>
+                        </div>
+                    </div>
+                    
+                    <a href="#" class="cta-button">지사 설립 승인 요청</a>
+                    
+                    <div style="margin-top: 25px; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.3);">
+                        <p style="font-size: 1em; color: rgba(255,255,255,0.9);">
+                            <strong>한상진</strong><br>
+                            WR Logistics Korea Branch Manager 후보<br>
+                            2025년 9월 8일
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation Controls -->
+    <div class="nav-controls">
+        <button class="nav-btn" onclick="prevSlide()">◀ 이전</button>
+        <button class="nav-btn" onclick="nextSlide()">다음 ▶</button>
+        <button class="nav-btn" onclick="window.print()">🖨️ 인쇄</button>
+    </div>
+    
+    <div class="slide-indicator">
+        <span id="current-slide">1</span> / 17
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        function showSlide(n) {
+            slides.forEach(slide => slide.style.display = 'none');
+            
+            if (n >= totalSlides) currentSlide = 0;
+            if (n < 0) currentSlide = totalSlides - 1;
+            
+            slides[currentSlide].style.display = 'block';
+            document.getElementById('current-slide').textContent = currentSlide + 1;
+            
+            // Update navigation buttons
+            const prevBtn = document.querySelector('.nav-controls .nav-btn:first-child');
+            const nextBtn = document.querySelector('.nav-controls .nav-btn:nth-child(2)');
+            
+            prevBtn.disabled = currentSlide === 0;
+            nextBtn.disabled = currentSlide === totalSlides - 1;
+        }
+
+        function nextSlide() {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+                showSlide(currentSlide);
+            }
+        }
+
+        function prevSlide() {
+            if (currentSlide > 0) {
+                currentSlide--;
+                showSlide(currentSlide);
+            }
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                nextSlide();
+            } else if (e.key === 'ArrowLeft') {
+                prevSlide();
+            }
+        });
+
+        // Initialize
+        showSlide(0);
+
+        // Auto-start progress bar animations when slide is visible
+        function animateProgressBars() {
+            const visibleSlide = slides[currentSlide];
+            const progressBars = visibleSlide.querySelectorAll('.progress-bar');
+            
+            progressBars.forEach(bar => {
+                const width = bar.style.width;
+                bar.style.width = '0%';
+                setTimeout(() => {
+                    bar.style.width = width;
+                }, 100);
+            });
+        }
+
+        // Override showSlide to include animations
+        const originalShowSlide = showSlide;
+        showSlide = function(n) {
+            originalShowSlide(n);
+            setTimeout(animateProgressBars, 300);
+        };
+
+        // Print optimization
+        window.addEventListener('beforeprint', function() {
+            // Show all slides for printing
+            slides.forEach(slide => {
+                slide.style.display = 'block';
+            });
+        });
+
+        window.addEventListener('afterprint', function() {
+            // Restore normal view
+            showSlide(currentSlide);
+        });
+    </script>
+</body>
+</html> 

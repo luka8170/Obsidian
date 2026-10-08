@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>한상진 이력서</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: "Malgun Gothic", "맑은 고딕", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: left;
+            margin-bottom: 30px;
+            padding: 40px;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            font-weight: bold;
+            color: #333;
+            letter-spacing: 2px;
+        }
+        
+        .header .subtitle {
+            font-size: 1.1em;
+            margin-bottom: 20px;
+            color: #666;
+        }
+        
+        .contact-info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            margin-top: 20px;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #666;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .section h2 {
+            color: #333;
+            font-size: 1.4em;
+            margin-bottom: 20px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .education-item, .experience-item {
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .education-item:last-child, .experience-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .education-header, .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .degree, .position-title {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .institution, .company-name {
+            color: #666;
+            margin-bottom: 5px;
+        }
+        
+        .period {
+            color: #999;
+            font-size: 0.9em;
+            white-space: nowrap;
+        }
+        
+        .achievements {
+            margin-top: 15px;
+        }
+        
+        .achievements ul {
+            margin-left: 20px;
+        }
+        
+        .achievements li {
+            margin-bottom: 8px;
+            line-height: 1.7;
+        }
+        
+        .network-section {
+            display: none;
+        }
+        
+        .network-item {
+            display: none;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+        
+        .skills-category h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+        
+        .skills-list {
+            list-style: none;
+        }
+        
+        .skills-list li {
+            margin-bottom: 8px;
+            color: #666;
+        }
+        
+        strong {
+            color: #333;
+        }
+        
+        @media print {
+            body { padding: 20px; }
+            .section { page-break-inside: avoid; }
+        }
+        
+        @media (max-width: 768px) {
+            body { padding: 20px; }
+            .header h1 { font-size: 2em; }
+            .experience-header { flex-direction: column; }
+            .network-section { grid-template-columns: 1fr; }
+            .contact-info { flex-direction: column; gap: 15px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>한 상 진</h1>
+        <div class="subtitle">물류 전문가</div>
+        
+        <div class="contact-info">
+            <div class="contact-item">
+                <span>📞</span>
+                <span>010-4167-0528</span>
+            </div>
+            <div class="contact-item">
+                <span>✉️</span>
+                <span>frankston@naver.com</span>
+            </div>
+            <div class="contact-item">
+                <span>📍</span>
+                <span>경기도 성남시 분당구</span>
+            </div>
+            <div class="contact-item">
+                <span>🌐</span>
+                <span>www.reallygreatsite.com</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>인적사항</h2>
+        <ul>
+            <li><strong>성명:</strong> 한상진</li>
+            <li><strong>생년월일:</strong> 1973년 5월 28일 (52세)</li>
+            <li><strong>연락처:</strong> 010-4167-0528</li>
+            <li><strong>이메일:</strong> frankston@naver.com</li>
+            <li><strong>주소:</strong> 경기도 성남시 분당구</li>
+            <li><strong>병역:</strong> 육군 병장 만기제대 (1995~1997)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Executive Summary</h2>
+        <p>25년 글로벌 물류 전문가로서 검증된 성장 실적과 독창적 네트워크 자산을 보유한 전략적 리더입니다. 한진해운에서 미주·구주 판매, 미주·아주·중동 마케팅 프라이싱, 동유럽 지역 전문가 등 글로벌 물류 전 영역을 경험하며 중동 항로 시장점유율 1위 달성, 이란 제재 상황에서 주간 100만불+ 영업이익 창출로 산업통상자원부 장관상을 수상했으며, 현업에서 고객의 선박수를 17척에서 100척+로 성장시켜 700% 증가를 달성했습니다.</p>
+        
+        <p>중동 주요 기업 고위층, 왕족·정부 고위층 및 EPC 대기업 임원진과의 네트워크를 구축하여 독점적 경쟁우위를 확보했습니다. 특히 Sharaf Group, Globe Marine Group과의 전략적 파트너십과 현대스틸산업(현대엔지니어링 자회사), 삼성중공업(삼성 E&C 그룹사), 두산에너빌리티와의 진행되고 있는 협업 관계는 즉시 비즈니스로 연결 가능한 실질적 자산입니다.</p>
+        
+        <p>WR Group의 Project Logistics 전문성에 부합하는 역량을 보유했습니다. 현업에서 TIC(Testing, Inspection, Certification) 업계 전반의 경험을 쌓았고, 한진해운 재직 당시 유럽 내부 intermodal service를 직접 이용하며 슬로바키아·체코 근무를 통해 현장 체험을 축적했으며, TIC 업계에서의 폭넓은 경험을 바탕으로 EPC 프로젝트 현장에서 요구되는 각종 인증 및 검사 기준에 부합하는 전문적인 프로젝트 물류 서비스를 제공할 수 있습니다.</p>
+        
+        <p>1차년도 매출 500억원 목표로 한국지사를 아시아 전략 거점으로 발전시켜, 독일 본사의 유럽 네트워크와 저의 아시아·중동 네트워크를 결합한 글로벌 EPC 물류 업계의 새로운 표준을 만들어 가겠습니다.</p>
+    </div>
+
+    <div class="section">
+        <h2>학력</h2>
+        <div class="education-item">
+            <div class="education-header">
+                <div>
+                    <div class="degree">해양금융학 MBA</div>
+                    <div class="institution">한국해양대학교</div>
+                </div>
+                <div class="period">2018.03 - 2020.03</div>
+            </div>
+        </div>
+        
+        <div class="education-item">
+            <div class="education-header">
+                <div>
+                    <div class="degree">언어학과 학사</div>
+                    <div class="institution">부산대학교</div>
+                </div>
+                <div class="period">1994.03 - 2000.02</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>자격 및 어학능력</h2>
+        <ul>
+            <li><strong>영어:</strong> Business Level (비즈니스 회화 수준, 현 직장에서 영어로 업무 수행)</li>
+            <li><strong>독일어:</strong> 기초회화 및 읽기 가능 (고교 때 제2외국어로 학습, 대학 때 교양 언어로 학습. 현재는 어려우나, 복습 시 단기간에 기초회화 읽기 수준으로 회복 전망)</li>
+            <li><strong>1종보통운전면허</strong></li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>해외근무 및 다국가 협업 경험</h2>
+        <ul>
+            <li><strong>2011 ~ 2012:</strong> 두바이, UAE (한진해운 부지점장 - 중동 10개국 총괄)</li>
+            <li><strong>2004:</strong> 브라티슬라바, 슬로바키아 & 프라하, 체코 (지역 전문가)</li>
+            <li><strong>1999 ~ 2000:</strong> 멜버른, 호주 (어학연수)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>수상경력</h2>
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">2015년 무역안보의 날 수출장려부문 산업통상자원부 장관상</div>
+                    <div class="company-name">산업통상자원부</div>
+                </div>
+                <div class="period">2015년</div>
+            </div>
+            <p>이란 제재 기간 중 한국 무역 안보에 대한 탁월한 기여 인정</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>WR Group 한국지사 성공을 위한 전략적 경쟁력</h2>
+        
+        <h3>1. 검증된 사업 성과 및 글로벌 시장 전문성</h3>
+        
+        <h4>주요 성과</h4>
+        <ul>
+            <li>한국 고객 BV 선급 선박수 17척 → 100척+ 달성 (700% 성장)</li>
+            <li>Qatar Gas 북부가스전 남부 프로젝트(100억 달러 EPC) 선박 발주 계약 수주</li>
+            <li>Petronas 말레이시아 캐나다 프로젝트 선박 발주 계약 수주</li>
+            <li>현대스틸산업과의 전략적 파트너십으로 중동 EPC 프로젝트 확장 진행</li>
+        </ul>
+
+        <h4>중동 EPC 프로젝트 경험</h4>
+        <ul>
+            <li>SABIC, Dubai Aluminum, Qatar Chemical 등 중동 석유화학 메가 기업들과 물류 계약 직접 협상 체결</li>
+            <li>Ethiopia Shipping Line 연간 수입 물량 전체 수주 성공</li>
+        </ul>
+
+        <h4>글로벌 시장 경험</h4>
+        <ul>
+            <li>중동, 미주, 유럽, 동북아시아 등 다양한 노선 경험으로 주요 시장에 대한 깊은 이해 보유</li>
+            <li>이란 제재 상황에서도 관계 당국 허가를 득하여 고객사 수출 성공 지원 등 위기 대응 역량 실증</li>
+        </ul>
+
+        <h3>2. 국내외 해운사 통합 네트워크를 통한 NVO Pricing 역량</h3>
+
+        <h4>국내 해운사 고위 경영진 네트워크 → 경쟁력 있는 운임 및 선복 확보</h4>
+        <p>HMM(총괄부사장), SM상선(대표, 부산지점장), 장금상선(회장), SK해운(대표), 폴라리스쉬핑(회장) 등 주요 해운사 고위 경영진과의 네트워크를 통해 최적 운임 확보 및 신속한 시장 대응이 가능합니다. 선주협회(상무)를 통한 협력 기반도 구축되어 있습니다.</p>
+
+        <h4>글로벌 해운사 네트워크 → 경쟁력 있는 운임 및 선복 확보</h4>
+        <p>PIL, Sea-Lead, Emirates Shipping, X-Press Feeder, ONE 등 해외 해운사 고위층, CMA CGM, COSCO, HPL, MSC 등 글로벌 주요 해운사 대표로 선사협의체에 참석한 경험을 통해 국제 경쟁력을 확보했습니다.</p>
+
+        <h4>운임 경쟁력 확보</h4>
+        <ul>
+            <li>선사 고위층과의 직접 협상을 통한 경쟁사 대비 유리한 운임 및 선복 확보</li>
+            <li>시장 동향 분석 기반 최적 운임 제공 및 고객 맞춤형 서비스</li>
+            <li>성수기 선복 부족, 환율·유가 변동 등 리스크 관리를 통한 운임 안정성 유지</li>
+        </ul>
+
+        <h3>3. 현장 영업 역량</h3>
+
+        <h4>주요 화주 네트워크</h4>
+        <p>LG 에너지솔루션, 포스코인터네셔널, SK 가스, SK E&S, SABIC 울산공장, ACE E&T 울산공장, UNION 부산공장, 삼성전기, 삼성전자 가전사업부, 태창산업, NGU Group, HUMAX, 쌍용선재 등과 지속적인 관계를 유지하고 있습니다.</p>
+
+        <div class="network-section">
+            <div class="network-item">
+                <h4>HMM 특수화물팀</h4>
+                <ul>
+                    <li>2025년 약 20만 TEU 처리(2007년 4만 TEU 대비 5배 성장)하는 팀으로, 운임 및 선복 배정 핵심 담당자들과의 네트워크</li>
+                    <li>최근 영국발 한국향 선박 운송에서 10만불 운임 절감 성공</li>
+                </ul>
+            </div>
+            
+            <div class="network-item">
+                <h4>현대글로비스</h4>
+                <p>프로젝트 물류, 설비 물류, 벌크 물류 협력</p>
+            </div>
+        </div>
+
+        <h3>4. MRO 및 검사·인증 통합 서비스 네트워크</h3>
+
+        <h4>MRO 전문 네트워크</h4>
+        <ul>
+            <li><strong>수리조선소:</strong> Yeosu Ocean, Union Shipyard (한-미 MRO 물류)</li>
+            <li><strong>에너지·플랜트:</strong> 두산중공업, 삼성중공업, 현대중공업 유지보수 부품</li>
+            <li><strong>석유화학:</strong> SK에너지, LG화학, 한화토탈 MRO 자재</li>
+            <li><strong>항공·국방:</strong> 대한항공, KAI, 한화에어로스페이스 정비부품</li>
+        </ul>
+
+        <h4>검사·인증 고객군 연계 물류 서비스 확장</h4>
+        <p>선급 서비스는 해상 운송 안전성 검증, 해양플랜트 설계 검토, 대형 장비 운송 검증 등 프로젝트 화물 운송과 밀접히 관련이 있습니다. Industry(위험관리), Certification(ISO 인증), Commodities(품질검사), GSIT(통관·규제) 부문과의 협력을 통해 다양한 검사 및 인증 고객군들로부터 물류 서비스 고객을 확보할 수 있으며, 현재 진행 중인 글로벌 EPC 프로젝트(이라크 Kuwait Energy 130만 유로, 카타르 에너지 300만 유로, 사우디 왕실 250만 유로)와 연계한 물류 비즈니스 확장이 가능합니다.</p>
+        
+        <p>또한 Kazakhstan의 Kashagan 유전 개발 프로젝트 및 Tengiz 유전 확장 프로젝트와 연관된 네트워크와 유럽 GSIT 네트워크(Siemens AG, Shell plc, Ørsted)를 활용한 한-카자흐스탄 철도 루트 개발을 통해 중국 경유 대안을 제시하여 검사+인증+물류 통합 서비스의 글로벌 확장을 실현할 수 있습니다.</p>
+    </div>
+
+    <div class="section">
+        <h2>주요 경력 (25년)</h2>
+        
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">Marine & Offshore 마케팅·영업 이사</div>
+                    <div class="company-name">Bureau Veritas 한국지점</div>
+                </div>
+                <div class="period">2017 - 현재</div>
+            </div>
+            <div class="achievements">
+                <p><strong>(선박, 해양구조물 및 EPC 프로젝트 관련, 검사 서비스 이용 고객 확보 위한 마케팅 및 영업)</strong></p>
+                <h4>핵심 성과</h4>
+                <ul>
+                    <li>한국 고객 BV 선급 이용 선박수를 17척 → 100척+ 달성 (700% 성장)</li>
+                    <li>2022년 카타르가스, 페트로나스 프로젝트 최초 수주 (회사 창립 이래 처음으로 계약)</li>
+                    <li>국내 조선 Big 3 및 부산 선박 소유주들과 전략적 관계 구축</li>
+                </ul>
+                <h4>물류 사업 연관성</h4>
+                <ul>
+                    <li>중동·유럽·아시아 대형 EPC 프로젝트 현장에 대한 깊은 이해</li>
+                    <li>해양구조물, 프로젝트 화물의 안전성 및 규제 준수 관련 전문 네트워크 보유</li>
+                    <li>Bureau Veritas Industry, Certification, Commodities 부문과의 협력 경험</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">차장~부장, 아주마케팅팀</div>
+                    <div class="company-name">한진해운</div>
+                </div>
+                <div class="period">2012 - 2016</div>
+            </div>
+            <div class="achievements">
+                <p><strong>컨테이너선 영업본부 - 중동·홍해 항로 총괄</strong></p>
+                <ul>
+                    <li>아시아-중동 항로 시장점유율 1위 달성</li>
+                    <li>이란 제재 상황에서 주간 100만불+ 영업이익 창출</li>
+                    <li>IRA(중동선사협의체), IRSA(홍해선사협의체) 회사 대표</li>
+                    <li>2015년 무역안보 부문 산업통상자원부 장관상 수상</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">UAE 지점 부지점장</div>
+                    <div class="company-name">한진해운</div>
+                </div>
+                <div class="period">2011 - 2012</div>
+            </div>
+            <div class="achievements">
+                <p><strong>중동 10개국 총괄</strong></p>
+                <ul>
+                    <li>중동·홍해 10개국 대상 통합 마케팅 전략 개발 및 실행</li>
+                    <li>Sharaf Group, Globe Marine Group과 대리점 계약 체결 (현재까지 지속)</li>
+                    <li>아부다비 바라카 원전 프로젝트 화물 운송 참여</li>
+                    <li>SABIC, Qatar Chemical, Dubai Aluminum 등 메가 발주처 직접 계약</li>
+                </ul>
+                <h4>중동 시장 전문성</h4>
+                <ul>
+                    <li>중동 왕족·정부 고위층·주요 기업 CEO 통합 네트워크 보유</li>
+                    <li>EPC 프로젝트 현지 특성, 문화, 의사결정 구조에 대한 깊은 이해</li>
+                    <li>복잡한 중동 비즈니스 환경에서 검증된 성과 창출 능력</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">차장, 미주마케팅팀</div>
+                    <div class="company-name">한진해운</div>
+                </div>
+                <div class="period">2007 - 2011</div>
+            </div>
+            <div class="achievements">
+                <p><strong>아시아↔미주 항로 총괄</strong></p>
+                <ul>
+                    <li>아시아↔미주 항로 서비스 수립, 선박 투입, 지역본부 손익(P&L) 관리</li>
+                    <li>현장 판매직원용 복합운송 루트 운임 확인 가이드라인 및 툴 제작·배포</li>
+                    <li>복합운송 루트 설계 및 멀티모달 서비스 최적화</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">대리, 동북아 지역 본부 마케팅팀</div>
+                    <div class="company-name">한진해운</div>
+                </div>
+                <div class="period">2004 - 2006</div>
+            </div>
+            <div class="achievements">
+                <ul>
+                    <li>한국·일본·대만발 미주·아시아향 마케팅 및 정책 영업관리</li>
+                    <li>Service Route별 수익·비용 분석을 통한 운임 전략 수립</li>
+                    <li>수익 모델 기반 사업계획 수립 및 산하 점소 목표 달성 관리</li>
+                    <li>한국발 주요 화주 관리 및 Service Contract 체결</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">지역 전문가, 슬로바키아·체코</div>
+                    <div class="company-name">한진해운</div>
+                </div>
+                <div class="period">2004</div>
+            </div>
+            <div class="achievements">
+                <ul>
+                    <li>동유럽 신규 EU 가입국 시장 환경, 사업성 분석 및 내륙 운송 네트워크 심층 분석</li>
+                    <li><strong>유럽 내륙 물류 인프라 및 철도 운송 시스템 현장 조사 및 본사 보고</strong></li>
+                    <li>삼성전자 갈란타, 기아자동차 질리나 등 슬로바키아 주요 제조업 고객 관리</li>
+                    <li>동유럽-중앙아시아 연결 복합운송 루트 이해</li>
+                    <li>유럽 비즈니스 문화 및 본사-현지법인 협력 시스템 이해</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">대리, 본사 벌크 전략팀</div>
+                    <div class="company-name">한진해운</div>
+                </div>
+                <div class="period">2003 - 2004</div>
+            </div>
+            <div class="achievements">
+                <ul>
+                    <li>벌크 사업 전략 기획 및 시장 개척</li>
+                    <li>리서치 자료 분석을 통한 중장기 전략 수립 지원 및 주요 화주 대상 사업 전략 구축</li>
+                    <li>데이터 분석을 통해 영업 지원</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="position-title">사원, 부산판매지점</div>
+                    <div class="company-name">한진해운</div>
+                </div>
+                <div class="period">2000 - 2003</div>
+            </div>
+            <div class="achievements">
+                <ul>
+                    <li><strong>제로 고객기반에서 체계적 발굴을 통한 신규 시장 창출</strong></li>
+                    <li><strong>부산 녹산공단, 신평공단, 창원공단 직접 방문 영업으로 EPC 관련 제조업체 발굴</strong></li>
+                    <li>주요 성과: Humax(settop box), 태창산업(textile), Saint Gobain Vetrotex, 쌍용선재(wire rope), 효성전기(Delphi) 등</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>자기소개 및 지원동기</h2>
+        <p>25년간 글로벌 물류 업계에서 쌓아온 경험은 단순한 경력이 아닌, WR Group 한국지사 성공을 위한 전략적 자산입니다.</p>
+        
+        <p>한진해운에서 시작하여 Bureau Veritas까지, 매 순간 새로운 도전과 혁신을 통해 검증된 성과를 창출해왔습니다.</p>
+        
+        <p>부산 녹산공단을 직접 뛰며 제로베이스에서 고객을 발굴했던 신입사원 시절의 현장 영업 경험부터, 이란 제재라는 극한 상황에서 오히려 주간 100만불 이상의 영업이익을 창출하며 산업통상자원부 장관상을 수상한 위기 관리 역량까지, 어떠한 어려운 상황에서도 창의적 해법을 찾아내는 것이 저의 강점입니다.</p>
+        
+        <p>특히 중동 고위층부터 한국 대기업 임원진까지 25년간 구축한 네트워크는 상호 신뢰를 바탕으로 한 전략적 파트너십으로, Bureau Veritas에서 17척의 선박을 100척 이상으로 확장시킨 것도 이러한 신뢰관계의 결과입니다.</p>
+        
+        <p>제가 WR Group 한국지사장에 지원하는 핵심 이유는 WR Group이 추구하는 한국지사의 성공적인 설립과 운영을 위해서, 저의 전략적 자산이 부합하여 시너지를 창출할 수 있다는 확신 때문입니다. 독일 본사의 유럽 기반과 저의 아시아·중동 기반이 결합되면 글로벌 양대 축을 형성할 수 있으며, WR Group의 Certification과 Project Logistics 전문성에 저의 TIC 업계 경험과 EPC 프로젝트 현장 이해도가 더해져 차별화된 통합 서비스를 제공할 수 있습니다.</p>
+    </div>
+
+    <div class="section">
+        <h2>취업 후 사업계획 및 포부</h2>
+        
+        <div class="section-gap">
+            <h3>Phase 1 (1차년도): 기존 네트워크 활용한 즉시 실행</h3>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">확정적 프로젝트 파이프라인</h4>
+                
+                <div class="subsection-gap">
+                    <h5 class="indent-2">현대스틸산업 중동 프로젝트 확대</h5>
+                    <ul class="indent-3">
+                        <li>사우디 아람코 아미랄 석유화학 콤플렉스 물류 서비스 (110억 달러 규모)</li>
+                        <li>현재 진행 중인 비즈니스 관계 기반 단계적 확장</li>
+                        <li>강관, 장재, 플레이트 등 철강제품 전문 물류 서비스</li>
+                    </ul>
+                </div>
+                
+                <div class="subsection-gap">
+                    <h5 class="indent-2">Qatar Gas & Petronas EPC 메가 프로젝트</h5>
+                    <ul class="indent-3">
+                        <li>Qatar Gas 북부가스전 남부 프로젝트 (100억 달러 EPC) 물류 참여</li>
+                        <li>Petronas 말레이시아, 캐나다 프로젝트 연계</li>
+                        <li>기존 중동 네트워크와 Bureau Veritas 관계 동시 활용</li>
+                    </ul>
+                </div>
+                
+                <div class="subsection-gap">
+                    <h5 class="indent-2">조선·해양플랜트 통합 물류</h5>
+                    <ul class="indent-3">
+                        <li>안마해상풍력 532MW 프로젝트 참여사들과 협업 (SK에코플랜트, 대한전선)</li>
+                        <li>HD현대중공업 카타르 해상유전 EPCI 프로젝트 연계</li>
+                        <li>해상풍력·해양플랜트 특수장비 운송 서비스</li>
+                        <li>MRO 비즈니스 관련 물류 비즈니스 참여로 한국-미국간 물류 비즈니스 공급 목표</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">1차년도 목표</h4>
+                <ul class="indent-2">
+                    <li><strong>매출액:</strong> 500억원 (독일 본사 목표 대비 200% 달성)</li>
+                    <li><strong>핵심 고객:</strong> 15개사 확보 (EPC 대기업 5개사 + 조선 3개사 + 중동 현지 7개사)</li>
+                    <li><strong>차별화 서비스:</strong> 멀티모달·ESG 친환경 물류 플랫폼 구축 완료</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="section-gap">
+            <h3>Phase 2 (2-3차년도): 아시아 전략 거점 완성</h3>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">혁신적 서비스 플랫폼 구축</h4>
+                
+                <div class="subsection-gap">
+                    <h5 class="indent-2">ESG 기반 친환경 물류 생태계</h5>
+                    <ul class="indent-3">
+                        <li>독일 본사 철도 네트워크와 연계한 CO2 배출량 30% 감축 멀티모달 서비스</li>
+                        <li>해상풍력·태양광 등 신재생에너지 프로젝트 특화 물류 시스템</li>
+                    </ul>
+                </div>
+                
+                <div class="subsection-gap">
+                    <h5 class="indent-2">신규 시장 개척</h5>
+                    <ul class="indent-3">
+                        <li>Bureau Veritas Kazakhstan 네트워크 활용한 에너지·광업 프로젝트</li>
+                        <li>한국-카자흐스탄 복합운송 루트 상용화</li>
+                        <li>우즈베키스탄, 투르크메니스탄 천연가스 개발 프로젝트 물류</li>
+                    </ul>
+                </div>
+                
+                <div class="subsection-gap">
+                    <h5 class="indent-2">MRO 전문 물류 사업</h5>
+                    <ul class="indent-3">
+                        <li>기존 고객사(두산에너빌리티, LG에너지솔루션 등) 유지보수 부품 특화 물류</li>
+                        <li>해양플랜트·발전소 예방정비 및 긴급 수리 부품 공급망 구축</li>
+                        <li>항공·우주 산업 정밀 부품 물류 서비스 확장</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">2-3차년도 목표</h4>
+                <ul class="indent-2">
+                    <li><strong>2차년도 매출액:</strong> 900억원 (아시아 지역 거점 완성)</li>
+                    <li><strong>3차년도 매출액:</strong> 1,500억원 (아시아 최고 수준 EPC 물류 기업)</li>
+                    <li><strong>지역 확장:</strong> 베트남·태국·인도네시아 거점 설립으로 동남아시아 진출</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="section-gap">
+            <h3>한국지사를 아시아 전략 허브로 발전</h3>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">독일 본사와의 완벽한 시너지</h4>
+                <ul class="indent-2">
+                    <li>유럽 비즈니스 문화 이해 + 본사-현지법인 협력 시스템 경험</li>
+                    <li>독일 철도 네트워크와 아시아-중동 해상 루트의 멀티모달 연결</li>
+                </ul>
+            </div>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">WR Group 글로벌 성장 견인</h4>
+                <ul class="indent-2">
+                    <li>아시아 EPC 시장 선점을 통한 유럽-중동-아시아 삼각 네트워크 완성</li>
+                    <li>한국 기술력(조선·원전·석유화학)과 독일 물류 혁신의 시너지</li>
+                    <li>중국 의존도 감축을 원하는 글로벌 기업들의 대안 공급망 역할</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="section-gap">
+            <h3>장기 비전: Global EPC Logistics Leader</h3>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">5년 후 목표</h4>
+                <ul class="indent-2">
+                    <li><strong>매출 3,000억원:</strong> 아시아 EPC 물류 시장 점유율 1위</li>
+                    <li><strong>지역 확장:</strong> 동남아시아·인도·호주까지 아우르는 아시아-태평양 네트워크</li>
+                </ul>
+            </div>
+            
+            <div class="subsection-gap">
+                <h4 class="indent-1">WR Group 글로벌 전략에서 한국지사의 역할</h4>
+                <ul class="indent-2">
+                    <li>서구 선진 물류 기술과 아시아 역동적 성장의 융합</li>
+                    <li>차세대 글로벌 물류 표준 창조를 통한 업계 선도 기업으로 도약</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="section-gap">
+            <h3>결론: WR Group과 함께 창조할 미래</h3>
+            <p class="indent-1">25년간의 글로벌 물류 경험과 독점적 네트워크 자산을 바탕으로, WR Group 한국지사를 단순한 현지 법인이 아닌 아시아 전체를 아우르는 전략적 성장 엔진으로 발전시키겠습니다.</p>
+            
+            <p class="indent-1">저의 중동 왕족·정부·기업 네트워크, 한국 EPC 대기업과의 직접 관계, 현 직장 거래처들과의 네트워크를 통한 글로벌 프로젝트 경험, 그리고 유럽 시장 이해도는 WR Group이 아시아 시장에서 독보적 위치를 확보할 수 있는 완벽한 전략적 자산입니다.</p>
+            
+            <p class="indent-1">특히, 현업의 다양하고 광범위한 네트워크를 기반으로 물류 비즈니스와의 자연스러운 시너지를 창출하며, 차별화된 물류 서비스를 제공할 수 있습니다.</p>
+            
+            <p class="indent-1">WR Group의 혁신적 비전과 저의 실행 역량이 만나 글로벌 EPC 물류 업계의 새로운 표준을 창조하는 역사적 성과를 함께 이루어내겠습니다.</p>
+        </div>
+    </div>
+    
+    <div style="text-align: center; margin-top: 40px; color: #666; font-style: italic;">
+        <p><strong>2025년 9월 2일</strong><br><strong>한 상 진</strong></p>
+    </div>
+</body>
+</html>

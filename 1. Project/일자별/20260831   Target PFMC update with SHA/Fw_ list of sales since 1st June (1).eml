@@ -1,0 +1,565 @@
+Received: from AM9PR05MB8629.eurprd05.prod.outlook.com (2603:10a6:20b:410::21)
+ by AM9PR05MB8778.eurprd05.prod.outlook.com with HTTPS; Fri, 28 Aug 2026
+ 13:20:30 +0000
+Received: from AMDPR05MB12112.eurprd05.prod.outlook.com (2603:10a6:20b:73a::9)
+ by AM9PR05MB8629.eurprd05.prod.outlook.com (2603:10a6:20b:410::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.360.11; Fri, 28 Aug
+ 2026 13:20:28 +0000
+Received: from AMDPR05MB12112.eurprd05.prod.outlook.com
+ ([fe80::d1e1:1d60:ddec:21d5]) by AMDPR05MB12112.eurprd05.prod.outlook.com
+ ([fe80::d1e1:1d60:ddec:21d5%6]) with mapi id 15.21.0360.008; Fri, 28 Aug 2026
+ 13:20:28 +0000
+From: Christophe VAES <christophe.vaes@bureauveritas.com>
+To: Sungyong KIM <sungyong.kim@bureauveritas.com>, Sang-Jin HAN
+	<sangjin.han@bureauveritas.com>
+Subject: Fw: list of sales since 1st June
+Thread-Topic: list of sales since 1st June
+Thread-Index: Ad0212jfwgyr+giTSrqLeSwu243RawAGH7gG
+Date: Fri, 28 Aug 2026 13:20:28 +0000
+Message-ID:
+	<AMDPR05MB121120F474796096E95F37D80E5AC2@AMDPR05MB12112.eurprd05.prod.outlook.com>
+References:
+	<PAXPR05MB83010093A0B344FAF5D239D5E1AC2@PAXPR05MB8301.eurprd05.prod.outlook.com>
+In-Reply-To:
+	<PAXPR05MB83010093A0B344FAF5D239D5E1AC2@PAXPR05MB8301.eurprd05.prod.outlook.com>
+Accept-Language: en-US, zh-CN
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+	AMDPR05MB12112.eurprd05.prod.outlook.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+	c6054889-5451-40ae-e20b-08df05072113
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+authentication-results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=bureauveritas.com;
+x-forefront-antispam-report:
+	CIP:255.255.255.255;CTRY:;LANG:zh-cn;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:AMDPR05MB12112.eurprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(6049299003)(23010399003)(366016)(13003099007)(10067099003)(56012099006)(11063799006)(8096899003)(18002099003)(22082099003)(41050700001);DIR:INT;
+x-ms-office365-filtering-correlation-id: c6054889-5451-40ae-e20b-08df05072113
+x-ms-traffictypediagnostic:
+	AMDPR05MB12112:EE_|AM9PR05MB8629:EE_|AM9PR05MB8778:EE_
+x-microsoft-antispam:
+	BCL:0;ARA:13230040|6049299003|23010399003|366016|13003099007|10067099003|56012099006|11063799006|8096899003|18002099003|22082099003|41050700001;
+x-ms-exchange-crosstenant-network-message-id:
+	c6054889-5451-40ae-e20b-08df05072113
+x-ms-exchange-crosstenant-originalarrivaltime: 28 Aug 2026 13:20:28.7376 (UTC)
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-crosstenant-id: fffad414-b6a3-4f32-a9bd-42d28fc811f1
+x-ms-exchange-transport-crosstenantheadersstamped: AM9PR05MB8629
+x-ms-exchange-transport-endtoendlatency: 00:00:01.5507336
+x-ms-exchange-processed-by-bccfoldering: 15.21.0360.006
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname:
+	IQirIX7S7CM4AldP+oT3sol2HT4SfF2xkXqivNaJlnTr1yVejWJmH2PLs/AzBLUeRWDplULJS5ty93DkWClOHaKOz88EShEuKWXz9dMzWcu6ih2YPJsECyWhupnKOLJo
+x-ms-exchange-crosstenant-authas: Internal
+x-ms-exchange-crosstenant-authsource: AMDPR05MB12112.eurprd05.prod.outlook.com
+x-ms-reactions: allow
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930201)(20251009189)(140003);
+X-Microsoft-Antispam-Message-Info:
+	L8hp7COk+6Xxw1x06DMuhUTuia5LKPlOmE/WTRc7sK5dGDkDstPh2MJsfqBhkQYz+vEcr+0ySE4pG0R7ah4VffWwG8l+SeuZdfbJid5khv4Uf0q2SYQKRo214HuJvRg0UK9YUYb1OPp7vyEgzG2LcTAi6x8uCUyNoNWjf5n/Ytg4OMglBECWdWlymI/2YZoXJ/q8DrdqbcGsLegFxjKmCrcYwteQZ4p29Ciw0UmiWcVy+UTq+zHPWwO8C2nMhC/uxJ5Xs7Xpd6zSvagUWghDd8FYnGYCGg95zZUgEM6PQTZAkO5z9sLGpNN9CCt+DvNv8YULIGlKSdh16DOY0jaaYWqUxNFLAY0URi6iKqOWrSG/KVaAwDYMHK2VYm+oZT2JaIFiiOqXEgHfjeUCVvNG4S48OHw7ILXNV9IlW4i2N9E5fd5t0dlIehi1QdKejLdIAEgb5pmkTdcLbMVnaKb5ovSTBHs7mKqh/U8yqta0527KuwZsL4Z5p7wNeh4r47KJDEoMex7kVXBCfIQWl0YQR/S3KIdJQTH8P8Zo0FdTUDdYsJsvTNnEz7hUEJ3VFsuu2HApxHBe88eelqZR94yQw/4DS9rYwxP6O/V0oINthlHSIrf88AAnXhKjZzTHO1H0ACYJgp5a5vGdRgvBOeySLxVnDdIjLpUwYFZLxSMyt32NfsiX2h8dOP0xyDtb2NPvKSmzlMqeNV1kTtBW6ZSvnq9CAEBoG1+A9uZJylnOWX7f5jds6DzHLu8KpLqMDTZXM4TpTXHb93pzdbpycVzCL8oyE1dXIWcmZjPGVGEllTMtw9JzRdhj7+UQElYehzhy
+Content-Type: multipart/related;
+	boundary="_007_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_007_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_
+Content-Type: multipart/alternative;
+	boundary="_000_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_"
+
+--_000_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: base64
+
+Q291bGQgeW91IHBsZWFzZSBwcm92aWRlIHRvIGhlci4gSSBhbSBub3QgaG9tZSBhbmQgZG8gbm90
+IGhhdmUgbXkgbGFwdG9wIHdpdGggbWUuDQoNClRoYW5rIHlvdSENCg0KQ2hyaXN0b3BoZSBWQUVT
+DQpCViBNJk8gS29yZWEgRGlyZWN0b3INCk1vYmlsZTogKzgyIDEwIDg1MTUgMjcxMA0KDQpHZXQg
+T3V0bG9vazxodHRwczovL2FrYS5tcy9xdGV4MGw+IGZvciBpT1MNCl9fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fDQpGcm9tOiBZVUFOIFlVQU4gPHl1YW4ueXVhbkBidXJlYXV2ZXJpdGFz
+LmNvbT4NClNlbnQ6IEZyaWRheSwgMjggQXVndXN0IDIwMjYgMTI6MjY6MTINClRvOiBDaHJpc3Rv
+cGhlIFZBRVMgPGNocmlzdG9waGUudmFlc0BidXJlYXV2ZXJpdGFzLmNvbT4NClN1YmplY3Q6IGxp
+c3Qgb2Ygc2FsZXMgc2luY2UgMXN0IEp1bmUNCg0KDQpIaSBDaHJpc3RvcGhlLA0KDQoNCg0KQ2Fu
+IHlvdSBwcm92aWRlIG1lIHdpdGggYSBsaXN0IG9mIHNhbGVzIHdlIHNlY3VyZWQgc2luY2UgMXN0
+IEp1bmUgZm9yIEtvcmVhPyAgQW5kIGFsc28gdGhlIDIwMjYgZnVsbCB5ZWFyIEdUIHRhcmdldCBm
+b3IgS29yZWEuDQoNCg0KDQpSZWdhcmRzDQoNCll1YW4NCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoN
+Cg0KW2NpZDppbWFnZTAwMS5naWZAMDFERDM3MTkuNjg1RUI0NTBdDQoNCll1YW4gWVVBTiDUrNS3
+DQoNClJlZ2lvbmFsIFN0cmF0ZWdpYyBEaXJlY3RvciwgQXNpYSBQYWNpZmljDQoNCkJVUkVBVSBW
+RVJJVEFTIE1BUklORSAmIE9GRlNIT1JFDQoNCltjaWQ6aW1hZ2UwMDIuZ2lmQDAxREQzNzE5LjY4
+NUVCNDUwXQ0KDQorODYgMjEgMjMxOTAzODYgTW9iaWxlOiArODYgMTgxMjEzNzA3ODANCg0KW2Np
+ZDppbWFnZTAwMy5naWZAMDFERDM3MTkuNjg1RUI0NTBdDQoNCsnPuqPK0LvGxtbH+M3iwu3CtzEy
+ODi6xTXCpSDTyrHgo7oyMDAwMTENCg0KW2NpZDppbWFnZTAwNC5naWZAMDFERDM3MTkuNjg1RUI0
+NTBdDQoNCmh0dHBzOi8vbWFyaW5lLW9mZnNob3JlLmJ1cmVhdXZlcml0YXMuY29tLw0KDQoNCg0K
+DQo=
+
+--_000_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+</head>
+<body>
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+Could you please provide to her. I am not home and do not have my laptop wi=
+th me.</div>
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+<br>
+</div>
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+Thank you!</div>
+<div id=3D"ms-outlook-mobile-body-separator-line" data-applydefaultfontstyl=
+es=3D"true" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-system=
+, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt;" dir=3D"ltr">
+<div style=3D"font-family: Aptos, Aptos_MSFontService, -apple-system, Robot=
+o, Arial, Helvetica, sans-serif; font-size: 12pt;" dir=3D"ltr">
+<br>
+</div>
+</div>
+<div style=3D"font-family: Aptos, Aptos_MSFontService, -apple-system, Robot=
+o, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);" id=
+=3D"ms-outlook-mobile-signature">
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+Christophe VAES</div>
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+BV M&amp;O Korea Director</div>
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+Mobile: +82 10 8515 2710</div>
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+<br>
+</div>
+<div dir=3D"ltr" style=3D"font-family: Aptos, Aptos_MSFontService, -apple-s=
+ystem, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0,=
+ 0, 0);">
+Get <a href=3D"https://aka.ms/qtex0l">Outlook</a>&nbsp;for iOS</div>
+</div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> YUAN YUAN &lt;yuan.yu=
+an@bureauveritas.com&gt;<br>
+<b>Sent:</b> Friday, 28 August 2026 12:26:12<br>
+<b>To:</b> Christophe VAES &lt;christophe.vaes@bureauveritas.com&gt;<br>
+<b>Subject:</b> list of sales since 1st June</font>
+<div>&nbsp;</div>
+</div>
+<style>
+<!--
+@font-face
+	{font-family:SimSun}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:DengXian}
+@font-face
+	{font-family:Aptos}
+@font-face
+	{}
+@font-face
+	{}
+p.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal
+	{margin:0in;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif}
+a:link, span.x_MsoHyperlink
+	{color:#467886;
+	text-decoration:underline}
+span.x_EmailStyle18
+	{font-family:"Aptos",sans-serif;
+	color:windowtext}
+.x_MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.x_WordSection1
+	{}
+-->
+</style>
+<div lang=3D"EN-US" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:b=
+reak-word">
+<div class=3D"x_WordSection1">
+<p class=3D"x_MsoNormal">Hi Christophe,</p>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<p class=3D"x_MsoNormal">Can you provide me with a list of sales we secured=
+ since 1<sup>st</sup> June for Korea?&nbsp; And also the 2026 full year GT =
+target for Korea.</p>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<p class=3D"x_MsoNormal">Regards</p>
+<table class=3D"x_MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"605" style=3D"width:6.3in; border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"128" valign=3D"top" style=3D"width:96.2pt; padding:0in 2.85pt =
+0in 2.85pt">
+<p class=3D"x_MsoNormal">Yuan<span lang=3D"FR" style=3D"font-size:7.0pt; fo=
+nt-family:&quot;Arial&quot;,sans-serif"></span></p>
+</td>
+<td width=3D"477" valign=3D"top" style=3D"width:357.4pt; padding:0in 2.85pt=
+ 0in 2.85pt">
+<p class=3D"x_MsoNormal" style=3D"margin-right:0in; margin-bottom:2.0pt; ma=
+rgin-left:0in; text-align:justify; text-justify:inter-ideograph">
+<b><span style=3D"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif=
+; color:#44546A">&nbsp;</span></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<table class=3D"x_MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"605" style=3D"width:6.3in; border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"128" valign=3D"top" style=3D"width:96.2pt; padding:0in 2.85pt =
+0in 2.85pt">
+<p class=3D"x_MsoNormal"><span lang=3D"FR" style=3D"font-size:7.0pt; font-f=
+amily:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+</td>
+<td width=3D"477" valign=3D"top" style=3D"width:357.4pt; padding:0in 2.85pt=
+ 0in 2.85pt">
+<p class=3D"x_MsoNormal" style=3D"margin-right:0in; margin-bottom:2.0pt; ma=
+rgin-left:0in; text-align:justify; text-justify:inter-ideograph">
+<b><span style=3D"font-size:8.0pt; font-family:&quot;Arial&quot;,sans-serif=
+; color:#44546A">&nbsp;</span></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<table class=3D"x_MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"612" style=3D"width:459.05pt; border-collapse:collapse">
+<tbody>
+<tr style=3D"height:21.4pt">
+<td width=3D"130" rowspan=3D"4" valign=3D"top" style=3D"width:97.15pt; padd=
+ing:0in 2.85pt 0in 2.85pt; height:21.4pt">
+<p class=3D"x_MsoNormal"><span lang=3D"FR" style=3D"font-size:7.0pt; font-f=
+amily:&quot;Arial&quot;,sans-serif"><img width=3D"121" height=3D"101" id=3D=
+"x_Image_x0020_7" src=3D"cid:image001.gif@01DD3719.685EB450" style=3D"width=
+:1.2638in; height:1.0555in"></span><span lang=3D"FR" style=3D"font-size:7.0=
+pt; font-family:&quot;Arial&quot;,sans-serif"></span></p>
+</td>
+<td width=3D"483" colspan=3D"2" valign=3D"top" style=3D"width:361.9pt; padd=
+ing:0in 2.85pt 0in 2.85pt; height:21.4pt">
+<p class=3D"x_MsoNormal" style=3D"margin-right:0in; margin-bottom:2.0pt; ma=
+rgin-left:0in; text-align:justify; text-justify:inter-ideograph">
+<b><span lang=3D"FR" style=3D"font-size:9.0pt; font-family:&quot;Arial&quot=
+;,sans-serif; color:#00049E">Yuan YUAN
+</span></b><b><span style=3D"font-size:9.0pt; font-family:SimSun; color:#00=
+049E">=D4=AC=D4=B7</span></b><b><span lang=3D"FR" style=3D"font-size:9.0pt;=
+ font-family:&quot;Arial&quot;,sans-serif; color:#00049E"></span></b></p>
+<p class=3D"x_MsoNormal" style=3D"margin-right:0in; margin-bottom:2.0pt; ma=
+rgin-left:0in; text-align:justify; text-justify:inter-ideograph">
+<span lang=3D"FR" style=3D"font-size:9.0pt; font-family:&quot;Arial&quot;,s=
+ans-serif; color:#333333; letter-spacing:.6pt">Regional Strategic Director,=
+ Asia Pacific</span></p>
+<p class=3D"x_MsoNormal" style=3D"margin-right:0in; margin-bottom:2.0pt; ma=
+rgin-left:0in">
+<span lang=3D"FR" style=3D"font-size:9.0pt; font-family:&quot;Arial&quot;,s=
+ans-serif; color:#333333">BUREAU VERITAS</span><span lang=3D"FR" style=3D"f=
+ont-size:9.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#333333">
+</span><span lang=3D"FR" style=3D"font-size:9.0pt; font-family:&quot;Arial&=
+quot;,sans-serif; color:#333333">MARINE &amp; OFFSHORE</span><span lang=3D"=
+FR" style=3D"font-size:9.0pt; font-family:&quot;Arial&quot;,sans-serif; col=
+or:#333333"></span></p>
+</td>
+</tr>
+<tr style=3D"height:6.95pt">
+<td width=3D"17" style=3D"width:12.55pt; padding:0in 0in 0in 0in; height:6.=
+95pt">
+<p class=3D"x_MsoNormal" align=3D"center" style=3D"margin-right:0in; margin=
+-bottom:2.0pt; margin-left:0in; text-align:center">
+<span lang=3D"FR" style=3D"font-size:7.0pt; font-family:&quot;Arial&quot;,s=
+ans-serif"><img width=3D"13" height=3D"13" id=3D"x_Image_x0020_3" src=3D"ci=
+d:image002.gif@01DD3719.685EB450" style=3D"width:.1388in; height:.1388in"><=
+/span><span lang=3D"FR" style=3D"font-size:7.0pt; font-family:&quot;Arial&q=
+uot;,sans-serif"></span></p>
+</td>
+<td width=3D"466" style=3D"width:349.35pt; padding:0in 2.85pt 0in 2.85pt; h=
+eight:6.95pt">
+<p class=3D"x_MsoNormal"><span lang=3D"FR" style=3D"font-size:9.0pt; font-f=
+amily:&quot;Arial&quot;,sans-serif; color:#333333; letter-spacing:.6pt">+86=
+ 21 23190386 Mobile: +86 18121370780</span><span lang=3D"FR" style=3D"font-=
+size:9.0pt; font-family:&quot;Arial&quot;,sans-serif; letter-spacing:.6pt">=
+</span></p>
+</td>
+</tr>
+<tr style=3D"height:6.95pt">
+<td width=3D"17" style=3D"width:12.55pt; padding:0in 0in 0in 0in; height:6.=
+95pt">
+<p class=3D"x_MsoNormal" align=3D"center" style=3D"margin-right:0in; margin=
+-bottom:2.0pt; margin-left:0in; text-align:center">
+<span lang=3D"FR" style=3D"font-size:11.0pt"><img width=3D"11" height=3D"11=
+" id=3D"x_Picture_x0020_3" src=3D"cid:image003.gif@01DD3719.685EB450" style=
+=3D"width:.118in; height:.118in"></span><span lang=3D"FR" style=3D"font-siz=
+e:7.0pt; font-family:&quot;Arial&quot;,sans-serif"></span></p>
+</td>
+<td width=3D"466" style=3D"width:349.35pt; padding:0in 2.85pt 0in 2.85pt; h=
+eight:6.95pt">
+<p class=3D"x_MsoNormal"><span lang=3D"ZH-CN" style=3D"font-size:9.0pt; fon=
+t-family:SimSun; color:#333333; letter-spacing:.6pt">=C9=CF=BA=A3=CA=D0=BB=
+=C6=C6=D6=C7=F8=CD=E2=C2=ED=C2=B7</span><span lang=3D"FR" style=3D"font-siz=
+e:9.0pt; font-family:SimSun; color:#333333; letter-spacing:.6pt">1288</span=
+><span lang=3D"ZH-CN" style=3D"font-size:9.0pt; font-family:SimSun; color:#=
+333333; letter-spacing:.6pt">=BA=C5</span><span lang=3D"FR" style=3D"font-s=
+ize:9.0pt; font-family:SimSun; color:#333333; letter-spacing:.6pt">5</span>=
+<span lang=3D"ZH-CN" style=3D"font-size:9.0pt; font-family:SimSun; color:#3=
+33333; letter-spacing:.6pt">=C2=A5
+ =D3=CA=B1=E0=A3=BA</span><span lang=3D"FR" style=3D"font-size:9.0pt; font-=
+family:SimSun; color:#333333; letter-spacing:.6pt">200011</span><span lang=
+=3D"FR" style=3D"font-size:9.0pt; font-family:&quot;Arial&quot;,sans-serif;=
+ letter-spacing:.6pt"></span></p>
+</td>
+</tr>
+<tr style=3D"height:6.85pt">
+<td width=3D"17" style=3D"width:12.55pt; padding:0in 0in 0in 0in; height:6.=
+85pt">
+<p class=3D"x_MsoNormal" align=3D"center" style=3D"margin-right:0in; margin=
+-bottom:2.0pt; margin-left:0in; text-align:center">
+<span lang=3D"FR" style=3D"font-size:7.0pt; font-family:&quot;Arial&quot;,s=
+ans-serif"><img width=3D"13" height=3D"13" id=3D"x_Image_x0020_4" src=3D"ci=
+d:image004.gif@01DD3719.685EB450" style=3D"width:.1388in; height:.1388in"><=
+/span><span lang=3D"FR" style=3D"font-size:7.0pt; font-family:&quot;Arial&q=
+uot;,sans-serif"></span></p>
+</td>
+<td width=3D"466" style=3D"width:349.35pt; padding:0in 2.85pt 0in 2.85pt; h=
+eight:6.85pt">
+<p class=3D"x_MsoNormal" style=3D"margin-right:0in; margin-bottom:2.0pt; ma=
+rgin-left:0in">
+<span lang=3D"FR" style=3D"font-size:11.0pt"><a href=3D"https://marine-offs=
+hore.bureauveritas.com/"><span style=3D"color:blue">https://marine-offshore=
+.bureauveritas.com/</span></a></span></p>
+</td>
+</tr>
+<tr style=3D"height:6.85pt">
+<td width=3D"612" colspan=3D"3" valign=3D"top" style=3D"width:459.05pt; pad=
+ding:0in 2.85pt 0in 2.85pt; height:6.85pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"x_MsoNormal"><span lang=3D"FR">&nbsp;</span></p>
+<p class=3D"x_MsoNormal"><span lang=3D"FR">&nbsp;</span></p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_--
+
+--_007_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_
+Content-Type: image/gif; name="image001.gif"
+Content-Description: image001.gif
+Content-Disposition: inline; filename="image001.gif"; size=5307;
+	creation-date="Fri, 28 Aug 2026 10:26:09 GMT";
+	modification-date="Fri, 28 Aug 2026 13:20:30 GMT"
+Content-ID: <image001.gif@01DD3719.685EB450>
+Content-Transfer-Encoding: base64
+
+R0lGODlhlgB+APfPAHBvb6mpqXp5efX19ZaVlebm5vf3983MzImIiNXV1dnZ2YOCgv39/XFwcPz8
+/Hh3d/T09O7u7qCfn3JxccbFxbOzs6uqqpKRkeLi4vDw8Ly7u93d3Xd2dnNycpqZmfn5+fr6+oGA
+gOHh4evr6/Pz83x7e/j4+Ofn56inp3t6eoWEhJGQkHZ1dYB/f4SDg/7+/qOioo2MjMTExOrq6pSU
+lPb29oaFheDg4H9+fvv6+uzs7MLCwnV0dJ+enrOyssXExNTU1Nva2puamqKiosnJyaalpfv7+9ra
+2sfHx7y8vJWUlJeWlnRzc4eGhqurq/Lx8a6urq+urtfW1tDQ0IaGhpOTk3l4eO/v79jY2Ono6IuL
+i+Tj45STk7i4uIiHh+np6aWkpKKhoX19fY6Njc/Pz7q6uqampqmoqMbGxtLR0a+vr+Tk5MXFxbGx
+scTDw8rJybW0tI+Pj7a1tbSzs3R0dJCPj7a2toKBgbe2tqSkpIyLi5iXl9LS0qCgoI+Ojn18fJ6d
+ncPDw+Df35ycnL++vp2cnH59ffLy8tjX17u6uujo6KSjo7CwsJmYmNzb28vKyr69vZybm729vdfX
+18LBwa6trdPS0qempuPj49bW1t/f35iYmMzMzKGgoO7t7dHR0cvLy7m4uO3t7bi3t5eXl9vb287O
+zt7e3r+/v9PT052dneXl5aWlpdbV1YqKirCvr8/OzqqpqYqJicrKyrS0tMDAwLu7u8HBwc3NzYGB
+gaGhoa2srJmZmbKxsbe3t6yrq/Hx8dzc3MHAwL28vLKysqqqqsjIyLm5uYuKiq2trc7NzcnIyJOS
+ksC/v+Xk5P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAM8ALAAAAACWAH4A
+AAj/AJ8JHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePDyFgkVSEQJMFXhacXLCiDxwy
+I0DKnPmxQJsYWvIQUpCBgUESN9jE8qMijyWfNJMqfaiJBjI2JJ7lUPRMwSOCBaA8KzBJ4IcpvO78
+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
+2rzN3NzN3vzN4BzOMxEQADs=
+
+--_007_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_
+Content-Type: image/gif; name="image002.gif"
+Content-Description: image002.gif
+Content-Disposition: inline; filename="image002.gif"; size=1636;
+	creation-date="Fri, 28 Aug 2026 10:26:10 GMT";
+	modification-date="Fri, 28 Aug 2026 13:20:30 GMT"
+Content-ID: <image002.gif@01DD3719.685EB450>
+Content-Transfer-Encoding: base64
+
+R0lGODlhMgAyAPeCAAAEng8TpN3e8h4iqVpdwEtOu7u85czN7N7f8k1QuwEFnhwgqfz8/sHC5/Pz
++gQIoODg8+rq9xoeqCotrv39/gYKoEZJuSksrgwQowoOogIGnwMHnzc6s8bH6cnK6gUJoJaY14KE
+z9fY8Pn5/b2+5q2u4NjZ8Ds+tEhLuejo9hQYpi4xr/X1+8XG6b/A53J0ydzd8hAUpIaI0dHS7q+w
+4VdavxUZpkRHuJ2f2lFUvV1gwcfI6tbX71xfwbGy4V9iwiUorMvM6ywvr/v7/T5Btj1AtR8jqjAz
+sENGt0JFt5WX16Wm3Tg7s1tewbS14jw/tU9SvCMmq/Ly+ri55ICCz2lrxp6g2p+h2kdKuQgMofHx
++vj4/KOk3Do9tKGi2/T0+87P7Pr6/Rgcp9rb8UFEt5SW1mhqxhcbp9XW7+bm9ePj9GVnxAcLoaip
+3rq75VhbvxYapiEkq+Xl9T9CtuTk9aSl3H1/zmpsxg4So5qc2UBDthMXpXp8zOHh9BIWpZia2JOV
+1jM2sf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAIIALAAAAAAyADIA
+AAj/AAUJHEiwoMGDCBMqXIjwi4CHECM+RMCCoUWEJixoAMCxo8eODxL0uUhSEAIVH1OmXJCipEUd
+KmN6fOGSoQSZOFfUXBgAp8wBNSlECIOwJ8ckBpIqXWqAQ0egJIfIgAMAT4mDRgEQWFjgKUk6XTwW
+wdpxq8KuHKEyFGHkowIEBrOaTYgWgFqFaRaoDBG3LFevCxkQiQmkL8e5COveRQgIZ4eCcv+mZUgG
+5x3Ifs8CVhgHp58RBCNrnrxQjE8aoTPT3Zxwgs8fqQ9LtssQBc4PDWJrnb34IB+ZQnLrRnxQMUMf
+KR+YIUFW9mjaCx2w+TghoejVpBda+CjBuurErBN6/0kpp+j34uEROsDw8Y95jigOyJ9P/8CT9AjX
+fGTy3mfK3gihocBHLTSX0gkhIBETgAgl8BEWBnrEAQMC5aASgwd5MKBHBWKWEhUDgXBhSQ56FAiF
+BN2U0hwDNaGSTiTNsMFHZRTUQ0wJKEFATDSVVMVHMUBAEAJ7+PcRSy5FEMNHJ6AokAgaGRmSkDXl
+kZIdBjkg0ZYCULTTQHq4dVVBFARhwpcWwcCeRxW4QdAOFwCQwWNoLmRFSlm0IZATFXQUABh1LlSD
+Sm/gkMFHNvAQaEJSuGYkAAvAsChCY2TlXxRqTHoQCX0+ekEEmhpUx4ZGHqFFqAVdMeOjHqBa0BIf
+GC95BmiuEtQASjhhMEWtBkFwg0wJwMXrQVzE2VEGULgwrEIUuCADCA1ssey01O4UEAA7
+
+--_007_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_
+Content-Type: image/gif; name="image003.gif"
+Content-Description: image003.gif
+Content-Disposition: inline; filename="image003.gif"; size=1095;
+	creation-date="Fri, 28 Aug 2026 10:26:10 GMT";
+	modification-date="Fri, 28 Aug 2026 13:20:30 GMT"
+Content-ID: <image003.gif@01DD3719.685EB450>
+Content-Transfer-Encoding: base64
+
+R0lGODlhMgAyAOZgAAAEngEFnpia2P39/gkNofb2/Fhbv6ip3vz8/oaI0Wttx2Biw+fn9h8jqlpd
+wD9Ctra34xAUpNDR7QwQo4yO029xyOHh9I+R1N7f8rW24wIGn0hLuevr9zE0sQgMoZOV1hwgqbGy
+4YGDz3+BzhsfqAoOounp96yt3w8TpM/Q7b2+5hMXpTQ3sgcLocvM6+rq931/zvPz+vX1+wMHn4eJ
+0a6v4FVYvsrL65qc2bu85XN1yhQYptLT7gYKoBYapnR2ynd5y+3t+N3e8iotrs3O7Jmb2BEVpCks
+rnt9zWhqxoWH0T5BtmFjw5ye2d/g81BTvFNWvnp8zGlrxh4iqePj9FRXvjc6s1tewc7P7E9SvMzN
+7GdpxZ2f2rq75eLi9DY5s////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5
+BAEAAGAALAAAAAAyADIAAAf/gGCCg4SFhoeIiYqLjI2Oj5CRkpOUjC83OTk3L5WTBQcGPgCjpD4G
+BwWdjDEiK6SvsCsiMaqIISCwubAgIbWEAz8BusOkAT8DvggGxMykBgi1Sc3TAFuqAtTUApVOJdnT
+JRiUVcxHFylBDFoXQ8xQkzzCugQ4yIUDOATDATySCsMoXChygWKYgkgDdugKAIERBHmwdthzRGSY
+DUc2hmGBhE1XCkcShm17pEMXCUgkdOmAtEDXA0hLdC2A5EDXE0hZdDlg6RLSA11MII3QFQFaIwQR
+dI2AdGJYBkcZhp2AxADiKxaOWCxkEOnLsASMEgyzIunDMA0jEQnQMOyDJA76koY5sGDIwhViBDhM
+qsCsxQYKBw5Q2NCCWQVKVDx8a+bBSyUYi5nB6CSjQWRdU2So6mL1MkNf/y6TkuILTIEOogF0SFUa
+g5HLEYSUHqSix+IeKmYT4tKZWIAmugvRyEYjuCEk06IYPwSEGZDliJT0DgAWutoZr2YUsa6oxoRR
+E2pwXyShQQMJ4xmZMJG+vfv3tQIBADs=
+
+--_007_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_
+Content-Type: image/gif; name="image004.gif"
+Content-Description: image004.gif
+Content-Disposition: inline; filename="image004.gif"; size=1976;
+	creation-date="Fri, 28 Aug 2026 10:26:11 GMT";
+	modification-date="Fri, 28 Aug 2026 13:20:30 GMT"
+Content-ID: <image004.gif@01DD3719.685EB450>
+Content-Transfer-Encoding: base64
+
+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
+
+--_007_AMDPR05MB121120F474796096E95F37D80E5AC2AMDPR05MB12112eu_--

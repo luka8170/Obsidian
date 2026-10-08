@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WR Logistics Korea - 아시아 글로벌 프로젝트 물류 허브 구축</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #fff;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            min-height: 100vh;
+        }
+        
+        /* 헤더 스타일 */
+        .header {
+            background: linear-gradient(135deg, #2E3B72 0%, #1B2951 100%);
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="2" fill="rgba(255,255,255,0.1)"/></svg>') repeat;
+            opacity: 0.1;
+        }
+        
+        .header h1 {
+            font-size: 3.5em;
+            margin-bottom: 20px;
+            font-weight: 700;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header .subtitle {
+            font-size: 1.8em;
+            margin-bottom: 30px;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header .meta {
+            font-size: 1.2em;
+            opacity: 0.8;
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* 내비게이션 */
+        .nav {
+            background: #fff;
+            padding: 20px 40px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+        
+        .nav a {
+            text-decoration: none;
+            color: #2E3B72;
+            font-weight: 600;
+            padding: 10px 20px;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .nav a:hover {
+            background: #2E3B72;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(46, 59, 114, 0.3);
+        }
+        
+        /* 메인 컨텐츠 */
+        .main {
+            padding: 40px;
+        }
+        
+        .section {
+            margin-bottom: 80px;
+            animation: fadeInUp 0.6s ease-out;
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .section h2 {
+            font-size: 2.5em;
+            color: #2E3B72;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 4px solid #667eea;
+            position: relative;
+        }
+        
+        .section h2::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 100px;
+            height: 4px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+        }
+        
+        /* ==================== PRINT STYLES ==================== */
+        @media print {
+            * {
+                -webkit-print-color-adjust: exact !important;
+                color-adjust: exact !important;
+            }
+            
+            body {
+                font-family: '맑은 고딕', Arial, sans-serif !important;
+                font-size: 12pt !important;
+                line-height: 1.4 !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                background: white !important;
+            }
+            
+            /* 페이지 설정 */
+            @page {
+                size: A4 landscape;
+                margin: 1.5cm;
+            }
+            
+            /* 내비게이션 숨기기 */
+            .nav {
+                display: none !important;
+            }
+            
+            /* 각 섹션을 새 페이지로 */
+            .section {
+                page-break-before: always;
+                page-break-after: always;
+                page-break-inside: avoid;
+                margin: 0 !important;
+                padding: 20px !important;
+                min-height: 18cm;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+            }
+            
+            .section:first-child {
+                page-break-before: avoid;
+            }
+            
+            /* 제목 스타일 */
+            .section h2 {
+                font-size: 24pt !important;
+                color: #2E3B72 !important;
+                margin-bottom: 15px !important;
+                padding-bottom: 8px !important;
+                border-bottom: 3px solid #667eea !important;
+                text-align: left !important;
+            }
+            
+            /* 헤더는 첫 페이지만 */
+            .header {
+                page-break-after: always;
+                padding: 60px 20px !important;
+                text-align: center !important;
+                background: linear-gradient(135deg, #2E3B72, #1B2951) !important;
+                color: white !important;
+                min-height: 15cm;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+            
+            .header .title {
+                font-size: 32pt !important;
+                margin-bottom: 15px !important;
+            }
+            
+            .header .subtitle {
+                font-size: 18pt !important;
+                margin-bottom: 20px !important;
+            }
+            
+            .header .meta {
+                font-size: 14pt !important;
+            }
+            
+            /* 하이라이트 그리드 */
+            .highlight-grid {
+                display: grid !important;
+                grid-template-columns: 1fr 1fr !important;
+                gap: 15px !important;
+                margin: 20px 0 !important;
+            }
+            
+            .highlight-box {
+                background: #F8F9FA !important;
+                border-left: 5px solid #667eea !important;
+                padding: 15px !important;
+                border-radius: 8px !important;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+                page-break-inside: avoid;
+            }
+            
+            .highlight-box h3 {
+                font-size: 14pt !important;
+                color: #2E3B72 !important;
+                margin-bottom: 8px !important;
+            }
+            
+            .highlight-box p {
+                font-size: 11pt !important;
+                line-height: 1.3 !important;
+                margin: 0 !important;
+            }
+            
+            /* 메트릭 카드 */
+            .metrics-grid {
+                display: grid !important;
+                grid-template-columns: repeat(4, 1fr) !important;
+                gap: 15px !important;
+                margin: 20px 0 !important;
+            }
+            
+            .metric-card {
+                background: white !important;
+                border: 2px solid #E9ECEF !important;
+                border-radius: 8px !important;
+                padding: 15px !important;
+                text-align: center !important;
+                page-break-inside: avoid;
+            }
+            
+            .metric-value {
+                font-size: 20pt !important;
+                font-weight: bold !important;
+                color: #667eea !important;
+                margin-bottom: 5px !important;
+            }
+            
+            .metric-label {
+                font-size: 10pt !important;
+                color: #666 !important;
+            }
+            
+            /* 차트 컨테이너 */
+            .chart-container {
+                background: white !important;
+                border: 1px solid #E9ECEF !important;
+                border-radius: 8px !important;
+                padding: 15px !important;
+                margin: 20px 0 !important;
+                page-break-inside: avoid;
+            }
+            
+            /* 테이블 */
+            .table-container {
+                margin: 20px 0 !important;
+                page-break-inside: avoid;
+            }
+            
+            table {
+                width: 100% !important;
+                border-collapse: collapse !important;
+                font-size: 9pt !important;
+            }
+            
+            th, td {
+                border: 1px solid #ddd !important;
+                padding: 6px !important;
+                text-align: left !important;
+            }
+            
+            th {
+                background: #F8F9FA !important;
+                font-weight: bold !important;
+                color: #2E3B72 !important;
+            }
+            
+            /* 타임라인 */
+            .timeline {
+                display: flex !important;
+                justify-content: space-between !important;
+                gap: 15px !important;
+                margin: 20px 0 !important;
+            }
+            
+            .timeline-item {
+                flex: 1 !important;
+                background: #F8F9FA !important;
+                border-radius: 8px !important;
+                padding: 15px !important;
+                page-break-inside: avoid;
+            }
+            
+            .timeline-item h3 {
+                font-size: 12pt !important;
+                color: #2E3B72 !important;
+                margin-bottom: 8px !important;
+            }
+            
+            .timeline-item ul {
+                font-size: 9pt !important;
+                line-height: 1.2 !important;
+            }
+            
+            /* 결론 섹션 */
+            #conclusion {
+                background: linear-gradient(135deg, #667eea, #764ba2) !important;
+                color: white !important;
+                text-align: center !important;
+                padding: 40px 20px !important;
+            }
+            
+            #conclusion h2 {
+                color: white !important;
+                border-bottom-color: white !important;
+            }
+            
+            #conclusion .conclusion-highlight {
+                font-size: 16pt !important;
+                margin: 20px 0 !important;
+            }
+            
+            #conclusion .success-factors {
+                display: flex !important;
+                justify-content: center !important;
+                gap: 10px !important;
+                margin-top: 20px !important;
+            }
+            
+            #conclusion .success-factor {
+                background: rgba(255,255,255,0.2) !important;
+                padding: 8px 15px !important;
+                border-radius: 20px !important;
+                font-size: 10pt !important;
+            }
+        }
+        
+        /* 하이라이트 박스들 */
+        .highlight-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin: 40px 0;
+        }
+        
+        .highlight-box {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 30px;
+            border-radius: 20px;
+            border-left: 6px solid #667eea;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .highlight-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+        }
+        
+        .highlight-box h3 {
+            color: #2E3B72;
+            font-size: 1.8em;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .highlight-box .icon {
+            font-size: 1.2em;
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        /* 메트릭스 카드 */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin: 40px 0;
+        }
+        
+        .metric-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: 1px solid #e9ecef;
+            transition: all 0.3s ease;
+        }
+        
+        .metric-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+        }
+        
+        .metric-value {
+            font-size: 3em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .metric-label {
+            color: #666;
+            font-size: 1.1em;
+            font-weight: 600;
+        }
+        
+        /* 차트 컨테이너 */
+        .chart-container {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin: 40px 0;
+        }
+        
+        /* 표 스타일 */
+        .table-container {
+            overflow-x: auto;
+            margin: 30px 0;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+        
+        th {
+            background: linear-gradient(135deg, #2E3B72, #1B2951);
+            color: white;
+            padding: 20px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+        
+        td {
+            padding: 20px;
+            border-bottom: 1px solid #e9ecef;
+            vertical-align: top;
+        }
+        
+        tr:hover {
+            background: #f8f9fa;
+        }
+        
+        /* 타임라인 */
+        .timeline {
+            position: relative;
+            margin: 40px 0;
+        }
+        
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(180deg, #667eea, #764ba2);
+            transform: translateX(-50%);
+        }
+        
+        .timeline-item {
+            display: flex;
+            margin-bottom: 40px;
+            position: relative;
+        }
+        
+        .timeline-item:nth-child(odd) {
+            flex-direction: row;
+        }
+        
+        .timeline-item:nth-child(even) {
+            flex-direction: row-reverse;
+        }
+        
+        .timeline-content {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            width: 45%;
+            position: relative;
+        }
+        
+        .timeline-content::before {
+            content: '';
+            position: absolute;
+            top: 30px;
+            width: 20px;
+            height: 20px;
+            background: #667eea;
+            border-radius: 50%;
+        }
+        
+        .timeline-item:nth-child(odd) .timeline-content::before {
+            right: -60px;
+        }
+        
+        .timeline-item:nth-child(even) .timeline-content::before {
+            left: -60px;
+        }
+        
+        /* 푸터 */
+        .footer {
+            background: #2E3B72;
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        /* 반응형 디자인 */
+        @media (max-width: 768px) {
+            .header {
+                padding: 40px 20px;
+            }
+            
+            .header h1 {
+                font-size: 2.5em;
+            }
+            
+            .main {
+                padding: 20px;
+            }
+            
+            .nav ul {
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            .timeline::before {
+                left: 30px;
+            }
+            
+            .timeline-item {
+                flex-direction: column !important;
+            }
+            
+            .timeline-content {
+                width: 100%;
+                margin-left: 60px;
+            }
+            
+            .timeline-content::before {
+                left: -45px !important;
+            }
+        }
+        
+        /* 프린트 스타일 */
+        @media print {
+            body {
+                background: white;
+            }
+            
+            .nav {
+                display: none;
+            }
+            
+            .section {
+                page-break-inside: avoid;
+                margin-bottom: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 헤더 -->
+        <header class="header">
+            <h1>WR Logistics Korea</h1>
+            <div class="subtitle">아시아 글로벌 프로젝트 물류 허브 구축</div>
+            <div class="meta">
+                <strong>작성자:</strong> 한상진 (Branch Manager 후보)<br>
+                <strong>제출일:</strong> 2025년 9월 10일
+            </div>
+        </header>
+
+        <!-- 내비게이션 -->
+        <nav class="nav">
+            <ul>
+                <li><a href="#executive-summary">Executive Summary</a></li>
+                <li><a href="#market-analysis">Market Analysis</a></li>
+                <li><a href="#competitive-advantages">Competitive Advantages</a></li>
+                <li><a href="#business-model">Business Model</a></li>
+                <li><a href="#financial-projections">Financial Projections</a></li>
+                <li><a href="#risk-management">Risk Management</a></li>
+                <li><a href="#implementation">Implementation Plan</a></li>
+                <li><a href="#success-metrics">Success Metrics</a></li>
+            </ul>
+        </nav>
+
+        <!-- 메인 컨텐츠 -->
+        <main class="main">
+            <!-- Executive Summary -->
+            <section id="executive-summary" class="section">
+                <h2>💼 Executive Summary</h2>
+                
+                <div class="highlight-grid">
+                    <div class="highlight-box">
+                        <h3><span class="icon">🎯</span> 사업 목표</h3>
+                        <p>25년간 구축한 글로벌 네트워크를 기반으로 한국 프로젝트 물류 시장 진출하여 아시아 물류 허브 구축</p>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🏆</span> 핵심 차별화</h3>
+                        <p>중동 VIP 네트워크 + 독일 본사 시너지 + 검사·인증 통합 서비스로 경쟁사 대비 압도적 우위</p>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">💰</span> 확정 파이프라인</h3>
+                        <p>230억원 규모, 65% 확정성 - 현대스틸, Qatar Gas, LG ESS 등 대형 프로젝트 확보</p>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">📈</span> 재무 목표</h3>
+                        <p>1차년도 180억원 → 3차년도 450억원 (ROI 309%, 업계 평균 대비 10배 빠른 투자회수)</p>
+                    </div>
+                </div>
+
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-value">180억</div>
+                        <div class="metric-label">1차년도 매출목표</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">450억</div>
+                        <div class="metric-label">3차년도 매출목표</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">309%</div>
+                        <div class="metric-label">1차년도 ROI</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">3.2개월</div>
+                        <div class="metric-label">투자회수기간</div>
+                    </div>
+                </div>
+            </section>
+            <!-- Market Analysis -->
+            <section id="market-analysis" class="section">
+                <h2>📊 Market Analysis</h2>
+                
+                <div class="chart-container">
+                    <h3>한국 프로젝트 물류 시장 현황</h3>
+                    <div class="metrics-grid">
+                        <div class="metric-card">
+                            <div class="metric-value">6,000억</div>
+                            <div class="metric-label">시장규모 (2025년)</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">5-7%</div>
+                            <div class="metric-label">연평균 성장률</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">43.7%</div>
+                            <div class="metric-label">해상풍력 성장률</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">15%</div>
+                            <div class="metric-label">물류비중</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="highlight-grid">
+                    <div class="highlight-box">
+                        <h3><span class="icon">🌍</span> 글로벌 시장 동향</h3>
+                        <ul>
+                            <li>세계 프로젝트 물류 시장 2030년까지 6천억 달러 규모 확대</li>
+                            <li>중동 지역 메가 프로젝트로 인한 특수화물 수요 급증</li>
+                            <li>중국-유럽 간 철도운송 및 복합운송 수요 확대</li>
+                            <li>친환경 물류 솔루션에 대한 수요 증가 (ESG 확산)</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🇰🇷</span> 한국 시장 기회</h3>
+                        <ul>
+                            <li>K-뉴딜 정책에 따른 인프라 투자 및 탄소중립 달성</li>
+                            <li>대형 EPC 업체들의 해외 진출 가속화</li>
+                            <li>중량물 운송 전문성을 갖춘 물류 기업 부족</li>
+                            <li>첨단 디지털 물류 솔루션 및 글로벌 연계성 확대 필요</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="highlight-grid">
+                    <div class="highlight-box">
+                        <h3><span class="icon">🚀</span> 성장 동인</h3>
+                        <ul>
+                            <li><strong>해외 프로젝트 확대:</strong> 중동 메가 프로젝트 수주 증가</li>
+                            <li><strong>신재생에너지 급성장:</strong> 해상풍력, ESS 프로젝트 대폭 증가</li>
+                            <li><strong>공급망 다변화:</strong> 중국 대안 루트 수요 증가</li>
+                            <li><strong>정부 정책 지원:</strong> 역동경제 로드맵, 신성장 4.0 전략</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Competitive Advantages -->
+            <section id="competitive-advantages" class="section">
+                <h2>🏆 Competitive Advantages</h2>
+                
+                <div class="highlight-grid">
+                    <div class="highlight-box">
+                        <h3><span class="icon">👑</span> 중동 VIP 네트워크 (25년)</h3>
+                        <ul>
+                            <li><strong>UAE:</strong> Sheikh Ahmed Al Maktoum, Sheikh Mohammed Bin Zayed 가문</li>
+                            <li><strong>카타르:</strong> Qatar Petroleum, Qatar Gas 최고위 인사</li>
+                            <li><strong>사우디:</strong> Saudi Aramco, ADNOC 핵심 임원진</li>
+                            <li><strong>실적:</strong> 120+ 주요 에너지/인프라 프로젝트</li>
+                            <li><strong>효과:</strong> 영업비용 50% 절감, 수주 성공률 70%</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🌍</span> 독일 본사 글로벌 네트워크</h3>
+                        <ul>
+                            <li><strong>네트워크:</strong> 유럽 전역 18개 지사 연계시스템</li>
+                            <li><strong>협력사:</strong> 38개국 협력사 네트워크</li>
+                            <li><strong>경험:</strong> 연간 5,000+ 프로젝트 물류 운영</li>
+                            <li><strong>품질:</strong> 독일 엔지니어링 기반 품질관리 시스템</li>
+                            <li><strong>고객:</strong> Fortune 500 기업 및 대형 EPC 포트폴리오</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🔍</span> 통합 서비스 차별화</h3>
+                        <ul>
+                            <li><strong>원스톱 서비스:</strong> 검사·인증 + 물류 통합</li>
+                            <li><strong>인증 지원:</strong> ISO, CE, ASME 등 주요 인증</li>
+                            <li><strong>기준 해소:</strong> 중동-아시아 간 인증 기준 차이 해결</li>
+                            <li><strong>비용 절감:</strong> 30% 비용절감 효과</li>
+                            <li><strong>전문성:</strong> 1,500톤급 초중량물 운송 경험</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🤝</span> 한국 EPC/조선업계 네트워크</h3>
+                        <ul>
+                            <li><strong>현대엔지니어링 그룹:</strong> 전략적 비즈니스 파트너</li>
+                            <li><strong>삼성엔지니어링/중공업:</strong> 정기적 협업 파트너십</li>
+                            <li><strong>두산에너빌리티:</strong> 중동 프로젝트 우선 협력사</li>
+                            <li><strong>LG에너지솔루션:</strong> ESS 프로젝트 물류 파트너</li>
+                            <li><strong>접근성:</strong> 90% 접근 가능성</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>평가 항목</th>
+                                <th>글로벌 대형사</th>
+                                <th>국내 대형사</th>
+                                <th>WR Logistics Korea</th>
+                                <th>경쟁우위</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>네트워크 범위</td>
+                                <td>⭐⭐⭐</td>
+                                <td>⭐⭐</td>
+                                <td>⭐⭐⭐</td>
+                                <td>글로벌 + 로컬 최적화</td>
+                            </tr>
+                            <tr>
+                                <td>중동 특화 역량</td>
+                                <td>⭐</td>
+                                <td>⭐</td>
+                                <td>⭐⭐⭐</td>
+                                <td>25년 VIP 네트워크</td>
+                            </tr>
+                            <tr>
+                                <td>프로젝트 물류 특화</td>
+                                <td>⭐⭐</td>
+                                <td>⭐⭐</td>
+                                <td>⭐⭐⭐</td>
+                                <td>독일 엔지니어링 품질</td>
+                            </tr>
+                            <tr>
+                                <td>한국 시장 이해도</td>
+                                <td>⭐</td>
+                                <td>⭐⭐⭐</td>
+                                <td>⭐⭐</td>
+                                <td>현지화 + 글로벌 시너지</td>
+                            </tr>
+                            <tr>
+                                <td>VIP 네트워크</td>
+                                <td>⭐⭐</td>
+                                <td>⭐⭐</td>
+                                <td>⭐⭐⭐</td>
+                                <td>정부/왕족 수준</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Business Model -->
+            <section id="business-model" class="section">
+                <h2>💼 Business Model</h2>
+                
+                <div class="chart-container">
+                    <h3>확정 파이프라인 구성 (총 230억원)</h3>
+                    <div class="highlight-grid">
+                        <div class="highlight-box">
+                            <h3><span class="icon">🏗️</span> 현대스틸산업 (80억원)</h3>
+                            <p><strong>확정성:</strong> 95% (계약 확정)<br>
+                            <strong>내용:</strong> 해상풍력 타워 운송<br>
+                            <strong>기간:</strong> 2026.01 ~ 2026.10<br>
+                            <strong>차별화:</strong> 독일 본사 풍력 전문성</p>
+                        </div>
+                        
+                        <div class="highlight-box">
+                            <h3><span class="icon">⛽</span> Qatar Gas (60억원)</h3>
+                            <p><strong>확정성:</strong> 85% (계약 협의중)<br>
+                            <strong>내용:</strong> 원유 플랜트 설비 운송<br>
+                            <strong>기간:</strong> 2026.03 ~ 2026.12<br>
+                            <strong>차별화:</strong> 현지 정부 인맥 + 원유설비 특화</p>
+                        </div>
+                        
+                        <div class="highlight-box">
+                            <h3><span class="icon">🔋</span> LG ESS (30억원)</h3>
+                            <p><strong>확정성:</strong> 75% (제안서 제출)<br>
+                            <strong>내용:</strong> 배터리 물류 통합서비스<br>
+                            <strong>기간:</strong> 2026.02 ~ 2026.08<br>
+                            <strong>차별화:</strong> ESS 전문 물류 솔루션</p>
+                        </div>
+                        
+                        <div class="highlight-box">
+                            <h3><span class="icon">✅</span> 검사인증 서비스 (40억원)</h3>
+                            <p><strong>확정성:</strong> 70% (제안 단계)<br>
+                            <strong>내용:</strong> 해상풍력/태양광 검사인증<br>
+                            <strong>기간:</strong> 2026.01 ~ 2026.12<br>
+                            <strong>차별화:</strong> 검사·인증 + 물류 통합</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-value">230억원</div>
+                        <div class="metric-label">총 확정 파이프라인</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">65%</div>
+                        <div class="metric-label">평균 확정성</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">18.9%</div>
+                        <div class="metric-label">순이익률</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">75%</div>
+                        <div class="metric-label">변동비율</div>
+                    </div>
+                </div>
+
+                <div class="highlight-box">
+                    <h3><span class="icon">💡</span> 수익구조 분석</h3>
+                    <ul>
+                        <li><strong>프로젝트 물류:</strong> 140억원 (현대스틸 + Qatar Gas)</li>
+                        <li><strong>특수 서비스:</strong> 90억원 (LG ESS + 검사인증)</li>
+                        <li><strong>순이익률:</strong> 18.9% (업계 평균 12-15% 대비 +4~7%p)</li>
+                        <li><strong>ROI:</strong> 309% (업계 평균 50-80% 대비 +229%p)</li>
+                        <li><strong>경쟁우위:</strong> 통합서비스로 부가가치 극대화</li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- Financial Projections -->
+            <section id="financial-projections" class="section">
+                <h2>💰 Financial Projections</h2>
+                
+                <div class="chart-container">
+                    <h3>3개년 재무 전망</h3>
+                    <div class="table-container">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>구분</th>
+                                    <th>2026년 (1차년도)</th>
+                                    <th>2027년 (2차년도)</th>
+                                    <th>2028년 (3차년도)</th>
+                                    <th>3년 평균</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>매출액</strong></td>
+                                    <td>180억원</td>
+                                    <td>300억원</td>
+                                    <td>450억원</td>
+                                    <td>310억원</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>성장률</strong></td>
+                                    <td>-</td>
+                                    <td>67%</td>
+                                    <td>50%</td>
+                                    <td>58%</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>변동비</strong></td>
+                                    <td>135억원 (75%)</td>
+                                    <td>225억원 (75%)</td>
+                                    <td>337.5억원 (75%)</td>
+                                    <td>232.5억원</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>고정비</strong></td>
+                                    <td>11억원</td>
+                                    <td>13억원</td>
+                                    <td>15억원</td>
+                                    <td>13억원</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>순이익</strong></td>
+                                    <td>34억원</td>
+                                    <td>62억원</td>
+                                    <td>97.5억원</td>
+                                    <td>64.5억원</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>순이익률</strong></td>
+                                    <td>18.9%</td>
+                                    <td>20.7%</td>
+                                    <td>21.7%</td>
+                                    <td>20.4%</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>ROI</strong></td>
+                                    <td>309%</td>
+                                    <td>564%</td>
+                                    <td>886%</td>
+                                    <td>586%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="highlight-grid">
+                    <div class="highlight-box">
+                        <h3><span class="icon">📊</span> 투자 계획</h3>
+                        <ul>
+                            <li><strong>총 투자:</strong> 11억원</li>
+                            <li><strong>설립비용:</strong> 3억원</li>
+                            <li><strong>운영자본:</strong> 8억원</li>
+                            <li><strong>투자회수:</strong> 3.2개월 (업계 평균 36개월)</li>
+                            <li><strong>3년 누적 ROI:</strong> 1,659%</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🏢</span> 조직 계획</h3>
+                        <ul>
+                            <li><strong>1차년도:</strong> 5명 (지사장, 영업 2명, 운영 1명, 관리 1명)</li>
+                            <li><strong>2차년도:</strong> 8명 (영업 확대, 운영 강화)</li>
+                            <li><strong>3차년도:</strong> 12명 (전문팀 구성)</li>
+                            <li><strong>사무실:</strong> 강남/여의도 프리미엄 오피스 200평</li>
+                            <li><strong>시스템:</strong> ERP(SAP), 물류추적, CRM</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🎯</span> 업계 대비 우위</h3>
+                        <ul>
+                            <li><strong>순이익률:</strong> +4~7%p (업계 평균 12-15%)</li>
+                            <li><strong>ROI:</strong> +229%p (업계 평균 50-80%)</li>
+                            <li><strong>투자회수:</strong> 10배 빠름 (업계 평균 36개월)</li>
+                            <li><strong>성장률:</strong> 60%+ (업계 평균 20-30%)</li>
+                            <li><strong>확정성:</strong> 65% (업계 평균 30-40%)</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-value">193.5억</div>
+                        <div class="metric-label">3년 누적 순이익</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">1,659%</div>
+                        <div class="metric-label">3년 누적 ROI</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">20개월</div>
+                        <div class="metric-label">투자회수기간 단축</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">5%</div>
+                        <div class="metric-label">3차년도 시장점유율</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Risk Management -->
+            <section id="risk-management" class="section">
+                <h2>⚠️ Risk Management</h2>
+                
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>리스크 요인</th>
+                                <th>영향도</th>
+                                <th>발생확률</th>
+                                <th>대응방안</th>
+                                <th>모니터링 지표</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>국내 네트워크 부족</strong></td>
+                                <td>중</td>
+                                <td>중</td>
+                                <td>VIP 네트워크 레버리지 + 현지 핵심인력 채용</td>
+                                <td>신규 고객사 확보 수</td>
+                            </tr>
+                            <tr>
+                                <td><strong>기존 대형사와 경쟁</strong></td>
+                                <td>고</td>
+                                <td>고</td>
+                                <td>틈새시장 집중전략 + 차별화된 통합서비스</td>
+                                <td>시장점유율, 수주율</td>
+                            </tr>
+                            <tr>
+                                <td><strong>초기 가격경쟁력 열위</strong></td>
+                                <td>중</td>
+                                <td>중</td>
+                                <td>글로벌 네트워크 시너지 + 부가가치 서비스</td>
+                                <td>단위당 수익률</td>
+                            </tr>
+                            <tr>
+                                <td><strong>환율 및 유가 변동</strong></td>
+                                <td>중</td>
+                                <td>고</td>
+                                <td>헤지 전략 + 다변화된 수익원</td>
+                                <td>환율 변동률, 원가율</td>
+                            </tr>
+                            <tr>
+                                <td><strong>중동 정치적 불안정</strong></td>
+                                <td>고</td>
+                                <td>저</td>
+                                <td>포트폴리오 다각화 + 아시아 시장 확대</td>
+                                <td>지역별 매출 비중</td>
+                            </tr>
+                            <tr>
+                                <td><strong>신재생에너지 정책 변화</strong></td>
+                                <td>중</td>
+                                <td>저</td>
+                                <td>정부정책 모니터링 + 사업영역 확장</td>
+                                <td>정책 변화 추이</td>
+                            </tr>
+                            <tr>
+                                <td><strong>팬데믹 등 글로벌 위기</strong></td>
+                                <td>고</td>
+                                <td>저</td>
+                                <td>디지털 물류 플랫폼 + 비대면 서비스</td>
+                                <td>운영 연속성 지표</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="highlight-grid">
+                    <div class="highlight-box">
+                        <h3><span class="icon">🛡️</span> 리스크 완화 전략</h3>
+                        <ul>
+                            <li><strong>다각화:</strong> 지역, 고객, 서비스 포트폴리오 다변화</li>
+                            <li><strong>파트너십:</strong> 현지 강자와의 전략적 제휴</li>
+                            <li><strong>기술투자:</strong> 디지털 물류 플랫폼 구축</li>
+                            <li><strong>인재확보:</strong> 현지 전문가 및 글로벌 인재 영입</li>
+                            <li><strong>재무관리:</strong> 적정 현금 보유 및 헤지 전략</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">📈</span> 기회 요인</h3>
+                        <ul>
+                            <li><strong>시장 성장:</strong> 신재생에너지 급성장 (+43.7%)</li>
+                            <li><strong>정책 지원:</strong> 정부의 적극적인 탄소중립 정책</li>
+                            <li><strong>기술 혁신:</strong> 디지털 물류 혁신 기회</li>
+                            <li><strong>네트워크 효과:</strong> 글로벌 네트워크 시너지 극대화</li>
+                            <li><strong>M&A 기회:</strong> 시장 통합 과정에서 인수 기회</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Implementation Plan -->
+            <section id="implementation" class="section">
+                <h2>🚀 Implementation Plan</h2>
+                
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-content">
+                            <h3>Phase 1: 기반 구축 (2025년 4Q)</h3>
+                            <h4>목표: 230억원 파이프라인 확보</h4>
+                            <ul>
+                                <li><strong>11월:</strong> 법인설립 및 사무실 준비</li>
+                                <li><strong>12월:</strong> 핵심인력 5명 채용 완료</li>
+                                <li><strong>1월:</strong> 네트워크 활성화 및 첫 고객 미팅</li>
+                                <li><strong>2월:</strong> 첫 프로젝트 계약 체결 (80억원 규모)</li>
+                            </ul>
+                            <div class="metrics-grid">
+                                <div class="metric-card">
+                                    <div class="metric-value">5명</div>
+                                    <div class="metric-label">핵심인력 구성</div>
+                                </div>
+                                <div class="metric-card">
+                                    <div class="metric-value">230억원</div>
+                                    <div class="metric-label">확정 파이프라인</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-content">
+                            <h3>Phase 2: 성장 가속화 (2026년 2-3Q)</h3>
+                            <h4>목표: 매출 300억원 달성</h4>
+                            <ul>
+                                <li><strong>네트워크 확장:</strong> 신규 글로벌 파트너 2개사 이상 확보</li>
+                                <li><strong>프로젝트 확보:</strong> 신규 발전소/플랜트 물류 계약 3건 이상</li>
+                                <li><strong>서비스 다각화:</strong> 풍력/태양광 전용 물류 솔루션 출시</li>
+                                <li><strong>인력 확장:</strong> 8명으로 조직 확대</li>
+                            </ul>
+                            <div class="metrics-grid">
+                                <div class="metric-card">
+                                    <div class="metric-value">8명</div>
+                                    <div class="metric-label">조직 확장</div>
+                                </div>
+                                <div class="metric-card">
+                                    <div class="metric-value">300억원</div>
+                                    <div class="metric-label">2차년도 매출</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-content">
+                            <h3>Phase 3: 시장 지배력 확보 (2027년~)</h3>
+                            <h4>목표: 매출 450억원, 시장점유율 5%</h4>
+                            <ul>
+                                <li><strong>시장 영향력:</strong> 중동-한국 프로젝트 물류 선점</li>
+                                <li><strong>서비스 확장:</strong> 초중량물 특화 서비스 개발</li>
+                                <li><strong>미래 투자:</strong> 해상풍력 물류 특화 부문 확대</li>
+                                <li><strong>지역 확장:</strong> 동남아 시장 진출 기반 마련</li>
+                            </ul>
+                            <div class="metrics-grid">
+                                <div class="metric-card">
+                                    <div class="metric-value">12명</div>
+                                    <div class="metric-label">전문팀 구성</div>
+                                </div>
+                                <div class="metric-card">
+                                    <div class="metric-value">450억원</div>
+                                    <div class="metric-label">3차년도 매출</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+속성</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 결론 -->
+            <section class="section">
+                <h2>🚀 결론</h2>
+                
+                <div class="highlight-box" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 50px;">
+                    <h3 style="color: white; font-size: 2.5em; margin-bottom: 30px;">
+                        <span class="icon" style="background: white; color: #667eea;">🎯</span>
+                        WR Logistics Korea: 성공이 보장된 투자
+                    </h3>
+                    <div style="font-size: 1.3em; line-height: 1.8;">
+                        <p><strong>25년 검증된 글로벌 네트워크</strong> × <strong>230억원 확정 파이프라인</strong> × <strong>309% ROI</strong></p>
+                        <p style="margin: 20px 0;">= <strong>아시아 프로젝트 물류 시장의 새로운 리더</strong></p>
+                        <p style="font-size: 1.1em; opacity: 0.9;">
+                            독보적 경쟁우위와 확실한 수익성을 바탕으로<br>
+                            한국을 넘어 아시아 전체 물류 허브로 성장하겠습니다
+                        </p>
+                    </div>
+                </div>
+
+                <div class="highlight-grid" style="margin-top: 40px;">
+                    <div class="highlight-box">
+                        <h3><span class="icon">✅</span> 즉시 실행 가능</h3>
+                        <p>확정된 파이프라인과 검증된 네트워크로 즉시 사업 시작 가능</p>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">💰</span> 확실한 수익</h3>
+                        <p>업계 최고 수준의 ROI와 빠른 투자회수로 안정적 수익 보장</p>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🌏</span> 무한 확장성</h3>
+                        <p>글로벌 네트워크 기반으로 아시아 전체 시장으로 확장 가능</p>
+                    </div>
+                    
+                    <div class="highlight-box">
+                        <h3><span class="icon">🏆</span> 독보적 경쟁력</h3>
+                        <p>중동 VIP 네트워크와 통합 서비스로 경쟁사가 따라올 수 없는 차별화</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- 푸터 -->
+        <footer class="footer">
+            <h3>🤝 Partnership Opportunity</h3>
+            <p style="font-size: 1.2em; margin-bottom: 20px;">
+                WR Logistics Korea와 함께 아시아 프로젝트 물류 시장을 선도해 나가십시오
+            </p>
+            <p>
+                <strong>Contact:</strong> 한상진 (Branch Manager 후보)<br>
+                <strong>Email:</strong> contact@wrlogistics.co.kr<br>
+                <strong>Phone:</strong> +82-2-XXXX-XXXX
+            </p>
+            <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.3);">
+                <p style="opacity: 0.8;">© 2025 WR Logistics Korea. All rights reserved.</p>
+            </div>
+        </footer>
+    </div>
+
+    <!-- JavaScript for smooth scrolling and animations -->
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Intersection Observer for animation on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        // Observe all sections for animation
+        document.querySelectorAll('.section').forEach(section => {
+            section.style.opacity = '0';
+            section.style.transform = 'translateY(30px)';
+            section.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(section);
+        });
+
+        // Counter animation for metrics
+        function animateCounters() {
+            const counters = document.querySelectorAll('.metric-value');
+            counters.forEach(counter => {
+                const target = parseInt(counter.textContent);
+                if (!isNaN(target)) {
+                    let current = 0;
+                    const increment = target / 100;
+                    const timer = setInterval(() => {
+                        current += increment;
+                        if (current >= target) {
+                            counter.textContent = target + (counter.textContent.includes('%') ? '%' : counter.textContent.includes('억') ? '억' : counter.textContent.includes('개월') ? '개월' : '');
+                            clearInterval(timer);
+                        } else {
+                            counter.textContent = Math.floor(current) + (counter.textContent.includes('%') ? '%' : counter.textContent.includes('억') ? '억' : counter.textContent.includes('개월') ? '개월' : '');
+                        }
+                    }, 20);
+                }
+            });
+        }
+
+        // Trigger counter animation when metrics come into view
+        const metricsObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    animateCounters();
+                    metricsObserver.unobserve(entry.target);
+                }
+            });
+        });
+
+        document.querySelectorAll('.metrics-grid').forEach(grid => {
+            metricsObserver.observe(grid);
+        });
+
+        // Add loading animation
+        window.addEventListener('load', () => {
+            document.body.style.opacity = '1';
+        });
+
+        // Print functionality
+        function printPlan() {
+            window.print();
+        }
+
+        // Add print button to header
+        document.addEventListener('DOMContentLoaded', () => {
+            const header = document.querySelector('.header');
+            const printBtn = document.createElement('button');
+            printBtn.innerHTML = '🖨️ Print Plan';
+            printBtn.style.cssText = `
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                background: rgba(255,255,255,0.2);
+                color: white;
+                border: 2px solid white;
+                padding: 10px 20px;
+                border-radius: 25px;
+                cursor: pointer;
+                font-weight: 600;
+                transition: all 0.3s ease;
+            `;
+            printBtn.onmouseover = () => {
+                printBtn.style.background = 'white';
+                printBtn.style.color = '#2E3B72';
+            };
+            printBtn.onmouseout = () => {
+                printBtn.style.background = 'rgba(255,255,255,0.2)';
+                printBtn.style.color = 'white';
+            };
+            printBtn.onclick = printPlan;
+            header.appendChild(printBtn);
+        });
+    </script>
+</body>
+</html>

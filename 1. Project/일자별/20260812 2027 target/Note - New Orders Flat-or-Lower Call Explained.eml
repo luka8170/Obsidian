@@ -1,0 +1,158 @@
+From: Sang-Jin HAN <sangjin.han@bureauveritas.com>
+To: Sang-Jin HAN <sangjin.han@bureauveritas.com>
+Subject:
+ Where the "new orders flat or slightly lower" call actually comes from
+Date: Tue, 01 Sep 2026 10:27:56 +0900
+Message-ID: <178822607677.4390.11925144586161039189@1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7387007559264035100=="
+
+--===============7387007559264035100==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+File names (both in the same folder, /=EC=9E=90=EB=A3=8C):
+- WFMK202607.pdf  =3D World Fleet Monitor, Vol.17 No.7 (Clarkson)
+- World_Shipyard_Monitor_07_26.pdf =3D World Shipyard Monitor, Vol.33 No.7 (C=
+larkson)  [I had written "WSM_202607.pdf" before by mistake - wrong file name=
+, sorry]
+
+Owner-side order data:
+WFMK202607.pdf, p.17, table "Ownership of Newbuilding Orders", South Korea ro=
+w:
+2025 full year =3D 5,588 thousand GT (85 ships)
+2026 H1 =3D 3,047 thousand GT (67 ships), UP +9.0% y/y
+Annualized: 3,047 x 2 =3D 6,094 thousand GT (~6.0m GT) -- about level with 20=
+25 (5.588m GT)
+
+No Clarkson forecast exists for 2027 orders. "Flat or slightly lower" is my o=
+wn call, based on 3 points below, all from World_Shipyard_Monitor_07_26.pdf:
+
+1) Yards already booked up
+Page: the very first page of the PDF (cover/highlights page - it has no "Page=
+ N" footer printed on it, unlike every page after it).
+Quote: "the global orderbook has continued to expand, reaching 7,612 vessels =
+of 207.2m CGT at start-2H, up 19% y-o-y ... Korea has 38.3m CGT on order (18%=
+) and leads in the LNG carrier sector."
+Page 17, table "Orderbook by Country/Region":
+- "Forward Cover" box, row "Global Total": years 2019-2026* =3D 2.5, 2.8, 3.0=
+, 3.7, 3.7, 4.0, 4.1, 4.3 -- trend "UP 6% y-o-y"
+- "Major Shipbuilders" table (Million GT), row "South Korea": 2025=3D65.5, 20=
+26*=3D69.4; delivery columns 2026=3D9.2, 2027=3D23.1, 2028=3D23.8, 2029+=3D13=
+.3
+
+2) Newbuilding prices still high
+Page 10, table "Newbuilding Price Index" (index, base Jan'88=3D100), row "Pri=
+ce Index": 2018=3D130, 2019=3D130, 2020=3D126, 2021=3D154, 2022=3D162, 2023=
+=3D178, 2024=3D189, 2025=3D185, Jun*=3D185, trend "STEADY -1%"
+Quote (same page, commentary box): "Newbuild prices increased across Q2-26, w=
+ith our Newbuilding Price Index standing at 185 points as of start-Jul, up by=
+ 1.7% from the recent low in Mar-26 and just 2.6% below the recent high in Se=
+p-24."
+
+3) 2026-2028 delivery wave
+Page: same cover/highlights page as point 1.
+Quote: "Shipyard deliveries are forecast to reach ~50m CGT in the full year (=
++13% y-o-y), before rising a further 22% to ~61m CGT in 2027 (set to exceed t=
+he previous shipbuilding boom's CGT peak, though remains 5% below in dwt term=
+s)."
+
+So: 2026 pace already flat vs 2025, yards have limited free capacity (4.3-yr =
+global forward cover, Korean yards' own backlog still growing), prices sittin=
+g near the cycle high, and a record delivery wave lands right as 2027 orders =
+would be placed -> assume 2027 lands around the 2026 annualized level (~6.0m =
+GT) or a bit below.
+
+--===============7387007559264035100==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><meta charset=3D"utf-8"><style>
+body { font-family: -apple-system, "Apple SD Gothic Neo", Malgun Gothic, Sego=
+e UI, Arial, sans-serif; font-size: 14px; color: #000; line-height: 1.6; }
+table { border-collapse: collapse; margin: 8px 0; }
+th, td { border: 1px solid #000; padding: 4px 10px; text-align: right; font-s=
+ize: 13px; }
+th { text-align: center; }
+td:first-child, th:first-child { text-align: left; }
+.calc { font-family: Consolas, Menlo, monospace; font-size: 13px; white-space=
+: pre; margin: 10px 0; }
+.quote { font-style: italic; margin: 4px 0 4px 0; }
+</style></head><body>
+
+<p>File names (both in the same folder, /=EC=9E=90=EB=A3=8C):<br>
+- WFMK202607.pdf =3D World Fleet Monitor, Vol.17 No.7 (Clarkson)<br>
+- World_Shipyard_Monitor_07_26.pdf =3D World Shipyard Monitor, Vol.33 No.7 (C=
+larkson) &nbsp;<i>(I had written &quot;WSM_202607.pdf&quot; before by mistake=
+ &ndash; wrong file name, sorry)</i></p>
+
+<p>Owner-side order data &ndash; WFMK202607.pdf, p.17, table &quot;Ownership =
+of Newbuilding Orders&quot;, South Korea row:</p>
+<table>
+<tr><th></th><th>Ships</th><th>Volume</th><th>y/y</th></tr>
+<tr><td>2025 full year</td><td>85</td><td>5,588 thousand GT</td><td></td></tr>
+<tr><td>2026 H1</td><td>67</td><td>3,047 thousand GT</td><td>UP +9.0%</td></t=
+r>
+</table>
+<div class=3D"calc">Annualized: 3,047 x 2 =3D 6,094 thousand GT (~6.0m GT) --=
+ about level with 2025 (5.588m GT)</div>
+
+<p>No Clarkson forecast exists for 2027 orders. &quot;Flat or slightly lower&=
+quot; is my own call, based on 3 points below, all from <b>World_Shipyard_Mon=
+itor_07_26.pdf</b>:</p>
+
+<p><b>1) Yards already booked up</b><br>
+Page: the very first page of the PDF (cover/highlights page &ndash; it has <u=
+>no</u> &quot;Page N&quot; footer printed on it, unlike every page after it).=
+<br>
+<span class=3D"quote">&quot;the global orderbook has continued to expand, rea=
+ching 7,612 vessels of 207.2m CGT at start-2H, up 19% y-o-y &hellip; Korea ha=
+s 38.3m CGT on order (18%) and leads in the LNG carrier sector.&quot;</span><=
+/p>
+<p>Page 17, table &quot;Orderbook by Country/Region&quot;:</p>
+<table>
+<tr><th>Forward Cover (years)</th><th>2019</th><th>2020</th><th>2021</th><th>=
+2022</th><th>2023</th><th>2024</th><th>2025</th><th>2026*</th></tr>
+<tr><td>Global Total</td><td>2.5</td><td>2.8</td><td>3.0</td><td>3.7</td><td>=
+3.7</td><td>4.0</td><td>4.1</td><td>4.3</td></tr>
+</table>
+<p>(trend column: &quot;UP 6% y-o-y&quot;)</p>
+<table>
+<tr><th>South Korea, Million GT</th><th>2025</th><th>2026*</th><th>Delivery 2=
+026</th><th>2027</th><th>2028</th><th>2029+</th></tr>
+<tr><td>Major Shipbuilders table</td><td>65.5</td><td>69.4</td><td>9.2</td><t=
+d>23.1</td><td>23.8</td><td>13.3</td></tr>
+</table>
+
+<p><b>2) Newbuilding prices still high</b><br>
+Page 10, table &quot;Newbuilding Price Index&quot; (base Jan'88=3D100):</p>
+<table>
+<tr><th></th><th>2018</th><th>2019</th><th>2020</th><th>2021</th><th>2022</th=
+><th>2023</th><th>2024</th><th>2025</th><th>Jun*</th></tr>
+<tr><td>Price Index</td><td>130</td><td>130</td><td>126</td><td>154</td><td>1=
+62</td><td>178</td><td>189</td><td>185</td><td>185</td></tr>
+</table>
+<p>(trend: &quot;STEADY -1%&quot; vs 1 year ago)</p>
+<p><span class=3D"quote">&quot;Newbuild prices increased across Q2-26, with o=
+ur Newbuilding Price Index standing at 185 points as of start-Jul, up by 1.7%=
+ from the recent low in Mar-26 and just 2.6% below the recent high in Sep-24.=
+&quot;</span></p>
+
+<p><b>3) 2026-2028 delivery wave</b><br>
+Page: same cover/highlights page as point 1.<br>
+<span class=3D"quote">&quot;Shipyard deliveries are forecast to reach ~50m CG=
+T in the full year (+13% y-o-y), before rising a further 22% to ~61m CGT in 2=
+027 (set to exceed the previous shipbuilding boom's CGT peak, though remains =
+5% below in dwt terms).&quot;</span></p>
+
+<p>So: 2026 pace already flat vs 2025, yards have limited free capacity (4.3-=
+yr global forward cover, Korean yards' own backlog still growing), prices sit=
+ting near the cycle high, and a record delivery wave lands right as 2027 orde=
+rs would be placed &rarr; assume 2027 lands around the 2026 annualized level =
+(~6.0m GT) or a bit below.</p>
+
+</body></html>
+
+--===============7387007559264035100==--

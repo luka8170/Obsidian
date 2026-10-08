@@ -1,0 +1,14 @@
+document.write("<div id='ad_con02' style='padding:0 0 20px 0px'>") ;
+document.write("<div id='dablewidget_2XnrLvXd' data-widget_id='2XnrLvXd'>") ;
+(function(d,a,b,l,e,_) {
+if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', 'news.donga.com');
+dable('renderWidget', 'dablewidget_2XnrLvXd', {ignore_items: true});
+document.write("</div>") ;
+document.write("</div>") ;
+
+
+//document.write("<div id='ad_con02' style='padding:0 0 0 60px'><iframe width='660' height='340' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2013.donga.com/news@x08' frameborder='0' marginwidth='0' marginheight='0' scrolling='no'></iframe></div>") ;

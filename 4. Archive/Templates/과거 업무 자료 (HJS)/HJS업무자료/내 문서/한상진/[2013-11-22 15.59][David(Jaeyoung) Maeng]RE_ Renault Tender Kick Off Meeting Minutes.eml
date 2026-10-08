@@ -1,0 +1,2438 @@
+Received: from KOVHGVMC.hanjin.com ([203.246.154.18]) by kovhgvmd.hanjin.com
+ ([203.246.154.24]) with mapi id 14.03.0123.003; Fri, 22 Nov 2013 16:59:07
+ +0900
+From: "David(Jaeyoung) Maeng" <jymaeng@hanjin.com>
+To: Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.hanjin.com>, KYOHEI SUNAGA
+	<ksunaga@jp.hanjin.com>, Woojung Kim <wjkim@hanjin.com>, YOSHITSUGU KAGAWA
+	<kagawa@jp.hanjin.com>, "Jessie(Ji-Soo) YOON" <jessyoon@hanjin.com>, David
+ Malbos <david@hanjin.com>, "Mark(Yoon-Jai) LEE" <yjlee@hanjin.com>, Kenny
+ CHIN <kchin@us.hanjin.com>, Brian MARTORANO <mbrian@us.hanjin.com>, Patricia
+ HALSALL <phalsall@us.hanjin.com>, Sunha KANG <sunpark@us.hanjin.com>, Richard
+ NUZZI <rnuzzi@us.hanjin.com>, Sang-Ryun JEON <srjeon@hanjin.com>, Sheldon
+ SHIKHEL <sshikhel@us.hanjin.com>, "Peter (Ho Seob) LEE"
+	<hplee@us.hanjin.com>, Peter F SCANLON <pscanlon@us.hanjin.com>, Jane CHOE
+	<jchoe@us.hanjin.com>, "Kooks(Kook-Shin) KIM" <kookskim@hanjin.com>,
+	"Ara(A-RA) CHO" <archo@hanjin.com>, "Dirk RIEDEL  (USE)"
+	<dirk.riedel@de.hanjin.com>, Bettina BAHLKE <bettina.bahlke@de.hanjin.com>,
+	Nico DENCKER <nico.dencker@de.hanjin.com>, Tobias HEIFLER
+	<tobias.heifler@de.hanjin.com>, "Ole JOHANNSEN  (USA)"
+	<ole.johannsen@de.hanjin.com>, Anja SERKE <anja.serke@de.hanjin.com>, Jesse
+ Turner <jesse.turner@de.hanjin.com>, "Gordon VALENTINER  (USW)"
+	<gordon.valentiner@de.hanjin.com>, Louisa KLIETZ
+	<louisa.klietz@de.hanjin.com>, Ludmilla WIST <ludmilla.wist@de.hanjin.com>,
+	Chil-Ho KIM <chilhkim@hanjin.com>, Bae-Young SUH <bysuh@hanjin.com>,
+	Jeong-Jae CHOI <jjchoi@hanjin.com>, Seven LIU <sevenliu@cn.hanjin.com>,
+	Hyung-Su KIM <hskim@hanjin.com>, Dae-Young KANG <dykang@hanjin.com>,
+	Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>,
+	Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Alan
+ TAY <alantay@sg.hanjin.com>, "Bak Teng (Alvin) YEO" <btyeo@sg.hanjin.com>,
+	Jess YAM <kyyam@sg.hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Hyun-Sup
+ SHIN <hsshin@hanjin.com>, Dongsoo AHN <dsahn@hanjin.com>, Yong-Hwa JUN
+	<yongma27@hanjin.com>, Ki-up KIM <kimkiup@hanjin.com>, Kyung-Su SIN
+	<kssin@hanjin.com>, "Lucy(Ji-Young) Rhee" <lucyrhee@hanjin.com>, Sang-Hyeob
+ YEO <ysh517@hanjin.com>, Chul-Wan PARK <jcpark@hanjin.com>, Joo-Won Lee
+	<lejo@hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>, Yoon-Han JUNG
+	<jungyh@hanjin.com>, Jong-Suk LIM <jslim@hanjin.com>, Sang-Soo LEE
+	<2ss@hanjin.com>, Ho-Sik PARK <hspark@hanjin.com>, "Edward(Kwang-Min) LEE"
+	<kmlee@hanjin.com>, "Dynia(Min-Sun) Kim" <mskim@hanjin.com>, Sungjae Kang
+	<sjkang81@hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>, Seung-Min
+ PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG
+	<ch021@hanjin.com>, "Daisy(Ji-Kyong) BHANG" <jkbhang@hanjin.com>,
+	"TH(Tae-Hoon) AN" <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>,
+	Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, "Lloyd(Woosik)
+ Yang" <shakin@hanjin.com>, "Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>,
+	Gracie CHEN <wmchen@sg.hanjin.com>, "JH(Jin-Ha) LEE" <jinhalee@hanjin.com>,
+	Byung-Ro YOO <bryoo1@hanjin.com>, "Chris(Seonmyung) Kim" <kimsm@hanjin.com>,
+	"Sylvia(He-Jung) KIM" <sylvia_k@hanjin.com>
+CC: "Marcus C. FIELD" <marcus.field@de.hanjin.com>, Gabriele SCHERNER
+	<gabriele.scherner@de.hanjin.com>, Rob DURENKAMP
+	<rob.durenkamp@nl.hanjin.com>, Dirk-Carsten Wiegers
+	<dirk.wiegers@de.hanjin.com>, Marko Sevke <marko.sevke@de.hanjin.com>, Soja
+ BONG <soja.bong@de.hanjin.com>, Jana Fuhrhop <jana.fuhrhop@de.hanjin.com>,
+	Michael Stein <michael.stein@de.hanjin.com>, Sang-Yeol YU <syyu@hanjin.com>,
+	Yun-Ho FRERE <yun-ho.frere@fr.hanjin.com>, Didier JEAN
+	<didier.jean@fr.hanjin.com>, Veronica ZHANG <veronica@cn.hanjin.com>,
+	MASAHIRO YOSHIDA <myoshi@jp.hanjin.com>, MASAHARU UMIHARA
+	<umihara@jp.hanjin.com>, KUNIYUKI OTANI <kohtan@jp.hanjin.com>, Young-Chung
+ OK <ycok@hanjin.com>, "SY(Sung-Yull) PARK" <parksy@hanjin.com>, "B. H. LEE"
+	<bhunlee@hanjin.com>, Jong-Won PARK <jwonpark@hanjin.com>, "MJ(Min-Jeong)
+ NAM" <mjnam@hanjin.com>, Cheong-Rim WOO <clwoo@hanjin.com>, Young-Kuk YUN
+	<ykyun@hanjin.com>, Chan-Young KANG <cykang@hanjin.com>, Seung-Hoon JO
+	<shjo8514@hanjin.com>
+Subject: RE: Renault Tender Kick Off Meeting Minutes
+Thread-Topic: Renault Tender Kick Off Meeting Minutes
+Thread-Index:
+ Ac7WPpEiKfUlTILcQQKpSBsDh1CUewAsWztQAFf5hBMAZMLokQA4jkLwAR6HJEAAAPgyMQAO/oyDAfYYEtA=
+Disposition-Notification-To: "David(Jaeyoung) Maeng" <jymaeng@hanjin.com>
+Date: Fri, 22 Nov 2013 16:59:06 +0900
+Message-ID: <31FF11C9AEE38F49BB7586BF5C617D6817D16246@kovhgvmc.hanjin.com>
+References:
+ <710BB4023378054AA3E8AEF3419573240415A6@eow380e.hanjin.com>,<019FAB02A3A9FC47BCC042A0B97EFFB906E212@cow380f.hanjin.com>,<79F196451F75304889A6ACA50658573C17D25D43@kovhgvmc.hanjin.com>,<223DD73C689E3C40AA7ED3188696AA7217D18A89@kovhgvmc.hanjin.com>
+ <223DD73C689E3C40AA7ED3188696AA7217D19035@kovhgvmc.hanjin.com>,<13728D3B998D484AA8A08CD06B50640F037D75@kovhhvmc.hanjin.com>,<223DD73C689E3C40AA7ED3188696AA7217D1A48A@kovhgvmc.hanjin.com>,<8E1C0876F1E1D54187B9377AA9FCE67C14032EF0@EOW380F.hanjin.com>
+In-Reply-To: <8E1C0876F1E1D54187B9377AA9FCE67C14032EF0@EOW380F.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: kovhgvmd.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.246.154.253]
+Content-Type: multipart/alternative;
+	boundary="_000_31FF11C9AEE38F49BB7586BF5C617D6817D16246kovhgvmchanjinc_"
+MIME-Version: 1.0
+
+--_000_31FF11C9AEE38F49BB7586BF5C617D6817D16246kovhgvmchanjinc_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+TO : ALL CONCERNED
+
+FM : PUSBE
+
+
+Good day.
+
+We would inform you of PUSBS has succeeded in attracting Renault's 2014 shi=
+pment from KRPUS to MYPKG with VLCBB.
+
+In order to keep making good biz relationship with Renault and Renault Sams=
+ung, please refer to below details about this business.
+
+
+=3D Details =3D
+
+1. Shipper: Renault Samsung Motors
+
+2. Item: Auto parts with dangerous cargo(Batteries, Airbag Inflators and Se=
+atbelt pretensioner)
+
+3. POL/POD: KRPUS/MYPKG
+
+4. Vol: 1009 Teu / Year
+
+On top of that, Renault has held 2014 bidding both in France and Japan for =
+their 310,000 Teus shipment,
+
+which each POL sales office should be updated with sufficient information i=
+n timely manner so that HJS can attract this business as much as we can.
+
+
+In this sense, we request you to check out status of Renault's 2014 bidding=
+ and share it with each sales office in timely manner as
+
+Renault Samsung in Korea requested PUSBS to make a presentation for KRPUS-M=
+YPKG business last June.
+
+This means a sales represantative has to prepare and make a presentation wh=
+en each Renault office requests it if HJS is nominated one of finalist.
+
+
+Furthermore, it is recommendable for each sales office to check out suitabl=
+e lanes for Renault's shipment
+
+due to the fact that their cargos contain Airbag Inflators and Seatbelt pre=
+tensioner(UNNO 3268, CLASS 9)
+
+which is under severe restriction in SGSIN for its transshipment.
+
+
+It is expected that this business can contribute to HJS' 2014 profit, and w=
+e hope everyone's keen attention on 2014 bidding.
+
+
+
+
+
+________________________________
+From : "Jean-Pascal BIDOIRE" <jean.pascal.bidoire@fr.hanjin.com>
+Sent : 2013-11-12 17:16:20 ( +09:00 )
+To : KYOHEI SUNAGA <ksunaga@jp.hanjin.com>, Woojung Kim <wjkim@hanjin.com>,=
+ YOSHITSUGU KAGAWA <kagawa@jp.hanjin.com>, Jessie(Ji-Soo) YOON <jessyoon@ha=
+njin.com>, David Malbos <david@hanjin.com>, Mark(Yoon-Jai) LEE <yjlee@hanji=
+n.com>, Kenny CHIN <kchin@us.hanjin.com>, Brian MARTORANO <mbrian@us.hanjin=
+.com>, Patricia HALSALL <phalsall@us.hanjin.com>, Sunha KANG <sunpark@us.ha=
+njin.com>, Richard NUZZI <rnuzzi@us.hanjin.com>, Sang-Ryun JEON <srjeon@han=
+jin.com>, Sheldon SHIKHEL <sshikhel@us.hanjin.com>, Peter (Ho Seob) LEE <hp=
+lee@us.hanjin.com>, Peter F SCANLON <pscanlon@us.hanjin.com>, Jane CHOE <jc=
+hoe@us.hanjin.com>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com>, Ara(A-RA) C=
+HO <archo@hanjin.com>, Dirk RIEDEL (USE) <dirk.riedel@de.hanjin.com>, Betti=
+na BAHLKE <bettina.bahlke@de.hanjin.com>, Nico DENCKER <nico.dencker@de.han=
+jin.com>, Tobias HEIFLER <tobias.heifler@de.hanjin.com>, Ole JOHANNSEN (USA=
+) <ole.johannsen@de.hanjin.com>, Anja SERKE <anja.serke@de.hanjin.com>, Jes=
+se Turner <jesse.turner@de.hanjin.com>, Gordon VALENTINER (USW) <gordon.val=
+entiner@de.hanjin.com>, Louisa KLIETZ <louisa.klietz@de.hanjin.com>, Ludmil=
+la WIST <ludmilla.wist@de.hanjin.com>, Chil-Ho KIM <chilhkim@hanjin.com>, B=
+ae-Young SUH <bysuh@hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>, Seven =
+LIU <sevenliu@cn.hanjin.com>, Hyung-Su KIM <hskim@hanjin.com>, Dae-Young KA=
+NG <dykang@hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK <k=
+sikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG <joseph.ng=
+@sg.hanjin.com>, Alan TAY <alantay@sg.hanjin.com>, Bak Teng (Alvin) YEO <bt=
+yeo@sg.hanjin.com>, Jess YAM <kyyam@sg.hanjin.com>, Deok-Lim CHOI <dlchoi@h=
+anjin.com>, Hyun-Sup SHIN <hsshin@hanjin.com>, Dongsoo AHN <dsahn@hanjin.co=
+m>, Yong-Hwa JUN <yongma27@hanjin.com>, Ki-up KIM <kimkiup@hanjin.com>, Kyu=
+ng-Su SIN <kssin@hanjin.com>, Lucy(Ji-Young) Rhee <lucyrhee@hanjin.com>, Sa=
+ng-Hyeob YEO <ysh517@hanjin.com>, Chul-Wan PARK <jcpark@hanjin.com>, Joo-Wo=
+n Lee <lejo@hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>, Yoon-Han JUNG <=
+jungyh@hanjin.com>, Jong-Suk LIM <jslim@hanjin.com>, Sang-Soo LEE <2ss@hanj=
+in.com>, Ho-Sik PARK <hspark@hanjin.com>, Edward(Kwang-Min) LEE <kmlee@hanj=
+in.com>, Dynia(Min-Sun) Kim <mskim@hanjin.com>, Sungjae Kang <sjkang81@hanj=
+in.com>, MD(Myung-Deok) CHO <mdcho@hanjin.com>, Seung-Min PARK <sminpark@ha=
+njin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.c=
+om>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com>, TH(Tae-Hoon) AN <than@hanj=
+in.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>,=
+ Aram KIM <aram@hanjin.com>, Lloyd(Woosik) Yang <shakin@hanjin.com>, Luth(K=
+yung-Won) CHOI <luthchoi@hanjin.com>, Gracie CHEN <wmchen@sg.hanjin.com>, J=
+H(Jin-Ha) LEE <jinhalee@hanjin.com>, Byung-Ro YOO <bryoo1@hanjin.com>, Chri=
+s(Seonmyung) Kim <kimsm@hanjin.com>, Sylvia(He-Jung) KIM <sylvia_k@hanjin.c=
+om>, David(Jaeyoung) Maeng <jymaeng@hanjin.com>
+Cc : Marcus C. FIELD <marcus.field@de.hanjin.com>, Gabriele SCHERNER <gabri=
+ele.scherner@de.hanjin.com>, Rob DURENKAMP <rob.durenkamp@nl.hanjin.com>, D=
+irk-Carsten Wiegers <dirk.wiegers@de.hanjin.com>, Marko Sevke <marko.sevke@=
+de.hanjin.com>, Soja BONG <soja.bong@de.hanjin.com>, Jana Fuhrhop <jana.fuh=
+rhop@de.hanjin.com>, Michael Stein <michael.stein@de.hanjin.com>, Sang-Yeol=
+ YU <syyu@hanjin.com>, Yun-Ho FRERE <yun-ho.frere@fr.hanjin.com>, Didier JE=
+AN <didier.jean@fr.hanjin.com>, Veronica ZHANG <veronica@cn.hanjin.com>, MA=
+SAHIRO YOSHIDA <myoshi@jp.hanjin.com>, MASAHARU UMIHARA <umihara@jp.hanjin.=
+com>, KUNIYUKI OTANI <kohtan@jp.hanjin.com>
+Subject : RE: Renault Tender Kick Off Meeting Minutes
+
+TO PUSBE
+FM LEHBBS
+
+plse find here below.
+
+Tks & rgds,
+Jean-Pascal BIDOIRE
+LEHBBS
+Ph: 33 2 3519 8653
+
+
+________________________________
+From : "KYOHEI SUNAGA" <ksunaga@jp.hanjin.com>
+Sent : 2013-11-12 02:34:03 ( +01:00 )
+To : Woojung Kim <wjkim@hanjin.com>, YOSHITSUGU KAGAWA <kagawa@jp.hanjin.co=
+m>, Jessie(Ji-Soo) YOON <jessyoon@hanjin.com>, David Malbos <david@hanjin.c=
+om>, Mark(Yoon-Jai) LEE <yjlee@hanjin.com>, Kenny CHIN <kchin@us.hanjin.com=
+>, Brian MARTORANO <mbrian@us.hanjin.com>, Patricia HALSALL <phalsall@us.ha=
+njin.com>, Sunha KANG <sunpark@us.hanjin.com>, Richard NUZZI <rnuzzi@us.han=
+jin.com>, Sang-Ryun JEON <srjeon@hanjin.com>, Sheldon SHIKHEL <sshikhel@us.=
+hanjin.com>, Peter (Ho Seob) LEE <hplee@us.hanjin.com>, Peter F SCANLON <ps=
+canlon@us.hanjin.com>, Jane CHOE <jchoe@us.hanjin.com>, Kooks(Kook-Shin) KI=
+M <kookskim@hanjin.com>, Ara(A-RA) CHO <archo@hanjin.com>, Dirk RIEDEL (USE=
+) <dirk.riedel@de.hanjin.com>, Bettina BAHLKE <bettina.bahlke@de.hanjin.com=
+>, Nico DENCKER <nico.dencker@de.hanjin.com>, Tobias HEIFLER <tobias.heifle=
+r@de.hanjin.com>, Ole JOHANNSEN (USA) <ole.johannsen@de.hanjin.com>, Anja S=
+ERKE <anja.serke@de.hanjin.com>, Jesse Turner <jesse.turner@de.hanjin.com>,=
+ Gordon VALENTINER (USW) <gordon.valentiner@de.hanjin.com>, Louisa KLIETZ <=
+louisa.klietz@de.hanjin.com>, Ludmilla WIST <ludmilla.wist@de.hanjin.com>, =
+Chil-Ho KIM <chilhkim@hanjin.com>, Bae-Young SUH <bysuh@hanjin.com>, Jeong-=
+Jae CHOI <jjchoi@hanjin.com>, Seven LIU <sevenliu@cn.hanjin.com>, Hyung-Su =
+KIM <hskim@hanjin.com>, Dae-Young KANG <dykang@hanjin.com>, Hong-Kyoo LEE <=
+hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmle=
+ea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Alan TAY <alantay@sg.h=
+anjin.com>, Bak Teng (Alvin) YEO <btyeo@sg.hanjin.com>, Jess YAM <kyyam@sg.=
+hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Hyun-Sup SHIN <hsshin@hanji=
+n.com>, Dongsoo AHN <dsahn@hanjin.com>, Yong-Hwa JUN <yongma27@hanjin.com>,=
+ Ki-up KIM <kimkiup@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Lucy(Ji-Y=
+oung) Rhee <lucyrhee@hanjin.com>, Sang-Hyeob YEO <ysh517@hanjin.com>, Chul-=
+Wan PARK <jcpark@hanjin.com>, Joo-Won Lee <lejo@hanjin.com>, Andrew Hou <an=
+drew@cn.hanjin.com>, Yoon-Han JUNG <jungyh@hanjin.com>, Jong-Suk LIM <jslim=
+@hanjin.com>, Sang-Soo LEE <2ss@hanjin.com>, Ho-Sik PARK <hspark@hanjin.com=
+>, Edward(Kwang-Min) LEE <kmlee@hanjin.com>, Dynia(Min-Sun) Kim <mskim@hanj=
+in.com>, Sungjae Kang <sjkang81@hanjin.com>, MD(Myung-Deok) CHO <mdcho@hanj=
+in.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin=
+.com>, SH(SUK-HWAN) JUNG <ch021@hanjin.com>, Daisy(Ji-Kyong) BHANG <jkbhang=
+@hanjin.com>, TH(Tae-Hoon) AN <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin=
+.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, Lloyd(=
+Woosik) Yang <shakin@hanjin.com>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com=
+>, Gracie CHEN <wmchen@sg.hanjin.com>, JH(Jin-Ha) LEE <jinhalee@hanjin.com>=
+, Byung-Ro YOO <bryoo1@hanjin.com>, Chris(Seonmyung) Kim <kimsm@hanjin.com>=
+, Sylvia(He-Jung) KIM <sylvia_k@hanjin.com>
+Cc : Marcus C. FIELD <marcus.field@de.hanjin.com>, Gabriele SCHERNER <gabri=
+ele.scherner@de.hanjin.com>, Rob DURENKAMP <rob.durenkamp@nl.hanjin.com>, D=
+irk-Carsten Wiegers <dirk.wiegers@de.hanjin.com>, Marko Sevke <marko.sevke@=
+de.hanjin.com>, Soja BONG <soja.bong@de.hanjin.com>, Jana Fuhrhop <jana.fuh=
+rhop@de.hanjin.com>, Michael Stein <michael.stein@de.hanjin.com>, Sang-Yeol=
+ YU <syyu@hanjin.com>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.hanjin.c=
+om>, Yun-Ho FRERE <yun-ho.frere@fr.hanjin.com>, Didier JEAN <didier.jean@fr=
+.hanjin.com>, Veronica ZHANG <veronica@cn.hanjin.com>, MASAHIRO YOSHIDA <my=
+oshi@jp.hanjin.com>, MASAHARU UMIHARA <umihara@jp.hanjin.com>, KUNIYUKI OTA=
+NI <kohtan@jp.hanjin.com>
+Subject : RE: Renault Tender Kick Off Meeting Minutes
+
+To : CCE
+From : TYOBBS
+Indivisual Negotiation is only for ongoing main carriers while
+RFQ distribution is open for all carriers.
+
+Nissan indicated their target rates to main carriers on main lanes.
+If Carriers agree to continue contract at indicated rate level, the agreed =
+lanes will not be included in RFQ for open tender.
+
+Best Regards,
+KS
+
+________________________________
+From : "Woojung Kim" <wjkim@hanjin.com>
+Sent : 2013-11-12 09:42:04 ( +09:00 )
+To : KYOHEI SUNAGA <ksunaga@jp.hanjin.com>, YOSHITSUGU KAGAWA <kagawa@jp.ha=
+njin.com>, Jessie(Ji-Soo) YOON <jessyoon@hanjin.com>, David Malbos <david@h=
+anjin.com>, Mark(Yoon-Jai) LEE <yjlee@hanjin.com>, Kenny CHIN <kchin@us.han=
+jin.com>, Brian MARTORANO <mbrian@us.hanjin.com>, Patricia HALSALL <phalsal=
+l@us.hanjin.com>, Sunha KANG <sunpark@us.hanjin.com>, Richard NUZZI <rnuzzi=
+@us.hanjin.com>, Sang-Ryun JEON <srjeon@hanjin.com>, Sheldon SHIKHEL <sshik=
+hel@us.hanjin.com>, Peter (Ho Seob) LEE <hplee@us.hanjin.com>, Peter F SCAN=
+LON <pscanlon@us.hanjin.com>, Jane CHOE <jchoe@us.hanjin.com>, Kooks(Kook-S=
+hin) KIM <kookskim@hanjin.com>, Ara(A-RA) CHO <archo@hanjin.com>, Dirk RIED=
+EL (USE) <dirk.riedel@de.hanjin.com>, Bettina BAHLKE <bettina.bahlke@de.han=
+jin.com>, Nico DENCKER <nico.dencker@de.hanjin.com>, Tobias HEIFLER <tobias=
+.heifler@de.hanjin.com>, Ole JOHANNSEN (USA) <ole.johannsen@de.hanjin.com>,=
+ Anja SERKE <anja.serke@de.hanjin.com>, Jesse Turner <jesse.turner@de.hanji=
+n.com>, Gordon VALENTINER (USW) <gordon.valentiner@de.hanjin.com>, Louisa K=
+LIETZ <louisa.klietz@de.hanjin.com>, Ludmilla WIST <ludmilla.wist@de.hanjin=
+.com>, Chil-Ho KIM <chilhkim@hanjin.com>, Bae-Young SUH <bysuh@hanjin.com>,=
+ Jeong-Jae CHOI <jjchoi@hanjin.com>, Seven LIU <sevenliu@cn.hanjin.com>, Hy=
+ung-Su KIM <hskim@hanjin.com>, Dae-Young KANG <dykang@hanjin.com>, Hong-Kyo=
+o LEE <hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LE=
+E <jmleea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Alan TAY <alant=
+ay@sg.hanjin.com>, Bak Teng (Alvin) YEO <btyeo@sg.hanjin.com>, Jess YAM <ky=
+yam@sg.hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Hyun-Sup SHIN <hsshi=
+n@hanjin.com>, Dongsoo AHN <dsahn@hanjin.com>, Yong-Hwa JUN <yongma27@hanji=
+n.com>, Ki-up KIM <kimkiup@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Lu=
+cy(Ji-Young) Rhee <lucyrhee@hanjin.com>, Sang-Hyeob YEO <ysh517@hanjin.com>=
+, Chul-Wan PARK <jcpark@hanjin.com>, Joo-Won Lee <lejo@hanjin.com>, Andrew =
+Hou <andrew@cn.hanjin.com>, Yoon-Han JUNG <jungyh@hanjin.com>, Jong-Suk LIM=
+ <jslim@hanjin.com>, Sang-Soo LEE <2ss@hanjin.com>, Ho-Sik PARK <hspark@han=
+jin.com>, Edward(Kwang-Min) LEE <kmlee@hanjin.com>, Dynia(Min-Sun) Kim <msk=
+im@hanjin.com>, Sungjae Kang <sjkang81@hanjin.com>, MD(Myung-Deok) CHO <mdc=
+ho@hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72=
+@hanjin.com>, SH(SUK-HWAN) JUNG <ch021@hanjin.com>, Daisy(Ji-Kyong) BHANG <=
+jkbhang@hanjin.com>, TH(Tae-Hoon) AN <than@hanjin.com>, Sang-Jin HAN <sjhan=
+@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>,=
+ Lloyd(Woosik) Yang <shakin@hanjin.com>, Luth(Kyung-Won) CHOI <luthchoi@han=
+jin.com>, Gracie CHEN <wmchen@sg.hanjin.com>, JH(Jin-Ha) LEE <jinhalee@hanj=
+in.com>, Byung-Ro YOO <bryoo1@hanjin.com>, Chris(Seonmyung) Kim <kimsm@hanj=
+in.com>, Sylvia(He-Jung) KIM <sylvia_k@hanjin.com>
+Cc : Marcus C. FIELD <marcus.field@de.hanjin.com>, Gabriele SCHERNER <gabri=
+ele.scherner@de.hanjin.com>, Rob DURENKAMP <rob.durenkamp@nl.hanjin.com>, D=
+irk-Carsten Wiegers <dirk.wiegers@de.hanjin.com>, Marko Sevke <marko.sevke@=
+de.hanjin.com>, Soja BONG <soja.bong@de.hanjin.com>, Jana Fuhrhop <jana.fuh=
+rhop@de.hanjin.com>, Michael Stein <michael.stein@de.hanjin.com>, Sang-Yeol=
+ YU <syyu@hanjin.com>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.hanjin.c=
+om>, Yun-Ho FRERE <yun-ho.frere@fr.hanjin.com>, Didier JEAN <didier.jean@fr=
+.hanjin.com>, Veronica ZHANG <veronica@cn.hanjin.com>, MASAHIRO YOSHIDA <my=
+oshi@jp.hanjin.com>, MASAHARU UMIHARA <umihara@jp.hanjin.com>, KUNIYUKI OTA=
+NI <kohtan@jp.hanjin.com>
+Subject : RE: Renault Tender Kick Off Meeting Minutes
+
+TO : TYOBBS
+FM : CCE
+
+Well noted the below.
+What are the differences between =93RFQ distribution=94 and =93individual n=
+egotiation=94?
+
+Thanks a lot.
+
+
+Thanks&B.Rgds
+WJ Kim
+
+Asia & Europe Customer Team, Hanjin Shipping
+Office : 82-2-3770-6597
+Mobile : 82-10-7174-0497
+e-mail : wjkim@hanjin.com<mailto:wjkim@hanjin.com>
+
+From:KYOHEI SUNAGA
+Sent: Wednesday, November 06, 2013 5:31 PM
+To: YOSHITSUGU KAGAWA; Jessie(Ji-Soo) YOON; David Malbos; Mark(Yoon-Jai) LE=
+E; Kenny CHIN; Brian MARTORANO; Patricia HALSALL; Sunha KANG; Richard NUZZI=
+; Sang-Ryun JEON; Sheldon SHIKHEL; Peter (Ho Seob) LEE; Peter F SCANLON; Ja=
+ne CHOE; Kooks(Kook-Shin) KIM; Ara(A-RA) CHO; Dirk RIEDEL (USE); Bettina BA=
+HLKE; Nico DENCKER; Tobias HEIFLER; Ole JOHANNSEN (USA); Anja SERKE; Jesse =
+Turner; Gordon VALENTINER (USW); Louisa KLIETZ; Ludmilla WIST; Chil-Ho KIM;=
+ Bae-Young SUH; Jeong-Jae CHOI; Seven LIU; Hyung-Su KIM; Dae-Young KANG; Ho=
+ng-Kyoo LEE; Kyong-Sik PARK; Jung-Moo LEE; Joseph NG; Alan TAY; Bak Teng (A=
+lvin) YEO; Jess YAM; Deok-Lim CHOI; Hyun-Sup SHIN; Dongsoo AHN; Yong-Hwa JU=
+N; Ki-up KIM; Kyung-Su SIN; Lucy(Ji-Young) Rhee; Sang-Hyeob YEO; Chul-Wan P=
+ARK; Joo-Won Lee; Andrew Hou; Yoon-Han JUNG; Jong-Suk LIM; Sang-Soo LEE; Ho=
+-Sik PARK; Edward(Kwang-Min) LEE; Dynia(Min-Sun) Kim; Sungjae Kang; MD(Myun=
+g-Deok) CHO; Seung-Min PARK; Nam-Hoon BAIK; SH(SUK-HWAN) JUNG; Woojung Kim;=
+ Daisy(Ji-Kyong) BHANG; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram =
+KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; JH(Jin-Ha) LEE;=
+ Byung-Ro YOO; Chris(Seonmyung) Kim; Sylvia(He-Jung) KIM
+Cc: Marcus C. FIELD; Gabriele SCHERNER; Rob DURENKAMP; Dirk-Carsten Wiegers=
+; Marko Sevke; Soja BONG; Jana Fuhrhop; Michael Stein; Sang-Yeol YU; Jean-P=
+ascal BIDOIRE; Yun-Ho FRERE; Didier JEAN; Veronica ZHANG; MASAHIRO YOSHIDA;=
+ MASAHARU UMIHARA; KUNIYUKI OTANI
+Subject: RE: Renault Tender Kick Off Meeting Minutes
+
+To : ASM
+Cc : UCM
+From : TYOBBS
+
+Have spoken to Key person in Nissan Motor and found as follows.
+
+1) Target date for RFQ distribition is NOV19 as an outcome from Renault's m=
+eeting
+2) Nissan has larger volume on ASIA-EUR trade and It is almost sure for Nis=
+san to mainly control the trade on their tender,
+however they still work on fixing role of Renault and Nissan by lane.
+Further details won't be available until RFQ is given.
+3) Indivisual negotiation has been ongoing. Nissan suggested target rate fo=
+r 3 year contract to
+7 carriers and now waiting for an outcome from each carrier.
+4) Target rate can not be disclosed to others than designated carrier.
+
+5) Specific lanes included in open tender will vary by results of indivisua=
+l negotiation.
+
+
+
+Though we are not listed in an indivisual negotiation carrier, submitted ou=
+r wish list of lanes where we want to be involved in next 3 years.
+
+We will continue to seek through communication with Nissan for further deta=
+ils and any hints to form our strategy.
+
+
+
+Best Regards,
+Kyohei
+
+________________________________
+From : "KYOHEI SUNAGA" <ksunaga@jp.hanjin.com<mailto:ksunaga@jp.hanjin.com>=
+>
+Sent : 2013-11-05 13:58:49 ( +09:00 )
+To : YOSHITSUGU KAGAWA <kagawa@jp.hanjin.com<mailto:kagawa@jp.hanjin.com>>,=
+ Jessie(Ji-Soo) YOON <jessyoon@hanjin.com<mailto:jessyoon@hanjin.com>>, Dav=
+id Malbos <david@hanjin.com<mailto:david@hanjin.com>>, Mark(Yoon-Jai) LEE <=
+yjlee@hanjin.com<mailto:yjlee@hanjin.com>>, Kenny CHIN <kchin@us.hanjin.com=
+<mailto:kchin@us.hanjin.com>>, Brian MARTORANO <mbrian@us.hanjin.com<mailto=
+:mbrian@us.hanjin.com>>, Patricia HALSALL <phalsall@us.hanjin.com<mailto:ph=
+alsall@us.hanjin.com>>, Sunha KANG <sunpark@us.hanjin.com<mailto:sunpark@us=
+.hanjin.com>>, Richard NUZZI <rnuzzi@us.hanjin.com<mailto:rnuzzi@us.hanjin.=
+com>>, Sang-Ryun JEON <srjeon@hanjin.com<mailto:srjeon@hanjin.com>>, Sheldo=
+n SHIKHEL <sshikhel@us.hanjin.com<mailto:sshikhel@us.hanjin.com>>, Peter (H=
+o Seob) LEE <hplee@us.hanjin.com<mailto:hplee@us.hanjin.com>>, Peter F SCAN=
+LON <pscanlon@us.hanjin.com<mailto:pscanlon@us.hanjin.com>>, Jane CHOE <jch=
+oe@us.hanjin.com<mailto:jchoe@us.hanjin.com>>, Kooks(Kook-Shin) KIM <kooksk=
+im@hanjin.com<mailto:kookskim@hanjin.com>>, Ara(A-RA) CHO <archo@hanjin.com=
+<mailto:archo@hanjin.com>>, Dirk RIEDEL (USE) <dirk.riedel@de.hanjin.com<ma=
+ilto:dirk.riedel@de.hanjin.com>>, Bettina BAHLKE <bettina.bahlke@de.hanjin.=
+com<mailto:bettina.bahlke@de.hanjin.com>>, Nico DENCKER <nico.dencker@de.ha=
+njin.com<mailto:nico.dencker@de.hanjin.com>>, Tobias HEIFLER <tobias.heifle=
+r@de.hanjin.com<mailto:tobias.heifler@de.hanjin.com>>, Ole JOHANNSEN (USA) =
+<ole.johannsen@de.hanjin.com<mailto:ole.johannsen@de.hanjin.com>>, Anja SER=
+KE <anja.serke@de.hanjin.com<mailto:anja.serke@de.hanjin.com>>, Jesse Turne=
+r <jesse.turner@de.hanjin.com<mailto:jesse.turner@de.hanjin.com>>, Gordon V=
+ALENTINER (USW) <gordon.valentiner@de.hanjin.com<mailto:gordon.valentiner@d=
+e.hanjin.com>>, Louisa KLIETZ <louisa.klietz@de.hanjin.com<mailto:louisa.kl=
+ietz@de.hanjin.com>>, Ludmilla WIST <ludmilla.wist@de.hanjin.com<mailto:lud=
+milla.wist@de.hanjin.com>>, Chil-Ho KIM <chilhkim@hanjin.com<mailto:chilhki=
+m@hanjin.com>>, Bae-Young SUH <bysuh@hanjin.com<mailto:bysuh@hanjin.com>>, =
+Jeong-Jae CHOI <jjchoi@hanjin.com<mailto:jjchoi@hanjin.com>>, Seven LIU <se=
+venliu@cn.hanjin.com<mailto:sevenliu@cn.hanjin.com>>, Hyung-Su KIM <hskim@h=
+anjin.com<mailto:hskim@hanjin.com>>, Dae-Young KANG <dykang@hanjin.com<mail=
+to:dykang@hanjin.com>>, Hong-Kyoo LEE <hklee@hanjin.com<mailto:hklee@hanjin=
+.com>>, Kyong-Sik PARK <ksikpark@hanjin.com<mailto:ksikpark@hanjin.com>>, J=
+ung-Moo LEE <jmleea@hanjin.com<mailto:jmleea@hanjin.com>>, Joseph NG <josep=
+h.ng@sg.hanjin.com<mailto:joseph.ng@sg.hanjin.com>>, Alan TAY <alantay@sg.h=
+anjin.com<mailto:alantay@sg.hanjin.com>>, Bak Teng (Alvin) YEO <btyeo@sg.ha=
+njin.com<mailto:btyeo@sg.hanjin.com>>, Jess YAM <kyyam@sg.hanjin.com<mailto=
+:kyyam@sg.hanjin.com>>, Deok-Lim CHOI <dlchoi@hanjin.com<mailto:dlchoi@hanj=
+in.com>>, Hyun-Sup SHIN <hsshin@hanjin.com<mailto:hsshin@hanjin.com>>, Dong=
+soo AHN <dsahn@hanjin.com<mailto:dsahn@hanjin.com>>, Yong-Hwa JUN <yongma27=
+@hanjin.com<mailto:yongma27@hanjin.com>>, Ki-up KIM <kimkiup@hanjin.com<mai=
+lto:kimkiup@hanjin.com>>, Kyung-Su SIN <kssin@hanjin.com<mailto:kssin@hanji=
+n.com>>, Lucy(Ji-Young) Rhee <lucyrhee@hanjin.com<mailto:lucyrhee@hanjin.co=
+m>>, Sang-Hyeob YEO <ysh517@hanjin.com<mailto:ysh517@hanjin.com>>, Chul-Wan=
+ PARK <jcpark@hanjin.com<mailto:jcpark@hanjin.com>>, Joo-Won Lee <lejo@hanj=
+in.com<mailto:lejo@hanjin.com>>, Andrew Hou <andrew@cn.hanjin.com<mailto:an=
+drew@cn.hanjin.com>>, Yoon-Han JUNG <jungyh@hanjin.com<mailto:jungyh@hanjin=
+.com>>, Jong-Suk LIM <jslim@hanjin.com<mailto:jslim@hanjin.com>>, Sang-Soo =
+LEE <2ss@hanjin.com<mailto:2ss@hanjin.com>>, Ho-Sik PARK <hspark@hanjin.com=
+<mailto:hspark@hanjin.com>>, Edward(Kwang-Min) LEE <kmlee@hanjin.com<mailto=
+:kmlee@hanjin.com>>, Dynia(Min-Sun) Kim <mskim@hanjin.com<mailto:mskim@hanj=
+in.com>>, Sungjae Kang <sjkang81@hanjin.com<mailto:sjkang81@hanjin.com>>, M=
+D(Myung-Deok) CHO <mdcho@hanjin.com<mailto:mdcho@hanjin.com>>, Seung-Min PA=
+RK <sminpark@hanjin.com<mailto:sminpark@hanjin.com>>, Nam-Hoon BAIK <hunt72=
+@hanjin.com<mailto:hunt72@hanjin.com>>, SH(SUK-HWAN) JUNG <ch021@hanjin.com=
+<mailto:ch021@hanjin.com>>, Woojung Kim <wjkim@hanjin.com<mailto:wjkim@hanj=
+in.com>>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com<mailto:jkbhang@hanjin.c=
+om>>, TH(Tae-Hoon) AN <than@hanjin.com<mailto:than@hanjin.com>>, Sang-Jin H=
+AN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Yoo-Kyung KIM <kimyk@hanjin=
+.com<mailto:kimyk@hanjin.com>>, Aram KIM <aram@hanjin.com<mailto:aram@hanji=
+n.com>>, Lloyd(Woosik) Yang <shakin@hanjin.com<mailto:shakin@hanjin.com>>, =
+Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanjin.com>>, Gra=
+cie CHEN <wmchen@sg.hanjin.com<mailto:wmchen@sg.hanjin.com>>, JH(Jin-Ha) LE=
+E <jinhalee@hanjin.com<mailto:jinhalee@hanjin.com>>, Byung-Ro YOO <bryoo1@h=
+anjin.com<mailto:bryoo1@hanjin.com>>, Chris(Seonmyung) Kim <kimsm@hanjin.co=
+m<mailto:kimsm@hanjin.com>>, Sylvia(He-Jung) KIM <sylvia_k@hanjin.com<mailt=
+o:sylvia_k@hanjin.com>>
+Cc : Marcus C. FIELD <marcus.field@de.hanjin.com<mailto:marcus.field@de.han=
+jin.com>>, Gabriele SCHERNER <gabriele.scherner@de.hanjin.com<mailto:gabrie=
+le.scherner@de.hanjin.com>>, Rob DURENKAMP <rob.durenkamp@nl.hanjin.com<mai=
+lto:rob.durenkamp@nl.hanjin.com>>, Dirk-Carsten Wiegers <dirk.wiegers@de.ha=
+njin.com<mailto:dirk.wiegers@de.hanjin.com>>, Marko Sevke <marko.sevke@de.h=
+anjin.com<mailto:marko.sevke@de.hanjin.com>>, Soja BONG <soja.bong@de.hanji=
+n.com<mailto:soja.bong@de.hanjin.com>>, Jana Fuhrhop <jana.fuhrhop@de.hanji=
+n.com<mailto:jana.fuhrhop@de.hanjin.com>>, Michael Stein <michael.stein@de.=
+hanjin.com<mailto:michael.stein@de.hanjin.com>>, Sang-Yeol YU <syyu@hanjin.=
+com<mailto:syyu@hanjin.com>>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.h=
+anjin.com<mailto:jean.pascal.bidoire@fr.hanjin.com>>, Yun-Ho FRERE <yun-ho.=
+frere@fr.hanjin.com<mailto:yun-ho.frere@fr.hanjin.com>>, Didier JEAN <didie=
+r.jean@fr.hanjin.com<mailto:didier.jean@fr.hanjin.com>>, Veronica ZHANG <ve=
+ronica@cn.hanjin.com<mailto:veronica@cn.hanjin.com>>, MASAHIRO YOSHIDA <myo=
+shi@jp.hanjin.com<mailto:myoshi@jp.hanjin.com>>, MASAHARU UMIHARA <umihara@=
+jp.hanjin.com<mailto:umihara@jp.hanjin.com>>
+Subject : RE: Renault Tender Kick Off Meeting Minutes
+To : ASM
+Cc : all concerned
+From : TYOBBS
+
+As far as we learn so far, indivisual negotiation has been ongoing now.
+Our counter part is not available today and will revert as soon as we hear =
+and confirm the latest information
+refering to the outcome from meeting with Renault.
+
+
+
+Best Regards,
+Kyohei
+
+________________________________
+From : "YOSHITSUGU KAGAWA" <kagawa@jp.hanjin.com<mailto:kagawa@jp.hanjin.co=
+m>>
+Sent : 2013-11-03 14:14:24 ( +09:00 )
+To : Jessie(Ji-Soo) YOON <jessyoon@hanjin.com<mailto:jessyoon@hanjin.com>>,=
+ David Malbos <david@hanjin.com<mailto:david@hanjin.com>>, Mark(Yoon-Jai) L=
+EE <yjlee@hanjin.com<mailto:yjlee@hanjin.com>>, Kenny CHIN <kchin@us.hanjin=
+.com<mailto:kchin@us.hanjin.com>>, Brian MARTORANO <mbrian@us.hanjin.com<ma=
+ilto:mbrian@us.hanjin.com>>, Patricia HALSALL <phalsall@us.hanjin.com<mailt=
+o:phalsall@us.hanjin.com>>, Sunha KANG <sunpark@us.hanjin.com<mailto:sunpar=
+k@us.hanjin.com>>, Richard NUZZI <rnuzzi@us.hanjin.com<mailto:rnuzzi@us.han=
+jin.com>>, Sang-Ryun JEON <srjeon@hanjin.com<mailto:srjeon@hanjin.com>>, Sh=
+eldon SHIKHEL <sshikhel@us.hanjin.com<mailto:sshikhel@us.hanjin.com>>, Pete=
+r (Ho Seob) LEE <hplee@us.hanjin.com<mailto:hplee@us.hanjin.com>>, Peter F =
+SCANLON <pscanlon@us.hanjin.com<mailto:pscanlon@us.hanjin.com>>, Jane CHOE =
+<jchoe@us.hanjin.com<mailto:jchoe@us.hanjin.com>>, Kooks(Kook-Shin) KIM <ko=
+okskim@hanjin.com<mailto:kookskim@hanjin.com>>, Ara(A-RA) CHO <archo@hanjin=
+.com<mailto:archo@hanjin.com>>, Dirk RIEDEL (USE) <dirk.riedel@de.hanjin.co=
+m<mailto:dirk.riedel@de.hanjin.com>>, Bettina BAHLKE <bettina.bahlke@de.han=
+jin.com<mailto:bettina.bahlke@de.hanjin.com>>, Nico DENCKER <nico.dencker@d=
+e.hanjin.com<mailto:nico.dencker@de.hanjin.com>>, Tobias HEIFLER <tobias.he=
+ifler@de.hanjin.com<mailto:tobias.heifler@de.hanjin.com>>, Ole JOHANNSEN (U=
+SA) <ole.johannsen@de.hanjin.com<mailto:ole.johannsen@de.hanjin.com>>, Anja=
+ SERKE <anja.serke@de.hanjin.com<mailto:anja.serke@de.hanjin.com>>, Jesse T=
+urner <jesse.turner@de.hanjin.com<mailto:jesse.turner@de.hanjin.com>>, Gord=
+on VALENTINER (USW) <gordon.valentiner@de.hanjin.com<mailto:gordon.valentin=
+er@de.hanjin.com>>, Louisa KLIETZ <louisa.klietz@de.hanjin.com<mailto:louis=
+a.klietz@de.hanjin.com>>, Ludmilla WIST <ludmilla.wist@de.hanjin.com<mailto=
+:ludmilla.wist@de.hanjin.com>>, Chil-Ho KIM <chilhkim@hanjin.com<mailto:chi=
+lhkim@hanjin.com>>, Bae-Young SUH <bysuh@hanjin.com<mailto:bysuh@hanjin.com=
+>>, Jeong-Jae CHOI <jjchoi@hanjin.com<mailto:jjchoi@hanjin.com>>, Seven LIU=
+ <sevenliu@cn.hanjin.com<mailto:sevenliu@cn.hanjin.com>>, Hyung-Su KIM <hsk=
+im@hanjin.com<mailto:hskim@hanjin.com>>, Dae-Young KANG <dykang@hanjin.com<=
+mailto:dykang@hanjin.com>>, Hong-Kyoo LEE <hklee@hanjin.com<mailto:hklee@ha=
+njin.com>>, Kyong-Sik PARK <ksikpark@hanjin.com<mailto:ksikpark@hanjin.com>=
+>, Jung-Moo LEE <jmleea@hanjin.com<mailto:jmleea@hanjin.com>>, Joseph NG <j=
+oseph.ng@sg.hanjin.com<mailto:joseph.ng@sg.hanjin.com>>, Alan TAY <alantay@=
+sg.hanjin.com<mailto:alantay@sg.hanjin.com>>, Bak Teng (Alvin) YEO <btyeo@s=
+g.hanjin.com<mailto:btyeo@sg.hanjin.com>>, Jess YAM <kyyam@sg.hanjin.com<ma=
+ilto:kyyam@sg.hanjin.com>>, Deok-Lim CHOI <dlchoi@hanjin.com<mailto:dlchoi@=
+hanjin.com>>, Hyun-Sup SHIN <hsshin@hanjin.com<mailto:hsshin@hanjin.com>>, =
+Dongsoo AHN <dsahn@hanjin.com<mailto:dsahn@hanjin.com>>, Yong-Hwa JUN <yong=
+ma27@hanjin.com<mailto:yongma27@hanjin.com>>, Ki-up KIM <kimkiup@hanjin.com=
+<mailto:kimkiup@hanjin.com>>, Kyung-Su SIN <kssin@hanjin.com<mailto:kssin@h=
+anjin.com>>, Lucy(Ji-Young) Rhee <lucyrhee@hanjin.com<mailto:lucyrhee@hanji=
+n.com>>, Sang-Hyeob YEO <ysh517@hanjin.com<mailto:ysh517@hanjin.com>>, Chul=
+-Wan PARK <jcpark@hanjin.com<mailto:jcpark@hanjin.com>>, Joo-Won Lee <lejo@=
+hanjin.com<mailto:lejo@hanjin.com>>, Andrew Hou <andrew@cn.hanjin.com<mailt=
+o:andrew@cn.hanjin.com>>, Yoon-Han JUNG <jungyh@hanjin.com<mailto:jungyh@ha=
+njin.com>>, Jong-Suk LIM <jslim@hanjin.com<mailto:jslim@hanjin.com>>, Sang-=
+Soo LEE <2ss@hanjin.com<mailto:2ss@hanjin.com>>, Ho-Sik PARK <hspark@hanjin=
+.com<mailto:hspark@hanjin.com>>, Edward(Kwang-Min) LEE <kmlee@hanjin.com<ma=
+ilto:kmlee@hanjin.com>>, Dynia(Min-Sun) Kim <mskim@hanjin.com<mailto:mskim@=
+hanjin.com>>, Sungjae Kang <sjkang81@hanjin.com<mailto:sjkang81@hanjin.com>=
+>, MD(Myung-Deok) CHO <mdcho@hanjin.com<mailto:mdcho@hanjin.com>>, Seung-Mi=
+n PARK <sminpark@hanjin.com<mailto:sminpark@hanjin.com>>, Nam-Hoon BAIK <hu=
+nt72@hanjin.com<mailto:hunt72@hanjin.com>>, SH(SUK-HWAN) JUNG <ch021@hanjin=
+.com<mailto:ch021@hanjin.com>>, Woojung Kim <wjkim@hanjin.com<mailto:wjkim@=
+hanjin.com>>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com<mailto:jkbhang@hanj=
+in.com>>, TH(Tae-Hoon) AN <than@hanjin.com<mailto:than@hanjin.com>>, Sang-J=
+in HAN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Yoo-Kyung KIM <kimyk@ha=
+njin.com<mailto:kimyk@hanjin.com>>, Aram KIM <aram@hanjin.com<mailto:aram@h=
+anjin.com>>, Lloyd(Woosik) Yang <shakin@hanjin.com<mailto:shakin@hanjin.com=
+>>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanjin.com>>,=
+ Gracie CHEN <wmchen@sg.hanjin.com<mailto:wmchen@sg.hanjin.com>>, JH(Jin-Ha=
+) LEE <jinhalee@hanjin.com<mailto:jinhalee@hanjin.com>>, Byung-Ro YOO <bryo=
+o1@hanjin.com<mailto:bryoo1@hanjin.com>>, Chris(Seonmyung) Kim <kimsm@hanji=
+n.com<mailto:kimsm@hanjin.com>>, Sylvia(He-Jung) KIM <sylvia_k@hanjin.com<m=
+ailto:sylvia_k@hanjin.com>>
+Cc : Marcus C. FIELD <marcus.field@de.hanjin.com<mailto:marcus.field@de.han=
+jin.com>>, Gabriele SCHERNER <gabriele.scherner@de.hanjin.com<mailto:gabrie=
+le.scherner@de.hanjin.com>>, Rob DURENKAMP <rob.durenkamp@nl.hanjin.com<mai=
+lto:rob.durenkamp@nl.hanjin.com>>, Dirk-Carsten Wiegers <dirk.wiegers@de.ha=
+njin.com<mailto:dirk.wiegers@de.hanjin.com>>, Marko Sevke <marko.sevke@de.h=
+anjin.com<mailto:marko.sevke@de.hanjin.com>>, Soja BONG <soja.bong@de.hanji=
+n.com<mailto:soja.bong@de.hanjin.com>>, Jana Fuhrhop <jana.fuhrhop@de.hanji=
+n.com<mailto:jana.fuhrhop@de.hanjin.com>>, Michael Stein <michael.stein@de.=
+hanjin.com<mailto:michael.stein@de.hanjin.com>>, Sang-Yeol YU <syyu@hanjin.=
+com<mailto:syyu@hanjin.com>>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.h=
+anjin.com<mailto:jean.pascal.bidoire@fr.hanjin.com>>, Yun-Ho FRERE <yun-ho.=
+frere@fr.hanjin.com<mailto:yun-ho.frere@fr.hanjin.com>>, Didier JEAN <didie=
+r.jean@fr.hanjin.com<mailto:didier.jean@fr.hanjin.com>>, Veronica ZHANG <ve=
+ronica@cn.hanjin.com<mailto:veronica@cn.hanjin.com>>, KYOHEI SUNAGA <ksunag=
+a@jp.hanjin.com<mailto:ksunaga@jp.hanjin.com>>, MASAHIRO YOSHIDA <myoshi@jp=
+.hanjin.com<mailto:myoshi@jp.hanjin.com>>, MASAHARU UMIHARA <umihara@jp.han=
+jin.com<mailto:umihara@jp.hanjin.com>>
+Subject : RE: Renault Tender Kick Off Meeting Minutes
+TO Sunaga
+
+Pls update last meeting with PIC of Nissan Motor in datail which was rather=
+ different from what Renault / Nissan officially announced.
+
+B.rgds
+
+
+
+________________________________
+From : "Jessie(Ji-Soo) YOON" <jessyoon@hanjin.com<mailto:jessyoon@hanjin.co=
+m>>
+Sent : 2013-11-01 19:55:40 ( +09:00 )
+To : David Malbos <david@hanjin.com<mailto:david@hanjin.com>>, Mark(Yoon-Ja=
+i) LEE <yjlee@hanjin.com<mailto:yjlee@hanjin.com>>, Kenny CHIN <kchin@us.ha=
+njin.com<mailto:kchin@us.hanjin.com>>, Brian MARTORANO <mbrian@us.hanjin.co=
+m<mailto:mbrian@us.hanjin.com>>, Patricia HALSALL <phalsall@us.hanjin.com<m=
+ailto:phalsall@us.hanjin.com>>, Sunha KANG <sunpark@us.hanjin.com<mailto:su=
+npark@us.hanjin.com>>, Richard NUZZI <rnuzzi@us.hanjin.com<mailto:rnuzzi@us=
+.hanjin.com>>, Sang-Ryun JEON <srjeon@hanjin.com<mailto:srjeon@hanjin.com>>=
+, Sheldon SHIKHEL <sshikhel@us.hanjin.com<mailto:sshikhel@us.hanjin.com>>, =
+Peter (Ho Seob) LEE <hplee@us.hanjin.com<mailto:hplee@us.hanjin.com>>, Pete=
+r F SCANLON <pscanlon@us.hanjin.com<mailto:pscanlon@us.hanjin.com>>, Jane C=
+HOE <jchoe@us.hanjin.com<mailto:jchoe@us.hanjin.com>>, Kooks(Kook-Shin) KIM=
+ <kookskim@hanjin.com<mailto:kookskim@hanjin.com>>, Ara(A-RA) CHO <archo@ha=
+njin.com<mailto:archo@hanjin.com>>, Dirk RIEDEL (USE) <dirk.riedel@de.hanji=
+n.com<mailto:dirk.riedel@de.hanjin.com>>, Bettina BAHLKE <bettina.bahlke@de=
+.hanjin.com<mailto:bettina.bahlke@de.hanjin.com>>, Nico DENCKER <nico.denck=
+er@de.hanjin.com<mailto:nico.dencker@de.hanjin.com>>, Tobias HEIFLER <tobia=
+s.heifler@de.hanjin.com<mailto:tobias.heifler@de.hanjin.com>>, Ole JOHANNSE=
+N (USA) <ole.johannsen@de.hanjin.com<mailto:ole.johannsen@de.hanjin.com>>, =
+Anja SERKE <anja.serke@de.hanjin.com<mailto:anja.serke@de.hanjin.com>>, Jes=
+se Turner <jesse.turner@de.hanjin.com<mailto:jesse.turner@de.hanjin.com>>, =
+Gordon VALENTINER (USW) <gordon.valentiner@de.hanjin.com<mailto:gordon.vale=
+ntiner@de.hanjin.com>>, Louisa KLIETZ <louisa.klietz@de.hanjin.com<mailto:l=
+ouisa.klietz@de.hanjin.com>>, Ludmilla WIST <ludmilla.wist@de.hanjin.com<ma=
+ilto:ludmilla.wist@de.hanjin.com>>, Chil-Ho KIM <chilhkim@hanjin.com<mailto=
+:chilhkim@hanjin.com>>, Bae-Young SUH <bysuh@hanjin.com<mailto:bysuh@hanjin=
+.com>>, Jeong-Jae CHOI <jjchoi@hanjin.com<mailto:jjchoi@hanjin.com>>, Seven=
+ LIU <sevenliu@cn.hanjin.com<mailto:sevenliu@cn.hanjin.com>>, Hyung-Su KIM =
+<hskim@hanjin.com<mailto:hskim@hanjin.com>>, YOSHITSUGU KAGAWA <kagawa@jp.h=
+anjin.com<mailto:kagawa@jp.hanjin.com>>, Dae-Young KANG <dykang@hanjin.com<=
+mailto:dykang@hanjin.com>>, Hong-Kyoo LEE <hklee@hanjin.com<mailto:hklee@ha=
+njin.com>>, Kyong-Sik PARK <ksikpark@hanjin.com<mailto:ksikpark@hanjin.com>=
+>, Jung-Moo LEE <jmleea@hanjin.com<mailto:jmleea@hanjin.com>>, Joseph NG <j=
+oseph.ng@sg.hanjin.com<mailto:joseph.ng@sg.hanjin.com>>, Alan TAY <alantay@=
+sg.hanjin.com<mailto:alantay@sg.hanjin.com>>, Bak Teng (Alvin) YEO <btyeo@s=
+g.hanjin.com<mailto:btyeo@sg.hanjin.com>>, Jess YAM <kyyam@sg.hanjin.com<ma=
+ilto:kyyam@sg.hanjin.com>>, Deok-Lim CHOI <dlchoi@hanjin.com<mailto:dlchoi@=
+hanjin.com>>, Hyun-Sup SHIN <hsshin@hanjin.com<mailto:hsshin@hanjin.com>>, =
+Dongsoo AHN <dsahn@hanjin.com<mailto:dsahn@hanjin.com>>, Yong-Hwa JUN <yong=
+ma27@hanjin.com<mailto:yongma27@hanjin.com>>, Ki-up KIM <kimkiup@hanjin.com=
+<mailto:kimkiup@hanjin.com>>, Kyung-Su SIN <kssin@hanjin.com<mailto:kssin@h=
+anjin.com>>, Lucy(Ji-Young) Rhee <lucyrhee@hanjin.com<mailto:lucyrhee@hanji=
+n.com>>, Sang-Hyeob YEO <ysh517@hanjin.com<mailto:ysh517@hanjin.com>>, Chul=
+-Wan PARK <jcpark@hanjin.com<mailto:jcpark@hanjin.com>>, Joo-Won Lee <lejo@=
+hanjin.com<mailto:lejo@hanjin.com>>, Andrew Hou <andrew@cn.hanjin.com<mailt=
+o:andrew@cn.hanjin.com>>, Yoon-Han JUNG <jungyh@hanjin.com<mailto:jungyh@ha=
+njin.com>>, Jong-Suk LIM <jslim@hanjin.com<mailto:jslim@hanjin.com>>, Sang-=
+Soo LEE <2ss@hanjin.com<mailto:2ss@hanjin.com>>, Ho-Sik PARK <hspark@hanjin=
+.com<mailto:hspark@hanjin.com>>, Edward(Kwang-Min) LEE <kmlee@hanjin.com<ma=
+ilto:kmlee@hanjin.com>>, Dynia(Min-Sun) Kim <mskim@hanjin.com<mailto:mskim@=
+hanjin.com>>, Sungjae Kang <sjkang81@hanjin.com<mailto:sjkang81@hanjin.com>=
+>, MD(Myung-Deok) CHO <mdcho@hanjin.com<mailto:mdcho@hanjin.com>>, Seung-Mi=
+n PARK <sminpark@hanjin.com<mailto:sminpark@hanjin.com>>, Nam-Hoon BAIK <hu=
+nt72@hanjin.com<mailto:hunt72@hanjin.com>>, SH(SUK-HWAN) JUNG <ch021@hanjin=
+.com<mailto:ch021@hanjin.com>>, Woojung Kim <wjkim@hanjin.com<mailto:wjkim@=
+hanjin.com>>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com<mailto:jkbhang@hanj=
+in.com>>, TH(Tae-Hoon) AN <than@hanjin.com<mailto:than@hanjin.com>>, Sang-J=
+in HAN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Yoo-Kyung KIM <kimyk@ha=
+njin.com<mailto:kimyk@hanjin.com>>, Aram KIM <aram@hanjin.com<mailto:aram@h=
+anjin.com>>, Lloyd(Woosik) Yang <shakin@hanjin.com<mailto:shakin@hanjin.com=
+>>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanjin.com>>,=
+ Gracie CHEN <wmchen@sg.hanjin.com<mailto:wmchen@sg.hanjin.com>>, JH(Jin-Ha=
+) LEE <jinhalee@hanjin.com<mailto:jinhalee@hanjin.com>>, Byung-Ro YOO <bryo=
+o1@hanjin.com<mailto:bryoo1@hanjin.com>>, Chris(Seonmyung) Kim <kimsm@hanji=
+n.com<mailto:kimsm@hanjin.com>>, Sylvia(He-Jung) KIM <sylvia_k@hanjin.com<m=
+ailto:sylvia_k@hanjin.com>>
+Cc : Marcus C. FIELD <marcus.field@de.hanjin.com<mailto:marcus.field@de.han=
+jin.com>>, Gabriele SCHERNER <gabriele.scherner@de.hanjin.com<mailto:gabrie=
+le.scherner@de.hanjin.com>>, Rob DURENKAMP <rob.durenkamp@nl.hanjin.com<mai=
+lto:rob.durenkamp@nl.hanjin.com>>, Dirk-Carsten Wiegers <dirk.wiegers@de.ha=
+njin.com<mailto:dirk.wiegers@de.hanjin.com>>, Marko Sevke <marko.sevke@de.h=
+anjin.com<mailto:marko.sevke@de.hanjin.com>>, Soja BONG <soja.bong@de.hanji=
+n.com<mailto:soja.bong@de.hanjin.com>>, Jana Fuhrhop <jana.fuhrhop@de.hanji=
+n.com<mailto:jana.fuhrhop@de.hanjin.com>>, Michael Stein <michael.stein@de.=
+hanjin.com<mailto:michael.stein@de.hanjin.com>>, Sang-Yeol YU <syyu@hanjin.=
+com<mailto:syyu@hanjin.com>>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.h=
+anjin.com<mailto:jean.pascal.bidoire@fr.hanjin.com>>, Yun-Ho FRERE <yun-ho.=
+frere@fr.hanjin.com<mailto:yun-ho.frere@fr.hanjin.com>>, Didier JEAN <didie=
+r.jean@fr.hanjin.com<mailto:didier.jean@fr.hanjin.com>>, Veronica ZHANG <ve=
+ronica@cn.hanjin.com<mailto:veronica@cn.hanjin.com>>
+Subject : RE: Renault Tender Kick Off Meeting Minutes
+Dear David,
+
+Thank you for sharing your meeting minutes and well understood the process =
+of the bidding for 2014.
+As recommended by UCM, ASM accepts to manage the bidding in to two parts. L=
+et=92s well coordinate
+to gain their global biz in 2014.
+
+RIC : TYOBBS, Please note the bidding sked and also collect more info about=
+ the bidding from Nissan
+side and let=92s start our preparation for the Nissan Bidding.
+
+Thank you and have a nice weekend.
+ASM
+
+From:David Malbos
+Sent: Thursday, October 31, 2013 10:38 PM
+To: Mark(Yoon-Jai) LEE; Kenny CHIN; Brian MARTORANO; Patricia HALSALL; Sunh=
+a KANG; Richard NUZZI; Sang-Ryun JEON; Sheldon SHIKHEL; Peter (Ho Seob) LEE=
+; Peter F SCANLON; Jane CHOE; Kooks(Kook-Shin) KIM; Ara(A-RA) CHO; Dirk RIE=
+DEL (USE); Bettina BAHLKE; Nico DENCKER; Tobias HEIFLER; Ole JOHANNSEN (USA=
+); Anja SERKE; Jesse Turner; Gordon VALENTINER (USW); Louisa KLIETZ; Ludmil=
+la WIST; Chil-Ho KIM; Bae-Young SUH; Jeong-Jae CHOI; Jessie(Ji-Soo) YOON; S=
+even LIU; Hyung-Su KIM; YOSHITSUGU KAGAWA; Dae-Young KANG; Hong-Kyoo LEE; K=
+yong-Sik PARK; Jung-Moo LEE; Joseph NG; Alan TAY; Bak Teng (Alvin) YEO; Jes=
+s YAM; Deok-Lim CHOI; Hyun-Sup SHIN; Dongsoo AHN; Yong-Hwa JUN; Ki-up KIM; =
+Kyung-Su SIN; Lucy(Ji-Young) Rhee; Sang-Hyeob YEO; Chul-Wan PARK; Joo-Won L=
+ee; Andrew Hou; Yoon-Han JUNG; Jong-Suk LIM; Sang-Soo LEE; Ho-Sik PARK; Edw=
+ard(Kwang-Min) LEE; Dynia(Min-Sun) Kim; Sungjae Kang; MD(Myung-Deok) CHO; S=
+eung-Min PARK; Nam-Hoon BAIK; SH(SUK-HWAN) JUNG; Woojung Kim; Daisy(Ji-Kyon=
+g) BHANG; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woo=
+sik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; JH(Jin-Ha) LEE; Byung-Ro YOO;=
+ Chris(Seonmyung) Kim; Sylvia(He-Jung) KIM
+Cc: Marcus C. FIELD; Gabriele SCHERNER; Rob DURENKAMP; Dirk-Carsten Wiegers=
+; Marko Sevke; Soja BONG; Jana Fuhrhop; Michael Stein; Sang-Yeol YU; Jean-P=
+ascal BIDOIRE; Yun-Ho FRERE; Didier JEAN
+Subject: Renault Tender Kick Off Meeting Minutes
+
+
+To: XCGs, XSGs, XCMs, CCM, CCE, CCB, CCA. , LEHBBG/S, TYOBB
+Fm: UCM
+
+Dear all,
+
+Please find below minutes of the information meeting held at Renault in Par=
+is introducing their tender process.
+
+Location
+Guyancourt (Paris), France October 30th 2013
+Attendees
+Renault/Nissan: Jean-Elophe Blaise, Logistics Suppliers MGR for Europe
+Renault/Nissan: Carl Beijer, Logistics Supplier
+Renault/Nissan: Kumi Yoshida, Logistics Buyer
+Renault: Vincent Rome, Overseas transport MGR
+Renault: Frederic Depaepe, Project Leader transport
+Renault: Loup Tournand, Project Leader transport
+HJS: LEHBBG, BBS, BBS/Yun-Ho Frere, UCG/Rob Durenkamp, UCM
+
+Other shipping lines were invited at the same time, as this was a group ses=
+sion.
+
+Basic tender process overview
+
+
+  *   17 carriers are invited
+  *   Schedule:
+
+     *   RFQ release: Nov. 19th
+     *   1 round offer: Dec. 12th
+     *   1 round F2F: W4 2014
+     *   2 round offer: W5 2014
+     *   2 round F2F: W6
+     *   Nomination: Early March 2014
+
+  *   Tender contents:
+
+     *   3 year rate validity for routes covering "mature", or "steady" mar=
+kets (such as AESW, TPSE)
+     *   1 year validity for "volatile" or "emerging" markets (such as Lata=
+m)
+     *   a SLA (Service Level Agreement)
+
+  *   Potential volumes: More than 310,000 TEUs per year (1/3 for Renault, =
+rest for Nissan)
+
+=95         Renault/Nissan negotiation parties are split between Paris and =
+Tokyo:
+
+     *   Europe to/from Latam: Paris
+     *   Other trades: Tokyo
+
+  *   Bidding platforms:
+
+     *   Paris negotiated portion: OCCON
+     *   Tokyo negotiated portion: Excel sheets
+
+  *   Selection criteria:
+
+     *   O/F level
+     *   Transit time (no T/S, 1 additional day transit time is valued at a=
+ cost of USD 20/25)
+     *   There will be a floating mechanism, but not yet fixed, probably a =
+BAF reviewed every 6 months
+     *   7 to 10 carrier globally will be selected
+
+  *   There are also 3 or 4 port/pairs that dont fall under the 1 or 3 year=
+ validity tenders. They will be follow a more simple RFQ process
+
+
+
+A presentation of the bid will be distributed in the coming days, i will fo=
+rward it to relevant parties as soon as received.
+
+Similar presentation will be held in Japan.
+
+
+
+UCM recommendations:
+
+
+
+As per Renault/Nissan's set up of having 2 negotiation parties, it is diffi=
+cult to have 1 internal Customer Management team
+
+to handle this customer. However as per their split of trades, HJS has the =
+most potential and interest in the Tokyo negotiated part. For the Paris neg=
+otiated part, HJS allocation and service is limited.
+
+Therefore, would suggest that ASM takes over the lead on this customer in c=
+ollaboration with TYOBB.
+
+LEHBB will remain as contact window for the Paris part.
+
+
+
+Kind Regards,
+
+UCM
+
+
+--_000_31FF11C9AEE38F49BB7586BF5C617D6817D16246kovhgvmchanjinc_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body>
+<div style=3D"FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12=
+pt" id=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div><font color=3D"#004080"><strong>TO : ALL CONCERNED</strong></font></di=
+v>
+<div><font color=3D"#004080"><strong></strong></font>&nbsp;</div>
+<div><font color=3D"#004080"><strong>FM : PUSBE</strong></font></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">Good day.</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">We would inform you of
+<strong><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'">PU=
+SBS has succeeded in attracting Renault's 2014 shipment from KRPUS
+</span></strong></span><strong><span style=3D"FONT-FAMILY: '&#47569;&#51008=
+; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: text2" lang=3D"EN-US">=
+to MYPKG with VLCBB.</span></strong></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">In order to keep making good biz relationship with Re=
+nault and Renault Samsung, please refer to below details about this
+ business.</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US"><font face=3D""></font></span>&nbsp;</p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><strong><span style=3D=
+"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-them=
+ecolor: text2" lang=3D"EN-US">=3D Details =3D</span></strong></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><strong><span style=3D=
+"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-them=
+ecolor: text2" lang=3D"EN-US">1. Shipper: Renault Samsung Motors</span></st=
+rong></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><strong><span style=3D=
+"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-them=
+ecolor: text2" lang=3D"EN-US">2. Item: Auto parts with dangerous cargo(Batt=
+eries, Airbag Inflators and Seatbelt pretensioner)</span></strong></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><strong><span style=3D=
+"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-them=
+ecolor: text2" lang=3D"EN-US">3. POL/POD: KRPUS/MYPKG</span></strong></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><strong><span style=3D=
+"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-them=
+ecolor: text2" lang=3D"EN-US">4. Vol: 1009 Teu / Year</span></strong></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><strong><span style=3D=
+"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-them=
+ecolor: text2" lang=3D"EN-US"></span></strong>&nbsp;</p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">On top of that,
+<strong><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'">Re=
+nault has held 2014 bidding both in France and Japan for their 310,000 Teus=
+ shipment,
+</span></strong></span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">which each POL sales office should&nbsp;be updated&nb=
+sp;with sufficient information in timely manner so that HJS can attract thi=
+s business
+ as much </span><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#44256;&#463=
+57;'; COLOR: #1f497d; mso-themecolor: text2" lang=3D"EN-US">as we can.</spa=
+n></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US"></span>&nbsp;</p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">In this sense, we request you to
+<strong><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'">ch=
+eck out status of Renault's 2014 bidding and share it with each
+</span></strong></span><strong><span style=3D"FONT-FAMILY: '&#47569;&#51008=
+; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: text2" lang=3D"EN-US">=
+sales office&nbsp;in timely manner</span></strong><span style=3D"FONT-FAMIL=
+Y: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: tex=
+t2" lang=3D"EN-US">&nbsp;as
+</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US"><span style=3D"COLOR: #1f497d; mso-themecolor: text2"=
+ lang=3D"EN-US"></span></span>&nbsp;</p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">Renault Samsung in Korea requested PUSBS to make a pr=
+esentation&nbsp;</span><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#4425=
+6;&#46357;'; COLOR: #1f497d; mso-themecolor: text2" lang=3D"EN-US">for
+ KRPUS-MYPKG business last June.</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US"></span><span style=3D"FONT-FAMILY: '&#47569;&#51008; =
+&#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: text2" lang=3D"EN-US"><s=
+pan style=3D"COLOR: #1f497d; mso-themecolor: text2" lang=3D"EN-US"></span><=
+/span>&nbsp;</p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US"><strong><span style=3D"FONT-FAMILY: '&#47569;&#51008;=
+ &#44256;&#46357;'">This means a sales represantative has to prepare and ma=
+ke
+</span></strong></span><strong><span style=3D"FONT-FAMILY: '&#47569;&#51008=
+; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: text2" lang=3D"EN-US">=
+a presentation when each Renault office requests it if HJS is nominated one=
+ of finalist.</span></strong></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US"></span>&nbsp;</p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">Furthermore, it is recommendable for each sales offic=
+e to
+<strong><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'">ch=
+eck out suitable lanes for Renault's shipment</span></strong>
+<?xml:namespace prefix =3D o ns =3D "urn:schemas-microsoft-com:office:offic=
+e" />
+<o:p></o:p></span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">due to the fact that
+<strong><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'">th=
+eir cargos contain Airbag Inflators and Seatbelt pretensioner(UNNO 3268, CL=
+ASS 9)</span></strong><o:p></o:p></span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">which is under
+<strong><span style=3D"FONT-FAMILY: '&#47569;&#51008; &#44256;&#46357;'">se=
+vere restriction in SGSIN for its transshipment.</span></strong></span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US"><strong><span style=3D"FONT-FAMILY: '&#47569;&#51008;=
+ &#44256;&#46357;'"><font face=3D""></font></span></strong><o:p></o:p></spa=
+n>&nbsp;</p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">&nbsp;</span></p>
+<p style=3D"MARGIN: 0cm 0cm 0pt" class=3D"MsoNormal"><span style=3D"FONT-FA=
+MILY: '&#47569;&#51008; &#44256;&#46357;'; COLOR: #1f497d; mso-themecolor: =
+text2" lang=3D"EN-US">It is expected that this business can contribute to H=
+JS' 2014 profit, and we hope everyone's keen attention on 2014 bidding.</sp=
+an></p>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id=3D"MailSignSent"></div>
+<div><br>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div style=3D"FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex=3D"-1">
+<b>From : </b>&quot;Jean-Pascal BIDOIRE&quot; &lt;jean.pascal.bidoire@fr.ha=
+njin.com&gt;<br>
+<b>Sent : </b>2013-11-12 17:16:20 ( &#43;09:00 )<br>
+<b>To : </b>KYOHEI SUNAGA &lt;ksunaga@jp.hanjin.com&gt;, Woojung Kim &lt;wj=
+kim@hanjin.com&gt;, YOSHITSUGU KAGAWA &lt;kagawa@jp.hanjin.com&gt;, Jessie(=
+Ji-Soo) YOON &lt;jessyoon@hanjin.com&gt;, David Malbos &lt;david@hanjin.com=
+&gt;, Mark(Yoon-Jai) LEE &lt;yjlee@hanjin.com&gt;, Kenny CHIN &lt;kchin@us.=
+hanjin.com&gt;,
+ Brian MARTORANO &lt;mbrian@us.hanjin.com&gt;, Patricia HALSALL &lt;phalsal=
+l@us.hanjin.com&gt;, Sunha KANG &lt;sunpark@us.hanjin.com&gt;, Richard NUZZ=
+I &lt;rnuzzi@us.hanjin.com&gt;, Sang-Ryun JEON &lt;srjeon@hanjin.com&gt;, S=
+heldon SHIKHEL &lt;sshikhel@us.hanjin.com&gt;, Peter (Ho Seob) LEE &lt;hple=
+e@us.hanjin.com&gt;,
+ Peter F SCANLON &lt;pscanlon@us.hanjin.com&gt;, Jane CHOE &lt;jchoe@us.han=
+jin.com&gt;, Kooks(Kook-Shin) KIM &lt;kookskim@hanjin.com&gt;, Ara(A-RA) CH=
+O &lt;archo@hanjin.com&gt;, Dirk RIEDEL (USE) &lt;dirk.riedel@de.hanjin.com=
+&gt;, Bettina BAHLKE &lt;bettina.bahlke@de.hanjin.com&gt;, Nico DENCKER
+ &lt;nico.dencker@de.hanjin.com&gt;, Tobias HEIFLER &lt;tobias.heifler@de.h=
+anjin.com&gt;, Ole JOHANNSEN (USA) &lt;ole.johannsen@de.hanjin.com&gt;, Anj=
+a SERKE &lt;anja.serke@de.hanjin.com&gt;, Jesse Turner &lt;jesse.turner@de.=
+hanjin.com&gt;, Gordon VALENTINER (USW) &lt;gordon.valentiner@de.hanjin.com=
+&gt;,
+ Louisa KLIETZ &lt;louisa.klietz@de.hanjin.com&gt;, Ludmilla WIST &lt;ludmi=
+lla.wist@de.hanjin.com&gt;, Chil-Ho KIM &lt;chilhkim@hanjin.com&gt;, Bae-Yo=
+ung SUH &lt;bysuh@hanjin.com&gt;, Jeong-Jae CHOI &lt;jjchoi@hanjin.com&gt;,=
+ Seven LIU &lt;sevenliu@cn.hanjin.com&gt;, Hyung-Su KIM &lt;hskim@hanjin.co=
+m&gt;,
+ Dae-Young KANG &lt;dykang@hanjin.com&gt;, Hong-Kyoo LEE &lt;hklee@hanjin.c=
+om&gt;, Kyong-Sik PARK &lt;ksikpark@hanjin.com&gt;, Jung-Moo LEE &lt;jmleea=
+@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.com&gt;, Alan TAY &lt;al=
+antay@sg.hanjin.com&gt;, Bak Teng (Alvin) YEO &lt;btyeo@sg.hanjin.com&gt;,
+ Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Deok-Lim CHOI &lt;dlchoi@hanjin.com&=
+gt;, Hyun-Sup SHIN &lt;hsshin@hanjin.com&gt;, Dongsoo AHN &lt;dsahn@hanjin.=
+com&gt;, Yong-Hwa JUN &lt;yongma27@hanjin.com&gt;, Ki-up KIM &lt;kimkiup@ha=
+njin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;, Lucy(Ji-Young) Rhee &l=
+t;lucyrhee@hanjin.com&gt;,
+ Sang-Hyeob YEO &lt;ysh517@hanjin.com&gt;, Chul-Wan PARK &lt;jcpark@hanjin.=
+com&gt;, Joo-Won Lee &lt;lejo@hanjin.com&gt;, Andrew Hou &lt;andrew@cn.hanj=
+in.com&gt;, Yoon-Han JUNG &lt;jungyh@hanjin.com&gt;, Jong-Suk LIM &lt;jslim=
+@hanjin.com&gt;, Sang-Soo LEE &lt;2ss@hanjin.com&gt;, Ho-Sik PARK &lt;hspar=
+k@hanjin.com&gt;,
+ Edward(Kwang-Min) LEE &lt;kmlee@hanjin.com&gt;, Dynia(Min-Sun) Kim &lt;msk=
+im@hanjin.com&gt;, Sungjae Kang &lt;sjkang81@hanjin.com&gt;, MD(Myung-Deok)=
+ CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, =
+Nam-Hoon BAIK &lt;hunt72@hanjin.com&gt;, SUK-HWAN JUNG &lt;ch021@hanjin.com=
+&gt;,
+ Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than=
+@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Yoo-Kyung KIM &lt;k=
+imyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;, Lloyd(Woosik) Yang &=
+lt;shakin@hanjin.com&gt;, Luth(Kyung-Won) CHOI &lt;luthchoi@hanjin.com&gt;,
+ Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, JH(Jin-Ha) LEE &lt;jinhalee@hanj=
+in.com&gt;, Byung-Ro YOO &lt;bryoo1@hanjin.com&gt;, Chris(Seonmyung) Kim &l=
+t;kimsm@hanjin.com&gt;, Sylvia(He-Jung) KIM &lt;sylvia_k@hanjin.com&gt;, Da=
+vid(Jaeyoung) Maeng &lt;jymaeng@hanjin.com&gt;<br>
+<b>Cc : </b>Marcus C. FIELD &lt;marcus.field@de.hanjin.com&gt;, Gabriele SC=
+HERNER &lt;gabriele.scherner@de.hanjin.com&gt;, Rob DURENKAMP &lt;rob.duren=
+kamp@nl.hanjin.com&gt;, Dirk-Carsten Wiegers &lt;dirk.wiegers@de.hanjin.com=
+&gt;, Marko Sevke &lt;marko.sevke@de.hanjin.com&gt;, Soja BONG
+ &lt;soja.bong@de.hanjin.com&gt;, Jana Fuhrhop &lt;jana.fuhrhop@de.hanjin.c=
+om&gt;, Michael Stein &lt;michael.stein@de.hanjin.com&gt;, Sang-Yeol YU &lt=
+;syyu@hanjin.com&gt;, Yun-Ho FRERE &lt;yun-ho.frere@fr.hanjin.com&gt;, Didi=
+er JEAN &lt;didier.jean@fr.hanjin.com&gt;, Veronica ZHANG &lt;veronica@cn.h=
+anjin.com&gt;,
+ MASAHIRO YOSHIDA &lt;myoshi@jp.hanjin.com&gt;, MASAHARU UMIHARA &lt;umihar=
+a@jp.hanjin.com&gt;, KUNIYUKI OTANI &lt;kohtan@jp.hanjin.com&gt;<br>
+<b>Subject : </b>RE: Renault Tender Kick Off Meeting Minutes<br>
+<br>
+</div>
+<div style=3D"FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12=
+pt" id=3D"ezFormProc_div">
+<div>
+<div>TO PUSBE<br>
+FM LEHBBS</div>
+<font face=3D""></font></div>
+<div><font face=3D""></font>&nbsp;</div>
+<div>plse find here below.</div>
+<div><font face=3D""></font>&nbsp;</div>
+<div id=3D"MailSignSentSent">
+<div id=3D"kaoni_sign1">
+<div>
+<div><font face=3D"Arial">Tks &amp; rgds,</font></div>
+<div><font face=3D"Arial">Jean-Pascal BIDOIRE</font></div>
+<div><font face=3D"Arial">LEHBBS</font></div>
+<div><font face=3D"Arial">Ph: 33 2 3519 8653</font></div>
+<div><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; FONT-SIZE: 11pt; m=
+so-fareast-font-family: 'Malgun Gothic'; mso-fareast-theme-font: minor-fare=
+ast; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso=
+-fareast-language: KO; mso-bidi-language: AR-SA"></span>&nbsp;</div>
+</div>
+</div>
+</div>
+<div><br>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div style=3D"FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex=3D"-1">
+<b>From : </b>&quot;KYOHEI SUNAGA&quot; &lt;ksunaga@jp.hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-12 02:34:03 ( &#43;01:00 )<br>
+<b>To : </b>Woojung Kim &lt;wjkim@hanjin.com&gt;, YOSHITSUGU KAGAWA &lt;kag=
+awa@jp.hanjin.com&gt;, Jessie(Ji-Soo) YOON &lt;jessyoon@hanjin.com&gt;, Dav=
+id Malbos &lt;david@hanjin.com&gt;, Mark(Yoon-Jai) LEE &lt;yjlee@hanjin.com=
+&gt;, Kenny CHIN &lt;kchin@us.hanjin.com&gt;, Brian MARTORANO &lt;mbrian@us=
+.hanjin.com&gt;,
+ Patricia HALSALL &lt;phalsall@us.hanjin.com&gt;, Sunha KANG &lt;sunpark@us=
+.hanjin.com&gt;, Richard NUZZI &lt;rnuzzi@us.hanjin.com&gt;, Sang-Ryun JEON=
+ &lt;srjeon@hanjin.com&gt;, Sheldon SHIKHEL &lt;sshikhel@us.hanjin.com&gt;,=
+ Peter (Ho Seob) LEE &lt;hplee@us.hanjin.com&gt;, Peter F SCANLON &lt;pscan=
+lon@us.hanjin.com&gt;,
+ Jane CHOE &lt;jchoe@us.hanjin.com&gt;, Kooks(Kook-Shin) KIM &lt;kookskim@h=
+anjin.com&gt;, Ara(A-RA) CHO &lt;archo@hanjin.com&gt;, Dirk RIEDEL (USE) &l=
+t;dirk.riedel@de.hanjin.com&gt;, Bettina BAHLKE &lt;bettina.bahlke@de.hanji=
+n.com&gt;, Nico DENCKER &lt;nico.dencker@de.hanjin.com&gt;, Tobias HEIFLER
+ &lt;tobias.heifler@de.hanjin.com&gt;, Ole JOHANNSEN (USA) &lt;ole.johannse=
+n@de.hanjin.com&gt;, Anja SERKE &lt;anja.serke@de.hanjin.com&gt;, Jesse Tur=
+ner &lt;jesse.turner@de.hanjin.com&gt;, Gordon VALENTINER (USW) &lt;gordon.=
+valentiner@de.hanjin.com&gt;, Louisa KLIETZ &lt;louisa.klietz@de.hanjin.com=
+&gt;,
+ Ludmilla WIST &lt;ludmilla.wist@de.hanjin.com&gt;, Chil-Ho KIM &lt;chilhki=
+m@hanjin.com&gt;, Bae-Young SUH &lt;bysuh@hanjin.com&gt;, Jeong-Jae CHOI &l=
+t;jjchoi@hanjin.com&gt;, Seven LIU &lt;sevenliu@cn.hanjin.com&gt;, Hyung-Su=
+ KIM &lt;hskim@hanjin.com&gt;, Dae-Young KANG &lt;dykang@hanjin.com&gt;, Ho=
+ng-Kyoo
+ LEE &lt;hklee@hanjin.com&gt;, Kyong-Sik PARK &lt;ksikpark@hanjin.com&gt;, =
+Jung-Moo LEE &lt;jmleea@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.c=
+om&gt;, Alan TAY &lt;alantay@sg.hanjin.com&gt;, Bak Teng (Alvin) YEO &lt;bt=
+yeo@sg.hanjin.com&gt;, Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Deok-Lim CHOI
+ &lt;dlchoi@hanjin.com&gt;, Hyun-Sup SHIN &lt;hsshin@hanjin.com&gt;, Dongso=
+o AHN &lt;dsahn@hanjin.com&gt;, Yong-Hwa JUN &lt;yongma27@hanjin.com&gt;, K=
+i-up KIM &lt;kimkiup@hanjin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;,=
+ Lucy(Ji-Young) Rhee &lt;lucyrhee@hanjin.com&gt;, Sang-Hyeob YEO &lt;ysh517=
+@hanjin.com&gt;,
+ Chul-Wan PARK &lt;jcpark@hanjin.com&gt;, Joo-Won Lee &lt;lejo@hanjin.com&g=
+t;, Andrew Hou &lt;andrew@cn.hanjin.com&gt;, Yoon-Han JUNG &lt;jungyh@hanji=
+n.com&gt;, Jong-Suk LIM &lt;jslim@hanjin.com&gt;, Sang-Soo LEE &lt;2ss@hanj=
+in.com&gt;, Ho-Sik PARK &lt;hspark@hanjin.com&gt;, Edward(Kwang-Min) LEE &l=
+t;kmlee@hanjin.com&gt;,
+ Dynia(Min-Sun) Kim &lt;mskim@hanjin.com&gt;, Sungjae Kang &lt;sjkang81@han=
+jin.com&gt;, MD(Myung-Deok) CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &l=
+t;sminpark@hanjin.com&gt;, Nam-Hoon BAIK &lt;hunt72@hanjin.com&gt;, SH(SUK-=
+HWAN) JUNG &lt;ch021@hanjin.com&gt;, Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanj=
+in.com&gt;,
+ TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com=
+&gt;, Yoo-Kyung KIM &lt;kimyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&=
+gt;, Lloyd(Woosik) Yang &lt;shakin@hanjin.com&gt;, Luth(Kyung-Won) CHOI &lt=
+;luthchoi@hanjin.com&gt;, Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, JH(Jin-=
+Ha)
+ LEE &lt;jinhalee@hanjin.com&gt;, Byung-Ro YOO &lt;bryoo1@hanjin.com&gt;, C=
+hris(Seonmyung) Kim &lt;kimsm@hanjin.com&gt;, Sylvia(He-Jung) KIM &lt;sylvi=
+a_k@hanjin.com&gt;<br>
+<b>Cc : </b>Marcus C. FIELD &lt;marcus.field@de.hanjin.com&gt;, Gabriele SC=
+HERNER &lt;gabriele.scherner@de.hanjin.com&gt;, Rob DURENKAMP &lt;rob.duren=
+kamp@nl.hanjin.com&gt;, Dirk-Carsten Wiegers &lt;dirk.wiegers@de.hanjin.com=
+&gt;, Marko Sevke &lt;marko.sevke@de.hanjin.com&gt;, Soja BONG
+ &lt;soja.bong@de.hanjin.com&gt;, Jana Fuhrhop &lt;jana.fuhrhop@de.hanjin.c=
+om&gt;, Michael Stein &lt;michael.stein@de.hanjin.com&gt;, Sang-Yeol YU &lt=
+;syyu@hanjin.com&gt;, Jean-Pascal BIDOIRE &lt;jean.pascal.bidoire@fr.hanjin=
+.com&gt;, Yun-Ho FRERE &lt;yun-ho.frere@fr.hanjin.com&gt;, Didier JEAN
+ &lt;didier.jean@fr.hanjin.com&gt;, Veronica ZHANG &lt;veronica@cn.hanjin.c=
+om&gt;, MASAHIRO YOSHIDA &lt;myoshi@jp.hanjin.com&gt;, MASAHARU UMIHARA &lt=
+;umihara@jp.hanjin.com&gt;, KUNIYUKI OTANI &lt;kohtan@jp.hanjin.com&gt;<br>
+<b>Subject : </b>RE: Renault Tender Kick Off Meeting Minutes<br>
+<br>
+</div>
+<div style=3D"FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12=
+pt" id=3D"ezFormProc_div">
+<div>
+<div>To : CCE</div>
+<div><font face=3D"">From : TYOBBS<font face=3D""><br>
+</font></font></div>
+<div><font face=3D"">Indivisual Negotiation&nbsp;is only for&nbsp;ongoing m=
+ain carriers while</font></div>
+<div><font face=3D"">RFQ distribution&nbsp;is open for&nbsp;all carriers.</=
+font></div>
+<div>&nbsp;</div>
+<div><font face=3D"">Nissan&nbsp;indicated their&nbsp;target rates&nbsp;to =
+main carriers on main lanes.</font></div>
+<div><font face=3D"">If Carriers agree to continue contract at indicated ra=
+te level,&nbsp;the agreed lanes&nbsp;will not be included in RFQ for open t=
+ender.</font><br>
+<br>
+Best Regards,</div>
+<div><font face=3D"">KS</font></div>
+<div id=3D"MailSignSentSentSent"></div>
+<div><br>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div style=3D"FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex=3D"-1">
+<b>From : </b>&quot;Woojung Kim&quot; &lt;wjkim@hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-12 09:42:04 ( &#43;09:00 )<br>
+<b>To : </b>KYOHEI SUNAGA &lt;ksunaga@jp.hanjin.com&gt;, YOSHITSUGU KAGAWA =
+&lt;kagawa@jp.hanjin.com&gt;, Jessie(Ji-Soo) YOON &lt;jessyoon@hanjin.com&g=
+t;, David Malbos &lt;david@hanjin.com&gt;, Mark(Yoon-Jai) LEE &lt;yjlee@han=
+jin.com&gt;, Kenny CHIN &lt;kchin@us.hanjin.com&gt;, Brian MARTORANO
+ &lt;mbrian@us.hanjin.com&gt;, Patricia HALSALL &lt;phalsall@us.hanjin.com&=
+gt;, Sunha KANG &lt;sunpark@us.hanjin.com&gt;, Richard NUZZI &lt;rnuzzi@us.=
+hanjin.com&gt;, Sang-Ryun JEON &lt;srjeon@hanjin.com&gt;, Sheldon SHIKHEL &=
+lt;sshikhel@us.hanjin.com&gt;, Peter (Ho Seob) LEE &lt;hplee@us.hanjin.com&=
+gt;,
+ Peter F SCANLON &lt;pscanlon@us.hanjin.com&gt;, Jane CHOE &lt;jchoe@us.han=
+jin.com&gt;, Kooks(Kook-Shin) KIM &lt;kookskim@hanjin.com&gt;, Ara(A-RA) CH=
+O &lt;archo@hanjin.com&gt;, Dirk RIEDEL (USE) &lt;dirk.riedel@de.hanjin.com=
+&gt;, Bettina BAHLKE &lt;bettina.bahlke@de.hanjin.com&gt;, Nico DENCKER
+ &lt;nico.dencker@de.hanjin.com&gt;, Tobias HEIFLER &lt;tobias.heifler@de.h=
+anjin.com&gt;, Ole JOHANNSEN (USA) &lt;ole.johannsen@de.hanjin.com&gt;, Anj=
+a SERKE &lt;anja.serke@de.hanjin.com&gt;, Jesse Turner &lt;jesse.turner@de.=
+hanjin.com&gt;, Gordon VALENTINER (USW) &lt;gordon.valentiner@de.hanjin.com=
+&gt;,
+ Louisa KLIETZ &lt;louisa.klietz@de.hanjin.com&gt;, Ludmilla WIST &lt;ludmi=
+lla.wist@de.hanjin.com&gt;, Chil-Ho KIM &lt;chilhkim@hanjin.com&gt;, Bae-Yo=
+ung SUH &lt;bysuh@hanjin.com&gt;, Jeong-Jae CHOI &lt;jjchoi@hanjin.com&gt;,=
+ Seven LIU &lt;sevenliu@cn.hanjin.com&gt;, Hyung-Su KIM &lt;hskim@hanjin.co=
+m&gt;,
+ Dae-Young KANG &lt;dykang@hanjin.com&gt;, Hong-Kyoo LEE &lt;hklee@hanjin.c=
+om&gt;, Kyong-Sik PARK &lt;ksikpark@hanjin.com&gt;, Jung-Moo LEE &lt;jmleea=
+@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.com&gt;, Alan TAY &lt;al=
+antay@sg.hanjin.com&gt;, Bak Teng (Alvin) YEO &lt;btyeo@sg.hanjin.com&gt;,
+ Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Deok-Lim CHOI &lt;dlchoi@hanjin.com&=
+gt;, Hyun-Sup SHIN &lt;hsshin@hanjin.com&gt;, Dongsoo AHN &lt;dsahn@hanjin.=
+com&gt;, Yong-Hwa JUN &lt;yongma27@hanjin.com&gt;, Ki-up KIM &lt;kimkiup@ha=
+njin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;, Lucy(Ji-Young) Rhee &l=
+t;lucyrhee@hanjin.com&gt;,
+ Sang-Hyeob YEO &lt;ysh517@hanjin.com&gt;, Chul-Wan PARK &lt;jcpark@hanjin.=
+com&gt;, Joo-Won Lee &lt;lejo@hanjin.com&gt;, Andrew Hou &lt;andrew@cn.hanj=
+in.com&gt;, Yoon-Han JUNG &lt;jungyh@hanjin.com&gt;, Jong-Suk LIM &lt;jslim=
+@hanjin.com&gt;, Sang-Soo LEE &lt;2ss@hanjin.com&gt;, Ho-Sik PARK &lt;hspar=
+k@hanjin.com&gt;,
+ Edward(Kwang-Min) LEE &lt;kmlee@hanjin.com&gt;, Dynia(Min-Sun) Kim &lt;msk=
+im@hanjin.com&gt;, Sungjae Kang &lt;sjkang81@hanjin.com&gt;, MD(Myung-Deok)=
+ CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, =
+Nam-Hoon BAIK &lt;hunt72@hanjin.com&gt;, SH(SUK-HWAN) JUNG &lt;ch021@hanjin=
+.com&gt;,
+ Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than=
+@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Yoo-Kyung KIM &lt;k=
+imyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;, Lloyd(Woosik) Yang &=
+lt;shakin@hanjin.com&gt;, Luth(Kyung-Won) CHOI &lt;luthchoi@hanjin.com&gt;,
+ Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, JH(Jin-Ha) LEE &lt;jinhalee@hanj=
+in.com&gt;, Byung-Ro YOO &lt;bryoo1@hanjin.com&gt;, Chris(Seonmyung) Kim &l=
+t;kimsm@hanjin.com&gt;, Sylvia(He-Jung) KIM &lt;sylvia_k@hanjin.com&gt;<br>
+<b>Cc : </b>Marcus C. FIELD &lt;marcus.field@de.hanjin.com&gt;, Gabriele SC=
+HERNER &lt;gabriele.scherner@de.hanjin.com&gt;, Rob DURENKAMP &lt;rob.duren=
+kamp@nl.hanjin.com&gt;, Dirk-Carsten Wiegers &lt;dirk.wiegers@de.hanjin.com=
+&gt;, Marko Sevke &lt;marko.sevke@de.hanjin.com&gt;, Soja BONG
+ &lt;soja.bong@de.hanjin.com&gt;, Jana Fuhrhop &lt;jana.fuhrhop@de.hanjin.c=
+om&gt;, Michael Stein &lt;michael.stein@de.hanjin.com&gt;, Sang-Yeol YU &lt=
+;syyu@hanjin.com&gt;, Jean-Pascal BIDOIRE &lt;jean.pascal.bidoire@fr.hanjin=
+.com&gt;, Yun-Ho FRERE &lt;yun-ho.frere@fr.hanjin.com&gt;, Didier JEAN
+ &lt;didier.jean@fr.hanjin.com&gt;, Veronica ZHANG &lt;veronica@cn.hanjin.c=
+om&gt;, MASAHIRO YOSHIDA &lt;myoshi@jp.hanjin.com&gt;, MASAHARU UMIHARA &lt=
+;umihara@jp.hanjin.com&gt;, KUNIYUKI OTANI &lt;kohtan@jp.hanjin.com&gt;<br>
+<b>Subject : </b>RE: Renault Tender Kick Off Meeting Minutes<br>
+<br>
+</div>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: =
+#1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">TO : TYOBBS</span></p>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: =
+#1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">FM : CCE</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: =
+#1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">Well noted the below.</span></p>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: =
+#1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">What are the differences between =
+=93RFQ distribution=94 and =93individual negotiation=94?</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: =
+#1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">Thanks a lot.</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><span style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt" lang=3D"EN-US">Thanks&amp;B.Rgds</span></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><i><span style=3D"FONT-FAMILY: 'Arial Black','sans-serif'; COLOR: =
+#1f497d" lang=3D"EN-US">WJ Kim</span></i><i></i></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: gray; FONT-=
+SIZE: 10pt" lang=3D"EN-US">Asia &amp; Europe Customer Team, Hanjin Shipping=
+</span></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: gray; FONT-=
+SIZE: 10pt" lang=3D"EN-US">Office : 82-2-3770-6597</span></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: gray; FONT-=
+SIZE: 10pt" lang=3D"EN-US">Mobile : 82-10-7174-0497</span></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: gray; FONT-=
+SIZE: 10pt" lang=3D"EN-US">e-mail :
+<a href=3D"mailto:wjkim@hanjin.com" target=3D"_blank"><span style=3D"COLOR:=
+ blue">wjkim@hanjin.com</span></a></span></b></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><b><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'=
+; FONT-SIZE: 10pt" lang=3D"EN-US">From:</span></b><span style=3D"FONT-FAMIL=
+Y: 'Tahoma','sans-serif'; FONT-SIZE: 10pt" lang=3D"EN-US">KYOHEI SUNAGA
+<br>
+<b>Sent:</b> Wednesday, November 06, 2013 5:31 PM<br>
+<b>To:</b> YOSHITSUGU KAGAWA; Jessie(Ji-Soo) YOON; David Malbos; Mark(Yoon-=
+Jai) LEE; Kenny CHIN; Brian MARTORANO; Patricia HALSALL; Sunha KANG; Richar=
+d NUZZI; Sang-Ryun JEON; Sheldon SHIKHEL; Peter (Ho Seob) LEE; Peter F SCAN=
+LON; Jane CHOE; Kooks(Kook-Shin)
+ KIM; Ara(A-RA) CHO; Dirk RIEDEL (USE); Bettina BAHLKE; Nico DENCKER; Tobia=
+s HEIFLER; Ole JOHANNSEN (USA); Anja SERKE; Jesse Turner; Gordon VALENTINER=
+ (USW); Louisa KLIETZ; Ludmilla WIST; Chil-Ho KIM; Bae-Young SUH; Jeong-Jae=
+ CHOI; Seven LIU; Hyung-Su KIM;
+ Dae-Young KANG; Hong-Kyoo LEE; Kyong-Sik PARK; Jung-Moo LEE; Joseph NG; Al=
+an TAY; Bak Teng (Alvin) YEO; Jess YAM; Deok-Lim CHOI; Hyun-Sup SHIN; Dongs=
+oo AHN; Yong-Hwa JUN; Ki-up KIM; Kyung-Su SIN; Lucy(Ji-Young) Rhee; Sang-Hy=
+eob YEO; Chul-Wan PARK; Joo-Won
+ Lee; Andrew Hou; Yoon-Han JUNG; Jong-Suk LIM; Sang-Soo LEE; Ho-Sik PARK; E=
+dward(Kwang-Min) LEE; Dynia(Min-Sun) Kim; Sungjae Kang; MD(Myung-Deok) CHO;=
+ Seung-Min PARK; Nam-Hoon BAIK; SH(SUK-HWAN) JUNG; Woojung Kim; Daisy(Ji-Ky=
+ong) BHANG; TH(Tae-Hoon) AN; Sang-Jin
+ HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gr=
+acie CHEN; JH(Jin-Ha) LEE; Byung-Ro YOO; Chris(Seonmyung) Kim; Sylvia(He-Ju=
+ng) KIM<br>
+<b>Cc:</b> Marcus C. FIELD; Gabriele SCHERNER; Rob DURENKAMP; Dirk-Carsten =
+Wiegers; Marko Sevke; Soja BONG; Jana Fuhrhop; Michael Stein; Sang-Yeol YU;=
+ Jean-Pascal BIDOIRE; Yun-Ho FRERE; Didier JEAN; Veronica ZHANG; MASAHIRO Y=
+OSHIDA; MASAHARU UMIHARA; KUNIYUKI
+ OTANI<br>
+<b>Subject:</b> RE: Renault Tender Kick Off Meeting Minutes</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div id=3D"ezFormProc_div">
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">To : ASM</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Cc : UCM</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">From : TYOBBS</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Have spoken to Key person in Nissan Motor and found as follows.</sp=
+an></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">1) Target date for RFQ distribition is NOV19 as an outcome from Ren=
+ault's meeting</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">2) Nissan has larger volume on ASIA-EUR trade and It is almost sure=
+ for Nissan&nbsp;to mainly control the trade on their tender,</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">however they still work on fixing role of Renault and Nissan by lan=
+e.&nbsp;</span></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Further details won't be available until RFQ is given.</span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">3) Indivisual negotiation has been ongoing. Nissan&nbsp;suggested t=
+arget rate for 3 year contract to</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">7 carriers and now waiting for an outcome from each carrier.</span>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">4) Target rate can not be disclosed to others than designated carri=
+er.</span></p>
+</div>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">5) Specific =
+lanes included in&nbsp;open tender will vary by results of indivisual negot=
+iation.</span></p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">&nbsp;</span=
+></p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">Though we ar=
+e not listed in an indivisual negotiation carrier, submitted our wish list =
+of lanes where we want to be involved in next 3 years.</span></p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">We will cont=
+inue to seek through communication with Nissan for further details and any =
+hints to&nbsp;form our strategy.</span></p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">&nbsp;</span=
+></p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">Best Regards=
+,</span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Kyohei</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<div style=3D"TEXT-ALIGN: center" class=3D"MsoNormal" align=3D"center"><spa=
+n style=3D"FONT-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-US">
+<hr align=3D"center" size=3D"2" width=3D"100%">
+</span></div>
+<p style=3D"MARGIN-BOTTOM: 12pt" class=3D"MsoNormal"><b><span style=3D"FONT=
+-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-US">From :
+</span></b><span style=3D"FONT-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-=
+US">&quot;KYOHEI SUNAGA&quot; &lt;<a href=3D"mailto:ksunaga@jp.hanjin.com" =
+target=3D"_blank">ksunaga@jp.hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-05 13:58:49 ( &#43;09:00 )<br>
+<b>To : </b>YOSHITSUGU KAGAWA &lt;<a href=3D"mailto:kagawa@jp.hanjin.com" t=
+arget=3D"_blank">kagawa@jp.hanjin.com</a>&gt;, Jessie(Ji-Soo) YOON &lt;<a h=
+ref=3D"mailto:jessyoon@hanjin.com" target=3D"_blank">jessyoon@hanjin.com</a=
+>&gt;, David Malbos &lt;<a href=3D"mailto:david@hanjin.com" target=3D"_blan=
+k">david@hanjin.com</a>&gt;,
+ Mark(Yoon-Jai) LEE &lt;<a href=3D"mailto:yjlee@hanjin.com" target=3D"_blan=
+k">yjlee@hanjin.com</a>&gt;, Kenny CHIN &lt;<a href=3D"mailto:kchin@us.hanj=
+in.com" target=3D"_blank">kchin@us.hanjin.com</a>&gt;, Brian MARTORANO &lt;=
+<a href=3D"mailto:mbrian@us.hanjin.com" target=3D"_blank">mbrian@us.hanjin.=
+com</a>&gt;,
+ Patricia HALSALL &lt;<a href=3D"mailto:phalsall@us.hanjin.com" target=3D"_=
+blank">phalsall@us.hanjin.com</a>&gt;, Sunha KANG &lt;<a href=3D"mailto:sun=
+park@us.hanjin.com" target=3D"_blank">sunpark@us.hanjin.com</a>&gt;, Richar=
+d NUZZI &lt;<a href=3D"mailto:rnuzzi@us.hanjin.com" target=3D"_blank">rnuzz=
+i@us.hanjin.com</a>&gt;,
+ Sang-Ryun JEON &lt;<a href=3D"mailto:srjeon@hanjin.com" target=3D"_blank">=
+srjeon@hanjin.com</a>&gt;, Sheldon SHIKHEL &lt;<a href=3D"mailto:sshikhel@u=
+s.hanjin.com" target=3D"_blank">sshikhel@us.hanjin.com</a>&gt;, Peter (Ho S=
+eob) LEE &lt;<a href=3D"mailto:hplee@us.hanjin.com" target=3D"_blank">hplee=
+@us.hanjin.com</a>&gt;,
+ Peter F SCANLON &lt;<a href=3D"mailto:pscanlon@us.hanjin.com" target=3D"_b=
+lank">pscanlon@us.hanjin.com</a>&gt;, Jane CHOE &lt;<a href=3D"mailto:jchoe=
+@us.hanjin.com" target=3D"_blank">jchoe@us.hanjin.com</a>&gt;, Kooks(Kook-S=
+hin) KIM &lt;<a href=3D"mailto:kookskim@hanjin.com" target=3D"_blank">kooks=
+kim@hanjin.com</a>&gt;,
+ Ara(A-RA) CHO &lt;<a href=3D"mailto:archo@hanjin.com" target=3D"_blank">ar=
+cho@hanjin.com</a>&gt;, Dirk RIEDEL (USE) &lt;<a href=3D"mailto:dirk.riedel=
+@de.hanjin.com" target=3D"_blank">dirk.riedel@de.hanjin.com</a>&gt;, Bettin=
+a BAHLKE &lt;<a href=3D"mailto:bettina.bahlke@de.hanjin.com" target=3D"_bla=
+nk">bettina.bahlke@de.hanjin.com</a>&gt;,
+ Nico DENCKER &lt;<a href=3D"mailto:nico.dencker@de.hanjin.com" target=3D"_=
+blank">nico.dencker@de.hanjin.com</a>&gt;, Tobias HEIFLER &lt;<a href=3D"ma=
+ilto:tobias.heifler@de.hanjin.com" target=3D"_blank">tobias.heifler@de.hanj=
+in.com</a>&gt;, Ole JOHANNSEN (USA) &lt;<a href=3D"mailto:ole.johannsen@de.=
+hanjin.com" target=3D"_blank">ole.johannsen@de.hanjin.com</a>&gt;,
+ Anja SERKE &lt;<a href=3D"mailto:anja.serke@de.hanjin.com" target=3D"_blan=
+k">anja.serke@de.hanjin.com</a>&gt;, Jesse Turner &lt;<a href=3D"mailto:jes=
+se.turner@de.hanjin.com" target=3D"_blank">jesse.turner@de.hanjin.com</a>&g=
+t;, Gordon VALENTINER (USW) &lt;<a href=3D"mailto:gordon.valentiner@de.hanj=
+in.com" target=3D"_blank">gordon.valentiner@de.hanjin.com</a>&gt;,
+ Louisa KLIETZ &lt;<a href=3D"mailto:louisa.klietz@de.hanjin.com" target=3D=
+"_blank">louisa.klietz@de.hanjin.com</a>&gt;, Ludmilla WIST &lt;<a href=3D"=
+mailto:ludmilla.wist@de.hanjin.com" target=3D"_blank">ludmilla.wist@de.hanj=
+in.com</a>&gt;, Chil-Ho KIM &lt;<a href=3D"mailto:chilhkim@hanjin.com" targ=
+et=3D"_blank">chilhkim@hanjin.com</a>&gt;,
+ Bae-Young SUH &lt;<a href=3D"mailto:bysuh@hanjin.com" target=3D"_blank">by=
+suh@hanjin.com</a>&gt;, Jeong-Jae CHOI &lt;<a href=3D"mailto:jjchoi@hanjin.=
+com" target=3D"_blank">jjchoi@hanjin.com</a>&gt;, Seven LIU &lt;<a href=3D"=
+mailto:sevenliu@cn.hanjin.com" target=3D"_blank">sevenliu@cn.hanjin.com</a>=
+&gt;,
+ Hyung-Su KIM &lt;<a href=3D"mailto:hskim@hanjin.com" target=3D"_blank">hsk=
+im@hanjin.com</a>&gt;, Dae-Young KANG &lt;<a href=3D"mailto:dykang@hanjin.c=
+om" target=3D"_blank">dykang@hanjin.com</a>&gt;, Hong-Kyoo LEE &lt;<a href=
+=3D"mailto:hklee@hanjin.com" target=3D"_blank">hklee@hanjin.com</a>&gt;,
+ Kyong-Sik PARK &lt;<a href=3D"mailto:ksikpark@hanjin.com" target=3D"_blank=
+">ksikpark@hanjin.com</a>&gt;, Jung-Moo LEE &lt;<a href=3D"mailto:jmleea@ha=
+njin.com" target=3D"_blank">jmleea@hanjin.com</a>&gt;, Joseph NG &lt;<a hre=
+f=3D"mailto:joseph.ng@sg.hanjin.com" target=3D"_blank">joseph.ng@sg.hanjin.=
+com</a>&gt;,
+ Alan TAY &lt;<a href=3D"mailto:alantay@sg.hanjin.com" target=3D"_blank">al=
+antay@sg.hanjin.com</a>&gt;, Bak Teng (Alvin) YEO &lt;<a href=3D"mailto:bty=
+eo@sg.hanjin.com" target=3D"_blank">btyeo@sg.hanjin.com</a>&gt;, Jess YAM &=
+lt;<a href=3D"mailto:kyyam@sg.hanjin.com" target=3D"_blank">kyyam@sg.hanjin=
+.com</a>&gt;,
+ Deok-Lim CHOI &lt;<a href=3D"mailto:dlchoi@hanjin.com" target=3D"_blank">d=
+lchoi@hanjin.com</a>&gt;, Hyun-Sup SHIN &lt;<a href=3D"mailto:hsshin@hanjin=
+.com" target=3D"_blank">hsshin@hanjin.com</a>&gt;, Dongsoo AHN &lt;<a href=
+=3D"mailto:dsahn@hanjin.com" target=3D"_blank">dsahn@hanjin.com</a>&gt;,
+ Yong-Hwa JUN &lt;<a href=3D"mailto:yongma27@hanjin.com" target=3D"_blank">=
+yongma27@hanjin.com</a>&gt;, Ki-up KIM &lt;<a href=3D"mailto:kimkiup@hanjin=
+.com" target=3D"_blank">kimkiup@hanjin.com</a>&gt;, Kyung-Su SIN &lt;<a hre=
+f=3D"mailto:kssin@hanjin.com" target=3D"_blank">kssin@hanjin.com</a>&gt;,
+ Lucy(Ji-Young) Rhee &lt;<a href=3D"mailto:lucyrhee@hanjin.com" target=3D"_=
+blank">lucyrhee@hanjin.com</a>&gt;, Sang-Hyeob YEO &lt;<a href=3D"mailto:ys=
+h517@hanjin.com" target=3D"_blank">ysh517@hanjin.com</a>&gt;, Chul-Wan PARK=
+ &lt;<a href=3D"mailto:jcpark@hanjin.com" target=3D"_blank">jcpark@hanjin.c=
+om</a>&gt;,
+ Joo-Won Lee &lt;<a href=3D"mailto:lejo@hanjin.com" target=3D"_blank">lejo@=
+hanjin.com</a>&gt;, Andrew Hou &lt;<a href=3D"mailto:andrew@cn.hanjin.com" =
+target=3D"_blank">andrew@cn.hanjin.com</a>&gt;, Yoon-Han JUNG &lt;<a href=
+=3D"mailto:jungyh@hanjin.com" target=3D"_blank">jungyh@hanjin.com</a>&gt;,
+ Jong-Suk LIM &lt;<a href=3D"mailto:jslim@hanjin.com" target=3D"_blank">jsl=
+im@hanjin.com</a>&gt;, Sang-Soo LEE &lt;<a href=3D"mailto:2ss@hanjin.com" t=
+arget=3D"_blank">2ss@hanjin.com</a>&gt;, Ho-Sik PARK &lt;<a href=3D"mailto:=
+hspark@hanjin.com" target=3D"_blank">hspark@hanjin.com</a>&gt;,
+ Edward(Kwang-Min) LEE &lt;<a href=3D"mailto:kmlee@hanjin.com" target=3D"_b=
+lank">kmlee@hanjin.com</a>&gt;, Dynia(Min-Sun) Kim &lt;<a href=3D"mailto:ms=
+kim@hanjin.com" target=3D"_blank">mskim@hanjin.com</a>&gt;, Sungjae Kang &l=
+t;<a href=3D"mailto:sjkang81@hanjin.com" target=3D"_blank">sjkang81@hanjin.=
+com</a>&gt;,
+ MD(Myung-Deok) CHO &lt;<a href=3D"mailto:mdcho@hanjin.com" target=3D"_blan=
+k">mdcho@hanjin.com</a>&gt;, Seung-Min PARK &lt;<a href=3D"mailto:sminpark@=
+hanjin.com" target=3D"_blank">sminpark@hanjin.com</a>&gt;, Nam-Hoon BAIK &l=
+t;<a href=3D"mailto:hunt72@hanjin.com" target=3D"_blank">hunt72@hanjin.com<=
+/a>&gt;,
+ SH(SUK-HWAN) JUNG &lt;<a href=3D"mailto:ch021@hanjin.com" target=3D"_blank=
+">ch021@hanjin.com</a>&gt;, Woojung Kim &lt;<a href=3D"mailto:wjkim@hanjin.=
+com" target=3D"_blank">wjkim@hanjin.com</a>&gt;, Daisy(Ji-Kyong) BHANG &lt;=
+<a href=3D"mailto:jkbhang@hanjin.com" target=3D"_blank">jkbhang@hanjin.com<=
+/a>&gt;,
+ TH(Tae-Hoon) AN &lt;<a href=3D"mailto:than@hanjin.com" target=3D"_blank">t=
+han@hanjin.com</a>&gt;, Sang-Jin HAN &lt;<a href=3D"mailto:sjhan@hanjin.com=
+" target=3D"_blank">sjhan@hanjin.com</a>&gt;, Yoo-Kyung KIM &lt;<a href=3D"=
+mailto:kimyk@hanjin.com" target=3D"_blank">kimyk@hanjin.com</a>&gt;,
+ Aram KIM &lt;<a href=3D"mailto:aram@hanjin.com" target=3D"_blank">aram@han=
+jin.com</a>&gt;, Lloyd(Woosik) Yang &lt;<a href=3D"mailto:shakin@hanjin.com=
+" target=3D"_blank">shakin@hanjin.com</a>&gt;, Luth(Kyung-Won) CHOI &lt;<a =
+href=3D"mailto:luthchoi@hanjin.com" target=3D"_blank">luthchoi@hanjin.com</=
+a>&gt;,
+ Gracie CHEN &lt;<a href=3D"mailto:wmchen@sg.hanjin.com" target=3D"_blank">=
+wmchen@sg.hanjin.com</a>&gt;, JH(Jin-Ha) LEE &lt;<a href=3D"mailto:jinhalee=
+@hanjin.com" target=3D"_blank">jinhalee@hanjin.com</a>&gt;, Byung-Ro YOO &l=
+t;<a href=3D"mailto:bryoo1@hanjin.com" target=3D"_blank">bryoo1@hanjin.com<=
+/a>&gt;,
+ Chris(Seonmyung) Kim &lt;<a href=3D"mailto:kimsm@hanjin.com" target=3D"_bl=
+ank">kimsm@hanjin.com</a>&gt;, Sylvia(He-Jung) KIM &lt;<a href=3D"mailto:sy=
+lvia_k@hanjin.com" target=3D"_blank">sylvia_k@hanjin.com</a>&gt;<br>
+<b>Cc : </b>Marcus C. FIELD &lt;<a href=3D"mailto:marcus.field@de.hanjin.co=
+m" target=3D"_blank">marcus.field@de.hanjin.com</a>&gt;, Gabriele SCHERNER =
+&lt;<a href=3D"mailto:gabriele.scherner@de.hanjin.com" target=3D"_blank">ga=
+briele.scherner@de.hanjin.com</a>&gt;, Rob DURENKAMP
+ &lt;<a href=3D"mailto:rob.durenkamp@nl.hanjin.com" target=3D"_blank">rob.d=
+urenkamp@nl.hanjin.com</a>&gt;, Dirk-Carsten Wiegers &lt;<a href=3D"mailto:=
+dirk.wiegers@de.hanjin.com" target=3D"_blank">dirk.wiegers@de.hanjin.com</a=
+>&gt;, Marko Sevke &lt;<a href=3D"mailto:marko.sevke@de.hanjin.com" target=
+=3D"_blank">marko.sevke@de.hanjin.com</a>&gt;,
+ Soja BONG &lt;<a href=3D"mailto:soja.bong@de.hanjin.com" target=3D"_blank"=
+>soja.bong@de.hanjin.com</a>&gt;, Jana Fuhrhop &lt;<a href=3D"mailto:jana.f=
+uhrhop@de.hanjin.com" target=3D"_blank">jana.fuhrhop@de.hanjin.com</a>&gt;,=
+ Michael Stein &lt;<a href=3D"mailto:michael.stein@de.hanjin.com" target=3D=
+"_blank">michael.stein@de.hanjin.com</a>&gt;,
+ Sang-Yeol YU &lt;<a href=3D"mailto:syyu@hanjin.com" target=3D"_blank">syyu=
+@hanjin.com</a>&gt;, Jean-Pascal BIDOIRE &lt;<a href=3D"mailto:jean.pascal.=
+bidoire@fr.hanjin.com" target=3D"_blank">jean.pascal.bidoire@fr.hanjin.com<=
+/a>&gt;, Yun-Ho FRERE &lt;<a href=3D"mailto:yun-ho.frere@fr.hanjin.com" tar=
+get=3D"_blank">yun-ho.frere@fr.hanjin.com</a>&gt;,
+ Didier JEAN &lt;<a href=3D"mailto:didier.jean@fr.hanjin.com" target=3D"_bl=
+ank">didier.jean@fr.hanjin.com</a>&gt;, Veronica ZHANG &lt;<a href=3D"mailt=
+o:veronica@cn.hanjin.com" target=3D"_blank">veronica@cn.hanjin.com</a>&gt;,=
+ MASAHIRO YOSHIDA &lt;<a href=3D"mailto:myoshi@jp.hanjin.com" target=3D"_bl=
+ank">myoshi@jp.hanjin.com</a>&gt;,
+ MASAHARU UMIHARA &lt;<a href=3D"mailto:umihara@jp.hanjin.com" target=3D"_b=
+lank">umihara@jp.hanjin.com</a>&gt;<br>
+<b>Subject : </b>RE: Renault Tender Kick Off Meeting Minutes</span></p>
+</div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">To : ASM</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Cc&nbsp;: all concerned</span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">From : TYOBBS</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">As far as we learn so far, indivisual negotiation has been ongoing =
+now.</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Our counter part is not available today and will revert as soon as =
+we hear and confirm&nbsp;the latest information</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">refering to the outcome from meeting with Renault.</span></p>
+</div>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">&nbsp;</span=
+></p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D"EN-US">Best Regards=
+,</span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Kyohei</span></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<div style=3D"TEXT-ALIGN: center" class=3D"MsoNormal" align=3D"center"><spa=
+n style=3D"FONT-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-US">
+<hr align=3D"center" size=3D"2" width=3D"100%">
+</span></div>
+<p style=3D"MARGIN-BOTTOM: 12pt" class=3D"MsoNormal"><b><span style=3D"FONT=
+-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-US">From :
+</span></b><span style=3D"FONT-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-=
+US">&quot;YOSHITSUGU KAGAWA&quot; &lt;<a href=3D"mailto:kagawa@jp.hanjin.co=
+m" target=3D"_blank">kagawa@jp.hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-03 14:14:24 ( &#43;09:00 )<br>
+<b>To : </b>Jessie(Ji-Soo) YOON &lt;<a href=3D"mailto:jessyoon@hanjin.com" =
+target=3D"_blank">jessyoon@hanjin.com</a>&gt;, David Malbos &lt;<a href=3D"=
+mailto:david@hanjin.com" target=3D"_blank">david@hanjin.com</a>&gt;, Mark(Y=
+oon-Jai) LEE &lt;<a href=3D"mailto:yjlee@hanjin.com" target=3D"_blank">yjle=
+e@hanjin.com</a>&gt;,
+ Kenny CHIN &lt;<a href=3D"mailto:kchin@us.hanjin.com" target=3D"_blank">kc=
+hin@us.hanjin.com</a>&gt;, Brian MARTORANO &lt;<a href=3D"mailto:mbrian@us.=
+hanjin.com" target=3D"_blank">mbrian@us.hanjin.com</a>&gt;, Patricia HALSAL=
+L &lt;<a href=3D"mailto:phalsall@us.hanjin.com" target=3D"_blank">phalsall@=
+us.hanjin.com</a>&gt;,
+ Sunha KANG &lt;<a href=3D"mailto:sunpark@us.hanjin.com" target=3D"_blank">=
+sunpark@us.hanjin.com</a>&gt;, Richard NUZZI &lt;<a href=3D"mailto:rnuzzi@u=
+s.hanjin.com" target=3D"_blank">rnuzzi@us.hanjin.com</a>&gt;, Sang-Ryun JEO=
+N &lt;<a href=3D"mailto:srjeon@hanjin.com" target=3D"_blank">srjeon@hanjin.=
+com</a>&gt;,
+ Sheldon SHIKHEL &lt;<a href=3D"mailto:sshikhel@us.hanjin.com" target=3D"_b=
+lank">sshikhel@us.hanjin.com</a>&gt;, Peter (Ho Seob) LEE &lt;<a href=3D"ma=
+ilto:hplee@us.hanjin.com" target=3D"_blank">hplee@us.hanjin.com</a>&gt;, Pe=
+ter F SCANLON &lt;<a href=3D"mailto:pscanlon@us.hanjin.com" target=3D"_blan=
+k">pscanlon@us.hanjin.com</a>&gt;,
+ Jane CHOE &lt;<a href=3D"mailto:jchoe@us.hanjin.com" target=3D"_blank">jch=
+oe@us.hanjin.com</a>&gt;, Kooks(Kook-Shin) KIM &lt;<a href=3D"mailto:kooksk=
+im@hanjin.com" target=3D"_blank">kookskim@hanjin.com</a>&gt;, Ara(A-RA) CHO=
+ &lt;<a href=3D"mailto:archo@hanjin.com" target=3D"_blank">archo@hanjin.com=
+</a>&gt;,
+ Dirk RIEDEL (USE) &lt;<a href=3D"mailto:dirk.riedel@de.hanjin.com" target=
+=3D"_blank">dirk.riedel@de.hanjin.com</a>&gt;, Bettina BAHLKE &lt;<a href=
+=3D"mailto:bettina.bahlke@de.hanjin.com" target=3D"_blank">bettina.bahlke@d=
+e.hanjin.com</a>&gt;, Nico DENCKER &lt;<a href=3D"mailto:nico.dencker@de.ha=
+njin.com" target=3D"_blank">nico.dencker@de.hanjin.com</a>&gt;,
+ Tobias HEIFLER &lt;<a href=3D"mailto:tobias.heifler@de.hanjin.com" target=
+=3D"_blank">tobias.heifler@de.hanjin.com</a>&gt;, Ole JOHANNSEN (USA) &lt;<=
+a href=3D"mailto:ole.johannsen@de.hanjin.com" target=3D"_blank">ole.johanns=
+en@de.hanjin.com</a>&gt;, Anja SERKE &lt;<a href=3D"mailto:anja.serke@de.ha=
+njin.com" target=3D"_blank">anja.serke@de.hanjin.com</a>&gt;,
+ Jesse Turner &lt;<a href=3D"mailto:jesse.turner@de.hanjin.com" target=3D"_=
+blank">jesse.turner@de.hanjin.com</a>&gt;, Gordon VALENTINER (USW) &lt;<a h=
+ref=3D"mailto:gordon.valentiner@de.hanjin.com" target=3D"_blank">gordon.val=
+entiner@de.hanjin.com</a>&gt;, Louisa KLIETZ &lt;<a href=3D"mailto:louisa.k=
+lietz@de.hanjin.com" target=3D"_blank">louisa.klietz@de.hanjin.com</a>&gt;,
+ Ludmilla WIST &lt;<a href=3D"mailto:ludmilla.wist@de.hanjin.com" target=3D=
+"_blank">ludmilla.wist@de.hanjin.com</a>&gt;, Chil-Ho KIM &lt;<a href=3D"ma=
+ilto:chilhkim@hanjin.com" target=3D"_blank">chilhkim@hanjin.com</a>&gt;, Ba=
+e-Young SUH &lt;<a href=3D"mailto:bysuh@hanjin.com" target=3D"_blank">bysuh=
+@hanjin.com</a>&gt;,
+ Jeong-Jae CHOI &lt;<a href=3D"mailto:jjchoi@hanjin.com" target=3D"_blank">=
+jjchoi@hanjin.com</a>&gt;, Seven LIU &lt;<a href=3D"mailto:sevenliu@cn.hanj=
+in.com" target=3D"_blank">sevenliu@cn.hanjin.com</a>&gt;, Hyung-Su KIM &lt;=
+<a href=3D"mailto:hskim@hanjin.com" target=3D"_blank">hskim@hanjin.com</a>&=
+gt;,
+ Dae-Young KANG &lt;<a href=3D"mailto:dykang@hanjin.com" target=3D"_blank">=
+dykang@hanjin.com</a>&gt;, Hong-Kyoo LEE &lt;<a href=3D"mailto:hklee@hanjin=
+.com" target=3D"_blank">hklee@hanjin.com</a>&gt;, Kyong-Sik PARK &lt;<a hre=
+f=3D"mailto:ksikpark@hanjin.com" target=3D"_blank">ksikpark@hanjin.com</a>&=
+gt;,
+ Jung-Moo LEE &lt;<a href=3D"mailto:jmleea@hanjin.com" target=3D"_blank">jm=
+leea@hanjin.com</a>&gt;, Joseph NG &lt;<a href=3D"mailto:joseph.ng@sg.hanji=
+n.com" target=3D"_blank">joseph.ng@sg.hanjin.com</a>&gt;, Alan TAY &lt;<a h=
+ref=3D"mailto:alantay@sg.hanjin.com" target=3D"_blank">alantay@sg.hanjin.co=
+m</a>&gt;,
+ Bak Teng (Alvin) YEO &lt;<a href=3D"mailto:btyeo@sg.hanjin.com" target=3D"=
+_blank">btyeo@sg.hanjin.com</a>&gt;, Jess YAM &lt;<a href=3D"mailto:kyyam@s=
+g.hanjin.com" target=3D"_blank">kyyam@sg.hanjin.com</a>&gt;, Deok-Lim CHOI =
+&lt;<a href=3D"mailto:dlchoi@hanjin.com" target=3D"_blank">dlchoi@hanjin.co=
+m</a>&gt;,
+ Hyun-Sup SHIN &lt;<a href=3D"mailto:hsshin@hanjin.com" target=3D"_blank">h=
+sshin@hanjin.com</a>&gt;, Dongsoo AHN &lt;<a href=3D"mailto:dsahn@hanjin.co=
+m" target=3D"_blank">dsahn@hanjin.com</a>&gt;, Yong-Hwa JUN &lt;<a href=3D"=
+mailto:yongma27@hanjin.com" target=3D"_blank">yongma27@hanjin.com</a>&gt;,
+ Ki-up KIM &lt;<a href=3D"mailto:kimkiup@hanjin.com" target=3D"_blank">kimk=
+iup@hanjin.com</a>&gt;, Kyung-Su SIN &lt;<a href=3D"mailto:kssin@hanjin.com=
+" target=3D"_blank">kssin@hanjin.com</a>&gt;, Lucy(Ji-Young) Rhee &lt;<a hr=
+ef=3D"mailto:lucyrhee@hanjin.com" target=3D"_blank">lucyrhee@hanjin.com</a>=
+&gt;,
+ Sang-Hyeob YEO &lt;<a href=3D"mailto:ysh517@hanjin.com" target=3D"_blank">=
+ysh517@hanjin.com</a>&gt;, Chul-Wan PARK &lt;<a href=3D"mailto:jcpark@hanji=
+n.com" target=3D"_blank">jcpark@hanjin.com</a>&gt;, Joo-Won Lee &lt;<a href=
+=3D"mailto:lejo@hanjin.com" target=3D"_blank">lejo@hanjin.com</a>&gt;,
+ Andrew Hou &lt;<a href=3D"mailto:andrew@cn.hanjin.com" target=3D"_blank">a=
+ndrew@cn.hanjin.com</a>&gt;, Yoon-Han JUNG &lt;<a href=3D"mailto:jungyh@han=
+jin.com" target=3D"_blank">jungyh@hanjin.com</a>&gt;, Jong-Suk LIM &lt;<a h=
+ref=3D"mailto:jslim@hanjin.com" target=3D"_blank">jslim@hanjin.com</a>&gt;,
+ Sang-Soo LEE &lt;<a href=3D"mailto:2ss@hanjin.com" target=3D"_blank">2ss@h=
+anjin.com</a>&gt;, Ho-Sik PARK &lt;<a href=3D"mailto:hspark@hanjin.com" tar=
+get=3D"_blank">hspark@hanjin.com</a>&gt;, Edward(Kwang-Min) LEE &lt;<a href=
+=3D"mailto:kmlee@hanjin.com" target=3D"_blank">kmlee@hanjin.com</a>&gt;,
+ Dynia(Min-Sun) Kim &lt;<a href=3D"mailto:mskim@hanjin.com" target=3D"_blan=
+k">mskim@hanjin.com</a>&gt;, Sungjae Kang &lt;<a href=3D"mailto:sjkang81@ha=
+njin.com" target=3D"_blank">sjkang81@hanjin.com</a>&gt;, MD(Myung-Deok) CHO=
+ &lt;<a href=3D"mailto:mdcho@hanjin.com" target=3D"_blank">mdcho@hanjin.com=
+</a>&gt;,
+ Seung-Min PARK &lt;<a href=3D"mailto:sminpark@hanjin.com" target=3D"_blank=
+">sminpark@hanjin.com</a>&gt;, Nam-Hoon BAIK &lt;<a href=3D"mailto:hunt72@h=
+anjin.com" target=3D"_blank">hunt72@hanjin.com</a>&gt;, SH(SUK-HWAN) JUNG &=
+lt;<a href=3D"mailto:ch021@hanjin.com" target=3D"_blank">ch021@hanjin.com</=
+a>&gt;,
+ Woojung Kim &lt;<a href=3D"mailto:wjkim@hanjin.com" target=3D"_blank">wjki=
+m@hanjin.com</a>&gt;, Daisy(Ji-Kyong) BHANG &lt;<a href=3D"mailto:jkbhang@h=
+anjin.com" target=3D"_blank">jkbhang@hanjin.com</a>&gt;, TH(Tae-Hoon) AN &l=
+t;<a href=3D"mailto:than@hanjin.com" target=3D"_blank">than@hanjin.com</a>&=
+gt;,
+ Sang-Jin HAN &lt;<a href=3D"mailto:sjhan@hanjin.com" target=3D"_blank">sjh=
+an@hanjin.com</a>&gt;, Yoo-Kyung KIM &lt;<a href=3D"mailto:kimyk@hanjin.com=
+" target=3D"_blank">kimyk@hanjin.com</a>&gt;, Aram KIM &lt;<a href=3D"mailt=
+o:aram@hanjin.com" target=3D"_blank">aram@hanjin.com</a>&gt;,
+ Lloyd(Woosik) Yang &lt;<a href=3D"mailto:shakin@hanjin.com" target=3D"_bla=
+nk">shakin@hanjin.com</a>&gt;, Luth(Kyung-Won) CHOI &lt;<a href=3D"mailto:l=
+uthchoi@hanjin.com" target=3D"_blank">luthchoi@hanjin.com</a>&gt;, Gracie C=
+HEN &lt;<a href=3D"mailto:wmchen@sg.hanjin.com" target=3D"_blank">wmchen@sg=
+.hanjin.com</a>&gt;,
+ JH(Jin-Ha) LEE &lt;<a href=3D"mailto:jinhalee@hanjin.com" target=3D"_blank=
+">jinhalee@hanjin.com</a>&gt;, Byung-Ro YOO &lt;<a href=3D"mailto:bryoo1@ha=
+njin.com" target=3D"_blank">bryoo1@hanjin.com</a>&gt;, Chris(Seonmyung) Kim=
+ &lt;<a href=3D"mailto:kimsm@hanjin.com" target=3D"_blank">kimsm@hanjin.com=
+</a>&gt;,
+ Sylvia(He-Jung) KIM &lt;<a href=3D"mailto:sylvia_k@hanjin.com" target=3D"_=
+blank">sylvia_k@hanjin.com</a>&gt;<br>
+<b>Cc : </b>Marcus C. FIELD &lt;<a href=3D"mailto:marcus.field@de.hanjin.co=
+m" target=3D"_blank">marcus.field@de.hanjin.com</a>&gt;, Gabriele SCHERNER =
+&lt;<a href=3D"mailto:gabriele.scherner@de.hanjin.com" target=3D"_blank">ga=
+briele.scherner@de.hanjin.com</a>&gt;, Rob DURENKAMP
+ &lt;<a href=3D"mailto:rob.durenkamp@nl.hanjin.com" target=3D"_blank">rob.d=
+urenkamp@nl.hanjin.com</a>&gt;, Dirk-Carsten Wiegers &lt;<a href=3D"mailto:=
+dirk.wiegers@de.hanjin.com" target=3D"_blank">dirk.wiegers@de.hanjin.com</a=
+>&gt;, Marko Sevke &lt;<a href=3D"mailto:marko.sevke@de.hanjin.com" target=
+=3D"_blank">marko.sevke@de.hanjin.com</a>&gt;,
+ Soja BONG &lt;<a href=3D"mailto:soja.bong@de.hanjin.com" target=3D"_blank"=
+>soja.bong@de.hanjin.com</a>&gt;, Jana Fuhrhop &lt;<a href=3D"mailto:jana.f=
+uhrhop@de.hanjin.com" target=3D"_blank">jana.fuhrhop@de.hanjin.com</a>&gt;,=
+ Michael Stein &lt;<a href=3D"mailto:michael.stein@de.hanjin.com" target=3D=
+"_blank">michael.stein@de.hanjin.com</a>&gt;,
+ Sang-Yeol YU &lt;<a href=3D"mailto:syyu@hanjin.com" target=3D"_blank">syyu=
+@hanjin.com</a>&gt;, Jean-Pascal BIDOIRE &lt;<a href=3D"mailto:jean.pascal.=
+bidoire@fr.hanjin.com" target=3D"_blank">jean.pascal.bidoire@fr.hanjin.com<=
+/a>&gt;, Yun-Ho FRERE &lt;<a href=3D"mailto:yun-ho.frere@fr.hanjin.com" tar=
+get=3D"_blank">yun-ho.frere@fr.hanjin.com</a>&gt;,
+ Didier JEAN &lt;<a href=3D"mailto:didier.jean@fr.hanjin.com" target=3D"_bl=
+ank">didier.jean@fr.hanjin.com</a>&gt;, Veronica ZHANG &lt;<a href=3D"mailt=
+o:veronica@cn.hanjin.com" target=3D"_blank">veronica@cn.hanjin.com</a>&gt;,=
+ KYOHEI SUNAGA &lt;<a href=3D"mailto:ksunaga@jp.hanjin.com" target=3D"_blan=
+k">ksunaga@jp.hanjin.com</a>&gt;,
+ MASAHIRO YOSHIDA &lt;<a href=3D"mailto:myoshi@jp.hanjin.com" target=3D"_bl=
+ank">myoshi@jp.hanjin.com</a>&gt;, MASAHARU UMIHARA &lt;<a href=3D"mailto:u=
+mihara@jp.hanjin.com" target=3D"_blank">umihara@jp.hanjin.com</a>&gt;<br>
+<b>Subject : </b>RE: Renault Tender Kick Off Meeting Minutes</span></p>
+</div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">TO Sunaga</span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">Pls update last meeting with PIC of Nissan Motor in datail which wa=
+s rather different from what Renault / Nissan officially announced.</span><=
+/p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">B.rgds</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic'" lang=3D=
+"EN-US">&nbsp;</span></p>
+</div>
+<div>
+<p style=3D"MARGIN-BOTTOM: 12pt" class=3D"MsoNormal">&nbsp;</p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<div style=3D"TEXT-ALIGN: center" class=3D"MsoNormal" align=3D"center"><spa=
+n style=3D"FONT-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-US">
+<hr align=3D"center" size=3D"2" width=3D"100%">
+</span></div>
+<p style=3D"MARGIN-BOTTOM: 12pt" class=3D"MsoNormal"><b><span style=3D"FONT=
+-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-US">From :
+</span></b><span style=3D"FONT-FAMILY: 'Malgun gothic','serif'" lang=3D"EN-=
+US">&quot;Jessie(Ji-Soo) YOON&quot; &lt;<a href=3D"mailto:jessyoon@hanjin.c=
+om" target=3D"_blank">jessyoon@hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-01 19:55:40 ( &#43;09:00 )<br>
+<b>To : </b>David Malbos &lt;<a href=3D"mailto:david@hanjin.com" target=3D"=
+_blank">david@hanjin.com</a>&gt;, Mark(Yoon-Jai) LEE &lt;<a href=3D"mailto:=
+yjlee@hanjin.com" target=3D"_blank">yjlee@hanjin.com</a>&gt;, Kenny CHIN &l=
+t;<a href=3D"mailto:kchin@us.hanjin.com" target=3D"_blank">kchin@us.hanjin.=
+com</a>&gt;,
+ Brian MARTORANO &lt;<a href=3D"mailto:mbrian@us.hanjin.com" target=3D"_bla=
+nk">mbrian@us.hanjin.com</a>&gt;, Patricia HALSALL &lt;<a href=3D"mailto:ph=
+alsall@us.hanjin.com" target=3D"_blank">phalsall@us.hanjin.com</a>&gt;, Sun=
+ha KANG &lt;<a href=3D"mailto:sunpark@us.hanjin.com" target=3D"_blank">sunp=
+ark@us.hanjin.com</a>&gt;,
+ Richard NUZZI &lt;<a href=3D"mailto:rnuzzi@us.hanjin.com" target=3D"_blank=
+">rnuzzi@us.hanjin.com</a>&gt;, Sang-Ryun JEON &lt;<a href=3D"mailto:srjeon=
+@hanjin.com" target=3D"_blank">srjeon@hanjin.com</a>&gt;, Sheldon SHIKHEL &=
+lt;<a href=3D"mailto:sshikhel@us.hanjin.com" target=3D"_blank">sshikhel@us.=
+hanjin.com</a>&gt;,
+ Peter (Ho Seob) LEE &lt;<a href=3D"mailto:hplee@us.hanjin.com" target=3D"_=
+blank">hplee@us.hanjin.com</a>&gt;, Peter F SCANLON &lt;<a href=3D"mailto:p=
+scanlon@us.hanjin.com" target=3D"_blank">pscanlon@us.hanjin.com</a>&gt;, Ja=
+ne CHOE &lt;<a href=3D"mailto:jchoe@us.hanjin.com" target=3D"_blank">jchoe@=
+us.hanjin.com</a>&gt;,
+ Kooks(Kook-Shin) KIM &lt;<a href=3D"mailto:kookskim@hanjin.com" target=3D"=
+_blank">kookskim@hanjin.com</a>&gt;, Ara(A-RA) CHO &lt;<a href=3D"mailto:ar=
+cho@hanjin.com" target=3D"_blank">archo@hanjin.com</a>&gt;, Dirk RIEDEL (US=
+E) &lt;<a href=3D"mailto:dirk.riedel@de.hanjin.com" target=3D"_blank">dirk.=
+riedel@de.hanjin.com</a>&gt;,
+ Bettina BAHLKE &lt;<a href=3D"mailto:bettina.bahlke@de.hanjin.com" target=
+=3D"_blank">bettina.bahlke@de.hanjin.com</a>&gt;, Nico DENCKER &lt;<a href=
+=3D"mailto:nico.dencker@de.hanjin.com" target=3D"_blank">nico.dencker@de.ha=
+njin.com</a>&gt;, Tobias HEIFLER &lt;<a href=3D"mailto:tobias.heifler@de.ha=
+njin.com" target=3D"_blank">tobias.heifler@de.hanjin.com</a>&gt;,
+ Ole JOHANNSEN (USA) &lt;<a href=3D"mailto:ole.johannsen@de.hanjin.com" tar=
+get=3D"_blank">ole.johannsen@de.hanjin.com</a>&gt;, Anja SERKE &lt;<a href=
+=3D"mailto:anja.serke@de.hanjin.com" target=3D"_blank">anja.serke@de.hanjin=
+.com</a>&gt;, Jesse Turner &lt;<a href=3D"mailto:jesse.turner@de.hanjin.com=
+" target=3D"_blank">jesse.turner@de.hanjin.com</a>&gt;,
+ Gordon VALENTINER (USW) &lt;<a href=3D"mailto:gordon.valentiner@de.hanjin.=
+com" target=3D"_blank">gordon.valentiner@de.hanjin.com</a>&gt;, Louisa KLIE=
+TZ &lt;<a href=3D"mailto:louisa.klietz@de.hanjin.com" target=3D"_blank">lou=
+isa.klietz@de.hanjin.com</a>&gt;, Ludmilla WIST &lt;<a href=3D"mailto:ludmi=
+lla.wist@de.hanjin.com" target=3D"_blank">ludmilla.wist@de.hanjin.com</a>&g=
+t;,
+ Chil-Ho KIM &lt;<a href=3D"mailto:chilhkim@hanjin.com" target=3D"_blank">c=
+hilhkim@hanjin.com</a>&gt;, Bae-Young SUH &lt;<a href=3D"mailto:bysuh@hanji=
+n.com" target=3D"_blank">bysuh@hanjin.com</a>&gt;, Jeong-Jae CHOI &lt;<a hr=
+ef=3D"mailto:jjchoi@hanjin.com" target=3D"_blank">jjchoi@hanjin.com</a>&gt;=
+,
+ Seven LIU &lt;<a href=3D"mailto:sevenliu@cn.hanjin.com" target=3D"_blank">=
+sevenliu@cn.hanjin.com</a>&gt;, Hyung-Su KIM &lt;<a href=3D"mailto:hskim@ha=
+njin.com" target=3D"_blank">hskim@hanjin.com</a>&gt;, YOSHITSUGU KAGAWA &lt=
+;<a href=3D"mailto:kagawa@jp.hanjin.com" target=3D"_blank">kagawa@jp.hanjin=
+.com</a>&gt;,
+ Dae-Young KANG &lt;<a href=3D"mailto:dykang@hanjin.com" target=3D"_blank">=
+dykang@hanjin.com</a>&gt;, Hong-Kyoo LEE &lt;<a href=3D"mailto:hklee@hanjin=
+.com" target=3D"_blank">hklee@hanjin.com</a>&gt;, Kyong-Sik PARK &lt;<a hre=
+f=3D"mailto:ksikpark@hanjin.com" target=3D"_blank">ksikpark@hanjin.com</a>&=
+gt;,
+ Jung-Moo LEE &lt;<a href=3D"mailto:jmleea@hanjin.com" target=3D"_blank">jm=
+leea@hanjin.com</a>&gt;, Joseph NG &lt;<a href=3D"mailto:joseph.ng@sg.hanji=
+n.com" target=3D"_blank">joseph.ng@sg.hanjin.com</a>&gt;, Alan TAY &lt;<a h=
+ref=3D"mailto:alantay@sg.hanjin.com" target=3D"_blank">alantay@sg.hanjin.co=
+m</a>&gt;,
+ Bak Teng (Alvin) YEO &lt;<a href=3D"mailto:btyeo@sg.hanjin.com" target=3D"=
+_blank">btyeo@sg.hanjin.com</a>&gt;, Jess YAM &lt;<a href=3D"mailto:kyyam@s=
+g.hanjin.com" target=3D"_blank">kyyam@sg.hanjin.com</a>&gt;, Deok-Lim CHOI =
+&lt;<a href=3D"mailto:dlchoi@hanjin.com" target=3D"_blank">dlchoi@hanjin.co=
+m</a>&gt;,
+ Hyun-Sup SHIN &lt;<a href=3D"mailto:hsshin@hanjin.com" target=3D"_blank">h=
+sshin@hanjin.com</a>&gt;, Dongsoo AHN &lt;<a href=3D"mailto:dsahn@hanjin.co=
+m" target=3D"_blank">dsahn@hanjin.com</a>&gt;, Yong-Hwa JUN &lt;<a href=3D"=
+mailto:yongma27@hanjin.com" target=3D"_blank">yongma27@hanjin.com</a>&gt;,
+ Ki-up KIM &lt;<a href=3D"mailto:kimkiup@hanjin.com" target=3D"_blank">kimk=
+iup@hanjin.com</a>&gt;, Kyung-Su SIN &lt;<a href=3D"mailto:kssin@hanjin.com=
+" target=3D"_blank">kssin@hanjin.com</a>&gt;, Lucy(Ji-Young) Rhee &lt;<a hr=
+ef=3D"mailto:lucyrhee@hanjin.com" target=3D"_blank">lucyrhee@hanjin.com</a>=
+&gt;,
+ Sang-Hyeob YEO &lt;<a href=3D"mailto:ysh517@hanjin.com" target=3D"_blank">=
+ysh517@hanjin.com</a>&gt;, Chul-Wan PARK &lt;<a href=3D"mailto:jcpark@hanji=
+n.com" target=3D"_blank">jcpark@hanjin.com</a>&gt;, Joo-Won Lee &lt;<a href=
+=3D"mailto:lejo@hanjin.com" target=3D"_blank">lejo@hanjin.com</a>&gt;,
+ Andrew Hou &lt;<a href=3D"mailto:andrew@cn.hanjin.com" target=3D"_blank">a=
+ndrew@cn.hanjin.com</a>&gt;, Yoon-Han JUNG &lt;<a href=3D"mailto:jungyh@han=
+jin.com" target=3D"_blank">jungyh@hanjin.com</a>&gt;, Jong-Suk LIM &lt;<a h=
+ref=3D"mailto:jslim@hanjin.com" target=3D"_blank">jslim@hanjin.com</a>&gt;,
+ Sang-Soo LEE &lt;<a href=3D"mailto:2ss@hanjin.com" target=3D"_blank">2ss@h=
+anjin.com</a>&gt;, Ho-Sik PARK &lt;<a href=3D"mailto:hspark@hanjin.com" tar=
+get=3D"_blank">hspark@hanjin.com</a>&gt;, Edward(Kwang-Min) LEE &lt;<a href=
+=3D"mailto:kmlee@hanjin.com" target=3D"_blank">kmlee@hanjin.com</a>&gt;,
+ Dynia(Min-Sun) Kim &lt;<a href=3D"mailto:mskim@hanjin.com" target=3D"_blan=
+k">mskim@hanjin.com</a>&gt;, Sungjae Kang &lt;<a href=3D"mailto:sjkang81@ha=
+njin.com" target=3D"_blank">sjkang81@hanjin.com</a>&gt;, MD(Myung-Deok) CHO=
+ &lt;<a href=3D"mailto:mdcho@hanjin.com" target=3D"_blank">mdcho@hanjin.com=
+</a>&gt;,
+ Seung-Min PARK &lt;<a href=3D"mailto:sminpark@hanjin.com" target=3D"_blank=
+">sminpark@hanjin.com</a>&gt;, Nam-Hoon BAIK &lt;<a href=3D"mailto:hunt72@h=
+anjin.com" target=3D"_blank">hunt72@hanjin.com</a>&gt;, SH(SUK-HWAN) JUNG &=
+lt;<a href=3D"mailto:ch021@hanjin.com" target=3D"_blank">ch021@hanjin.com</=
+a>&gt;,
+ Woojung Kim &lt;<a href=3D"mailto:wjkim@hanjin.com" target=3D"_blank">wjki=
+m@hanjin.com</a>&gt;, Daisy(Ji-Kyong) BHANG &lt;<a href=3D"mailto:jkbhang@h=
+anjin.com" target=3D"_blank">jkbhang@hanjin.com</a>&gt;, TH(Tae-Hoon) AN &l=
+t;<a href=3D"mailto:than@hanjin.com" target=3D"_blank">than@hanjin.com</a>&=
+gt;,
+ Sang-Jin HAN &lt;<a href=3D"mailto:sjhan@hanjin.com" target=3D"_blank">sjh=
+an@hanjin.com</a>&gt;, Yoo-Kyung KIM &lt;<a href=3D"mailto:kimyk@hanjin.com=
+" target=3D"_blank">kimyk@hanjin.com</a>&gt;, Aram KIM &lt;<a href=3D"mailt=
+o:aram@hanjin.com" target=3D"_blank">aram@hanjin.com</a>&gt;,
+ Lloyd(Woosik) Yang &lt;<a href=3D"mailto:shakin@hanjin.com" target=3D"_bla=
+nk">shakin@hanjin.com</a>&gt;, Luth(Kyung-Won) CHOI &lt;<a href=3D"mailto:l=
+uthchoi@hanjin.com" target=3D"_blank">luthchoi@hanjin.com</a>&gt;, Gracie C=
+HEN &lt;<a href=3D"mailto:wmchen@sg.hanjin.com" target=3D"_blank">wmchen@sg=
+.hanjin.com</a>&gt;,
+ JH(Jin-Ha) LEE &lt;<a href=3D"mailto:jinhalee@hanjin.com" target=3D"_blank=
+">jinhalee@hanjin.com</a>&gt;, Byung-Ro YOO &lt;<a href=3D"mailto:bryoo1@ha=
+njin.com" target=3D"_blank">bryoo1@hanjin.com</a>&gt;, Chris(Seonmyung) Kim=
+ &lt;<a href=3D"mailto:kimsm@hanjin.com" target=3D"_blank">kimsm@hanjin.com=
+</a>&gt;,
+ Sylvia(He-Jung) KIM &lt;<a href=3D"mailto:sylvia_k@hanjin.com" target=3D"_=
+blank">sylvia_k@hanjin.com</a>&gt;<br>
+<b>Cc : </b>Marcus C. FIELD &lt;<a href=3D"mailto:marcus.field@de.hanjin.co=
+m" target=3D"_blank">marcus.field@de.hanjin.com</a>&gt;, Gabriele SCHERNER =
+&lt;<a href=3D"mailto:gabriele.scherner@de.hanjin.com" target=3D"_blank">ga=
+briele.scherner@de.hanjin.com</a>&gt;, Rob DURENKAMP
+ &lt;<a href=3D"mailto:rob.durenkamp@nl.hanjin.com" target=3D"_blank">rob.d=
+urenkamp@nl.hanjin.com</a>&gt;, Dirk-Carsten Wiegers &lt;<a href=3D"mailto:=
+dirk.wiegers@de.hanjin.com" target=3D"_blank">dirk.wiegers@de.hanjin.com</a=
+>&gt;, Marko Sevke &lt;<a href=3D"mailto:marko.sevke@de.hanjin.com" target=
+=3D"_blank">marko.sevke@de.hanjin.com</a>&gt;,
+ Soja BONG &lt;<a href=3D"mailto:soja.bong@de.hanjin.com" target=3D"_blank"=
+>soja.bong@de.hanjin.com</a>&gt;, Jana Fuhrhop &lt;<a href=3D"mailto:jana.f=
+uhrhop@de.hanjin.com" target=3D"_blank">jana.fuhrhop@de.hanjin.com</a>&gt;,=
+ Michael Stein &lt;<a href=3D"mailto:michael.stein@de.hanjin.com" target=3D=
+"_blank">michael.stein@de.hanjin.com</a>&gt;,
+ Sang-Yeol YU &lt;<a href=3D"mailto:syyu@hanjin.com" target=3D"_blank">syyu=
+@hanjin.com</a>&gt;, Jean-Pascal BIDOIRE &lt;<a href=3D"mailto:jean.pascal.=
+bidoire@fr.hanjin.com" target=3D"_blank">jean.pascal.bidoire@fr.hanjin.com<=
+/a>&gt;, Yun-Ho FRERE &lt;<a href=3D"mailto:yun-ho.frere@fr.hanjin.com" tar=
+get=3D"_blank">yun-ho.frere@fr.hanjin.com</a>&gt;,
+ Didier JEAN &lt;<a href=3D"mailto:didier.jean@fr.hanjin.com" target=3D"_bl=
+ank">didier.jean@fr.hanjin.com</a>&gt;, Veronica ZHANG &lt;<a href=3D"mailt=
+o:veronica@cn.hanjin.com" target=3D"_blank">veronica@cn.hanjin.com</a>&gt;<=
+br>
+<b>Subject : </b>RE: Renault Tender Kick Off Meeting Minutes</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">Dear David,</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">Thank you for sharing your meeting minutes and well under=
+stood the process of the bidding for 2014.</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">As recommended by UCM, ASM accepts to manage the bidding =
+in to two parts. Let</span><span style=3D"FONT-FAMILY: 'Malgun Gothic'; COL=
+OR: #1f497d; FONT-SIZE: 10pt">=92<span lang=3D"EN-US">s
+ well coordinate</span></span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">to gain their global biz in 2014.</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">RIC : TYOBBS, Please note the bidding sked and also colle=
+ct more info about the bidding from Nissan</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">side and let</span><span style=3D"FONT-FAMILY: 'Malgun Go=
+thic'; COLOR: #1f497d; FONT-SIZE: 10pt">=92<span lang=3D"EN-US">s start our=
+ preparation for the Nissan Bidding.</span></span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">Thank you and have a nice weekend.</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10p=
+t" lang=3D"EN-US">ASM</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+&nbsp;</p>
+<div style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING=
+-BOTTOM: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; BORDER-TOP: #b5c4df 1p=
+t solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<b><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt" lang=
+=3D"EN-US">From:</span></b><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif=
+'; FONT-SIZE: 10pt" lang=3D"EN-US">David Malbos
+<br>
+<b>Sent:</b> Thursday, October 31, 2013 10:38 PM<br>
+<b>To:</b> Mark(Yoon-Jai) LEE; Kenny CHIN; Brian MARTORANO; Patricia HALSAL=
+L; Sunha KANG; Richard NUZZI; Sang-Ryun JEON; Sheldon SHIKHEL; Peter (Ho Se=
+ob) LEE; Peter F SCANLON; Jane CHOE; Kooks(Kook-Shin) KIM; Ara(A-RA) CHO; D=
+irk RIEDEL (USE); Bettina BAHLKE;
+ Nico DENCKER; Tobias HEIFLER; Ole JOHANNSEN (USA); Anja SERKE; Jesse Turne=
+r; Gordon VALENTINER (USW); Louisa KLIETZ; Ludmilla WIST; Chil-Ho KIM; Bae-=
+Young SUH; Jeong-Jae CHOI; Jessie(Ji-Soo) YOON; Seven LIU; Hyung-Su KIM; YO=
+SHITSUGU KAGAWA; Dae-Young KANG;
+ Hong-Kyoo LEE; Kyong-Sik PARK; Jung-Moo LEE; Joseph NG; Alan TAY; Bak Teng=
+ (Alvin) YEO; Jess YAM; Deok-Lim CHOI; Hyun-Sup SHIN; Dongsoo AHN; Yong-Hwa=
+ JUN; Ki-up KIM; Kyung-Su SIN; Lucy(Ji-Young) Rhee; Sang-Hyeob YEO; Chul-Wa=
+n PARK; Joo-Won Lee; Andrew Hou;
+ Yoon-Han JUNG; Jong-Suk LIM; Sang-Soo LEE; Ho-Sik PARK; Edward(Kwang-Min) =
+LEE; Dynia(Min-Sun) Kim; Sungjae Kang; MD(Myung-Deok) CHO; Seung-Min PARK; =
+Nam-Hoon BAIK; SH(SUK-HWAN) JUNG; Woojung Kim; Daisy(Ji-Kyong) BHANG; TH(Ta=
+e-Hoon) AN; Sang-Jin HAN; Yoo-Kyung
+ KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; JH(J=
+in-Ha) LEE; Byung-Ro YOO; Chris(Seonmyung) Kim; Sylvia(He-Jung) KIM<br>
+<b>Cc:</b> Marcus C. FIELD; Gabriele SCHERNER; Rob DURENKAMP; Dirk-Carsten =
+Wiegers; Marko Sevke; Soja BONG; Jana Fuhrhop; Michael Stein; Sang-Yeol YU;=
+ Jean-Pascal BIDOIRE; Yun-Ho FRERE; Didier JEAN<br>
+<b>Subject:</b> Renault Tender Kick Off Meeting Minutes</span></p>
+</div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+&nbsp;</p>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div id=3D"ezFormProc_div">
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US"><br>
+To: XCGs, XSGs, XCMs,&nbsp;CCM, CCE, CCB, CCA. , LEHBBG/S, TYOBB</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Fm: UCM<=
+/span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Dear all=
+,</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Please f=
+ind below minutes of the information meeting held at Renault in Paris&nbsp;=
+introducing their tender process.</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<strong><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">=
+Location</span></strong></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Guyancou=
+rt (Paris), France October 30th 2013</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<strong><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">=
+Attendees</span></strong></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Renault/=
+Nissan: Jean-Elophe Blaise, Logistics Suppliers MGR for Europe</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Renault/=
+Nissan: Carl Beijer, Logistics Supplier
+</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Renault/=
+Nissan: Kumi Yoshida, Logistics Buyer</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Renault:=
+ Vincent Rome, Overseas transport MGR</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Renault:=
+ Frederic Depaepe, Project Leader transport</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Renault:=
+ Loup Tournand, Project Leader transport</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">HJS: LEH=
+BBG, BBS, BBS/Yun-Ho Frere, UCG/Rob Durenkamp, UCM</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Other sh=
+ipping lines were invited at the same time, as this was a group session.</s=
+pan></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<strong><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">=
+Basic tender process overview</span></strong></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<ul type=3D"disc">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l7 level1 lfo1" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">17 carri=
+ers are invited
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l7 level1 lfo1" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Schedule=
+: </span></li></ul>
+<ul type=3D"disc">
+<ul type=3D"circle">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l10 level2 lfo2" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">RFQ rele=
+ase: Nov. 19th
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l10 level2 lfo2" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">1 round =
+offer: Dec. 12th
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l10 level2 lfo2" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">1 round =
+F2F: W4 2014
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l10 level2 lfo2" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">2 round =
+offer: W5 2014
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l10 level2 lfo2" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">2 round =
+F2F: W6 </span>
+</li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; ms=
+o-list: l10 level2 lfo2" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Nominati=
+on: Early March 2014</span></li></ul>
+</ul>
+<ul type=3D"disc">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l9 level1 lfo3" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Tender c=
+ontents:</span></li></ul>
+</div>
+<ul type=3D"disc">
+<ul type=3D"circle">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l0 level2 lfo4" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">3 year r=
+ate validity for routes covering &quot;mature&quot;, or &quot;steady&quot; =
+markets (such as AESW, TPSE)
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l0 level2 lfo4" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">1 year v=
+alidity for &quot;volatile&quot; or &quot;emerging&quot; markets (such as&n=
+bsp;Latam)
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l0 level2 lfo4" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">a SLA (S=
+ervice Level Agreement)</span></li></ul>
+</ul>
+<ul type=3D"disc">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l2 level1 lfo5" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Potentia=
+l volumes: More than 310,000&nbsp;TEUs per year (1/3 for Renault, rest for =
+Nissan)
+</span></li></ul>
+<p style=3D"TEXT-INDENT: -18pt; MARGIN-LEFT: 36pt"><span style=3D"FONT-FAMI=
+LY: Symbol; FONT-SIZE: 10pt" lang=3D"EN-US">=B7</span><span style=3D"FONT-S=
+IZE: 7pt" lang=3D"EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><strong><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: b=
+lue" lang=3D"EN-US">Renault/Nissan negotiation parties are&nbsp;split betwe=
+en Paris and Tokyo:</span></strong></p>
+<ul type=3D"disc">
+<ul type=3D"circle">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l6 level2 lfo6" class=3D"MsoNormal">
+<strong><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: blue" la=
+ng=3D"EN-US">Europe to/from Latam: Paris</span></strong><span style=3D"FONT=
+-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US"></span>
+</li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; ms=
+o-list: l6 level2 lfo6" class=3D"MsoNormal">
+<strong><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: blue" la=
+ng=3D"EN-US">Other trades: Tokyo</span></strong></li></ul>
+</ul>
+<ul type=3D"disc">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l3 level1 lfo7" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Bidding =
+platforms:
+</span></li></ul>
+<ul type=3D"disc">
+<ul type=3D"circle">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l4 level2 lfo8" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Paris ne=
+gotiated portion: OCCON
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l4 level2 lfo8" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Tokyo ne=
+gotiated portion: Excel sheets</span></li></ul>
+</ul>
+<ul type=3D"disc">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l8 level1 lfo9" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Selectio=
+n criteria:
+</span></li></ul>
+<ul type=3D"disc">
+<ul type=3D"circle">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l5 level2 lfo10" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">O/F leve=
+l </span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt:=
+ auto; mso-list: l5 level2 lfo10" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Transit =
+time (no T/S, 1 additional day transit time is valued at a cost of USD 20/2=
+5)
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l5 level2 lfo10" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">There wi=
+ll be a floating mechanism, but not yet fixed, probably a BAF reviewed ever=
+y 6 months
+</span></li><li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: a=
+uto; mso-list: l5 level2 lfo10" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">7 to 10 =
+carrier globally will be selected</span></li></ul>
+</ul>
+<ul type=3D"disc">
+<li style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-lis=
+t: l1 level1 lfo11" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">There ar=
+e also 3 or 4 port/pairs that dont fall under the 1 or 3 year validity tend=
+ers.&nbsp;They will be follow a more simple RFQ process</span></li></ul>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp=
+;</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">A pre=
+sentation of the bid will be distributed in the coming days, i will forward=
+ it to relevant parties as soon as received.</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Simil=
+ar presentation will be held in Japan.</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp=
+;</span></p>
+<p><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">UC=
+M recommendations</span></u><span style=3D"FONT-FAMILY: 'Calibri','sans-ser=
+if'" lang=3D"EN-US">:</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp=
+;</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">As pe=
+r Renault/Nissan's set up of having 2 negotiation parties, it is difficult =
+to have 1 internal Customer Management team</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">to ha=
+ndle this customer. However as per their split of trades, HJS has the most =
+potential and interest in the Tokyo negotiated part. For the Paris negotiat=
+ed part, HJS allocation and service
+ is limited.</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">There=
+fore, would suggest that ASM takes over the lead on this customer in collab=
+oration with TYOBB.</span></p>
+<p><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">LEHBB=
+ will remain as contact window for the Paris part.</span></p>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">Kind Reg=
+ards,</span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">&nbsp;</=
+span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Calibri','sans-serif'" lang=3D"EN-US">UCM</spa=
+n></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_31FF11C9AEE38F49BB7586BF5C617D6817D16246kovhgvmchanjinc_--

@@ -1,0 +1,463 @@
+LATES MKT INFO
+
+
+====== <SHA> ======
+
+
+From: Jessica LU 
+Sent: Friday, November 29, 2013 2:30 PM
+To: Jason SHI; Paris PENG; Grace WANG; Spike CHEN; Alex FAN; Jeong-Jae CHOI; Sang-Jin HAN; Andrew Hou
+Cc: Claud Yan; Oasis Shen; Alex Lin; Sang-Keun KIM; Dae-Kyu KIM; Danny ZHOU
+Subject: ÓÍ?: M/E market movement updated 
+
+Adding CCE
+
+Below SHA market information for your reference.
+
+Thanks and best regards,
+Jessica Lu
+
+?ËììÑ: Jason SHI 
+?áê??: 2013Ò´11êÅ29ìí 10:43
+
+ñ«?: M/E market movement updated 
+
+TO: ASI 
+FM:SHABBS/JASON
+ 
+Dear sir 
+ 
+Tks for your support always 
+ 
+As we checked market movement this morning, total market trend keep drop until now 
+ 
+the new rate offer updated as below 
+ 
+CSAV: 500/800
+CSCL: 500/800
+PIL: 500/800
+YML: 550/950( but we have got the exact informaton they has begin to offer 525/850 rate level in the market)
+ 
+Since Dec 1ST RR, all the carriers lifting influenced a lot, which lead to the RR fail within 2 days, even worse, some carriers rate drop to lower before RR. 
+ 
+Checked our bkg status, HJMI0078W/FMX, bkg accpet 97teu, forcast final 60-65teu
+HJMU0030W/PSG bkg accept 170teu, forcast final 150teu around. as the market follower, we have no any advantage in the current dropping market. 
+ 
+Pls kindly check actual  market status and fix our Dec 8th 
+ 
+tks
+brgd/jason
+
+
+
+
+?áê??: 2013Ò´11êÅ27ìí 9:38
+ñ«?: ÓÍ?: (CORRECTION) [Middle East] Information for Maersk Extra loader regarding 1 DEC RR
+
+TO: CCE 
+FM: SHAASI
+
+
+We checked the market by ourselves and got the latest rate level in SHA as:
+
+CSCL: USD650/1100 (bottom rate)
+APL/OOCL: USD650/1100
+YML: USD650/1100 (ETD Nov 6th)
+
+Above information is from reliable channel for your reference.
+
+We suggest to follow market trend and adjust M/E rate G/L to USD650/1100 on FMX. 
+
+
+2013-11-27 (¼ö) ¿ÀÈÄ 4:47
+
+We are reporting FMX/PSG bkg status for the first week in Dec for your reference.
+
+FMX ETD Dec 1st Sunday and now is Wednesday afternoon, there won¡¯t be too many new bookings on FMX.
+
+So we estimate the final loading will be arround 100TEU, 60-70% against QTA.
+
+Unfortunately M/E market rate is dropping continuously without any sign to terminate, we suggest to adjust PSG rate G/L to USD600/1000.
+
+
+==============2013-11-27 (¼ö) ¿ÀÀü 9:54=======================
+
+TO : ASI 
+FM : CCE
+
+Dear Mr. FAN
+
+This morning, it may be possible that some carriers start offering 1300(SPRC, CPRC), 1400(NPRC) since IRA TELECONF yesterday.
+So, please check others rate actions in NPRC / CPRC / SPRC the markets this morning. 
+In order to avoid tricks by NVOs, we had better check the market by ourselves.
+Based on your information, I¡¯ll do it as well.
+
+B.RGDS,
+
+From: Alex FAN 
+Sent: Tuesday, November 26, 2013 6:29 PM
+To: TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Andrew Hou
+Cc: Paris PENG; Grace Wang; Spike CHEN; Jeong-Jae CHOI; Chil-Ho KIM; Jeong-Jae CHOI; Hong-Kyoo LEE; Kyong-Sik PARK; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN
+Subject: ÓÍ?: (CORRECTION) [Middle East] Information for Maersk Extra loader regarding 1 DEC RR
+
+TO: CCE
+FM: SHAASI
+
+Dear Mr. Han:
+
+Your latest information is well noted.
+
+For SHA market, we checked with several communication channles and get the feedback no carrier is using USD750/1300 currently.
+
+On the contrary, CSAV/CSCL/OOCL/APL are gradually dropping rates to arround USD600/1000 which is the same as this week rate level.
+
+We have to report to you and suggest to adjust SHA rate G/L (bottom rate) to USD600/1000 for M/E to match market.
+
+We need your comment urgently with thanks.
+
+                    
+Thanks & Best Regards!
+Alex Fan/SHAASG/ASI
+
+?ËììÑ: Sang-Jin HAN 
+?áê??: 2013Ò´11êÅ26ìí 16:36
+â¥ËììÑ: Jessica LU; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; Andrew Hou; Paris PENG; Grace WANG; Spike CHEN; Jessica LU; Alex FAN; Gracie CHEN; Jade(DAJEONG) YU; Sophia(Qi Hui) YUE; WANG GHIM JASON CHIA; KWEE MEI SEO; Andrew Hou
+ôüáê: Paris PENG; Grace WANG; Spike CHEN; Alex FAN; Jeong-Jae CHOI; Chil-Ho KIM; Jeong-Jae CHOI; Hong-Kyoo LEE; Kyong-Sik PARK; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN
+ñ«?: (CORRECTION) [Middle East] Information for Maersk Extra loader regarding 1 DEC RR
+
+The origin of MSK Extra Loader  2 is not TAO but YIT as adjusted in red below.     // B.RGDS, 
+
+From: Sang-Jin HAN 
+Sent: Tuesday, November 26, 2013 5:32 PM
+To: Jessica LU; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; Andrew Hou; Paris PENG; Grace WANG; Spike CHEN; Jessica LU; Alex FAN; Gracie CHEN; Jade(DAJEONG) YU; Sophia(Qi Hui) YUE; WANG GHIM JASON CHIA; KWEE MEI SEO; Andrew Hou
+Cc: Paris PENG; Grace WANG; Spike CHEN; Alex FAN; Jeong-Jae CHOI; Chil-Ho KIM; Jeong-Jae CHOI; Hong-Kyoo LEE; Kyong-Sik PARK; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN
+Subject: [Middle East] Information for Maersk Extra loader regarding 1 DEC RR
+
+TO : ASI
+CC : WSI 
+FM : CCE
+
+In the market, due to the rumor for Maersk Extra Loader to Middle East, some NVOs are playing tricks on all carriers to decrease / minimize post RR rate from 1st December.
+With below specific information for Maersk Extra Loader, please don¡¯t be uneasy due to looming fear for any NO SHOW.
+Of course, there could be very limited impact but please be confident in implementing 1 DEC RR with the strong/expecting strong forecast in beginning of December.
+
+< MSK Extra Loader  1 >
+
+-	Capacity : 8,000TEU for repositioning to other trade
+-	Route :  TAO ? Malaysia ? Jebel Ali (via T/S)  ? Other trade destinations
+-	BSA from TAO : only 300TEU
+
+< MSK Extra Loader  2 >
+
+-	Capacity : 8,000TEU for repositioning to other trade
+-	Route :  CNYIT(DEC 4th) ? Jebel Ali (Dec 30th via T/S) ? Other trade destinations
+-	BSA from YIT : only 500~800TEU  
+-	Considering total weekly IRA capacity to M/E, about 87,348 TEU, temporary 500~800 teu BSA is negligible level.
+
+In this regard, please be reminded that H/O¡¯s RR stance for 1 December is very firm to overcome our current difficult period due to the below BEP rate level to Middle East.
+So, at least, N.PRC rate must be over $1400/40¡¯    C.PRC & S.PRC rates must be at least over $1300/40¡¯
+Don¡¯t be deceived by NVO¡¯s trick to minimize RR amount w.e.f. Dec 1ST.
+
+B.RGDS,
+
+
+
+From: Sang-Jin HAN 
+Sent: Tuesday, November 26, 2013 2:07 PM
+To: Jessica LU; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; Andrew Hou
+Cc: Paris PENG; Grace WANG; Spike CHEN; Alex FAN; Jeong-Jae CHOI; Chil-Ho KIM
+Subject: RE: IRA Nov R/R Result and Dec R/R forecast
+
+TO ASI
+FM CCE
+
+Thank you for your well-organized analysis and forecast.
+Please urgently check Maersk extra loader details (ETD per each calling ports / loadable BSA)
+
+
+B.RGDS,
+
+From: Jessica LU 
+Sent: Tuesday, November 26, 2013 11:34 AM
+To: MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; Andrew Hou
+Cc: Paris PENG; Grace WANG; Spike CHEN; Alex FAN; Jeong-Jae CHOI; Chil-Ho KIM
+Subject: IRA Nov R/R Result and Dec R/R forecast
+
+To CCE 
+FM ASI
+
+Dear SJ Han
+
+Would like report IRA Nov R/R Result and Dec R/R forecast as follows:
+
+¡¡	Total LOAD	Total CMPB(PA)	WK 46 VS WK 45	WK 47 VS WK 46	WK 47 VS WK 45
+	2013	2013			
+RHQ	Area	Region Office	40	41	42	43	44	45	46	47	40	41	42	43	44	45	46	47			
+SHAAS	SHAAR	SELBB	1157	486	907	1401	1003	794	1016	924	1198	1471	1216	1195	1267	1339	1191	1279	-148	88	-60
+		TPEBB	127	19	48	69	84	79	123	37	516	598	502	425	424	431	537	561	106	24	130
+		TYOBB	100	120	202	147	86	57	122	144	537	558	640	636	720	684	707	731	23	24	47
+	SHAAR TOTAL	1384	625	1157	1617	1173	930	1261	1105	1088	1269	1085	1111	1166	1222	1080	1183	-142	103	-39
+	SHADNC	CHGBB	21	13	35	18	23	20	17	26	610	527	492	422	405	423	454	453	31	-1	30
+		DLCBB	1	¡¡	2	7	5	2	¡¡	9	1251	¡¡	822	731	809	963	¡¡	1000	-963	1000	37
+		NBOBB	164	232	334	312	271	385	305	305	436	229	257	282	334	340	668	618	328	-50	278
+		NKGBB	65	28	65	48	50	58	84	52	467	539	456	320	288	472	422	339	-50	-83	-133
+		SHABB	126	159	481	224	323	322	166	375	534	412	312	343	376	394	747	729	353	-18	335
+		TAOBB	97	17	37	102	85	96	93	99	823	925	743	503	661	602	563	655	-39	92	53
+		TSNBB	95	35	67	91	107	126	129	54	886	812	769	596	534	527	480	921	-47	441	394
+	SHADNC TOTAL	569	484	1021	802	864	1009	794	920	610	382	356	372	408	416	611	668	195	57	252
+	SHADSC	HKGBB	273	122	295	324	198	178	236	169	389	457	353	417	471	431	569	647	138	78	216
+		SZPBB	413	213	436	567	473	410	419	337	409	421	344	361	380	584	687	679	103	-8	95
+		XMNBB	154	249	240	205	223	244	214	115	650	564	510	478	453	453	636	747	183	111	294
+	SHADSC TOTAL	840	584	971	1096	894	832	869	621	447	490	388	399	418	513	643	683	130	40	170
+TOTAL	2793	1693	3149	3515	2931	2771	2924	2646	798	747	634	721	715	716	823	887	107	64	171
+-	Overall CMPB increase gradually from wk 45 to wk 47 due to RR successfully applied for M/E trade.
+-	For CN, RR quantum applied is around USD400/800, but overall CMPB increased around USD200 for CN. 
+-	For some main offices like SHABB, NBOBB, TSNBB, CMPB has been sharply increased around USD300 for RR applied wk.
+-	For south china office, due to part of PRD cargo which shipped before. Hence, overall CMPB increase gradually around USD100.
+-	For KR, We failed on NOV RR due to market is very poor. But we rely 70% of total load on our IR cargo. So overall CMPB fm KR is highest in ME trade.
+-	In the end of Nov, rate has drop to USD900-1000/F for China main ports which is close to pre RR level in end of Oct. it is mainly because market vol is very weak. Although all IRA members keep CPS in the market every still cannot stop rate sharply decreased.
+
+
+Dec RR forecast
+-	RR plan on Dec 1st is USD200/400
+-	N.PRC: Due to MSK extra loader which ruined market again, RR was failed. For the time being, we maintain our rate first which is already very high in the market. We forecast rate will further dropped again.
+-	C.PRC: although Cosco(IRA conference chairman) sent message to all carriers to set up BMR rate at USD750/1300 for Central China last Thursday. But this two days, we see most of carriers are breaking their words and decrease rate to USD1100-1200/F for SHA market, which leave us no choice. We are considering to follow up market again.
+-	S.PRC: since our ETD for South china is next Friday, we will wait and see other carriers actions and the take our move. Rate will be confirmed tomorrow. Forecast small RR is still workable for south China market due to their pre-RR rate is too low.
+-	KR: due to market is poor. We are not positive to see RR will applied in KR. but we still can focus our high CMPB IR cargo first.
+
+
+Thanks and best regards,
+Jessica Lu
+
+
+
+
+===== <SZP> ==========
+
+2013-11-29 (±Ý) ¿ÀÈÄ 3:17
+
+TO : ASI
+FM : CCE
+
+No objection to your suggestion.
+
+
+B.RGDS,
+
+From: Jessica LU 
+Sent: Friday, November 29, 2013 3:07 PM
+To: Sang-Jin HAN; Raymond Yang; Kang-Soo KIM; Donna W. M. NG
+Cc: Alex FAN; Jeong-Jae CHOI; Andrew Hou; Paris PENG; Grace WANG; Spike CHEN; TH(Tae-Hoon) AN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Hee-Do PARK; Kevin SONG; Alex C. Y. SO; Steven M. Y. LAI; MD(Myung-Deok) CHO; Chil-Ho KIM
+Subject: ÓÍ?: ÓÍ?: <SZPBBS/I> MARKET REPORT INFORMATION - 26th/Nov
+
+To CCE
+Fm ASI
+
+Dear SJ Han
+
+Due to current ME market is really in chaos, no carrier impose RR in south China. We would like CCE support below SZPBB¡¯s rate to protect our load on PSG.
+
+PSG: tier one rate at USD850/F
+
+Thanks and best regards,
+Jessica Lu
+
+
+---------/-----------------------------
+
+2013-11-28 (¸ñ) ¿ÀÈÄ 3:24
+
+ok.
+ only for one voyage, pls do with limited customer as your idea. at the same time, let's monitor mkt and if any positive signal, let's discuss again.   pls be sure that our rate action must be confidential in the market to minimize the negative impact due to our action.
+
+b.rgds,
+
+³ªÀÇ iPhone¿¡¼­ º¸³¿
+
+2013. 11. 28. ¿ÀÈÄ 2:48 "Jessica LU" <jessicalu@cn.hanjin.com> ÀÛ¼º:
+Dear SJ Han
+ 
+Please see attachment the report sent from SZPBB.
+ 
+Quote:
+ 
+HMM: Already increased their rate level to USD 1300/40¡¯ yesterday, but for those BKG has already stuffed yesterday before they offer the new rate, they will still offer USD 800/40¡¯.
+CSCL: USD 750 - 800/40' for cntr gate in day on & before 30/Nov  for their 02/Dec sailing
+CMA, UASC: USD 1250/40¡¯ from 01/Dec. UASC local office already request to reduce allocation to 100 T only.
+OOCL: USD 800/40¡¯ till 01/Dec, from 02/Dec they increase the rate level to 1300/40¡¯.
+APL: USD 850/40¡¯ till 07/Dec
+CSAV: USD 900/40¡¯ till 07/Dec
+HPL, NYK: USD 850-900/40¡¯ till 30/Nov, still not fixed the rate from 01/Dec
+WHL: USD 800/40¡¯ till 04/Dec
+PIL: USD 850/40¡¯ till 04/Dec
+YML: USD 900/40¡¯ till 04/Dec
+COSCO: USD 900/40¡¯ till 03/Dec
+EMC: USD 850 ? 900/40¡¯ till 03/Dec
+ 
+ 
+Thanks and best regards,
+Jessica Lu
+ 
+?ËììÑ: Sang-Jin HAN 
+?áê??: 2013Ò´11êÅ28ìí 13:43
+â¥ËììÑ: Jessica LU
+ôüáê: TH(Tae-Hoon) AN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; Andrew Hou; Jeong-Jae CHOI; Alex FAN; MD(Myung-Deok) CHO; Chil-Ho KIM
+ñ«?: Re: ÓÍ?: FMX/ HNMI0078W load up plan from South China
+ 
+pls share the latest s.prc mkt situation for our quick action   / b.rgds,
+
+³ªÀÇ iPhone¿¡¼­ º¸³¿
+
+2013. 11. 28. ¿ÀÈÄ 2:28 "Jessica LU" <jessicalu@cn.hanjin.com> ÀÛ¼º:
+Adding more receipts
+ 
+Thanks and best regards,
+Jessica Lu
+ 
+?ËììÑ: Jessica LU 
+?áê??: 2013Ò´11êÅ28ìí 11:46
+â¥ËììÑ: Sang-Jin HAN
+ôüáê: Jeong-Jae CHOI; Alex FAN
+ñ«?: FMX/ HNMI0078W load up plan from South China
+ 
+TO CCE
+FM ASI
+Re FMX/ HNMI0078W load up plan from South China
+ 
+Dear SJ Han
+ 
+Please be noted our FMX/ HNMI0078W situation as below.
+ 
+1.	Wide bean. Extra BSA: 1350T 
+2.	Our overall forecast is around 137% VS QTA due to extra load from SELBR
+3.	After checking with CTY-AE, space has not been fully used. Still around 1500tons is available.
+4.	Due to our rate is high for North China, we face cargo shortage for CNSHA(50T)
+5.	Almost all carriers extend their rate for their 1st VVD in South China without RR. (Attached SZPBB¡¯s report.) South China office are request to extend rate as well(USD900/F for tier one rate).( ASI support this idea due to overall market is poor and CN Market almost failed in this RR).
+ 
+ASI suggest we could proceed immediately load up plan from South China to fulfill our VVD and max our load by anyways. In this time, we may support USD850/F as spot offer from South China(only selected customer). space will check with CTY-AE in advance.
+
+
+=====2013-11-27 (¼ö) ¿ÀÀü 11:10 ================
+
+TO : SZPBBS
+FM : CCE
+
+Thank you for your timely market report.
+
+TO : ASI
+
+Dear Alex & Jessica
+
+As we find the current rate in SPRC as below, most of carriers are offering 1300/40¡¯ level for 1 DEC POST RR rate.
+So, with this momentum, we can keep monitoring and catch the timing to offer $1300/40 in C.PRC as well.
+
+===============quoted======================
+<B> Middle East (IRA Scope)								¡¡
+1. Average market L/F of :	96%							¡¡
+¡¡									¡¡
+2. Current Rate Level:								¡¡
+(USD)	20'	40'	40'HC					¡¡
+Average rate level:	¡¡	525 - 550	850 - 900	850 - 900	¡¡	¡¡	¡¡	¡¡	¡¡
+Lowest rate level : 	¡¡	500	700 - 800	700 - 800	¡¡	¡¡	¡¡	¡¡	¡¡
+¡¡									¡¡
+MSC: USD 700/40' till 30/Nov, Dec rate not yet fixed						¡¡
+CSCL: USD 750 - 800/40' for cntr gate in day on & before 30/Nov  for their 02/Dec sailing				¡¡
+HMM: USD 800/40' for their 03/Dec sailing							¡¡
+OOCL: USD 800/40' for their 30/Nov & 01/Dec sailing						¡¡
+APL: USD 850/40' for their 01/Dec sailing							¡¡
+WHL, PIL: USD 1250/40' for their 04/Dec sailing, but they already rpted those IRA members who do not increase rate from 01/Dec & plan to reduce rate
+                 For their 04/Dec sailing.							¡¡
+COSCO: USD 1300/40' for their 07/Dec sailing, but they also rpted some IRA members do not increase rate from 01/Dec, seems they will reduce rate also.
+YML: USD 1200 - 1300/40' for their 04/Dec sailing.							¡¡
+UASC: USD 1300/40' for 02/Dec sailing, local office already request to reduce their allocation to below 100 T, if they still need to stand on this rate.
+CMA: USD 1300/40' for 02/Dec sailing, they are more focus on IQUQR mkt, not focus on AEJEA.				¡¡
+EMC: USD 1300/40' for their 03/Dec sailing, but they already rpted those IRA members who do not increase rate from 01/Dec & plan to reduce rate
+                 For their 03/Dec sailing.							¡¡
+CSAV, HPL, NYK: Not yet fixed their rate level from 01/Dec, will close check their movement				¡¡
+
+===============unquoted====================
+
+B.RGDS,
+
+
+
+
+
+=====< N.PRC > =================================================================
+
+2013-11-28 (¸ñ) ¿ÀÈÄ 12:00
+
+NO OBJECTION
+BUT, PLS MONITOR AND IF ANY OTHER¡¯S RATE INCREASE, WE NEED TO INCREASE ACCORDINGLY
+
+B.RGDS,
+
+From: Jessica LU 
+Sent: Thursday, November 28, 2013 11:51 AM
+
+
+TO CCE
+FM ASI
+
+Dear SJ Han
+
+M/E market is really weak now. market rate is around 1100-1200/F for North China.
+ASI suggested we could set our G/L at USD700/1200 for TAO wef Dec 8. Please kindly give your wise comment.
+
+Thanks and best regards,
+Jessica Lu
+
+?ËììÑ: Lynn Cai 
+?áê??: 2013Ò´11êÅ28ìí 10:23
+
+
+TO:ASI
+CC:CCE
+FM:TAOBBS
+ 
+Dear Jessica,
+ 
+Morning.
+ 
+APL's TAO space increase by around 300TEU in the first week and although they have no formal notice, but oral notified some long term accounts, their rate can be used till Dec. 14th.
+ 
+CSCL current rate level is USD800/1100. 
+ 
+Considering the market situation, do appreciate if you can approve of the rate adjustment.
+ 
+Tks & B.Rgds,
+ 
+Lynn/TAOBBS
+________________________________________
+From : "Jessica LU" <jessicalu@cn.hanjin.com>
+Sent : 2013-11-28 09:58:08 ( +08:00 )
+To TAOBBS
+CC CCE
+FM ASI
+
+Dear Lynn
+
+As you mentioned in the report - APL vessel enlarge from 5600 to 9300TEU in the first week of Dec.  please advise how much increase for TAO BSA for APL. 
+Does APL confirm they won¡¯t increase rate for 2ND week as well?
+
+Please also advise the rate for CSCL who also have a big market share for North China.
+
+
+Thanks and best regards,
+Jessica Lu
+
+?ËììÑ: Lynn Cai 
+?áê??: 2013Ò´11êÅ27ìí 19:55
+
+TO:ASI
+CC:BBG/BSA
+FM:TAOBBS
+
+Good day.
+ 
+Attached the details from TAOBBS. 
+ 
+As the market slack, carriers keep readjust their rate level. Now, our rate gap already very big to AEJEA. As the following table shows, this point is the top 3 higher CMPB among all M.E points. Thus, pls help to consider to adjust the rate and match the market level, so that we can promote more AEJEA cargoes. Otherwise, we can only focus on the other points which are not major promotion to competitors to ensure our loading.
+ 
+
+

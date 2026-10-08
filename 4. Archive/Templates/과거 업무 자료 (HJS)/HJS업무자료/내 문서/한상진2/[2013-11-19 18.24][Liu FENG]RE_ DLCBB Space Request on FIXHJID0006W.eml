@@ -1,0 +1,329 @@
+Received: from COW380D.hanjin.com (192.168.100.244) by kovhgvme.hanjin.com
+ (203.246.154.25) with Microsoft SMTP Server (TLS) id 14.3.123.3; Tue, 19 Nov
+ 2013 18:24:31 +0900
+Received: from COW380E.hanjin.com ([192.168.10.1]) by cow380d.hanjin.com
+ ([222.68.181.254]) with mapi id 14.03.0123.003; Tue, 19 Nov 2013 17:24:27
+ +0800
+From: Liu FENG <liufeng@cn.hanjin.com>
+To: Jung-Min Lee <jungminlee@hanjin.com>
+CC: Bosco Cao <caobo@cn.hanjin.com>, Allen LV <lvdapeng@cn.hanjin.com>,
+	Jin-Woo AHN <jwahn@hanjin.com>, Sang-Real BAEK <srbaek@hanjin.com>, Jo-Hyeak
+ YOU <johyoo@hanjin.com>, Joon-Mo Shin <jmshin@hanjin.com>, Sang-Jin HAN
+	<sjhan@hanjin.com>, Young HONG <yhong@hanjin.com>
+Subject: RE: DLCBB Space Request on FIX/HJID0006W
+Thread-Topic: DLCBB Space Request on FIX/HJID0006W
+Thread-Index: AQHO1HkTtw80LoLol0e6oyiw96FLQpoLSk6wgCELt3iAAAXfwIAADE0u
+Disposition-Notification-To: Liu FENG <liufeng@cn.hanjin.com>
+Date: Tue, 19 Nov 2013 18:24:27 +0900
+Message-ID: <D1620F0B4812F14F9E7F08EB2E51F35002AB30@cow380e.hanjin.com>
+References:
+ <D1620F0B4812F14F9E7F08EB2E51F350025179@cow380e.hanjin.com>,<E6218EB256DDB94DB32CBB89D8EF290902E16A@kovhgvmc.hanjin.com>
+ <D1620F0B4812F14F9E7F08EB2E51F35002AA82@cow380e.hanjin.com>,<E6218EB256DDB94DB32CBB89D8EF2909041C5A@kovhhvmc.hanjin.com>
+In-Reply-To: <E6218EB256DDB94DB32CBB89D8EF2909041C5A@kovhhvmc.hanjin.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380d.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.100.243]
+Content-Type: multipart/alternative;
+	boundary="_000_D1620F0B4812F14F9E7F08EB2E51F35002AB30cow380ehanjincom_"
+MIME-Version: 1.0
+
+--_000_D1620F0B4812F14F9E7F08EB2E51F35002AB30cow380ehanjincom_
+Content-Type: text/plain; charset="us-ascii"
+
+TO:CTY-AE
+FM:DLCBBS
+
+Well noted your instruction.
+
+If STCB1304W no space , Can we get the space on FIX/HNLU0001W?
+
+B.rgds/liufeng
+
+
+________________________________
+From : "Jung-Min Lee" <jungminlee@hanjin.com>
+Sent : 2013-11-19 16:38:28 ( +08:00 )
+To : Liu FENG <liufeng@cn.hanjin.com>
+Cc : Bosco Cao <caobo@cn.hanjin.com>, Allen LV <lvdapeng@cn.hanjin.com>, Jin-Woo AHN <jwahn@hanjin.com>, Sang-Real BAEK <srbaek@hanjin.com>, Jo-Hyeak YOU <johyoo@hanjin.com>, Joon-Mo Shin <jmshin@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Young HONG <yhong@hanjin.com>
+Subject : RE: DLCBB Space Request on FIX/HJID0006W
+
+FM. CTY-AE
+
+If avg. CMPB is 417 U$/TEU, it is still behind of avg. FIX IPC CMPB (U$ 650~).
+Checked again no more space/weight could be supported on the voyage.
+
+Best Regards,
+Jungmin Lee
+CTY-AE
+
+From:Liu FENG
+Sent: Tuesday, November 19, 2013 5:26 PM
+To: Jung-Min Lee
+Cc: Bosco Cao; Allen LV; Jin-Woo AHN; Sang-Real BAEK; Jo-Hyeak YOU; Joon-Mo Shin; Sang-Jin HAN; Young HONG
+Subject: RE: DLCBB Space Request on FIX/HJID0006W
+
+Dear Mr.Lee
+
+This week DAMCO still have 5XF4 as they agreed RR 500usd/BOX, that is 5680usd all-in(OTHC  DTHC)
+After calculation the cmpb is 417usd/teu and total is 5000/box.
+
+so kindly ask your instruction whether we could support additional 60teu space on FIX/STCB1304W?
+
+Looking forward to your instruction
+
+B.rgds/liufeng
+
+________________________________
+From : "Jung-Min Lee" <jungminlee@hanjin.com<mailto:jungminlee@hanjin.com>>
+Sent : 2013-10-29 15:40:12 ( +08:00 )
+To : Liu FENG <liufeng@cn.hanjin.com<mailto:liufeng@cn.hanjin.com>>
+Cc : Bosco Cao <caobo@cn.hanjin.com<mailto:caobo@cn.hanjin.com>>, Allen LV <lvdapeng@cn.hanjin.com<mailto:lvdapeng@cn.hanjin.com>>, Jin-Woo AHN <jwahn@hanjin.com<mailto:jwahn@hanjin.com>>, Sang-Real BAEK <srbaek@hanjin.com<mailto:srbaek@hanjin.com>>, Jo-Hyeak YOU <johyoo@hanjin.com<mailto:johyoo@hanjin.com>>, Joon-Mo Shin <jmshin@hanjin.com<mailto:jmshin@hanjin.com>>, Sang-Jin HAN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Young HONG <yhong@hanjin.com<mailto:yhong@hanjin.com>>
+Subject : RE: DLCBB Space Request on FIX/HJID0006W
+TO : DLCBBS
+FM : CTY-AE
+
+Space/weight fully supported on HJID0006W.
+
+Has the GRI been confirmed with DAMCO for future shipment after HJID0006W?
+Even if the case, please reach me for checking loading prospect for confirmation.
+
+
+Best Regards,
+Jungmin Lee
+CTY-AE
+
+From:Liu FENG
+Sent: Tuesday, October 29, 2013 4:33 PM
+To: Jung-Min Lee
+Cc: Bosco Cao; Allen LV; Jin-Woo AHN; Sang-Real BAEK; Jo-Hyeak YOU; Joon-Mo Shin; Sang-Jin HAN; Young HONG
+Subject: DLCBB Space Request on FIX/HJID0006W
+
+TO:CTY-AE
+FM:DLCBBS
+
+Good afternoon sir
+
+Many thanks for your support for FIX and TIX recently.
+
+Next week we will have Damco 5XF4 total 60teu plan to load on HJID0006W
+Together with other biz our projection is 80teu /500tons
+
+This is big vessel; can I expect your support on her?
+And after this VVD, we will take 500usd/box GRI for DAMCO biz
+Hope to get some more space for his future shipment.
+
+Looking forward to your instruction.
+
+
+B.rgds/liufeng
+
+
+
+--_000_D1620F0B4812F14F9E7F08EB2E51F35002AB30cow380ehanjincom_
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div id="msgbody">
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">TO:CTY-AE</span></p>
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">FM:DLCBBS</span></p>
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">&nbsp;</span></p>
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">Well noted your instruction.
+</span></p>
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">&nbsp;</span></p>
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">If STCB1304W&nbsp;no space , Can we get the space on FIX/HNLU0001W?</span></p>
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">&nbsp;</span></p>
+<p style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" class="MsoNormal" align="left">
+<span style="FONT-FAMILY: 'Malgun Gothic','serif'; FONT-SIZE: 12pt; mso-bidi-font-family: &#23435;&#20307;; mso-font-kerning: 0pt" lang="EN-US">B.rgds/liufeng
+</span></p>
+</div>
+<div><br>
+</div>
+<div id="MailSignSent"></div>
+<div><br>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex="-1">
+<b>From : </b>&quot;Jung-Min Lee&quot; &lt;jungminlee@hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-19 16:38:28 ( &#43;08:00 )<br>
+<b>To : </b>Liu FENG &lt;liufeng@cn.hanjin.com&gt;<br>
+<b>Cc : </b>Bosco Cao &lt;caobo@cn.hanjin.com&gt;, Allen LV &lt;lvdapeng@cn.hanjin.com&gt;, Jin-Woo AHN &lt;jwahn@hanjin.com&gt;, Sang-Real BAEK &lt;srbaek@hanjin.com&gt;, Jo-Hyeak YOU &lt;johyoo@hanjin.com&gt;, Joon-Mo Shin &lt;jmshin@hanjin.com&gt;, Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Young HONG
+ &lt;yhong@hanjin.com&gt;<br>
+<b>Subject : </b>RE: DLCBB Space Request on FIX/HJID0006W<br>
+<br>
+</div>
+<div class="WordSection1">
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: 'Times New Roman'" lang="EN-US">FM. CTY-AE</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: 'Times New Roman'" lang="EN-US">If avg. CMPB is 417 U$/TEU, it is still
+ behind of avg. FIX IPC CMPB (U$ 650~).</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: 'Times New Roman'" lang="EN-US">Checked again no more space/weight could
+ be supported on the voyage.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-pagination: none" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 11pt; mso-bidi-font-family: Tahoma; mso-no-proof: yes" lang="EN-US">Best Regards,</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-pagination: none" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 11pt; mso-bidi-font-family: Tahoma; mso-no-proof: yes" lang="EN-US">Jungmin Lee</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-pagination: none" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 11pt; mso-bidi-font-family: Tahoma; mso-no-proof: yes" lang="EN-US">CTY-AE</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<div style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; BORDER-TOP: #b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p class="MsoNormal"><b><span style="FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'" lang="EN-US">From:</span></b><span style="FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'" lang="EN-US">Liu
+ FENG <br>
+<b>Sent:</b> Tuesday, November 19, 2013 5:26 PM<br>
+<b>To:</b> Jung-Min Lee<br>
+<b>Cc:</b> Bosco Cao; Allen LV; Jin-Woo AHN; Sang-Real BAEK; Jo-Hyeak YOU; Joon-Mo Shin; Sang-Jin HAN; Young HONG<br>
+<b>Subject:</b> RE: DLCBB Space Request on FIX/HJID0006W</span></p>
+</div>
+<p class="MsoNormal">&nbsp;</p>
+<div id="ezFormProc_div">
+<div>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Dear Mr.Lee</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">This week DAMCO still have 5XF4 as they agreed</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">
+ RR</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US"> 500</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">usd</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">/BOX,
+ that is 5680usd all-in(OTHC&nbsp; DTHC)</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">After calculation the cmpb&nbsp;is 417usd/teu and total is 5000</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">/box.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">so kindly ask your ins</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">tr</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">uction
+ whether we could support addit</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-fareast-font-family: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">ional
+</span><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">60teu space on FIX/STCB1304W?&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Looking forward to your instruction
+</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">B.rgds/liufeng
+</span></p>
+</div>
+<div>
+<p class="MsoNormal">&nbsp;</p>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div>
+<div style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 'Malgun gothic','serif'; mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">
+<hr align="center" size="2" width="100%">
+</span></div>
+<p style="MARGIN-BOTTOM: 12pt; mso-outline-level: 1" class="MsoNormal"><b><span style="FONT-FAMILY: 'Malgun gothic','serif'; mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">From :
+</span></b><span style="FONT-FAMILY: 'Malgun gothic','serif'; mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&quot;Jung-Min Lee&quot; &lt;<a href="mailto:jungminlee@hanjin.com" target="_blank">jungminlee@hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-10-29 15:40:12 ( &#43;08:00 )<br>
+<b>To : </b>Liu FENG &lt;<a href="mailto:liufeng@cn.hanjin.com" target="_blank">liufeng@cn.hanjin.com</a>&gt;<br>
+<b>Cc : </b>Bosco Cao &lt;<a href="mailto:caobo@cn.hanjin.com" target="_blank">caobo@cn.hanjin.com</a>&gt;, Allen LV &lt;<a href="mailto:lvdapeng@cn.hanjin.com" target="_blank">lvdapeng@cn.hanjin.com</a>&gt;, Jin-Woo AHN &lt;<a href="mailto:jwahn@hanjin.com" target="_blank">jwahn@hanjin.com</a>&gt;,
+ Sang-Real BAEK &lt;<a href="mailto:srbaek@hanjin.com" target="_blank">srbaek@hanjin.com</a>&gt;, Jo-Hyeak YOU &lt;<a href="mailto:johyoo@hanjin.com" target="_blank">johyoo@hanjin.com</a>&gt;, Joon-Mo Shin &lt;<a href="mailto:jmshin@hanjin.com" target="_blank">jmshin@hanjin.com</a>&gt;,
+ Sang-Jin HAN &lt;<a href="mailto:sjhan@hanjin.com" target="_blank">sjhan@hanjin.com</a>&gt;, Young HONG &lt;<a href="mailto:yhong@hanjin.com" target="_blank">yhong@hanjin.com</a>&gt;<br>
+<b>Subject : </b>RE: DLCBB Space Request on FIX/HJID0006W</span></p>
+</div>
+<div>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt" lang="EN-US">TO : DLCBBS</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt" lang="EN-US">FM : CTY-AE</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt" lang="EN-US">Space/weight fully supported on HJID0006W.</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt" lang="EN-US">Has the GRI been confirmed with DAMCO for future shipment after HJID0006W?</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt" lang="EN-US">Even if the case, please reach me for checking loading prospect for confirmation.
+</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&nbsp;</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-pagination: none; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 11pt; mso-bidi-font-family: Tahoma; mso-no-proof: yes" lang="EN-US">Best Regards,</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-pagination: none; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 11pt; mso-bidi-font-family: Tahoma; mso-no-proof: yes" lang="EN-US">Jungmin Lee</span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-pagination: none; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; COLOR: #1f497d; FONT-SIZE: 11pt; mso-bidi-font-family: Tahoma; mso-no-proof: yes" lang="EN-US">CTY-AE</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&nbsp;</span></p>
+<div style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; BORDER-TOP: #b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p style="mso-outline-level: 1; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<b><span style="FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'" lang="EN-US">From:</span></b><span style="FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'" lang="EN-US">Liu
+ FENG <br>
+<b>Sent:</b> Tuesday, October 29, 2013 4:33 PM<br>
+<b>To:</b> Jung-Min Lee<br>
+<b>Cc:</b> Bosco Cao; Allen LV; Jin-Woo AHN; Sang-Real BAEK; Jo-Hyeak YOU; Joon-Mo Shin; Sang-Jin HAN; Young HONG<br>
+<b>Subject:</b> DLCBB Space Request on FIX/HJID0006W</span></p>
+</div>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&nbsp;</span></p>
+<div id="ezFormProc_div">
+<div>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">TO:CTY-AE</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">FM:DLCBBS</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Good afternoon sir
+</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Many thanks for your support for FIX and TIX recently.</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Next week we will have Damco 5XF4 total 60teu plan to load on HJID0006W</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Together with other biz our projection is 80teu /500tons &nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">This is big vessel; can I expect your support on her?</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">And after this VVD, we will take 500usd/box GRI for DAMCO biz
+</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Hope to get some more space for his future shipment.
+</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;&nbsp;&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">Looking forward to your instruction.</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="mso-fareast-font-family: 'Malgun Gothic'" lang="EN-US">&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">&nbsp;&nbsp;</span></p>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'; mso-bidi-font-family: SimSun" lang="EN-US">B.rgds/liufeng</span></p>
+</div>
+<div>
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class="MsoNormal">
+<span style="FONT-FAMILY: 'Malgun Gothic'" lang="EN-US"><br>
+&nbsp;</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_D1620F0B4812F14F9E7F08EB2E51F35002AB30cow380ehanjincom_--

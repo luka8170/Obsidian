@@ -1,0 +1,1311 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WR Logistics Korea - 아시아 글로벌 프로젝트 물류 허브 구축</title>
+    <style>
+        /* 기본 리셋 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: '맑은 고딕', 'Malgun Gothic', Arial, sans-serif;
+            line-height: 1.4;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        
+        /* 프린트 버튼 */
+        .print-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #2E3B72;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 1rem;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+        
+        .print-btn:hover {
+            background: #1B2951;
+        }
+        
+        /* 페이지 컨테이너 - 각 페이지를 정확히 구분 */
+        .page {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 60px;
+            box-sizing: border-box;
+            background: white;
+        }
+        
+        /* 표지 */
+        .cover-page {
+            background: linear-gradient(135deg, #2E3B72, #1B2951);
+            color: white;
+            text-align: center;
+        }
+        
+        .cover-page h1 {
+            font-size: 4rem;
+            font-weight: 700;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .cover-page .subtitle {
+            font-size: 2rem;
+            margin-bottom: 40px;
+            opacity: 0.9;
+        }
+        
+        .cover-page .meta {
+            font-size: 1.3rem;
+            opacity: 0.8;
+        }
+        
+        /* 일반 페이지 */
+        .content-page {
+            background: white;
+        }
+        
+        .page-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            color: #2E3B72;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        .page-content {
+            width: 100%;
+            max-width: 1100px;
+            height: calc(100% - 150px);
+            overflow: hidden;
+        }
+        
+        /* Executive Summary - 4개 박스 */
+        .summary-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            height: 100%;
+        }
+        
+        .summary-box {
+            background: #f8f9fa;
+            border-left: 8px solid #667eea;
+            padding: 35px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.1);
+        }
+        
+        .summary-box h3 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #2E3B72;
+            margin-bottom: 18px;
+        }
+        
+        .summary-box p {
+            font-size: 1.1rem;
+            line-height: 1.5;
+            color: #555;
+        }
+        
+        /* 메트릭 그리드 */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .metric-card {
+            background: white;
+            border: 3px solid #e9ecef;
+            border-radius: 20px;
+            padding: 30px 15px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #667eea;
+            margin-bottom: 10px;
+            line-height: 1;
+        }
+        
+        .metric-label {
+            font-size: 1rem;
+            color: #666;
+            font-weight: 500;
+        }
+        
+        .metrics-summary {
+            text-align: center;
+            font-size: 1.1rem;
+            color: #2E3B72;
+            line-height: 1.6;
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            font-weight: 500;
+        }
+        
+        /* 2컬럼 레이아웃 */
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            height: 100%;
+        }
+        
+        .chart-container {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .chart-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #2E3B72;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        
+        .chart-content {
+            text-align: center;
+            width: 100%;
+        }
+        
+        .market-number {
+            font-size: 3rem;
+            color: #667eea;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .market-item {
+            margin: 15px 0;
+            font-size: 1.1rem;
+        }
+        
+        /* 3컬럼 레이아웃 */
+        .three-column {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            height: 100%;
+        }
+        
+        .advantage-box {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            overflow: hidden;
+        }
+        
+        .advantage-box.blue {
+            border-left: 8px solid #667eea;
+        }
+        
+        .advantage-box.green {
+            border-left: 8px solid #14965A;
+        }
+        
+        .advantage-box.orange {
+            border-left: 8px solid #FF8C00;
+        }
+        
+        .advantage-box h3 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #2E3B72;
+            margin-bottom: 15px;
+        }
+        
+        .advantage-box ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .advantage-box li {
+            padding: 3px 0;
+            font-size: 0.9rem;
+            line-height: 1.3;
+        }
+        
+        .advantage-box li::before {
+            content: "• ";
+            color: #667eea;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+        
+        /* 타임라인 */
+        .timeline {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            height: 100%;
+        }
+        
+        .timeline-item {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            text-align: center;
+            overflow: hidden;
+        }
+        
+        .timeline-item.phase1 {
+            border-top: 8px solid #2E3B72;
+        }
+        
+        .timeline-item.phase2 {
+            border-top: 8px solid #14965A;
+        }
+        
+        .timeline-item.phase3 {
+            border-top: 8px solid #FF8C00;
+        }
+        
+        .timeline-item h3 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #2E3B72;
+            margin-bottom: 15px;
+        }
+        
+        .timeline-item ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+        }
+        
+        .timeline-item li {
+            padding: 3px 0;
+            font-size: 0.9rem;
+            line-height: 1.3;
+        }
+        
+        .timeline-item li::before {
+            content: "✅ ";
+            margin-right: 8px;
+        }
+        
+        .timeline-goal {
+            margin-top: 15px;
+            padding: 12px;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 0.9rem;
+            text-align: center;
+        }
+        
+        .timeline-item.phase1 .timeline-goal {
+            background: rgba(46,59,114,0.1);
+            color: #2E3B72;
+        }
+        
+        .timeline-item.phase2 .timeline-goal {
+            background: rgba(20,150,90,0.1);
+            color: #14965A;
+        }
+        
+        .timeline-item.phase3 .timeline-goal {
+            background: rgba(255,140,0,0.1);
+            color: #FF8C00;
+        }
+        
+        /* 결론 페이지 */
+        .conclusion-page {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            text-align: center;
+        }
+        
+        .conclusion-page h2 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .conclusion-formula {
+            font-size: 1.4rem;
+            margin: 30px 0;
+            line-height: 1.6;
+            opacity: 0.95;
+        }
+        
+        .conclusion-message {
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+            line-height: 1.5;
+            opacity: 0.9;
+        }
+        
+        .success-factors {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-top: 40px;
+        }
+        
+        .success-factor {
+            background: rgba(255,255,255,0.2);
+            padding: 12px 8px;
+            border-radius: 10px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        /* 극도로 엄격한 프린트 스타일 */
+        @media print {
+            * {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+                color-adjust: exact !important;
+            }
+            
+            @page {
+                size: A4 landscape;
+                margin: 10mm !important;
+            }
+            
+            html, body {
+                width: 100% !important;
+                height: 100% !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: hidden !important;
+                background: white !important;
+            }
+            
+            .print-btn {
+                display: none !important;
+            }
+            
+            .page-nav {
+                display: none !important;
+            }
+            
+            /* 각 페이지를 정확히 하나의 프린트 페이지로 제한 */
+            .page {
+                page-break-before: always !important;
+                page-break-after: always !important;
+                page-break-inside: avoid !important;
+                width: 100% !important;
+                height: 26cm !important;
+                min-height: 26cm !important;
+                max-height: 26cm !important;
+                margin: 0 !important;
+                padding: 1cm !important;
+                overflow: hidden !important;
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: center !important;
+                align-items: center !important;
+                box-sizing: border-box !important;
+            }
+            
+            .page:first-child {
+                page-break-before: avoid !important;
+            }
+            
+            /* 표지 페이지 */
+            .cover-page {
+                background: linear-gradient(135deg, #2E3B72, #1B2951) !important;
+                color: white !important;
+                text-align: center !important;
+            }
+            
+            .cover-page h1 {
+                font-size: 42pt !important;
+                font-weight: bold !important;
+                margin-bottom: 25pt !important;
+                line-height: 1.1 !important;
+            }
+            
+            .cover-page .subtitle {
+                font-size: 22pt !important;
+                margin-bottom: 30pt !important;
+                line-height: 1.2 !important;
+            }
+            
+            .cover-page .meta {
+                font-size: 18pt !important;
+                line-height: 1.4 !important;
+            }
+            
+            /* 일반 페이지 */
+            .content-page {
+                background: white !important;
+            }
+            
+            .page-title {
+                font-size: 32pt !important;
+                font-weight: bold !important;
+                color: #2E3B72 !important;
+                text-align: center !important;
+                margin-bottom: 25pt !important;
+                line-height: 1.1 !important;
+            }
+            
+            .page-content {
+                width: 100% !important;
+                max-width: none !important;
+                height: 20cm !important;
+                max-height: 20cm !important;
+                overflow: hidden !important;
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: center !important;
+            }
+            
+            /* Executive Summary */
+            .summary-grid {
+                display: grid !important;
+                grid-template-columns: 1fr 1fr !important;
+                gap: 15pt !important;
+                height: 100% !important;
+                max-height: 18cm !important;
+            }
+            
+            .summary-box {
+                background: #f8f9fa !important;
+                border-left: 6pt solid #667eea !important;
+                padding: 15pt !important;
+                border-radius: 8pt !important;
+                page-break-inside: avoid !important;
+                overflow: hidden !important;
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: center !important;
+            }
+            
+            .summary-box h3 {
+                font-size: 14pt !important;
+                font-weight: bold !important;
+                color: #2E3B72 !important;
+                margin-bottom: 8pt !important;
+                line-height: 1.1 !important;
+            }
+            
+            .summary-box p {
+                font-size: 11pt !important;
+                line-height: 1.3 !important;
+                color: #555 !important;
+                margin: 0 !important;
+            }
+            
+            /* 메트릭 그리드 */
+            .metrics-grid {
+                display: grid !important;
+                grid-template-columns: repeat(4, 1fr) !important;
+                gap: 10pt !important;
+                margin-bottom: 15pt !important;
+                height: auto !important;
+                max-height: 8cm !important;
+            }
+            
+            .metric-card {
+                background: white !important;
+                border: 2pt solid #e9ecef !important;
+                border-radius: 8pt !important;
+                padding: 12pt !important;
+                text-align: center !important;
+                page-break-inside: avoid !important;
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: center !important;
+                overflow: hidden !important;
+            }
+            
+            .metric-value {
+                font-size: 24pt !important;
+                font-weight: bold !important;
+                color: #667eea !important;
+                margin-bottom: 5pt !important;
+                line-height: 1 !important;
+            }
+            
+            .metric-label {
+                font-size: 10pt !important;
+                color: #666 !important;
+                line-height: 1.1 !important;
+            }
+            
+            .metrics-summary {
+                font-size: 12pt !important;
+                color: #2E3B72 !important;
+                background: #f8f9fa !important;
+                padding: 12pt !important;
+                border-radius: 6pt !important;
+                text-align: center !important;
+                line-height: 1.3 !important;
+                margin-top: 10pt !important;
+                height: auto !important;
+                max-height: 5cm !important;
+                overflow: hidden !important;
+            }
+            
+            /* 2컬럼 레이아웃 */
+            .two-column {
+                display: grid !important;
+                grid-template-columns: 1fr 1fr !important;
+                gap: 15pt !important;
+                height: 100% !important;
+                max-height: 18cm !important;
+            }
+            
+            .chart-container {
+                background: white !important;
+                border: 1pt solid #e9ecef !important;
+                border-radius: 8pt !important;
+                padding: 15pt !important;
+                page-break-inside: avoid !important;
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: center !important;
+                align-items: center !important;
+                overflow: hidden !important;
+            }
+            
+            .chart-title {
+                font-size: 14pt !important;
+                font-weight: bold !important;
+                color: #2E3B72 !important;
+                margin-bottom: 12pt !important;
+                text-align: center !important;
+                line-height: 1.1 !important;
+            }
+            
+            .market-number {
+                font-size: 28pt !important;
+                color: #667eea !important;
+                font-weight: bold !important;
+                margin-bottom: 10pt !important;
+                line-height: 1 !important;
+            }
+            
+            .market-item {
+                margin: 8pt 0 !important;
+                font-size: 11pt !important;
+                line-height: 1.2 !important;
+            }
+            
+            /* 3컬럼 레이아웃 */
+            .three-column {
+                display: grid !important;
+                grid-template-columns: repeat(3, 1fr) !important;
+                gap: 12pt !important;
+                height: 100% !important;
+                max-height: 18cm !important;
+            }
+            
+            .advantage-box {
+                background: #f8f9fa !important;
+                border-radius: 6pt !important;
+                padding: 12pt !important;
+                page-break-inside: avoid !important;
+                overflow: hidden !important;
+                display: flex !important;
+                flex-direction: column !important;
+            }
+            
+            .advantage-box.blue {
+                border-left: 5pt solid #667eea !important;
+            }
+            
+            .advantage-box.green {
+                border-left: 5pt solid #14965A !important;
+            }
+            
+            .advantage-box.orange {
+                border-left: 5pt solid #FF8C00 !important;
+            }
+            
+            .advantage-box h3 {
+                font-size: 12pt !important;
+                font-weight: bold !important;
+                color: #2E3B72 !important;
+                margin-bottom: 8pt !important;
+                line-height: 1.1 !important;
+            }
+            
+            .advantage-box ul {
+                margin: 0 !important;
+                padding: 0 !important;
+                list-style: none !important;
+                flex: 1 !important;
+            }
+            
+            .advantage-box li {
+                padding: 2pt 0 !important;
+                font-size: 9pt !important;
+                line-height: 1.2 !important;
+                margin: 0 !important;
+            }
+            
+            .advantage-box li::before {
+                content: "• " !important;
+                color: #667eea !important;
+                font-weight: bold !important;
+                margin-right: 4pt !important;
+            }
+            
+            /* 타임라인 */
+            .timeline {
+                display: grid !important;
+                grid-template-columns: repeat(3, 1fr) !important;
+                gap: 12pt !important;
+                height: 100% !important;
+                max-height: 18cm !important;
+            }
+            
+            .timeline-item {
+                background: #f8f9fa !important;
+                border-radius: 6pt !important;
+                padding: 12pt !important;
+                text-align: center !important;
+                page-break-inside: avoid !important;
+                overflow: hidden !important;
+                display: flex !important;
+                flex-direction: column !important;
+            }
+            
+            .timeline-item.phase1 {
+                border-top: 5pt solid #2E3B72 !important;
+            }
+            
+            .timeline-item.phase2 {
+                border-top: 5pt solid #14965A !important;
+            }
+            
+            .timeline-item.phase3 {
+                border-top: 5pt solid #FF8C00 !important;
+            }
+            
+            .timeline-item h3 {
+                font-size: 11pt !important;
+                font-weight: bold !important;
+                color: #2E3B72 !important;
+                margin-bottom: 8pt !important;
+                text-align: center !important;
+                line-height: 1.1 !important;
+            }
+            
+            .timeline-item ul {
+                margin: 0 !important;
+                padding: 0 !important;
+                list-style: none !important;
+                text-align: left !important;
+                flex: 1 !important;
+            }
+            
+            .timeline-item li {
+                font-size: 9pt !important;
+                line-height: 1.2 !important;
+                padding: 2pt 0 !important;
+                margin: 0 !important;
+            }
+            
+            .timeline-item li::before {
+                content: "✅ " !important;
+                margin-right: 4pt !important;
+            }
+            
+            .timeline-goal {
+                margin-top: 8pt !important;
+                padding: 6pt !important;
+                border-radius: 4pt !important;
+                font-weight: bold !important;
+                font-size: 9pt !important;
+                text-align: center !important;
+                line-height: 1.1 !important;
+            }
+            
+            .timeline-item.phase1 .timeline-goal {
+                background: rgba(46,59,114,0.2) !important;
+                color: #2E3B72 !important;
+            }
+            
+            .timeline-item.phase2 .timeline-goal {
+                background: rgba(20,150,90,0.2) !important;
+                color: #14965A !important;
+            }
+            
+            .timeline-item.phase3 .timeline-goal {
+                background: rgba(255,140,0,0.2) !important;
+                color: #FF8C00 !important;
+            }
+            
+            /* 결론 페이지 */
+            .conclusion-page {
+                background: linear-gradient(135deg, #667eea, #764ba2) !important;
+                color: white !important;
+                text-align: center !important;
+            }
+            
+            .conclusion-page h2 {
+                font-size: 36pt !important;
+                font-weight: bold !important;
+                margin-bottom: 25pt !important;
+                line-height: 1.1 !important;
+            }
+            
+            .conclusion-formula {
+                font-size: 14pt !important;
+                margin: 20pt 0 !important;
+                line-height: 1.3 !important;
+            }
+            
+            .conclusion-message {
+                font-size: 12pt !important;
+                margin-bottom: 20pt !important;
+                line-height: 1.3 !important;
+            }
+            
+            .success-factors {
+                display: grid !important;
+                grid-template-columns: repeat(4, 1fr) !important;
+                gap: 8pt !important;
+                margin-top: 20pt !important;
+            }
+            
+            .success-factor {
+                background: rgba(255,255,255,0.9) !important;
+                color: #2E3B72 !important;
+                padding: 8pt !important;
+                border-radius: 4pt !important;
+                font-size: 10pt !important;
+                font-weight: bold !important;
+                text-align: center !important;
+                line-height: 1.1 !important;
+            }
+        }
+        
+        /* 화면에서는 스크롤 가능하도록 수정 */
+        @media screen {
+            html, body {
+                overflow-y: auto;
+                overflow-x: hidden;
+            }
+            
+            /* 화면에서 페이지 간격 추가 */
+            .page {
+                margin-bottom: 20px;
+                border: 1px solid #ddd;
+                box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            }
+            
+            /* 페이지 네비게이션 추가 */
+            .page-nav {
+                position: fixed;
+                left: 20px;
+                top: 50%;
+                transform: translateY(-50%);
+                background: rgba(255,255,255,0.95);
+                padding: 15px;
+                border-radius: 10px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                z-index: 1001;
+                max-height: 400px;
+                overflow-y: auto;
+            }
+            
+            .page-nav h4 {
+                margin-bottom: 10px;
+                color: #2E3B72;
+                font-size: 0.9rem;
+            }
+            
+            .nav-item {
+                display: block;
+                padding: 5px 0;
+                color: #666;
+                text-decoration: none;
+                font-size: 0.8rem;
+                cursor: pointer;
+                border-bottom: 1px solid #eee;
+            }
+            
+            .nav-item:hover {
+                color: #2E3B72;
+                font-weight: bold;
+            }
+        }
+        
+        /* 반응형 디자인 */
+        @media (max-width: 768px) {
+            .summary-grid, .metrics-grid, .two-column, .three-column, .timeline, .success-factors {
+                grid-template-columns: 1fr;
+            }
+            
+            .cover-page h1 {
+                font-size: 2.5rem;
+            }
+            
+            .page-title {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 프린트 버튼 -->
+    <button class="print-btn" onclick="window.print()">🖨️ Print Plan</button>
+    
+    <!-- 페이지 네비게이션 (화면에서만 표시) -->
+    <div class="page-nav">
+        <h4>📄 페이지 목차</h4>
+        <a class="nav-item" onclick="scrollToPage(1)">1. 표지</a>
+        <a class="nav-item" onclick="scrollToPage(2)">2. Executive Summary</a>
+        <a class="nav-item" onclick="scrollToPage(3)">3. 핵심 성과 지표</a>
+        <a class="nav-item" onclick="scrollToPage(4)">4. Market Analysis</a>
+        <a class="nav-item" onclick="scrollToPage(5)">5. Competitive Advantages</a>
+        <a class="nav-item" onclick="scrollToPage(6)">6. Business Model</a>
+        <a class="nav-item" onclick="scrollToPage(7)">7. Financial Projections</a>
+        <a class="nav-item" onclick="scrollToPage(8)">8. Implementation Plan</a>
+        <a class="nav-item" onclick="scrollToPage(9)">9. 결론</a>
+    </div>
+    
+    <script>
+        function scrollToPage(pageNum) {
+            const page = document.getElementById('page' + pageNum);
+            if (page) {
+                page.scrollIntoView({ 
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+            }
+        }
+        
+        // 프린트 시에는 네비게이션 숨김
+        window.addEventListener('beforeprint', function() {
+            const nav = document.querySelector('.page-nav');
+            if (nav) nav.style.display = 'none';
+        });
+        
+        window.addEventListener('afterprint', function() {
+            const nav = document.querySelector('.page-nav');
+            if (nav) nav.style.display = 'block';
+        });
+        
+        // 키보드 네비게이션 추가
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowRight' || e.key === 'PageDown') {
+                const current = getCurrentPage();
+                if (current < 9) scrollToPage(current + 1);
+            } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+                const current = getCurrentPage();
+                if (current > 1) scrollToPage(current - 1);
+            }
+        });
+        
+        function getCurrentPage() {
+            const pages = document.querySelectorAll('.page');
+            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            
+            for (let i = 0; i < pages.length; i++) {
+                const pageTop = pages[i].offsetTop;
+                const pageBottom = pageTop + pages[i].offsetHeight;
+                
+                if (scrollTop >= pageTop - 100 && scrollTop < pageBottom - 100) {
+                    return i + 1;
+                }
+            }
+            return 1;
+        }
+    </script>
+
+    <!-- 페이지 1: 표지 -->
+    <div id="page1" class="page cover-page">
+        <h1>WR Logistics Korea</h1>
+        <div class="subtitle">아시아 글로벌 프로젝트 물류 허브 구축</div>
+        <div class="meta">
+            <div>한상진 (Branch Manager 후보)</div>
+            <br>
+            <div>제출일: 2025년 9월 10일</div>
+        </div>
+    </div>
+
+    <!-- 페이지 2: Executive Summary -->
+    <div id="page2" class="page content-page">
+        <h2 class="page-title">💼 Executive Summary</h2>
+        <div class="page-content">
+            <div class="summary-grid">
+                <div class="summary-box">
+                    <h3>🎯 사업 목표</h3>
+                    <p>25년간 구축한 글로벌 네트워크를 기반으로 한국 프로젝트 물류 시장 진출하여 아시아 물류 허브 구축</p>
+                </div>
+                
+                <div class="summary-box">
+                    <h3>🏆 핵심 차별화</h3>
+                    <p>중동 VIP 네트워크 + 독일 본사 시너지 + 검사·인증 통합 서비스로 경쟁사 대비 압도적 우위</p>
+                </div>
+                
+                <div class="summary-box">
+                    <h3>💰 확정 파이프라인</h3>
+                    <p>230억원 규모, 65% 확정성<br>현대스틸, Qatar Gas, LG ESS 등 대형 프로젝트 확보</p>
+                </div>
+                
+                <div class="summary-box">
+                    <h3>📈 재무 목표</h3>
+                    <p>1차년도 180억원 → 3차년도 450억원<br>ROI 309%, 업계 평균 대비 10배 빠른 투자회수</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 3: 핵심 성과 지표 -->
+    <div id="page3" class="page content-page">
+        <h2 class="page-title">🎯 핵심 성과 지표</h2>
+        <div class="page-content">
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">180억</div>
+                    <div class="metric-label">1차년도 매출목표</div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-value">450억</div>
+                    <div class="metric-label">3차년도 매출목표</div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-value">309%</div>
+                    <div class="metric-label">1차년도 ROI</div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-value">3.2개월</div>
+                    <div class="metric-label">투자회수기간</div>
+                </div>
+            </div>
+            
+            <div class="metrics-summary">
+                💰 <strong>확정 파이프라인: 230억원 (65% 확정성)</strong><br>
+                🏆 <strong>업계 대비 10배 빠른 투자회수</strong> | 📈 <strong>시장점유율 2% → 5%</strong><br>
+                🌟 <strong>성공 확률:</strong> 시장진입 95% | 목표달성 85% | 장기성장 80%
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 4: Market Analysis -->
+    <div id="page4" class="page content-page">
+        <h2 class="page-title">📊 Market Analysis</h2>
+        <div class="page-content">
+            <div class="two-column">
+                <div class="chart-container">
+                    <div class="chart-title">한국 프로젝트 물류 시장 현황</div>
+                    <div class="chart-content">
+                        <div class="market-number">6,000억원</div>
+                        <div class="market-item">📈 연성장률: <strong>6%</strong></div>
+                        <div class="market-item">🌊 해상풍력: <strong>43.7% 성장</strong></div>
+                        <div class="market-item">📦 물류비중: <strong>15%</strong></div>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="summary-box" style="margin-bottom: 20px; height: 45%;">
+                        <h3>🚀 글로벌 시장 동향</h3>
+                        <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li style="padding: 4px 0;">• 세계 프로젝트 물류 2030년 6천억 달러</li>
+                            <li style="padding: 4px 0;">• 중동 메가 프로젝트 특수화물 수요 급증</li>
+                            <li style="padding: 4px 0;">• 중국-유럽 철도운송 수요 확대</li>
+                            <li style="padding: 4px 0;">• 친환경 물류 솔루션 수요 증가</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="summary-box" style="height: 45%;">
+                        <h3>🇰🇷 한국 시장 기회</h3>
+                        <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li style="padding: 4px 0;">• K-뉴딜 정책 인프라 투자 확대</li>
+                            <li style="padding: 4px 0;">• 탄소중립 신재생에너지 프로젝트 급증</li>
+                            <li style="padding: 4px 0;">• 대형 EPC 업체 해외진출 가속화</li>
+                            <li style="padding: 4px 0;">• 중량물 운송 전문 기업 부족</li>
+                            <li style="padding: 4px 0;">• 디지털 물류 솔루션 필요성 증가</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 5: Competitive Advantages -->
+    <div id="page5" class="page content-page">
+        <h2 class="page-title">🏆 Competitive Advantages</h2>
+        <div class="page-content">
+            <div class="three-column">
+                <div class="advantage-box blue">
+                    <h3>👑 중동 VIP 네트워크 (25년)</h3>
+                    <ul>
+                        <li>UAE Sheikh Ahmed Al Maktoum</li>
+                        <li>Qatar Gas 최고위 인사</li>
+                        <li>Saudi Aramco 핵심 임원진</li>
+                        <li>25년간 120+ 프로젝트 경험</li>
+                        <li>직접 비즈니스 경로 구축</li>
+                        <li>영업비용 50% 절감</li>
+                        <li>수주 성공률 70%</li>
+                    </ul>
+                </div>
+                
+                <div class="advantage-box green">
+                    <h3>🌍 독일 본사 글로벌 네트워크</h3>
+                    <ul>
+                        <li>유럽 전역 18개 지사 연계</li>
+                        <li>38개국 협력사 네트워크</li>
+                        <li>연간 5,000+ 프로젝트 운영</li>
+                        <li>독일 엔지니어링 품질시스템</li>
+                        <li>Fortune 500 고객 포트폴리오</li>
+                        <li>95% 글로벌 경쟁력</li>
+                        <li>유럽-아시아 네트워크 완성</li>
+                    </ul>
+                </div>
+                
+                <div class="advantage-box orange">
+                    <h3>🔍 검사·인증 통합서비스</h3>
+                    <ul>
+                        <li>검사·인증 + 물류 원스톱</li>
+                        <li>ISO, CE, ASME 통합 지원</li>
+                        <li>중동-아시아 인증 기준 해소</li>
+                        <li>30% 비용절감 효과</li>
+                        <li>1,500톤급 초중량물 전문성</li>
+                        <li>100% 규정 준수</li>
+                        <li>24/7 프로젝트 지원</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 6: Business Model -->
+    <div id="page6" class="page content-page">
+        <h2 class="page-title">💼 Business Model</h2>
+        <div class="page-content">
+            <div class="two-column">
+                <div class="chart-container">
+                    <div class="chart-title">확정 파이프라인 구성 (230억원)</div>
+                    <div class="chart-content">
+                        <div style="margin-bottom: 15px; padding: 10px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #2E3B72;">
+                            <div style="color: #2E3B72; font-weight: bold; margin-bottom: 3px;">💰 현대스틸산업: 80억원</div>
+                            <div style="font-size: 0.9rem; color: #666;">(95% 확정) 해상풍력 타워 운송</div>
+                        </div>
+                        <div style="margin-bottom: 15px; padding: 10px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #14965A;">
+                            <div style="color: #14965A; font-weight: bold; margin-bottom: 3px;">💰 Qatar Gas: 60억원</div>
+                            <div style="font-size: 0.9rem; color: #666;">(85% 확정) 원유 플랜트 설비 운송</div>
+                        </div>
+                        <div style="margin-bottom: 15px; padding: 10px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FF8C00;">
+                            <div style="color: #FF8C00; font-weight: bold; margin-bottom: 3px;">💰 LG ESS: 30억원</div>
+                            <div style="font-size: 0.9rem; color: #666;">(75% 확정) 배터리 물류 통합서비스</div>
+                        </div>
+                        <div style="padding: 10px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #667eea;">
+                            <div style="color: #667eea; font-weight: bold; margin-bottom: 3px;">💰 검사인증: 40억원</div>
+                            <div style="font-size: 0.9rem; color: #666;">(70% 확정) 해상풍력/태양광 인증</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-box">
+                    <h3>📈 수익구조 분석</h3>
+                    <div style="margin: 15px 0;">
+                        <div style="display: flex; justify-content: space-between; margin: 10px 0; padding: 8px; background: rgba(102,126,234,0.1); border-radius: 5px;">
+                            <span>변동비율:</span>
+                            <strong>75%</strong>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin: 10px 0; padding: 8px; background: rgba(102,126,234,0.1); border-radius: 5px;">
+                            <span>순이익률:</span>
+                            <strong>18.9%</strong>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin: 10px 0; padding: 8px; background: rgba(102,126,234,0.1); border-radius: 5px;">
+                            <span>ROI:</span>
+                            <strong>309%</strong>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin: 10px 0; padding: 8px; background: rgba(102,126,234,0.1); border-radius: 5px;">
+                            <span>총 파이프라인:</span>
+                            <strong>230억원</strong>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin: 10px 0; padding: 8px; background: rgba(102,126,234,0.1); border-radius: 5px;">
+                            <span>평균 확정성:</span>
+                            <strong>65%</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 7: Financial Projections -->
+    <div id="page7" class="page content-page">
+        <h2 class="page-title">💰 Financial Projections</h2>
+        <div class="page-content">
+            <div class="two-column">
+                <div class="chart-container">
+                    <div class="chart-title">3년 매출 및 순이익 성장 전망</div>
+                    <div class="chart-content">
+                        <div style="text-align: center; margin-bottom: 20px;">
+                            <div style="font-size: 1.2rem; font-weight: bold; color: #2E3B72; margin-bottom: 12px;">매출액 성장</div>
+                            <div style="display: flex; justify-content: space-around;">
+                                <div style="text-align: center;">
+                                    <div style="color: #667eea; font-size: 1.5rem; font-weight: bold;">180억</div>
+                                    <div style="font-size: 0.9rem; color: #666;">2026년</div>
+                                </div>
+                                <div style="text-align: center;">
+                                    <div style="color: #14965A; font-size: 1.5rem; font-weight: bold;">300억</div>
+                                    <div style="font-size: 0.9rem; color: #666;">2027년</div>
+                                </div>
+                                <div style="text-align: center;">
+                                    <div style="color: #FF8C00; font-size: 1.5rem; font-weight: bold;">450억</div>
+                                    <div style="font-size: 0.9rem; color: #666;">2028년</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="text-align: center;">
+                            <div style="font-size: 1.2rem; font-weight: bold; color: #2E3B72; margin-bottom: 12px;">순이익 성장</div>
+                            <div style="display: flex; justify-content: space-around;">
+                                <div style="text-align: center;">
+                                    <div style="color: #764ba2; font-size: 1.2rem; font-weight: bold;">34억</div>
+                                    <div style="font-size: 0.8rem; color: #666;">2026년</div>
+                                </div>
+                                <div style="text-align: center;">
+                                    <div style="color: #764ba2; font-size: 1.2rem; font-weight: bold;">62억</div>
+                                    <div style="font-size: 0.8rem; color: #666;">2027년</div>
+                                </div>
+                                <div style="text-align: center;">
+                                    <div style="color: #764ba2; font-size: 1.2rem; font-weight: bold;">97.5억</div>
+                                    <div style="font-size: 0.8rem; color: #666;">2028년</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="summary-box" style="margin-bottom: 20px; height: 45%;">
+                        <h3>🎯 투자 하이라이트</h3>
+                        <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li style="padding: 5px 0;">💰 <strong>총 투자: 11억원</strong></li>
+                            <li style="padding: 5px 0;">⚡ <strong>회수기간: 3.2개월</strong></li>
+                            <li style="padding: 5px 0;">📊 <strong>1차년도 ROI: 309%</strong></li>
+                            <li style="padding: 5px 0;">🏆 <strong>업계 대비: 10배 빠른 회수</strong></li>
+                            <li style="padding: 5px 0;">📈 <strong>3년 누적 ROI: 1,659%</strong></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="summary-box" style="height: 45%;">
+                        <h3>📋 업계 대비 우위</h3>
+                        <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li style="padding: 5px 0;">• 순이익률: <strong>+4~7%p</strong></li>
+                            <li style="padding: 5px 0;">• ROI: <strong>+229%p</strong></li>
+                            <li style="padding: 5px 0;">• 투자회수: <strong>10배 빠름</strong></li>
+                            <li style="padding: 5px 0;">• 성장률: <strong>60%+ vs 20-30%</strong></li>
+                            <li style="padding: 5px 0;">• 시장점유율: <strong>2% → 5%</strong></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 8: Implementation Plan -->
+    <div id="page8" class="page content-page">
+        <h2 class="page-title">🚀 Implementation Plan</h2>
+        <div class="page-content">
+            <div class="timeline">
+                <div class="timeline-item phase1">
+                    <h3>Phase 1: 기반구축<br><span style="font-size: 0.9rem; font-weight: normal;">(2025년 4Q)</span></h3>
+                    <ul>
+                        <li>법인설립 및 사무실</li>
+                        <li>핵심인력 5명 채용</li>
+                        <li>네트워크 활성화</li>
+                        <li>첫 프로젝트 계약</li>
+                        <li>IT 시스템 구축</li>
+                    </ul>
+                    <div class="timeline-goal">
+                        🎯 목표: 230억원 파이프라인 확보
+                    </div>
+                </div>
+                
+                <div class="timeline-item phase2">
+                    <h3>Phase 2: 성장가속화<br><span style="font-size: 0.9rem; font-weight: normal;">(2026년 2-3Q)</span></h3>
+                    <ul>
+                        <li>글로벌 파트너 확보</li>
+                        <li>신규 고객·프로젝트 확보</li>
+                        <li>서비스 다각화</li>
+                        <li>인력 8명 확장</li>
+                        <li>신재생특화 솔루션</li>
+                    </ul>
+                    <div class="timeline-goal">
+                        🎯 목표: 매출 300억원 달성
+                    </div>
+                </div>
+                
+                <div class="timeline-item phase3">
+                    <h3>Phase 3: 시장지배<br><span style="font-size: 0.9rem; font-weight: normal;">(2027년~)</span></h3>
+                    <ul>
+                        <li>시장 영향력 강화</li>
+                        <li>서비스 포트폴리오 확장</li>
+                        <li>미래성장 투자</li>
+                        <li>동남아 진출 준비</li>
+                        <li>인력 12명 확장</li>
+                    </ul>
+                    <div class="timeline-goal">
+                        🎯 목표: 매출 450억원, 시장점유율 5%
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 9: 결론 -->
+    <div id="page9" class="page conclusion-page">
+        <h2>🎯 WR Logistics Korea<br>성공이 보장된 투자</h2>
+        
+        <div class="conclusion-formula">
+            <strong>25년 검증된 글로벌 네트워크</strong> × <strong>230억원 확정 파이프라인</strong> × <strong>309% ROI</strong><br>
+            <br>
+            = <strong>아시아 프로젝트 물류 시장의 새로운 리더</strong>
+        </div>
+        
+        <div class="conclusion-message">
+            독보적 경쟁우위와 확실한 수익성을 바탕으로<br>
+            한국을 넘어 아시아 전체 물류 허브로 성장하겠습니다
+        </div>
+        
+        <div class="success-factors">
+            <div class="success-factor">✅ 즉시 실행 가능</div>
+            <div class="success-factor">💰 확실한 수익</div>
+            <div class="success-factor">🌏 무한 확장성</div>
+            <div class="success-factor">🏆 독보적 경쟁력</div>
+        </div>
+    </div>
+</body>
+</html>

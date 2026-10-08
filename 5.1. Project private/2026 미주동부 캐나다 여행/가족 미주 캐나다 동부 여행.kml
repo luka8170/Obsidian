@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>가족 미주 캐나다 동부 여행</name>
+  <description>2026.09.23 ~ 2026.10.04 / 미동부-캐나다 9박12일 일정 행선지</description>
+
+  <Folder>
+    <name>1일차 (9/23) 인천-뉴욕</name>
+    <Placemark><name>인천국제공항 (ICN)</name><description>출발 - OZ224 21:05</description><Point><coordinates>126.4407,37.4602,0</coordinates></Point></Placemark>
+    <Placemark><name>JFK 국제공항</name><description>도착 23:00</description><Point><coordinates>-73.7781,40.6413,0</coordinates></Point></Placemark>
+    <Placemark><name>Doubletree by Hilton Fort Lee</name><description>숙소 (1,2,3,8,9일차) - 2117 Route 4 Eastbound, Fort Lee, NJ 07024</description><Point><coordinates>-73.9820,40.8517,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>2일차 (9/24) 모홍크-뉴팔츠-암트랙</name>
+    <Placemark><name>모홍크 마운틴 하우스 (Mohonk Mountain House)</name><description>트레킹 약 3시간</description><Point><coordinates>-74.1560,41.7660,0</coordinates></Point></Placemark>
+    <Placemark><name>뉴팔츠 메인 스트릿</name><description>중식·자유시간</description><Point><coordinates>-74.0893,41.7476,0</coordinates></Point></Placemark>
+    <Placemark><name>포킵시 암트랙역</name><description>포킵시-뉴욕 기차 탑승</description><Point><coordinates>-73.9340,41.7010,0</coordinates></Point></Placemark>
+    <Placemark><name>그랜드센트럴터미널</name><description>뉴욕 도착</description><Point><coordinates>-73.9772,40.7527,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>3일차 (9/25) 뉴욕 시내</name>
+    <Placemark><name>자유의 여신상 (Statue of Liberty)</name><description>리버티 아일랜드 하선</description><Point><coordinates>-74.0445,40.6892,0</coordinates></Point></Placemark>
+    <Placemark><name>엣지 전망대 (Edge NYC)</name><description>허드슨야드</description><Point><coordinates>-74.0022,40.7541,0</coordinates></Point></Placemark>
+    <Placemark><name>하이라인 (High Line)</name><Point><coordinates>-74.0048,40.7480,0</coordinates></Point></Placemark>
+    <Placemark><name>센트럴파크</name><Point><coordinates>-73.9654,40.7829,0</coordinates></Point></Placemark>
+    <Placemark><name>월스트리트 황소상</name><Point><coordinates>-74.0134,40.7056,0</coordinates></Point></Placemark>
+    <Placemark><name>9/11 메모리얼</name><Point><coordinates>-74.0134,40.7115,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>4일차 (9/26) 나이아가라 폭포</name>
+    <Placemark><name>나이아가라 테이블락 전망대</name><Point><coordinates>-79.0746,43.0805,0</coordinates></Point></Placemark>
+    <Placemark><name>나이아가라 월풀</name><Point><coordinates>-79.0592,43.1067,0</coordinates></Point></Placemark>
+    <Placemark><name>나이아가라 꽃시계</name><Point><coordinates>-79.0782,43.1806,0</coordinates></Point></Placemark>
+    <Placemark><name>Hilton Niagara Falls/Fallsview</name><description>숙소</description><Point><coordinates>-79.0790,43.0850,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>5일차 (9/27) 나이아가라-토론토-킹스턴</name>
+    <Placemark><name>Reif Estate Winery</name><description>아이스와인 시음</description><Point><coordinates>-79.0810,43.2140,0</coordinates></Point></Placemark>
+    <Placemark><name>디스틸러리 디스트릭 (토론토)</name><Point><coordinates>-79.3596,43.6503,0</coordinates></Point></Placemark>
+    <Placemark><name>토론토 구시청</name><Point><coordinates>-79.3817,43.6525,0</coordinates></Point></Placemark>
+    <Placemark><name>토론토 신시청 (Nathan Phillips Square)</name><Point><coordinates>-79.3841,43.6534,0</coordinates></Point></Placemark>
+    <Placemark><name>세인트 로렌스 마켓</name><Point><coordinates>-79.3716,43.6487,0</coordinates></Point></Placemark>
+    <Placemark><name>Holiday Inn Belleville</name><description>숙소 (킹스턴 인근)</description><Point><coordinates>-77.3832,44.1628,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>6일차 (9/28) 킹스턴-몬트리올-퀘벡</name>
+    <Placemark><name>천섬 (Thousand Islands, Gananoque)</name><Point><coordinates>-76.1600,44.3300,0</coordinates></Point></Placemark>
+    <Placemark><name>자크 카르티에 광장 (몬트리올)</name><Point><coordinates>-73.5540,45.5088,0</coordinates></Point></Placemark>
+    <Placemark><name>노틀담 대성당 (몬트리올)</name><Point><coordinates>-73.5566,45.5046,0</coordinates></Point></Placemark>
+    <Placemark><name>성 요셉 대성당 (Saint Joseph's Oratory)</name><Point><coordinates>-73.6178,45.4922,0</coordinates></Point></Placemark>
+    <Placemark><name>퀘벡 그랜드마켓 (Le Grand Marché de Québec)</name><Point><coordinates>-71.2246,46.8323,0</coordinates></Point></Placemark>
+    <Placemark><name>샤토 프롱트낙 호텔 (야경투어)</name><Point><coordinates>-71.2048,46.8123,0</coordinates></Point></Placemark>
+    <Placemark><name>Hotel Quebec</name><description>숙소</description><Point><coordinates>-71.2810,46.7737,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>7일차 (9/29) 퀘벡-콩코드</name>
+    <Placemark><name>퀘벡 시타델 (Citadelle of Quebec)</name><Point><coordinates>-71.2062,46.8072,0</coordinates></Point></Placemark>
+    <Placemark><name>뒤프랭 테라스 (Dufferin Terrace)</name><Point><coordinates>-71.2064,46.8117,0</coordinates></Point></Placemark>
+    <Placemark><name>몽모렌시 폭포</name><description>케이블카 선택관광</description><Point><coordinates>-71.1497,46.8867,0</coordinates></Point></Placemark>
+    <Placemark><name>Hampton Inn Concord/Bow NH</name><description>숙소</description><Point><coordinates>-71.5820,43.1642,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>8일차 (9/30) 콩코드-보스턴-뉴욕</name>
+    <Placemark><name>하버드 대학교</name><Point><coordinates>-71.1167,42.3770,0</coordinates></Point></Placemark>
+    <Placemark><name>퀸시마켓 / 퍼네일 홀</name><Point><coordinates>-71.0559,42.3601,0</coordinates></Point></Placemark>
+    <Placemark><name>우드버리 커먼 프리미엄 아울렛</name><description>자유쇼핑</description><Point><coordinates>-74.1057,41.3335,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>9일차 (10/1) 뉴욕 마무리</name>
+    <Placemark><name>메트로폴리탄 미술관</name><Point><coordinates>-73.9632,40.7794,0</coordinates></Point></Placemark>
+    <Placemark><name>덤보 (DUMBO)</name><Point><coordinates>-73.9894,40.7033,0</coordinates></Point></Placemark>
+    <Placemark><name>워싱턴 스퀘어 파크</name><Point><coordinates>-73.9973,40.7308,0</coordinates></Point></Placemark>
+    <Placemark><name>리틀 아일랜드</name><Point><coordinates>-74.0134,40.7409,0</coordinates></Point></Placemark>
+    <Placemark><name>소호</name><Point><coordinates>-74.0030,40.7233,0</coordinates></Point></Placemark>
+    <Placemark><name>첼시마켓</name><Point><coordinates>-74.0061,40.7424,0</coordinates></Point></Placemark>
+    <Placemark><name>스타벅스 리저브 로스터리 NYC</name><Point><coordinates>-73.9927,40.7423,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>11~12일차 (10/3-10/4) 귀국</name>
+    <Placemark><name>JFK 국제공항 (귀국)</name><description>OZ223 01:30 출발</description><Point><coordinates>-73.7781,40.6413,0</coordinates></Point></Placemark>
+    <Placemark><name>인천국제공항 (도착)</name><description>06:05 도착</description><Point><coordinates>126.4407,37.4602,0</coordinates></Point></Placemark>
+  </Folder>
+
+</Document>
+</kml>

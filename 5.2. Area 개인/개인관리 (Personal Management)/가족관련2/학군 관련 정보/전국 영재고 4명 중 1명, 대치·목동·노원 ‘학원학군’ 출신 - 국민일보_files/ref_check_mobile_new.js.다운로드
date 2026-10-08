@@ -1,0 +1,26 @@
+document.domain = "kmib.co.kr";
+
+var script_tag = document.getElementById('refCntNew');
+var query = script_tag.src.replace(/^[^\?]+\??/,''); 
+var vars = query.split("&");
+var args = {};
+for (var i=0; i<vars.length; i++) {
+	 var pair = vars[i].split("=");
+	 args[pair[0]] = decodeURI(pair[1]).replace(/\+/g, ' ');   
+}
+var aid = args['aid'];
+var code = args['code'];
+var rDate = args['rDate'];
+var stg = args['stg'];
+
+if (aid.length == 10)
+{
+	var rUrl = "";
+	if (document.referrer.length>0)
+	{
+		rUrl = encodeURIComponent(document.referrer.match(/:\/\/(.[^/]+)/)[1]);
+	}
+	
+	$.ajaxSetup({cache: false});
+	$.getJSON("https://api.kmib.co.kr/ref/ref_check_mobile_new.asp?aid="+aid+"&rUrl="+rUrl+"&code="+code+"&rDate="+rDate+"&stg="+stg+"&callback=?");
+}

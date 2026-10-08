@@ -1,0 +1,5 @@
+body {background-color:transparent;margin:0;padding:0}
+.vw_txtad {position:relative;overflow:hidden;width:95%;height:28px;}
+.vw_txtad a {display:block;background: url('http://m.kmib.co.kr/images/squ_6x6.gif') 2px 50% no-repeat;padding-left:16px;line-height:28px;font-size:15px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;color:#000;font-family:'dutum','µ¸¿ò',sans-serif;}
+.vw_txtad a:link, a:hover, a:visited, a:active {text-decoration:none;color:#000 }
+.vw_txad span a {padding-left:0 !important;}

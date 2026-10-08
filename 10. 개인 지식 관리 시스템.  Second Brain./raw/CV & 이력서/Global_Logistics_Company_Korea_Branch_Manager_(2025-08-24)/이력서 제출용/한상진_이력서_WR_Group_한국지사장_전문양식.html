@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>한상진 이력서 - WR Group 한국지사장 지원</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', Arial, sans-serif;
+            line-height: 1.4;
+            color: #333;
+            background: #fff;
+            max-width: 210mm;
+            margin: 0 auto;
+            padding: 15mm;
+            font-size: 10pt;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #2c5282;
+        }
+        
+        .header-left h1 {
+            font-size: 28pt;
+            font-weight: bold;
+            color: #2c5282;
+            margin-bottom: 5px;
+            letter-spacing: 1px;
+        }
+        
+        .header-left .title {
+            font-size: 14pt;
+            color: #4a5568;
+            font-weight: 500;
+            margin-bottom: 10px;
+        }
+        
+        .header-right {
+            text-align: right;
+            font-size: 9pt;
+            color: #4a5568;
+            line-height: 1.6;
+        }
+        
+        .header-right strong {
+            color: #2c5282;
+        }
+        
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 25px;
+            margin-top: 20px;
+        }
+        
+        .left-column {
+            background: #f7fafc;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #2c5282;
+        }
+        
+        .right-column {
+            padding: 0 10px;
+        }
+        
+        .section {
+            margin-bottom: 25px;
+        }
+        
+        .section h2 {
+            font-size: 12pt;
+            font-weight: bold;
+            color: #2c5282;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 5px;
+        }
+        
+        .section h3 {
+            font-size: 11pt;
+            font-weight: bold;
+            color: #2d3748;
+            margin-bottom: 8px;
+        }
+        
+        .experience-item {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        .experience-item:last-child {
+            border-bottom: none;
+        }
+        
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 8px;
+        }
+        
+        .company-name {
+            font-size: 11pt;
+            font-weight: bold;
+            color: #2c5282;
+        }
+        
+        .position-title {
+            font-size: 10pt;
+            font-weight: bold;
+            color: #2d3748;
+            margin: 2px 0;
+        }
+        
+        .period {
+            font-size: 9pt;
+            color: #718096;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+        
+        .achievements {
+            margin-top: 8px;
+        }
+        
+        .achievements ul {
+            margin-left: 15px;
+            padding: 0;
+        }
+        
+        .achievements li {
+            margin-bottom: 5px;
+            font-size: 9pt;
+            line-height: 1.4;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-top: 10px;
+        }
+        
+        .skill-category h4 {
+            font-size: 10pt;
+            font-weight: bold;
+            color: #2c5282;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #cbd5e0;
+            padding-bottom: 3px;
+        }
+        
+        .skill-category ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .skill-category li {
+            font-size: 9pt;
+            margin-bottom: 4px;
+            padding-left: 12px;
+            position: relative;
+        }
+        
+        .skill-category li:before {
+            content: "▪";
+            color: #2c5282;
+            position: absolute;
+            left: 0;
+        }
+        
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        
+        .contact-info div {
+            margin-bottom: 8px;
+            font-size: 9pt;
+            display: flex;
+            align-items: center;
+        }
+        
+        .contact-info strong {
+            color: #2c5282;
+            width: 65px;
+            display: inline-block;
+        }
+        
+        .languages div {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+            font-size: 9pt;
+        }
+        
+        .languages .level {
+            color: #4a5568;
+            font-weight: 500;
+        }
+        
+        .education-item {
+            margin-bottom: 15px;
+            padding: 12px;
+            background: #f7fafc;
+            border-radius: 5px;
+            border-left: 3px solid #4299e1;
+        }
+        
+        .education-item .degree {
+            font-size: 10pt;
+            font-weight: bold;
+            color: #2c5282;
+        }
+        
+        .education-item .university {
+            font-size: 9pt;
+            color: #4a5568;
+            margin: 2px 0;
+        }
+        
+        .education-item .year {
+            font-size: 9pt;
+            color: #718096;
+        }
+        
+        .summary {
+            background: #edf2f7;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #4299e1;
+            margin-bottom: 20px;
+        }
+        
+        .summary p {
+            font-size: 10pt;
+            line-height: 1.5;
+            margin-bottom: 10px;
+        }
+        
+        .key-achievements {
+            background: #f0fff4;
+            padding: 12px;
+            border-radius: 6px;
+            border-left: 3px solid #38a169;
+            margin: 10px 0;
+        }
+        
+        .key-achievements h4 {
+            color: #2f855a;
+            font-size: 10pt;
+            margin-bottom: 8px;
+        }
+        
+        .key-achievements ul {
+            margin-left: 15px;
+        }
+        
+        .key-achievements li {
+            font-size: 9pt;
+            margin-bottom: 4px;
+        }
+        
+        .network-highlight {
+            background: #fffbf0;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 3px solid #f6ad55;
+            margin: 8px 0;
+        }
+        
+        .network-highlight p {
+            font-size: 9pt;
+            color: #744210;
+            margin: 0;
+        }
+        
+        @media print {
+            body {
+                margin: 0;
+                padding: 15mm;
+                font-size: 9pt;
+            }
+            .section {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <div class="header">
+        <div class="header-left">
+            <h1>한 상 진</h1>
+            <div class="title">글로벌 물류 전문가 | WR Group 한국지사장 후보</div>
+        </div>
+        <div class="header-right">
+            <strong>연락처:</strong> 010-4167-0528<br>
+            <strong>이메일:</strong> frankston@naver.com<br>
+            <strong>주소:</strong> 경기도 성남시 분당구<br>
+            <strong>작성일:</strong> 2025년 9월
+        </div>
+    </div>
+
+    <div class="main-content">
+        <!-- Left Column -->
+        <div class="left-column">
+            <!-- Contact Information -->
+            <div class="section contact-info">
+                <h2>인적사항</h2>
+                <div><strong>나이:</strong> 52세 (1973년 5월 28일생)</div>
+                <div><strong>병역:</strong> 육군 병장 만기제대 (1995-1997)</div>
+                <div><strong>면허:</strong> 1종보통운전면허</div>
+            </div>
+
+            <!-- Education -->
+            <div class="section">
+                <h2>학력</h2>
+                <div class="education-item">
+                    <div class="degree">해양금융학 석사(MBA)</div>
+                    <div class="university">한국해양대학교</div>
+                    <div class="year">2018 - 2020</div>
+                </div>
+                <div class="education-item">
+                    <div class="degree">언어학과 학사</div>
+                    <div class="university">부산대학교</div>
+                    <div class="year">1994 - 2000</div>
+                </div>
+            </div>
+
+            <!-- Languages -->
+            <div class="section languages">
+                <h2>어학능력</h2>
+                <div>
+                    <span>영어</span>
+                    <span class="level">비즈니스 수준</span>
+                </div>
+                <div>
+                    <span>독일어</span>
+                    <span class="level">기초회화</span>
+                </div>
+                <div>
+                    <span>한국어</span>
+                    <span class="level">모국어</span>
+                </div>
+            </div>
+
+            <!-- Skills -->
+            <div class="section">
+                <h2>핵심 역량</h2>
+                <div class="skills-grid">
+                    <div class="skill-category">
+                        <h4>리더십</h4>
+                        <ul>
+                            <li>손익 관리</li>
+                            <li>팀 빌딩</li>
+                            <li>전략 기획</li>
+                            <li>위기 관리</li>
+                            <li>글로벌 운영</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category">
+                        <h4>전문기술</h4>
+                        <ul>
+                            <li>프로젝트 물류</li>
+                            <li>EPC 운영</li>
+                            <li>복합운송</li>
+                            <li>TIC 업계</li>
+                            <li>공급망 관리</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- IT Skills -->
+            <div class="section">
+                <h2>IT 시스템</h2>
+                <div class="skill-category">
+                    <ul>
+                        <li>IBM CRM & Salesforce</li>
+                        <li>Tableau 분석</li>
+                        <li>ESG 컴플라이언스</li>
+                        <li>ERP 통

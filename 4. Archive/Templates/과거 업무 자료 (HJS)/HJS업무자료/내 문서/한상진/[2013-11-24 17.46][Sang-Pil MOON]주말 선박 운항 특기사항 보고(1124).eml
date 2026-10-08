@@ -1,0 +1,220 @@
+Received: from KOVHGVMC.hanjin.com ([203.246.154.18]) by kovhgvme.hanjin.com
+ ([203.246.154.25]) with mapi id 14.03.0123.003; Sun, 24 Nov 2013 18:46:27
+ +0900
+From: Sang-Pil MOON <spmoon@hanjin.com>
+To: Chul-Ho Kim <kimch@hanjin.com>
+CC: Young-Min KIM <ymkim@hanjin.com>, Young-Kyu SONG <yk.song@hanjin.com>,
+	Yoon-Han JUNG <jungyh@hanjin.com>, Jin-Ki PARK <jkpark@hanjin.com>, Jin-Woong
+ JANG <jwjang@hanjin.com>, Do-Soo CHOI <dosoo@hanjin.com>, "JD(Jae-Dong) WON"
+	<jdwon@hanjin.com>, Min-Woo CHAE <mwchae@hanjin.com>, Jeong-Sam PARK
+	<jpark@hanjin.com>, JOUNG-OU PARK <jopark@hanjin.com>, JAE-SOON JUNG
+	<jsjung@hanjin.com>, Kyu-Sung CHO <kscho@hanjin.com>, Seong-Ho LEE
+	<sholee@hanjin.com>, Dong-Soo SHIN <dsshin@hanjin.com>, Gi-Hyun KWON
+	<khkwon@hanjin.com>, "SH(Seung-Hun) OH" <shoh@hanjin.com>, Sung-Hwan JUNG
+	<jeongsh@hanjin.com>, "C. W. LEE" <cwleea@hanjin.com>, Seok-Won KIM
+	<swkima@hanjin.com>, Young HONG <yhong@hanjin.com>, Yun-Jin Son
+	<yjson@hanjin.com>, Won-Seok CHUNG <wonchung@hanjin.com>, Jin-Soon PARK
+	<jaegal73@hanjin.com>, Ju-Hee Lee <juheelee@hanjin.com>, Jiyoung Park
+	<jyp@hanjin.com>, Jae-Beom KWON <jb-kwon@hanjin.com>, Chul-Heui KIM
+	<chkim@hanjin.com>, "JK(Jae-Kyeong) JEON" <jkjeon@hanjin.com>, Sung-Tae NA
+	<stna@hanjin.com>, "Daniel(Se-Chul) KIM" <bbk92@hanjin.com>, Ki-Hyuk LEE
+	<leekh@hanjin.com>, Mi-On KIM <meiwen@hanjin.com>, Jae-Nam Byun
+	<jnbyun9@hanjin.com>, Nara Lee <nrlee@hanjin.com>, Hyo-San KIM
+	<dream123@hanjin.com>, Bo Hee Lee <alicelbh@hanjin.com>, Yongjin Cho
+	<yjcho@hanjin.com>, Kuk-Jong Lee <kjlee@hanjin.com>, Young-Jun LIM
+	<yjlim@hanjin.com>, Jo-Hyeak YOU <johyoo@hanjin.com>, Cheon-Won PACK
+	<cwpark@hanjin.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Jong-Suk LIM
+	<jslim@hanjin.com>, Sang-Young SHIN <syshin@hanjin.com>, "MD(Myung-Deok) CHO"
+	<mdcho@hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK
+	<hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.com>, "TH(Tae-Hoon) AN"
+	<than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM
+	<kimyk@hanjin.com>, SANG-GEON YUN <sgyun@hanjin.com>, "Alex(Tae-Soo) KIM"
+	<tskim@hanjin.com>, Bong-Hwan KOH <bhkoh@hanjin.com>, Hong-Ick LEE
+	<hilee@hanjin.com>, Jung-Kil KIM <jungkil@hanjin.com>, Seokho Jin
+	<seokho9@hanjin.com>, "Dragon(Changyong) Shin" <dragon@hanjin.com>, Jung-A
+ PARK <jung.a.park@hanjin.com>, Kwang-Yong JUNG <gyjong@hanjin.com>,
+	"Jerry(Hee-Sung) SHIN" <hshin@hanjin.com>, "KD(Kwang-Dae) KIM"
+	<kdkim@hanjin.com>, Dae-Yang KIM <daeykim@hanjin.com>, In-Kwon JANG
+	<ikjang@hanjin.com>, Jong-Hyuck YUN <jhyun@hanjin.com>, Jae-Chan KIM
+	<jckim@hanjin.com>, DONG-IL HWANG <dihwang@hanjin.com>, KA-Sung Kim
+	<kks@hanjin.com>, Jung -Woo LEE <jwlee1@hanjin.com>, BYEONG IL MO
+	<bimo@hanjin.com>, Il-Sun Baek <isbaek@hanjin.com>, "SK(Seung-Kwon) Kim"
+	<skkim@hanjin.com>, "Jeremy(Jee-Young) YOO" <jyyoo1@hanjin.com>, Jin-Seon Kim
+	<jskim84@hanjin.com>, Kyu-Man KIM <kmkim@hanjin.com>, Dong-Cheol Kim
+	<dckim@hanjin.com>, Jung-Han YOON <jhyoon@hanjin.com>, Kwang-Hyun LEE
+	<khlee@hanjin.com>, Jin-Ok JUNG <jojung@hanjin.com>, Won-Ki Cho
+	<wkcho@hanjin.com>, Jeong-Ho Jang <jjhlove@hanjin.com>, Young-Hwan CHOI
+	<yhchoi85@hanjin.com>, Sang-Won JEONG <swjeong@hanjin.com>, Won CHO
+	<wcho@hanjin.com>, Jae-Yun Lee <yunlee@hanjin.com>, Jin-Gi Jeong
+	<jeongjg@hanjin.com>, Jong-Wan Kim <kjw406@hanjin.com>, Jeung-Uk Ryu
+	<juryu@hanjin.com>, Sang-Ho JEONG <shjeong@hanjin.com>, Chang-Woo PARK
+	<cwoop@hanjin.com>, "Maverick(Ki-Won) KIM" <kwkim@hanjin.com>, Jong-Man HONG
+	<jmhong@hanjin.com>, "DH(Don-Ho) LEE" <leedh@de.hanjin.com>, Kwang-Kuk CHOI
+	<kkchoi@hanjin.com>, Sang-Shik KIM <sskim1@hanjin.com>, Ki-Young KIM
+	<kiykim@hanjin.com>, Ju-Sic JU <jsju@hanjin.com>, Dong-Seok LEE
+	<dslee1@hanjin.com>, OE-TAE KIM <otkim@hanjin.com>, Kyong-Sik PARK
+	<ksikpark@hanjin.com>, Sang-Ki PARK <superkor@hanjin.com>, Dong-Min PARK
+	<dmpark@hanjin.com>, Chang-Ho SON <chson@hanjin.com>, Yong-Guen SHIN
+	<ygshin@hanjin.com>, Dong-Bin IM <dbim@hanjin.com>
+Subject:
+ =?ks_c_5601-1987?B?wda4uyC8sbnaIL/ux9cgxq+x4rvnx9cguriw7SgxMS8yNCk=?=
+Thread-Topic:
+ =?ks_c_5601-1987?B?wda4uyC8sbnaIL/ux9cgxq+x4rvnx9cguriw7SgxMS8yNCk=?=
+Thread-Index: Ac7o+gq70iCfiv+nTz6MBvHxH42OAA==
+Disposition-Notification-To: Sang-Pil MOON <spmoon@hanjin.com>
+Date: Sun, 24 Nov 2013 18:46:26 +0900
+Message-ID: <1441806FC1B8B943881FDD29C29834DB03925C@kovhgvmc.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: kovhgvme.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.246.154.253]
+Content-Type: multipart/alternative;
+	boundary="_000_1441806FC1B8B943881FDD29C29834DB03925Ckovhgvmchanjincom_"
+MIME-Version: 1.0
+
+--_000_1441806FC1B8B943881FDD29C29834DB03925Ckovhgvmchanjincom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+MTMvMTEvMjQNClRPOiBTT1ANCkZNOiBDT1YNCg0Kwda4uyC8sbnaIL/ux9cgxq+x4rvnx9fAuyC+
+xrehv80gsLDAzCC6uLDtILXluLO0z7TZLg0KDQoxLiBQU1gvSEpDTjAwMTVXIExHQsfXIEFNUCBD
+b21taXNzaW9uaW5nIFRlc3QgvcPH4A0KICAgsKEuIFRlc3Qgwdi68Q0KICAgICAgIKHcIDExLzE5
+IDE0MDAtMTYwMExUOiBQb3J0IG9mIExBWCBUZWNobmljYWwgTWVldGluZyhZVEkgVGVybWluYWwp
+DQogICAgICAgodwgMTEvMjAgMTAwMC0xMjAwTFQ6IFBvcnQgb2YgTEdCIFRlY2huaWNhbCBNZWV0
+aW5nKFRUSSBUZXJtaW5hbCkNCiAgILOqLiC6u7yxIFNLRUQ6IEFUQSAyMS8wNDE4LCBBVEIgMjEv
+MDU0OCwgRVREIDI0LzA2MDBMVCwgKzlIDQogICC02S4gVFRJIFRlcm1pbmFsIEFNUCBUZXN0DQog
+ICAgICAgodwgMjIvMTAwMExUOiC6u7yxILHisPy757D8ILTru/PAuLfOIFdvcmtpbmcgUHJvY2Vk
+dXJlcyCxs8CwDQogICAgICAgodwgMjIvMTIwMC0xMjMwTFQ6IEFNUCBDYWJsZSC758PiILnXIL+s
+sOENCiAgICAgICCh3CAyMi8xMjMwLTIzMzBMVDogQU1QIMD8v/i/rLDhx8+/qSBBTVAgQ05UUiwg
+TWFpbiC56MD8ud0gVGVzdA0KICAgICAgIKHcIDIzLzA3MzAtMTEwMExUOiAyMsDPILnMwfjH4Lvn
+x9cgw9+woSBUZXN0ILnXIEJsYWNrb3V0IFRlc3QgwfjH4A0KICAgICAgIKHcIDIzLzExMDBMVDog
+QU1QIENhYmxlIERpc2Nvbm5lY3QNCiAgILbzLiAxMS8yNiBPQUsgQU1QIENvbW1pc3Npb25pbmcg
+VGVzdCC9x73DIL+5waQNCg0KMi4gwd+xucfXILyxvK4gx/bIsg0KICAgsKEuIFNIQTogwda4uyBQ
+b3J0IENsb3NlIL74vvrAuLOqIMbysdUgMSB+IDLAzyDBor7ItOux4iDB9rzTDQogICAgICAgodwg
+UkVTL0hOQ0gwMTAzVzogQVRBIDI0LzA2MDAsIEFUQiAyNC8xNTAwLCBFVEQgMjUvMTUwMExULCAr
+NkgNCiAgICAgICCh3CBBV1MvSEpOSzAwMzhFOiBFVEEgMjYvMDAwMCwgRVRCIE5vdCBGaXhlZA0K
+ICAgs6ouIE5CTzogwda4uyBQb3J0IENsb3NlIL74vvrAuLOqIMDPus4gxc25zLPOILyxvK7A+8O8
+DQogICAgICAgodwgQVdTL0hKTkswMDM4RTogRVRBIDI1LzAyMzAsIEVUQiAyNS8wNTAwLCBFVEQg
+MjUvMTIwMExULCArMzJIDQogICC02S4gVEFPOiDB1ri7IFBvcnQgQ2xvc2Ugvvi++sC4s6ogseLH
+17yxudogwfWwoSC51yC7/bvqvLogwPrHz7fOILyxvK7A+8O8DQogICAgICAgodwgSUZYL0hOVFUw
+MDA4VzogQVRBIDIyLzA1MDAsIEFUQiAyMy8wNDMwLCBBVEQgMjMvMjIzMExULCArMzFIDQogICAg
+ICAgodwgUE5IL0hKTE4wMTM5RTogQVRBIDIyLzE5MDAsIEFUQiAyMy8wNjMwLCBBVEQgMjQvMDM0
+MExULCArMjRIDQogICAgICAgodwgTUQxL0hKU1owMDQwVzogQVRBIDIzLzA3MDAsIEVUQiAyNS8w
+ODAwLCBFVEQgMjUvMjAwMExULCArNDJIDQogICAgICAgodwgR1FYL0hOSEEwMDk1RTogQVRBIDIz
+LzExMDAsIEFUQiAyNC8wMTEwLCBBVEQgMjQvMTEzMExULCArMTNIDQogICAgICAgodwgS0NYL0hO
+QUcwMDIxRTogQVRBIDI0LzEyMDAsIEVUQiAyNS8yMDAwLCBFVEQgMjYvMTIwMExULCArMzZIDQog
+ICC28y4gWEdHOiAyMy8wNzAwIH4gMTgzMExULCAyNC8xMTAwIH4gMTQwMExUILPzuau3ziBQb3J0
+IENsb3NlDQogICAgICAgodwgTkU2L0hKR08wMDA0VzogQVRBIDIyLzA5MDAsIEFUQiAyMi8xMTAw
+LCBBVEQgMjMvMTkwMExULCArMTJIDQogICAgICAgodwgVEVGL0hOVVgwMDEwRTogQVRBIDIzLzA5
+MDAsIEFUQiAyNC8wMzAwLCBBVEQgMjQvMjQwMExULCArMTVIDQoNCjMuIFBoYXNlLWluL291dCwg
+SWRsaW5nILyxudoNCiAgILChLiBNRDEvSE5NSTAwNzdFOiAxMS8yNCBTSEEgUGhhc2Utb3V0LCAx
+MS8yNiBLQU4gRk1YIFBoYXNlLWluDQogICCzqi4gRk1YL0hKU1owMDM5RTogMTEvMjUgVEFPIFBo
+YXNlLW91dCwgMTEvMjUgVEFPIE1EMSBQaGFzZS1pbg0KICAgtNkuIEtKMi9ITlNNMDE3NFc6IDEx
+LzI0IFBVUyBQaGFzZS1vdXQoud28sSksIEhOVVgwMDExRSAxMS8yNiBQVVMgUGhhc2UtaW4NCiAg
+ILbzLiBITkZMMDAwMVc6IMf2wOcgsaS+57/cx9e/obytIMX1uaYgtOux4sHfwMy45yAxMi8yMSBL
+QU4gRklYIFBoYXNlLWluIL+5waQNCg0KQmVzdCBSZWdhcmRzLA0KQ09WLVZPL1NQTW9vbg0KDQo=
+
+--_000_1441806FC1B8B943881FDD29C29834DB03925Ckovhgvmchanjincom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+</head>
+<body>
+<div style=3D"FONT-FAMILY: =B8=BC=C0=BA =B0=ED=B5=F1; FONT-SIZE: 12pt" id=
+=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div style=3D"LINE-HEIGHT: 20pt">13/11/24<br>
+TO: SOP<br>
+FM: COV<br>
+&nbsp;<br>
+=C1=D6=B8=BB =BC=B1=B9=DA =BF=EE=C7=D7 =C6=AF=B1=E2=BB=E7=C7=D7=C0=BB =BE=
+=C6=B7=A1=BF=CD =B0=B0=C0=CC =BA=B8=B0=ED =B5=E5=B8=B3=B4=CF=B4=D9.</div>
+<div style=3D"LINE-HEIGHT: 20pt">&nbsp;</div>
+<div style=3D"LINE-HEIGHT: 20pt"><strong>1. PSX/HJCN0015W LGB=C7=D7 AMP Com=
+missioning Test =BD=C3=C7=E0<br>
+</strong>&nbsp;&nbsp; =B0=A1. Test =C1=D8=BA=F1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC 11/19 1400-1600LT: Port of LAX =
+Technical Meeting(YTI Terminal)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC 11/20 1000-1200LT: Port of LGB =
+Technical Meeting(TTI Terminal)<br>
+&nbsp;&nbsp; =B3=AA. =BA=BB=BC=B1 SKED: ATA 21/0418, ATB 21/0548, ETD 24/06=
+00LT, &#43;9H<br>
+&nbsp;&nbsp; =B4=D9. TTI Terminal AMP Test<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC 22/1000LT: =BA=BB=BC=B1 =B1=E2=
+=B0=FC=BB=E7=B0=FC =B4=EB=BB=F3=C0=B8=B7=CE Working Procedures =B1=B3=C0=B0=
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC 22/1200-1230LT: AMP Cable =BB=
+=E7=C3=E2 =B9=D7 =BF=AC=B0=E1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC 22/1230-2330LT: AMP =C0=FC=BF=
+=F8=BF=AC=B0=E1=C7=CF=BF=A9 AMP CNTR, Main =B9=E8=C0=FC=B9=DD Test<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC 23/0730-1100LT: 22=C0=CF =B9=CC=
+=C1=F8=C7=E0=BB=E7=C7=D7 =C3=DF=B0=A1 Test =B9=D7 Blackout Test =C1=F8=C7=
+=E0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC 23/1100LT: AMP Cable Disconnect=
+<br>
+&nbsp;&nbsp; =B6=F3. 11/26 OAK AMP Commissioning Test =BD=C7=BD=C3 =BF=B9=
+=C1=A4</div>
+<div style=3D"LINE-HEIGHT: 20pt">&nbsp;</div>
+<div style=3D"LINE-HEIGHT: 20pt"><strong>2. =C1=DF=B1=B9=C7=D7 =BC=B1=BC=AE=
+ =C7=F6=C8=B2<br>
+</strong>&nbsp;&nbsp; =B0=A1. SHA: =C1=D6=B8=BB Port Close =BE=F8=BE=FA=C0=
+=B8=B3=AA =C6=F2=B1=D5 1 ~ 2=C0=CF =C1=A2=BE=C8=B4=EB=B1=E2 =C1=F6=BC=D3<br=
+>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC RES/HNCH0103W: ATA 24/0600, ATB=
+ 24/1500, ETD 25/1500LT, &#43;6H<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC AWS/HJNK0038E: ETA 26/0000, ETB=
+ Not Fixed<br>
+&nbsp;&nbsp; =B3=AA. NBO: =C1=D6=B8=BB Port Close =BE=F8=BE=FA=C0=B8=B3=AA =
+=C0=CF=BA=CE =C5=CD=B9=CC=B3=CE =BC=B1=BC=AE=C0=FB=C3=BC<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC AWS/HJNK0038E: ETA 25/0230, ETB=
+ 25/0500, ETD 25/1200LT, &#43;32H<br>
+&nbsp;&nbsp; =B4=D9. TAO: =C1=D6=B8=BB Port Close =BE=F8=BE=FA=C0=B8=B3=AA =
+=B1=E2=C7=D7=BC=B1=B9=DA =C1=F5=B0=A1 =B9=D7 =BB=FD=BB=EA=BC=BA =C0=FA=C7=
+=CF=B7=CE =BC=B1=BC=AE=C0=FB=C3=BC<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC IFX/HNTU0008W: ATA 22/0500, ATB=
+ 23/0430, ATD 23/2230LT, &#43;31H<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC PNH/HJLN0139E: ATA 22/1900, ATB=
+ 23/0630, ATD 24/0340LT, &#43;24H<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC MD1/HJSZ0040W: ATA 23/0700, ETB=
+ 25/0800, ETD 25/2000LT, &#43;42H<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC GQX/HNHA0095E: ATA 23/1100, ATB=
+ 24/0110, ATD 24/1130LT, &#43;13H<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC KCX/HNAG0021E: ATA 24/1200, ETB=
+ 25/2000, ETD 26/1200LT, &#43;36H<br>
+&nbsp;&nbsp; =B6=F3. XGG: 23/0700 ~ 1830LT, 24/1100 ~ 1400LT =B3=F3=B9=AB=
+=B7=CE Port Close<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC NE6/HJGO0004W: ATA 22/0900, ATB=
+ 22/1100, ATD 23/1900LT, &#43;12H<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=DC TEF/HNUX0010E: ATA 23/0900, ATB=
+ 24/0300, ATD 24/2400LT, &#43;15H</div>
+<div style=3D"LINE-HEIGHT: 20pt">&nbsp;</div>
+<div style=3D"LINE-HEIGHT: 20pt"><strong>3. Phase-in/out, Idling =BC=B1=B9=
+=DA<br>
+</strong>&nbsp;&nbsp; =B0=A1. MD1/HNMI0077E: 11/24 SHA Phase-out, 11/26 KAN=
+ FMX Phase-in&nbsp;<br>
+&nbsp;&nbsp; =B3=AA. FMX/HJSZ0039E: 11/25 TAO Phase-out, 11/25 TAO MD1 Phas=
+e-in&nbsp;<br>
+&nbsp;&nbsp; =B4=D9. KJ2/HNSM0174W: 11/24 PUS Phase-out(=B9=DD=BC=B1), HNUX=
+0011E 11/26 PUS Phase-in&nbsp;<br>
+&nbsp;&nbsp; =B6=F3. HNFL0001W: =C7=F6=C0=E7 =B1=A4=BE=E7=BF=DC=C7=D7=BF=A1=
+=BC=AD =C5=F5=B9=A6 =B4=EB=B1=E2=C1=DF=C0=CC=B8=E7 12/21 KAN FIX Phase-in =
+=BF=B9=C1=A4</div>
+<div style=3D"LINE-HEIGHT: 20pt">&nbsp;</div>
+<div style=3D"LINE-HEIGHT: 20pt">Best Regards,<br>
+COV-VO/SPMoon</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_1441806FC1B8B943881FDD29C29834DB03925Ckovhgvmchanjincom_--

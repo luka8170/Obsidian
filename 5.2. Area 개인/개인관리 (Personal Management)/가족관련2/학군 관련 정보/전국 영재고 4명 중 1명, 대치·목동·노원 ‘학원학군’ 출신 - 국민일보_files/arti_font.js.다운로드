@@ -1,0 +1,88 @@
+//================================서브 기사 폰트함수 ==============================
+function setCookie (name,value,expires,path,domain,secure)
+{
+	document.cookie = name + "=" + escape (value) +
+	((expires) ? "; expires=" + expires.toGMTString() : "") +
+    ((path) ? "; path=" + path : "") +
+    ((domain) ? "; domain=" + domain : "") +
+    ((secure) ? "; secure" : "");
+}
+
+function getCookieVal (offset)
+{
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1)
+		endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function getCookie (name)
+{
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+	while(i < clen)
+	{
+		var j = i + alen;
+		if(document.cookie.substring(i, j) == arg)
+			return getCookieVal (j);
+		i = document.cookie.indexOf(" ", i) + 1;
+		if(i == 0) break;
+	}
+
+	return null;
+}
+		
+
+//var article_fontSize = parseInt(getCookie("kmib_article_fontSize"));
+
+var article_fontSize = 11;
+
+function initFont()
+{ 
+	if( (article_fontSize < 9) || (article_fontSize > 16) || (isNaN(article_fontSize) == true))
+	{
+		article_fontSize = 11;	
+	}
+
+	setFont(article_fontSize);
+}
+	
+function setFont(article_fontSize)
+{ 		
+	document.getElementById("article").style.fontSize = article_fontSize +"pt";
+	//setFontCookie(article_fontSize);
+}	
+	
+function setFontCookie(article_fontSize)
+{
+	var expiry = new Date();
+	var path = "/";
+	var domain = "kmib.co.kr";
+	var secure = "";
+
+	expiry.setTime(expiry.getTime() + 90 * (24 * 60 * 60 * 1000));
+
+	setCookie("kmib_article_fontSize",article_fontSize,expiry,path,domain,secure);
+}	
+	
+function fontPlus()
+{		
+	if (article_fontSize < 16)
+	{
+		article_fontSize = article_fontSize + 1; 
+		setFont(article_fontSize); 
+	}
+}
+
+function fontMinus()
+{
+	if(article_fontSize > 9)
+	{
+		article_fontSize = article_fontSize - 1; 
+		setFont(article_fontSize); 
+	}
+}	
+
+// ============================ 서브 기사 폰트함수==============================

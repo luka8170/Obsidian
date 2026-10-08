@@ -1,0 +1,1 @@
+[KOMERI, 25MW급 부유식 해상풍력 부유체 한국선급 AIP 획득](https://www.newsis.com/view/NISX20260626_0003684857)

@@ -1,0 +1,11 @@
+|                                                                                                 |                   |                                                             |     |     |     |      |
+| ----------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------- | --- | --- | --- | ---- |
+| **Client / Manufacturers**                                                                      | **Date of visit** | **Meeting content / Potential projects / Follow up action** |     |     |     |      |
+| 1                                                                                               | 2                 | **Meeting**                                                 | 3   | 4   |     |      |
+| **Projects**                                                                                    | 5                 | 6                                                           |     |     |     |      |
+| 7                                                                                               | 8                 |                                                             |     |     |     |      |
+| **Meeting minutes**                                                                             | 9                 |                                                             |     |     |     |      |
+| **Business development opportunity** <br><br>**High**   **Medium   Low** <br><br>£   £        £ |                   | **Actions**                                                 |     |     | By  | Date |
+| 10                                                                                              |                   | 11                                                          | 12  |     |     |      |
+| 13                                                                                              |                   | 14                                                          | 15  |     |     |      |
+| **Remark**                                                                                      | 16                |                                                             |     |     |     |      |

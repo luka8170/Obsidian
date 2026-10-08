@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!-- saved from url=(0113)https://was.livere.me/enlipleAD?zoneId=47&width=300px&height=250px&subId=LR_%B1%B9%B9%CE%C0%CF%BA%B8_pc_R_300*250 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="./mobwith.min.js.다운로드"></script>
+</head>
+<body marginwidth="0" marginheight="0">
+  <script type="text/javascript">
+    var getQueryObject = function() {
+      var search = location.search.slice(1);
+      var list = search.split("&");
+
+      var obj = {};
+      for(var i = 0, limit = list.length; i < limit; i ++) {
+        var item = list[i].split("=");
+        try {
+          obj[item[0]] = decodeURIComponent(item[1]);
+        } catch (error) {
+          obj[item[0]] = item[1];
+        }
+        
+      }
+
+      return obj
+    }
+
+    var calc = function(data, template) {
+      if(!!~data.indexOf('px')) {
+        return data.replace(/px/, '');
+      } else if(!!~data.indexOf('%')) {
+        var temp = data.replace(/%/, '');
+        return template / (100 / temp);
+      } else {
+        return data;
+      }
+    }
+
+    var params = getQueryObject();
+
+    var zone = params.zoneId;
+    var adType = "banner"; // banner, cover
+    var bannerType = "bottom"; // bottom, toast, floating
+
+    var width = calc(params.width, window.innerWidth);
+    var height = calc(params.height, window.innerHeight);
+  
+    var id = 'mobwith_' + zone;
+    var pb = "" //passback
+    var position = ""; // 플로팅, 토스트 위치 : T, B, TL, TR, BL, BR 
+    
+    new MobWithAd({    
+        'id' : id
+        ,'zone': zone
+        , 'adType': adType
+        , 'bannerType': bannerType
+        , 'width': width
+        , 'height': height
+        , 'pb': pb
+        , 'position': position
+    });
+  </script><div id="mobwith_47" style="width:300px;"><iframe id="wrap_mobwith_47" referrerpolicy="no-referrer" frameborder="0" scrolling="no" style="z-index:99;overflow-x:hidden; overflow:auto; width:100%;height:250px;" src="./saved_resource(5).html"></iframe></div>
+
+<iframe src="./syncframe(1).html" width="0" height="0" frameborder="0" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe></body></html>

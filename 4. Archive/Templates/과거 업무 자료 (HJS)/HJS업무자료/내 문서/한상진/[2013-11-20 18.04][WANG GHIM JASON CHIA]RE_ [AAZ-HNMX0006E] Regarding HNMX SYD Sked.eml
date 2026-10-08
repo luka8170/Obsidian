@@ -1,0 +1,688 @@
+Received: from KOVHGVMC.hanjin.com ([203.246.154.18]) by kovhgvme.hanjin.com
+ ([203.246.154.25]) with mapi id 14.03.0123.003; Wed, 20 Nov 2013 19:04:23
+ +0900
+From: WANG GHIM JASON CHIA <wgchia@sg.hanjin.com>
+To: Teerapong Phatcharawanitsakun <teerapong@hanjinthailand.com>, Carmen CHAN
+	<carmen.chan@my.hanjin.com>, Jonathan Ng <jonathan.ng@my.hanjin.com>, Cissy
+ Tan <cissy.tan@my.hanjin.com>, Nigel Lee <nigel.lee@my.hanjin.com>, LEE We
+ Lee <welee@my.hanjin.com>, Phan Minh NGHIA <pmnghia@sg.hanjin.com>, Nguyen
+ Thi Thu Hien <ntthien@sg.hanjin.com>, Bui Van Thien <bvthien@sg.hanjin.com>,
+	Ngo Minh Thien <nmthien@sg.hanjin.com>, Nguyen Kien CUONG
+	<cuongnk@sg.hanjin.com>, Le Thanh SANG <ltsang@sg.hanjin.com>, Geraldine LOW
+	<hhlow@sg.hanjin.com>, SIN YEE CINDY SNG <sysng@sg.hanjin.com>, Devendra
+ Sharma <devendra.sharma@in.hanjin.com>, Darshana Balyaya
+	<darshana.balyaya@in.hanjin.com>, Mahendrakumar Satose
+	<mahendra@in.hanjin.com>, Ketan Chaubal <ketan@in.hanjin.com>, Girish Trivedi
+	<trivedi@in.hanjin.com>, Dhaval Jodhani <dhaval.jodhani@in.hanjin.com>,
+	Vikrant Jamboti <vikrant@in.hanjin.com>, Kanwar Rajiv <rajiv@in.hanjin.com>,
+	CHATCHAI KOMINDR <chatchai@hanjin.com>, Chariya CHAICHARNCHEEP
+	<chariya@hanjinthailand.com>, JANESS POILUKVUTTIKUL
+	<janess@hanjinthailand.com>, Weerasak Sutjanan
+	<weerasak.s@hanjinthailand.com>, Shanaka Delgahage <shanaka@lk.hanjin.com>,
+	Giovanni Jugo <gjjugo@mof.com.ph>, Lee Ann Humarang <ljhumarang@mof.com.ph>,
+	Lourdes Gomez <lvgomez@mof.com.ph>, "RR(Ralph Jayson) ramirez"
+	<rlramirez@mof.com.ph>, Leni Tiamsim <ldtiamsim@mof.com.ph>, Marichel
+ Saavedra <mrsaavedra@mof.com.ph>, Michelle Binas <mpbinas@mof.com.ph>,
+	"Gem(Gemma) Zubiaga" <gczubiaga@mof.com.ph>, Pinky Trinidad
+	<pstrinidad@mof.com.ph>, "MJ (Mary Jean) Morante" <mamorante@mof.com.ph>,
+	Roberto Yacub <rryacub@mof.com.ph>, Ellen Pilapil <eppilapil@mof.com.ph>,
+	Sherley Saguinsin <stsaguinsin@mof.com.ph>, Jebal Mia <jebal@bd.hanjin.com>,
+	Subrata CHOWDHURY <subrata@bd.hanjin.com>, Adarsh Chawla
+	<adarsh@ae.hanjin.com>, Ani John <ani.john@ae.hanjin.com>, Jolly Viju
+	<jolly@ae.hanjin.com>, Ram Sundar <ramsundar@ae.hanjin.com>, "TJ(Trijono)
+ ERWIN" <terwin@bumilaut.co.id>, Ahmad MUTOHID <amutohid@bumilaut.co.id>,
+	Herry NG <hng@bumilaut.co.id>, Tati Hartati <thartati@bumilaut.co.id>, Parvez
+ SADRUDDIN <pervaiz@hanjin.com>, Arif Ashfaq <arifashfaq@mega-in.com>, Fahad
+ Pervaiz <hjssupport@mega-in.com>, Mo Mo LIN <mmlin@rgnba.com>, Htet Htet Moe
+ NWE <hhmn@rgnba.com>, Kyaw Kyaw WIN <kkwin@rgnba.com>, Pyae Phyo Aung
+	<p.phyoaung@rgnba.com>, Win Thein Maung <wintm@rgnba.com>, Amy LY
+	<pcs.mgrsales@pacificcrown.com.kh>, Karomy LIV
+	<pcs.impsales1@pacificcrown.com.kh>, Un SOCHEATA
+	<pcs.expsales1@pacificcrown.com.kh>, Socheata Song
+	<pcs.custsvc1@pacificcrown.com.kh>, Sreylout Lim
+	<pcs.expsales4@pacificcrown.com.kh>
+CC: Hong-Kyoo LEE <hklee@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>,
+	Kyong-Sik PARK <ksikpark@hanjin.com>, Gracie CHEN <wmchen@sg.hanjin.com>,
+	"Jade(DAJEONG) YU" <djyu@sg.hanjin.com>, "Sophia(Qi Hui) YUE"
+	<sophiayue@sg.hanjin.com>, KWEE MEI SEO <kmseo@sg.hanjin.com>, Hong-Kyoo LEE
+	<hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE
+	<jmleea@hanjin.com>, "Jade(DAJEONG) YU" <djyu@sg.hanjin.com>, "Sophia(Qi
+ Hui) YUE" <sophiayue@sg.hanjin.com>, "Calix(Do-Jin) Jeon"
+	<0810371@hanjin.com>, Hyeon-Seok PARK <phs@hanjin.com>, Darren TAN
+	<darren.tan@my.hanjin.com>, Melanie Koo <melanie.koo@my.hanjin.com>,
+	Woo-Kyung Lee <wklee@hanjin.com>, "JH(Jong-Hyun) KIM" <jonghkim@hanjin.com>,
+	Gerard EVANS <gerard_e@au.hanjin.com>, Joe Ortiz <jortiz@au.hanjin.com>,
+	Kevin CRUEZ <kevinc@au.hanjin.com>, David Kim <dkim@au.hanjin.com>, Janet
+ Jung <janet@au.hanjin.com>, Joo Yong LAU <laujy@sg.hanjin.com>, Edmund TIO
+	<yctio@sg.hanjin.com>, Hee-Jeong CHAI <hjchae@hanjin.com>, "James(Jae-Hyeog)
+ YOO" <jaehyoo@hanjin.com>, Benhur Leon <gbenhur.leon@in.hanjin.com>, Ashok
+ Viswanathan <ashok@in.hanjin.com>, =?Windows-1252?Q?Allwyn_D=92souza?=
+	<allwyn@in.hanjin.com>, Bharat Naik <bharat@in.hanjin.com>, SORANA C.
+	<richy@hanjinthailand.com>, Eshana De Silva <eshana@lk.hanjin.com>, Dinesh
+ Jayawardana <dinesh@lk.hanjin.com>, Duminda Silva <duminda@lk.hanjin.com>,
+	Jerome Suares <jerome@lk.hanjin.com>, Kyu-Ha LEE <kyuhalee@hanjin.com>,
+	"Jose.E. PENA" <jepena@hanjin.com>, Joo-Young LEE <jylee@mof.com.ph>, Allan
+ PANLILIO <adpanlilio@mof.com.ph>, Evangeline Lee <ellee@mof.com.ph>, Mizanur
+ Rahman <mizan@bd.hanjin.com>, Sung-Woo LEE <sungwlee@hanjin.com>, Ho-Young
+ KIM <hykim1@hanjin.com>, Dae-Seung MOON <dsmoona@hanjin.com>, Jaka A SINGGIH
+	<jaka@bumilaut.co.id>, Eddy Darjantjo <eddyd@bumilaut.co.id>, Herman MUDITA
+	<hmudita@bumilaut.co.id>, M.H KHAN <mhk001@mega-in.com>, Ali ASKARI
+	<aha@hanjin.com>, Ben PHEE <ben@phee.com.sg>, Christopher Chong
+	<chrischong@sg.hanjin.com>, Alan TAY <alantay@sg.hanjin.com>, Jess YAM
+	<kyyam@sg.hanjin.com>, Chong Beng WU <chongbeng@sg.hanjin.com>,
+	"Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>, "Lloyd(Woosik) Yang"
+	<shakin@hanjin.com>, Goh Seng KHONG <pcs.gm@pacificcrown.com.kh>, Ho-Wook
+ BAEK <hwbaek@hanjin.com>, Seung-Gwan LEE <seugklee@hanjin.com>, Gon-Woo PARK
+	<gwpark@hanjin.com>, Hoon PARK <hpark@hanjin.com>, Andreas PONDAAG
+	<andreasp@hanjin.com>, Yong SON <laureal@hanjin.com>, Sang-Chul JEON
+	<scjeon@hanjin.com>, Dam Nguyen SON <dnson1@sg.hanjin.com>, Adarsh Chawla
+	<adarsh@ae.hanjin.com>, Senthil KUMAR <senthil@ae.hanjin.com>, Jong-Hyun Kim
+	<jhkim@hanjin.com>, Chil-Ho KIM <chilhkim@hanjin.com>, Jeong-Jae CHOI
+	<jjchoi@hanjin.com>, Bae-Young SUH <bysuh@hanjin.com>, "Jessie(Ji-Soo) YOON"
+	<jessyoon@hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>,
+	"TH(Tae-Hoon) AN" <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>,
+	Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, Gi-Hyun KWON
+	<khkwon@hanjin.com>, "V.K. Sasidharan" <sasi@in.hanjin.com>, "Saber H.
+ Chowdhury" <saber@bd.hanjin.com>, "Bak Teng (Alvin) YEO"
+	<btyeo@sg.hanjin.com>, "Philip(Ee Hang) LOH" <ehloh@sg.hanjin.com>, Karen
+ Michelle <karendecastro@sg.hanjin.com>
+Subject: RE: [AAZ-HNMX0006E] Regarding HNMX SYD Sked
+Thread-Topic: [AAZ-HNMX0006E] Regarding HNMX SYD Sked
+Thread-Index:
+ Ac7fgqLBaO/41taeRQma8hOjIDRe8wAqMmwQAAV9IJ0AAEXCcAABhA3wAV1c3FcABPj2AAABMvXw
+Date: Wed, 20 Nov 2013 19:04:22 +0900
+Message-ID: <936FC2DE06C0F145AFFCE2311016CA9D2A4A6723@kovhgvmc.hanjin.com>
+References: <1B31F11EB6D69644B5B6C2C0FEF222FB044DB0@kovhhvmc.hanjin.com>
+ <E3E685F45553304BA985CB75999739E62A419000@kovhgvmc.hanjin.com>,<1B31F11EB6D69644B5B6C2C0FEF222FB044FF5@kovhhvmc.hanjin.com>,<E3E685F45553304BA985CB75999739E62A419048@kovhgvmc.hanjin.com>,<89330DB71BB23142BA2FB6217587EAF82A40883E@kovhgvmc.hanjin.com>
+ <C4E7BE0BDB561E47AE28C2132128024B2A41981E@kovhgvmc.hanjin.com>
+In-Reply-To: <C4E7BE0BDB561E47AE28C2132128024B2A41981E@kovhgvmc.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: kovhgvme.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.126.252.130]
+Content-Type: multipart/alternative;
+	boundary="_000_936FC2DE06C0F145AFFCE2311016CA9D2A4A6723kovhgvmchanjinc_"
+MIME-Version: 1.0
+
+--_000_936FC2DE06C0F145AFFCE2311016CA9D2A4A6723kovhgvmchanjinc_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+To: All AAZ E/B loading offices
+Fr: WSI/Jason
+
+Pls take note that AAZ/HNMX0006E will skip AUSYD.
+
+Pls manage your bkg and divert to AUS if necessary.
+
+Best Regards,
+WSI/ Jason Chia
+Hanjin Shipping (S) Pte Ltd
+PSA Building  460 Alexandra Road #07-02
+Singapore 119963
+DID : 65-6373-5168
+FAX : 65-6222-7055
+E-mail : wgchia@sg.hanjin.com<mailto:djyu@sg.hanjin.com>
+
+From: KOK SIONG ONG
+Sent: Wednesday, 20 November, 2013 5:22 PM
+To: Su Leng SEET; Keng Chuan Lee; BYEONG IL MO; Gracie CHEN; WANG GHIM JASO=
+N CHIA; Kyong-Sik PARK; ROHAIZAD ISMAIL MOHAMAD
+Cc: DONG-IL HWANG; KA-Sung Kim; Jung -Woo LEE; OE-TAE KIM; Luth(Kyung-Won) =
+CHOI; Gi-Hyun KWON; SH(Seung-Hun) OH; C. W. LEE; Young HONG; Seon-Ju BAEK
+Subject: RE: [AAZ-HNMX0006E] Regarding HNMX SYD Sked
+
+Dear Su Leng ,
+
+Sked updated .
+
+Thanks
+
+Best Regards
+
+Ong Kok Siong
+S East / West Asia RHQ Vessel Operations.
+Email : Ksong@sg.hanjin.com<mailto:Ksong@sg.hanjin.com>
+Did     : (65) 63735198
+Fax     :(65) 62222676
+Hp      :(65) 84888926
+
+________________________________
+From : "Su Leng SEET" <slseet@sg.hanjin.com<mailto:slseet@sg.hanjin.com>>
+Sent : 2013-11-20 15:05:05 ( +08:00 )
+To : Keng Chuan Lee <kclee@sg.hanjin.com<mailto:kclee@sg.hanjin.com>>, BYEO=
+NG IL MO <bimo@hanjin.com<mailto:bimo@hanjin.com>>, Gracie CHEN <wmchen@sg.=
+hanjin.com<mailto:wmchen@sg.hanjin.com>>, WANG GHIM JASON CHIA <wgchia@sg.h=
+anjin.com<mailto:wgchia@sg.hanjin.com>>, Kyong-Sik PARK <ksikpark@hanjin.co=
+m<mailto:ksikpark@hanjin.com>>, KOK SIONG ONG <ksong@sg.hanjin.com<mailto:k=
+song@sg.hanjin.com>>, ROHAIZAD ISMAIL MOHAMAD <rohaizad@sg.hanjin.com<mailt=
+o:rohaizad@sg.hanjin.com>>
+Cc : DONG-IL HWANG <dihwang@hanjin.com<mailto:dihwang@hanjin.com>>, KA-Sung=
+ Kim <kks@hanjin.com<mailto:kks@hanjin.com>>, Jung -Woo LEE <jwlee1@hanjin.=
+com<mailto:jwlee1@hanjin.com>>, OE-TAE KIM <otkim@hanjin.com<mailto:otkim@h=
+anjin.com>>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanj=
+in.com>>, Gi-Hyun KWON <khkwon@hanjin.com<mailto:khkwon@hanjin.com>>, SH(Se=
+ung-Hun) OH <shoh@hanjin.com<mailto:shoh@hanjin.com>>, C. W. LEE <cwleea@ha=
+njin.com<mailto:cwleea@hanjin.com>>, Young HONG <yhong@hanjin.com<mailto:yh=
+ong@hanjin.com>>, Seon-Ju BAEK <sjbaek@hanjin.com<mailto:sjbaek@hanjin.com>=
+>
+Subject : RE: [AAZ-HNMX0006E] Regarding HNMX SYD Sked
+To: WOG/WSG
+Cc: CTY/COV
+Fm: CTS
+
+Note that HJS has declared SYD omission on AAZ/HNMX0006E and classified und=
+er FM.
+
+We can prioritise BNE cargoes on AAZ service and transfer SYD cargoes onto =
+AUS.
+
+Kindly arrange accordingly.
+
+
+To: WOG
+
+Kindly update sked accordingly.
+
+
+
+Best Regards,
+CTS/Su Leng
+
+________________________________
+From : "Keng Chuan Lee" <kclee@sg.hanjin.com<mailto:kclee@sg.hanjin.com>>
+Sent : 2013-11-13 17:20:42 ( +09:00 )
+To : BYEONG IL MO <bimo@hanjin.com<mailto:bimo@hanjin.com>>
+Cc : DONG-IL HWANG <dihwang@hanjin.com<mailto:dihwang@hanjin.com>>, KA-Sung=
+ Kim <kks@hanjin.com<mailto:kks@hanjin.com>>, Jung -Woo LEE <jwlee1@hanjin.=
+com<mailto:jwlee1@hanjin.com>>, OE-TAE KIM <otkim@hanjin.com<mailto:otkim@h=
+anjin.com>>, Su Leng SEET <slseet@sg.hanjin.com<mailto:slseet@sg.hanjin.com=
+>>
+Subject : RE: [AAZ-HNMX0006E] Regarding HNMX SYD Sked
+To : COV
+CC : CTS
+Fm : WOG
+
+Dear Mr BI Mo,
+
+Yr below msg well noted.
+
+SELCTS / Ms Su leng ric , pls advise is it possibe to have the final outcom=
+e with our partners  on this matter within tomorrow in order  for COV to pr=
+epare Drewry sked report ?
+
+Thank you
+B.Rgds
+
+
+--_000_936FC2DE06C0F145AFFCE2311016CA9D2A4A6723kovhgvmchanjinc_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"Lucida Calligraphy";
+	panose-1:3 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Lucida Handwriting";
+	panose-1:3 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"\B9D1\C740 \ACE0\B515";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:black;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-SG" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black">To: All AAZ E/B loading offices<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black">Fr: WSI/Jason<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black">Pls take note that
+</span><span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;">AAZ/HNMX0006E will skip AUSYD.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Pls manage your bkg and divert to AUS if necessary.</spa=
+n><b><span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;=
+color:black"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:black">Best Regards,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:black">WSI/ Jason Chia
+<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:black">Hanjin Shipping (S) Pte Ltd<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:black">PSA Building&nbsp; 460 Alexan=
+dra Road #07-02<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:black">Singapore 119963<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:black">DID : 65-6373-5168<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:black">FAX : 65-6222-7055<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:black">E-mail :
+<a href=3D"mailto:djyu@sg.hanjin.com">wgchia@sg.hanjin.com</a><o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;fo=
+nt-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;"> KOK SIONG ONG
+<br>
+<b>Sent:</b> Wednesday, 20 November, 2013 5:22 PM<br>
+<b>To:</b> Su Leng SEET; Keng Chuan Lee; BYEONG IL MO; Gracie CHEN; WANG GH=
+IM JASON CHIA; Kyong-Sik PARK; ROHAIZAD ISMAIL MOHAMAD<br>
+<b>Cc:</b> DONG-IL HWANG; KA-Sung Kim; Jung -Woo LEE; OE-TAE KIM; Luth(Kyun=
+g-Won) CHOI; Gi-Hyun KWON; SH(Seung-Hun) OH; C. W. LEE; Young HONG; Seon-Ju=
+ BAEK<br>
+<b>Subject:</b> RE: [AAZ-HNMX0006E] Regarding HNMX SYD Sked<o:p></o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div id=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">Dear&nbsp;Su Leng ,<o:p></o:p></span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">Sked updated .
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">Thanks <o:p>
+</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-f=
+amily:&quot;\B9D1\C740 \ACE0\B515&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id=3D"MailSignSent">
+<div id=3D"kaoni_sign1">
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><span style=3D"fon=
+t-family:&quot;Lucida Handwriting&quot;;color:#1F497D">Best
+</span></b><b><span style=3D"font-family:&quot;Lucida Calligraphy&quot;;col=
+or:#1F497D">Regards</span><span style=3D"color:#1F497D"><o:p></o:p></span><=
+/b></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><span style=3D"col=
+or:#1F497D">&nbsp;<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><i><span style=3D"=
+font-family:&quot;Lucida Calligraphy&quot;;color:#1F497D">Ong Kok Siong</sp=
+an></i><span style=3D"color:#1F497D"><o:p></o:p></span></b></p>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><span style=3D"fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#7030A0">S East / W=
+est Asia RHQ Vessel Operations.</span><span style=3D"color:#1F497D"><o:p></=
+o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><span style=3D"fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:red">Email
+</span></b><b><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-serif=
+&quot;;color:#7030A0">: </span>
+</b><b><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;=
+color:#002060"><a href=3D"mailto:Ksong@sg.hanjin.com" target=3D"_blank">Kso=
+ng@sg.hanjin.com</a></span><span style=3D"color:#1F497D"><o:p></o:p></span>=
+</b></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><span style=3D"fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:red">Did&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></b><b><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-serif=
+&quot;;color:#7030A0">: </span>
+</b><b><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;=
+color:lime">(65) 63735198</span><span style=3D"color:#1F497D"><o:p></o:p></=
+span></b></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><span style=3D"fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:red">Fax&nbsp;&nbsp=
+;&nbsp; &nbsp;</span></b><b><span style=3D"font-family:&quot;Arial&quot;,&q=
+uot;sans-serif&quot;;color:#7030A0">:</span></b><b><span style=3D"font-fami=
+ly:&quot;Arial&quot;,&quot;sans-serif&quot;;color:lime">(65)
+ 62222676</span><span style=3D"color:#1F497D"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><b><span style=3D"fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:red">Hp&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style=3D"font-family:&quot;Aria=
+l&quot;,&quot;sans-serif&quot;;color:#8000FF">:</span></b><b><span style=3D=
+"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:lime">(65)
+ 84888926</span><span style=3D"color:#1F497D"><o:p></o:p></span></b></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-family:&quot;Malgun Gothic&quot;,&quot;serif&quot;">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fon=
+t-family:&quot;Malgun Gothic&quot;,&quot;serif&quot;">From :
+</span></b><span style=3D"font-family:&quot;Malgun Gothic&quot;,&quot;serif=
+&quot;">&quot;Su Leng SEET&quot; &lt;<a href=3D"mailto:slseet@sg.hanjin.com=
+">slseet@sg.hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-20 15:05:05 ( &#43;08:00 )<br>
+<b>To : </b>Keng Chuan Lee &lt;<a href=3D"mailto:kclee@sg.hanjin.com">kclee=
+@sg.hanjin.com</a>&gt;, BYEONG IL MO &lt;<a href=3D"mailto:bimo@hanjin.com"=
+>bimo@hanjin.com</a>&gt;, Gracie CHEN &lt;<a href=3D"mailto:wmchen@sg.hanji=
+n.com">wmchen@sg.hanjin.com</a>&gt;, WANG GHIM JASON CHIA
+ &lt;<a href=3D"mailto:wgchia@sg.hanjin.com">wgchia@sg.hanjin.com</a>&gt;, =
+Kyong-Sik PARK &lt;<a href=3D"mailto:ksikpark@hanjin.com">ksikpark@hanjin.c=
+om</a>&gt;, KOK SIONG ONG &lt;<a href=3D"mailto:ksong@sg.hanjin.com">ksong@=
+sg.hanjin.com</a>&gt;, ROHAIZAD ISMAIL MOHAMAD &lt;<a href=3D"mailto:rohaiz=
+ad@sg.hanjin.com">rohaizad@sg.hanjin.com</a>&gt;<br>
+<b>Cc : </b>DONG-IL HWANG &lt;<a href=3D"mailto:dihwang@hanjin.com">dihwang=
+@hanjin.com</a>&gt;, KA-Sung Kim &lt;<a href=3D"mailto:kks@hanjin.com">kks@=
+hanjin.com</a>&gt;, Jung -Woo LEE &lt;<a href=3D"mailto:jwlee1@hanjin.com">=
+jwlee1@hanjin.com</a>&gt;, OE-TAE KIM &lt;<a href=3D"mailto:otkim@hanjin.co=
+m">otkim@hanjin.com</a>&gt;,
+ Luth(Kyung-Won) CHOI &lt;<a href=3D"mailto:luthchoi@hanjin.com">luthchoi@h=
+anjin.com</a>&gt;, Gi-Hyun KWON &lt;<a href=3D"mailto:khkwon@hanjin.com">kh=
+kwon@hanjin.com</a>&gt;, SH(Seung-Hun) OH &lt;<a href=3D"mailto:shoh@hanjin=
+.com">shoh@hanjin.com</a>&gt;, C. W. LEE &lt;<a href=3D"mailto:cwleea@hanji=
+n.com">cwleea@hanjin.com</a>&gt;,
+ Young HONG &lt;<a href=3D"mailto:yhong@hanjin.com">yhong@hanjin.com</a>&gt=
+;, Seon-Ju BAEK &lt;<a href=3D"mailto:sjbaek@hanjin.com">sjbaek@hanjin.com<=
+/a>&gt;<br>
+<b>Subject : </b>RE: [AAZ-HNMX0006E] Regarding HNMX SYD Sked<o:p></o:p></sp=
+an></p>
+</div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">To: WOG/WSG<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Cc: CTY/COV<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Fm: CTS<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Note that HJS has declared SYD omission on AAZ/HNMX0006E=
+ and&nbsp;classified under FM.
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">We can prioritise BNE cargoes on AAZ service and transfe=
+r SYD cargoes onto AUS.
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Kindly arrange accordingly.
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">To: WOG<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Kindly update sked accordingly.
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;"><br>
+<br>
+&nbsp;<o:p></o:p></span></p>
+</div>
+<div id=3D"MailSignSentSent">
+<div id=3D"kaoni_sign1">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Best Regards,
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">CTS/Su Leng<o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-family:&quot;Malgun Gothic&quot;,&quot;serif&quot;">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fon=
+t-family:&quot;Malgun Gothic&quot;,&quot;serif&quot;">From :
+</span></b><span style=3D"font-family:&quot;Malgun Gothic&quot;,&quot;serif=
+&quot;">&quot;Keng Chuan Lee&quot; &lt;<a href=3D"mailto:kclee@sg.hanjin.co=
+m">kclee@sg.hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-13 17:20:42 ( &#43;09:00 )<br>
+<b>To : </b>BYEONG IL MO &lt;<a href=3D"mailto:bimo@hanjin.com">bimo@hanjin=
+.com</a>&gt;<br>
+<b>Cc : </b>DONG-IL HWANG &lt;<a href=3D"mailto:dihwang@hanjin.com">dihwang=
+@hanjin.com</a>&gt;, KA-Sung Kim &lt;<a href=3D"mailto:kks@hanjin.com">kks@=
+hanjin.com</a>&gt;, Jung -Woo LEE &lt;<a href=3D"mailto:jwlee1@hanjin.com">=
+jwlee1@hanjin.com</a>&gt;, OE-TAE KIM &lt;<a href=3D"mailto:otkim@hanjin.co=
+m">otkim@hanjin.com</a>&gt;,
+ Su Leng SEET &lt;<a href=3D"mailto:slseet@sg.hanjin.com">slseet@sg.hanjin.=
+com</a>&gt;<br>
+<b>Subject : </b>RE: [AAZ-HNMX0006E] Regarding HNMX SYD Sked<o:p></o:p></sp=
+an></p>
+</div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">To : COV<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">CC : CTS<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">Fm : WOG<o:p></o:p></span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">Dear Mr BI Mo,<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">Yr below msg well noted.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">SELCTS / Ms Su leng ric , pls advise is it possibe&nbsp;to have t=
+he&nbsp;final outcome with our partners &nbsp;on this matter within tomorro=
+w in order &nbsp;for COV to prepare Drewry sked report ?<o:p></o:p></span><=
+/p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;\B9D1\C740 \ACE0\B5=
+15&quot;">Thank you<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-f=
+amily:&quot;\B9D1\C740 \ACE0\B515&quot;">B.Rgds<o:p></o:p></span></p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<div id=3D"ezFormProc_div">
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><o:p>&nbsp;</o:p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_936FC2DE06C0F145AFFCE2311016CA9D2A4A6723kovhgvmchanjinc_--

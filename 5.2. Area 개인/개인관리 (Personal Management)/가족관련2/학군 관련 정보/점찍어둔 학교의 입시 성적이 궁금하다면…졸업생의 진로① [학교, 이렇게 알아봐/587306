@@ -1,0 +1,15 @@
+function passAuidToCallBackFn(calllbackFn){
+    var auid = "b015821df80da697-3ffeb3c17edc479636-29fc";
+    calllbackFn(auid);
+}
+
+function retrieveMobonAuidAndIpInfo() {
+    var auId = "b015821df80da697-3ffeb3c17edc479636-29fc";
+    var ipInfo = "52.79.175.47.2835187";
+    return {auId : auId, ipInfo : ipInfo};
+}
+function retrieveMobonAuidAndUniId() {
+    var auId = "b015821df80da697-3ffeb3c17edc479636-29fc";
+    var uniId = "";
+    return {auId : auId, uniId : uniId};
+}

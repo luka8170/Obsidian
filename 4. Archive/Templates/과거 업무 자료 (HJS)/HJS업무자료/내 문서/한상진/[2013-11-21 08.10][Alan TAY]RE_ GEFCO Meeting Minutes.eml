@@ -1,0 +1,1044 @@
+Received: from KOVHGVMC.hanjin.com ([203.246.154.18]) by kovhhvmd.hanjin.com
+ ([203.246.154.26]) with mapi id 14.03.0123.003; Thu, 21 Nov 2013 09:10:08
+ +0900
+From: Alan TAY <alantay@sg.hanjin.com>
+To: David Malbos <david@hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>,
+	Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>,
+	SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>,
+	"Daisy(Ji-Kyong) BHANG" <jkbhang@hanjin.com>, "TH(Tae-Hoon) AN"
+	<than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM
+	<kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, "Lloyd(Woosik) Yang"
+	<shakin@hanjin.com>, "Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>, Gracie
+ CHEN <wmchen@sg.hanjin.com>, "JH(Jin-Ha) LEE" <jinhalee@hanjin.com>, Byung-Ro
+ YOO <bryoo1@hanjin.com>, "Chris(Seonmyung) Kim" <kimsm@hanjin.com>,
+	"Sylvia(He-Jung) KIM" <sylvia_k@hanjin.com>, Chil-Ho KIM
+	<chilhkim@hanjin.com>, Bae-Young SUH <bysuh@hanjin.com>, Jeong-Jae CHOI
+	<jjchoi@hanjin.com>, "Jessie(Ji-Soo) YOON" <jessyoon@hanjin.com>, "Bak Teng
+ (Alvin) YEO" <btyeo@sg.hanjin.com>, "Philip(Ee Hang) LOH"
+	<ehloh@sg.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK
+	<ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG
+	<joseph.ng@sg.hanjin.com>, Jess YAM <kyyam@sg.hanjin.com>, "Kooks(Kook-Shin)
+ KIM" <kookskim@hanjin.com>, "Ara(A-RA) CHO" <archo@hanjin.com>, "Dirk RIEDEL
+  (USE)" <dirk.riedel@de.hanjin.com>, Bettina BAHLKE
+	<bettina.bahlke@de.hanjin.com>, Nico DENCKER <nico.dencker@de.hanjin.com>,
+	"Gordon VALENTINER  (USW)" <gordon.valentiner@de.hanjin.com>, Louisa KLIETZ
+	<louisa.klietz@de.hanjin.com>, Lars JANSSEN <lars.janssen@de.hanjin.com>,
+	Tapio SORGENFREI <tapio.sorgenfrei@de.hanjin.com>, Ludmilla WIST
+	<ludmilla.wist@de.hanjin.com>, Tanja NOMMENSEN
+	<tanja.nommensen@de.hanjin.com>, Tobias HEIFLER
+	<tobias.heifler@de.hanjin.com>, "Ole JOHANNSEN  (USA)"
+	<ole.johannsen@de.hanjin.com>, Anja SERKE <anja.serke@de.hanjin.com>, Jesse
+ Turner <jesse.turner@de.hanjin.com>, Patrick WON <patrick.won@de.hanjin.com>,
+	Pyo NA <pyona@hanjin.com>, "Frank A. KELLER" <frank.keller@de.hanjin.com>,
+	Jung-Mo KOO <jmkoo@hanjin.com>, Young-Wook CHOI <ywchoi@hanjin.com>, Rob VAN
+ DEN EIJNDEN <rob.van.den.eijnden@nl.hanjin.com>, Sang-Yeol YU
+	<syyu@hanjin.com>, "BS(Bo-Sung) KIM" <bsukim@hanjin.com>, Jean-Pascal BIDOIRE
+	<jean.pascal.bidoire@fr.hanjin.com>, Didier JEAN <didier.jean@fr.hanjin.com>,
+	"G. PEQUEREL" <ghislaine.pequerel@fr.hanjin.com>, Yun-Ho FRERE
+	<yun-ho.frere@fr.hanjin.com>, "SW(Sang-Woo) JEON" <swjeon@hanjin.com>, Petr
+ KRONDAK <petr.krondak@cz.hanjin.com>, "JW(Jong-Wook) PARK"
+	<jupark@hanjin.com>, Gyorgy ERDOSI <gyorgy.erdosi@hu.hanjin.com>, Hun-Young
+ LEE <hylee1@hanjin.com>, Alina MACH <alina.mach@pl.hanjin.com>, Dong-Hyeob
+ SHIM <dhshim@hanjin.com>, Chanso EAP <eap@hanjinspain.com>, Miguel CORBELLA
+	<corbella@hanjinspain.com>, In-Do BAIK <idbaik@hanjin.com>, Han-Seo MOH
+	<angelo@hanjin.com>, Roberto RIZZO <rrizzo@hanjinitaly.com>, Pietro MOLINARI
+	<pmolinari@hanjinitaly.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Hyun-Sup SHIN
+	<hsshin@hanjin.com>, Dongsoo AHN <dsahn@hanjin.com>, Yong-Hwa JUN
+	<yongma27@hanjin.com>, Ki-up KIM <kimkiup@hanjin.com>, Kyung-Su SIN
+	<kssin@hanjin.com>, "Lucy(Ji-Young) Rhee" <lucyrhee@hanjin.com>, Sang-Hyeob
+ YEO <ysh517@hanjin.com>, Chul-Wan PARK <jcpark@hanjin.com>, Joo-Won Lee
+	<lejo@hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>, Sung-Woo LEE
+	<sungwlee@hanjin.com>, Ho-Young KIM <hykim1@hanjin.com>, Adarsh Chawla
+	<adarsh@ae.hanjin.com>, Ani John <ani.john@ae.hanjin.com>, Jolly Viju
+	<jolly@ae.hanjin.com>, Senthil KUMAR <senthil@ae.hanjin.com>, Surya Chandra
+	<surya.c@sharafiraq.com>, Ashar Iqbal <mgmt.mazand@mazandarya.com>
+CC: "Marcus C. FIELD" <marcus.field@de.hanjin.com>, Gabriele SCHERNER
+	<gabriele.scherner@de.hanjin.com>, Rob DURENKAMP
+	<rob.durenkamp@nl.hanjin.com>, Dirk-Carsten Wiegers
+	<dirk.wiegers@de.hanjin.com>, Marko Sevke <marko.sevke@de.hanjin.com>, Soja
+ BONG <soja.bong@de.hanjin.com>, Jana Fuhrhop <jana.fuhrhop@de.hanjin.com>,
+	Michael Stein <michael.stein@de.hanjin.com>, Denis Helmke
+	<denis.helmke@de.hanjin.com>
+Subject: RE: GEFCO Meeting Minutes
+Thread-Topic: GEFCO Meeting Minutes
+Thread-Index: AQHO5fq4pbJ9t5k8t0yjyfI74NrV4pouz8JM
+Disposition-Notification-To: Alan TAY <alantay@sg.hanjin.com>
+Date: Thu, 21 Nov 2013 09:10:07 +0900
+Message-ID: <9CABD9E4FFEA04498F7943499B5805752A44FE84@kovhgvmc.hanjin.com>
+References: <710BB4023378054AA3E8AEF34195732404508A@eow380e.hanjin.com>
+In-Reply-To: <710BB4023378054AA3E8AEF34195732404508A@eow380e.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: kovhhvmd.hanjin.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.246.154.253]
+Content-Type: multipart/mixed;
+	boundary="_004_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_"
+MIME-Version: 1.0
+
+--_004_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_
+Content-Type: multipart/alternative;
+	boundary="_000_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_"
+
+--_000_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_
+Content-Type: text/plain; charset="us-ascii"
+
+Copy DEMMES
+
+
+________________________________
+From : "David Malbos" <david@hanjin.com>
+Sent : 2013-11-20 22:14:50 ( +08:00 )
+To : MD(Myung-Deok) CHO <mdcho@hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com>, TH(Tae-Hoon) AN <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, Lloyd(Woosik) Yang <shakin@hanjin.com>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com>, Gracie CHEN <wmchen@sg.hanjin.com>, JH(Jin-Ha) LEE <jinhalee@hanjin.com>, Byung-Ro YOO <bryoo1@hanjin.com>, Chris(Seonmyung) Kim <kimsm@hanjin.com>, Sylvia(He-Jung) KIM <sylvia_k@hanjin.com>, Chil-Ho KIM <chilhkim@hanjin.com>, Bae-Young SUH <bysuh@hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>, Jessie(Ji-Soo) YOON <jessyoon@hanjin.com>, Alan TAY <alantay@sg.hanjin.com>, Bak Teng (Alvin) YEO <btyeo@sg.hanjin.com>, Philip(Ee Hang) LOH <ehloh@sg.hanjin.com>, Hong-Kyoo LEE <hklee@hanjin.com>, Kyong-Sik PARK <ksikpark@hanjin.com>, Jung-Moo LEE <jmleea@hanjin.com>, Joseph NG <joseph.ng@sg.hanjin.com>, Jess YAM <kyyam@sg.hanjin.com>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com>, Ara(A-RA) CHO <archo@hanjin.com>, Dirk RIEDEL (USE) <dirk.riedel@de.hanjin.com>, Bettina BAHLKE <bettina.bahlke@de.hanjin.com>, Nico DENCKER <nico.dencker@de.hanjin.com>, Gordon VALENTINER (USW) <gordon.valentiner@de.hanjin.com>, Louisa KLIETZ <louisa.klietz@de.hanjin.com>, Lars JANSSEN <lars.janssen@de.hanjin.com>, Tapio SORGENFREI <tapio.sorgenfrei@de.hanjin.com>, Ludmilla WIST <ludmilla.wist@de.hanjin.com>, Tanja NOMMENSEN <tanja.nommensen@de.hanjin.com>, Tobias HEIFLER <tobias.heifler@de.hanjin.com>, Ole JOHANNSEN (USA) <ole.johannsen@de.hanjin.com>, Anja SERKE <anja.serke@de.hanjin.com>, Jesse Turner <jesse.turner@de.hanjin.com>, Patrick WON <patrick.won@de.hanjin.com>, Pyo NA <pyona@hanjin.com>, Frank A. KELLER <frank.keller@de.hanjin.com>, Jung-Mo KOO <jmkoo@hanjin.com>, Young-Wook CHOI <ywchoi@hanjin.com>, Rob VAN DEN EIJNDEN <rob.van.den.eijnden@nl.hanjin.com>, Sang-Yeol YU <syyu@hanjin.com>, BS(Bo-Sung) KIM <bsukim@hanjin.com>, Jean-Pascal BIDOIRE <jean.pascal.bidoire@fr.hanjin.com>, Didier JEAN <didier.jean@fr.hanjin.com>, G. PEQUEREL <ghislaine.pequerel@fr.hanjin.com>, Yun-Ho FRERE <yun-ho.frere@fr.hanjin.com>, SW(Sang-Woo) JEON <swjeon@hanjin.com>, Petr KRONDAK <petr.krondak@cz.hanjin.com>, JW(Jong-Wook) PARK <jupark@hanjin.com>, Gyorgy ERDOSI <gyorgy.erdosi@hu.hanjin.com>, Hun-Young LEE <hylee1@hanjin.com>, Alina MACH <alina.mach@pl.hanjin.com>, Dong-Hyeob SHIM <dhshim@hanjin.com>, Chanso EAP <eap@hanjinspain.com>, Miguel CORBELLA <corbella@hanjinspain.com>, In-Do BAIK <idbaik@hanjin.com>, Han-Seo MOH <angelo@hanjin.com>, Roberto RIZZO <rrizzo@hanjinitaly.com>, Pietro MOLINARI <pmolinari@hanjinitaly.com>, Deok-Lim CHOI <dlchoi@hanjin.com>, Hyun-Sup SHIN <hsshin@hanjin.com>, Dongsoo AHN <dsahn@hanjin.com>, Yong-Hwa JUN <yongma27@hanjin.com>, Ki-up KIM <kimkiup@hanjin.com>, Kyung-Su SIN <kssin@hanjin.com>, Lucy(Ji-Young) Rhee <lucyrhee@hanjin.com>, Sang-Hyeob YEO <ysh517@hanjin.com>, Chul-Wan PARK <jcpark@hanjin.com>, Joo-Won Lee <lejo@hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>
+Cc : Marcus C. FIELD <marcus.field@de.hanjin.com>, Gabriele SCHERNER <gabriele.scherner@de.hanjin.com>, Rob DURENKAMP <rob.durenkamp@nl.hanjin.com>, Dirk-Carsten Wiegers <dirk.wiegers@de.hanjin.com>, Marko Sevke <marko.sevke@de.hanjin.com>, Soja BONG <soja.bong@de.hanjin.com>, Jana Fuhrhop <jana.fuhrhop@de.hanjin.com>, Michael Stein <michael.stein@de.hanjin.com>, Denis Helmke <denis.helmke@de.hanjin.com>
+Subject : GEFCO Meeting Minutes
+
+
+To: CCM, CCE, WCG, ASG, WSM, ASM, European offices
+Cc: LEHBB
+Fm: UCM
+
+Dear all,
+
+Please find minutes of meeting held at GEFCO H/O in Paris
+
+Setting
+GEFCO H/O, Paris, October 29th 2013
+Participants:
+
+  *   Gefco: Johannes Nanninga, Head of Procurement (Air and Sea)
+  *   Gefco: Philippe Maupin, Ocean Freight Procurement
+  *   HJS: LEHBBG, BBS, BBS/Didier Jean, UCM
+
+
+
+Main Discussion topics
+
+  *   Introduction of new LEHBBG, BBS
+  *   Gefco overview:
+     *   25% owned by PSA (Peugeot Citroen), 75% by Russian Railways (Previously 100% subsidiary of Peugeot)
+     *   Specialized in Automotive Logistics as per previous ownership, they are now heavily diversifying their cargo mixture
+     *   5 business units: Trucking, finished vehicules logistics, Customs/Tax declarations, Wharehousing, Air & Sea Freight
+     *   Main expansion markets to be: Latam, Asia, East Europe (incl. Russia). Weak position in SEA, US, India
+     *   Developing a block train product from China to Eastern Europe
+     *   Currently handling 120,000 TEUs for Ocean
+        *   Latam = 35% of TTL handling vol. mostly out of LEH
+        *   AESW/AESE match back ratio = 100%
+     *   Carrier program: 70% of handle volumes allocated to 10 carriers
+
+
+
+Current Business relation status:
+
+  *   HJS = top carrier on AESW for GEFCO
+  *   Strong relations in France, GEFCO needs to bring the partnership to a more global level as per their growth plans and needs a more global approach with more local contacts
+  *   Procurement to be centralized in Paris and via LEHBB
+
+
+
+Next steps
+
+
+
+  *   As per customer diversification strategy for 2014, it is necessary that each office and region must develop closer ties with the GEFCO local stations. Please find attached the list of Gefco network
+
+
+
+
+Kind Regards,
+
+UCM
+
+
+--_000_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body>
+<div style="FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div id="msgbody">
+<div>Copy DEMMES<br>
+<br>
+<div id="MailSignSent"></div>
+<br>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex="-1">
+<b>From : </b>&quot;David Malbos&quot; &lt;david@hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-20 22:14:50 ( &#43;08:00 )<br>
+<b>To : </b>MD(Myung-Deok) CHO &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, Nam-Hoon BAIK &lt;hunt72@hanjin.com&gt;, SUK-HWAN JUNG &lt;ch021@hanjin.com&gt;, Woojung Kim &lt;wjkim@hanjin.com&gt;, Daisy(Ji-Kyong) BHANG &lt;jkbhang@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;,
+ Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, Yoo-Kyung KIM &lt;kimyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;, Lloyd(Woosik) Yang &lt;shakin@hanjin.com&gt;, Luth(Kyung-Won) CHOI &lt;luthchoi@hanjin.com&gt;, Gracie CHEN &lt;wmchen@sg.hanjin.com&gt;, JH(Jin-Ha) LEE &lt;jinhalee@hanjin.com&gt;, Byung-Ro
+ YOO &lt;bryoo1@hanjin.com&gt;, Chris(Seonmyung) Kim &lt;kimsm@hanjin.com&gt;, Sylvia(He-Jung) KIM &lt;sylvia_k@hanjin.com&gt;, Chil-Ho KIM &lt;chilhkim@hanjin.com&gt;, Bae-Young SUH &lt;bysuh@hanjin.com&gt;, Jeong-Jae CHOI &lt;jjchoi@hanjin.com&gt;, Jessie(Ji-Soo) YOON &lt;jessyoon@hanjin.com&gt;,
+ Alan TAY &lt;alantay@sg.hanjin.com&gt;, Bak Teng (Alvin) YEO &lt;btyeo@sg.hanjin.com&gt;, Philip(Ee Hang) LOH &lt;ehloh@sg.hanjin.com&gt;, Hong-Kyoo LEE &lt;hklee@hanjin.com&gt;, Kyong-Sik PARK &lt;ksikpark@hanjin.com&gt;, Jung-Moo LEE &lt;jmleea@hanjin.com&gt;, Joseph NG &lt;joseph.ng@sg.hanjin.com&gt;,
+ Jess YAM &lt;kyyam@sg.hanjin.com&gt;, Kooks(Kook-Shin) KIM &lt;kookskim@hanjin.com&gt;, Ara(A-RA) CHO &lt;archo@hanjin.com&gt;, Dirk RIEDEL (USE) &lt;dirk.riedel@de.hanjin.com&gt;, Bettina BAHLKE &lt;bettina.bahlke@de.hanjin.com&gt;, Nico DENCKER &lt;nico.dencker@de.hanjin.com&gt;, Gordon VALENTINER
+ (USW) &lt;gordon.valentiner@de.hanjin.com&gt;, Louisa KLIETZ &lt;louisa.klietz@de.hanjin.com&gt;, Lars JANSSEN &lt;lars.janssen@de.hanjin.com&gt;, Tapio SORGENFREI &lt;tapio.sorgenfrei@de.hanjin.com&gt;, Ludmilla WIST &lt;ludmilla.wist@de.hanjin.com&gt;, Tanja NOMMENSEN &lt;tanja.nommensen@de.hanjin.com&gt;,
+ Tobias HEIFLER &lt;tobias.heifler@de.hanjin.com&gt;, Ole JOHANNSEN (USA) &lt;ole.johannsen@de.hanjin.com&gt;, Anja SERKE &lt;anja.serke@de.hanjin.com&gt;, Jesse Turner &lt;jesse.turner@de.hanjin.com&gt;, Patrick WON &lt;patrick.won@de.hanjin.com&gt;, Pyo NA &lt;pyona@hanjin.com&gt;, Frank A.
+ KELLER &lt;frank.keller@de.hanjin.com&gt;, Jung-Mo KOO &lt;jmkoo@hanjin.com&gt;, Young-Wook CHOI &lt;ywchoi@hanjin.com&gt;, Rob VAN DEN EIJNDEN &lt;rob.van.den.eijnden@nl.hanjin.com&gt;, Sang-Yeol YU &lt;syyu@hanjin.com&gt;, BS(Bo-Sung) KIM &lt;bsukim@hanjin.com&gt;, Jean-Pascal BIDOIRE &lt;jean.pascal.bidoire@fr.hanjin.com&gt;,
+ Didier JEAN &lt;didier.jean@fr.hanjin.com&gt;, G. PEQUEREL &lt;ghislaine.pequerel@fr.hanjin.com&gt;, Yun-Ho FRERE &lt;yun-ho.frere@fr.hanjin.com&gt;, SW(Sang-Woo) JEON &lt;swjeon@hanjin.com&gt;, Petr KRONDAK &lt;petr.krondak@cz.hanjin.com&gt;, JW(Jong-Wook) PARK &lt;jupark@hanjin.com&gt;, Gyorgy
+ ERDOSI &lt;gyorgy.erdosi@hu.hanjin.com&gt;, Hun-Young LEE &lt;hylee1@hanjin.com&gt;, Alina MACH &lt;alina.mach@pl.hanjin.com&gt;, Dong-Hyeob SHIM &lt;dhshim@hanjin.com&gt;, Chanso EAP &lt;eap@hanjinspain.com&gt;, Miguel CORBELLA &lt;corbella@hanjinspain.com&gt;, In-Do BAIK &lt;idbaik@hanjin.com&gt;,
+ Han-Seo MOH &lt;angelo@hanjin.com&gt;, Roberto RIZZO &lt;rrizzo@hanjinitaly.com&gt;, Pietro MOLINARI &lt;pmolinari@hanjinitaly.com&gt;, Deok-Lim CHOI &lt;dlchoi@hanjin.com&gt;, Hyun-Sup SHIN &lt;hsshin@hanjin.com&gt;, Dongsoo AHN &lt;dsahn@hanjin.com&gt;, Yong-Hwa JUN &lt;yongma27@hanjin.com&gt;,
+ Ki-up KIM &lt;kimkiup@hanjin.com&gt;, Kyung-Su SIN &lt;kssin@hanjin.com&gt;, Lucy(Ji-Young) Rhee &lt;lucyrhee@hanjin.com&gt;, Sang-Hyeob YEO &lt;ysh517@hanjin.com&gt;, Chul-Wan PARK &lt;jcpark@hanjin.com&gt;, Joo-Won Lee &lt;lejo@hanjin.com&gt;, Andrew Hou &lt;andrew@cn.hanjin.com&gt;<br>
+<b>Cc : </b>Marcus C. FIELD &lt;marcus.field@de.hanjin.com&gt;, Gabriele SCHERNER &lt;gabriele.scherner@de.hanjin.com&gt;, Rob DURENKAMP &lt;rob.durenkamp@nl.hanjin.com&gt;, Dirk-Carsten Wiegers &lt;dirk.wiegers@de.hanjin.com&gt;, Marko Sevke &lt;marko.sevke@de.hanjin.com&gt;, Soja BONG
+ &lt;soja.bong@de.hanjin.com&gt;, Jana Fuhrhop &lt;jana.fuhrhop@de.hanjin.com&gt;, Michael Stein &lt;michael.stein@de.hanjin.com&gt;, Denis Helmke &lt;denis.helmke@de.hanjin.com&gt;<br>
+<b>Subject : </b>GEFCO Meeting Minutes<br>
+<br>
+</div>
+<div style="FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<div style="FONT-FAMILY: Calibri; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>
+<div><br>
+<div id="ORGMAIL_CONTENT">
+<div style="FONT-FAMILY: Calibri; FONT-SIZE: 12pt" id="ezFormProc_div">
+<div>To: CCM, CCE, WCG, ASG, WSM, ASM, European offices</div>
+<div>Cc: LEHBB</div>
+<div>Fm: UCM</div>
+<div>&nbsp;</div>
+<div>Dear all,</div>
+<div>
+<div>&nbsp;</div>
+<div>Please find minutes of meeting held at&nbsp;GEFCO H/O in Paris</div>
+<div>&nbsp;</div>
+<div><strong>Setting</strong></div>
+<div>GEFCO H/O, Paris, October 29th 2013</div>
+<div>Participants: </div>
+<div>
+<ul>
+<li>Gefco: Johannes Nanninga, Head of Procurement (Air and Sea) </li><li>Gefco: Philippe Maupin, Ocean Freight Procurement </li><li>HJS: LEHBBG, BBS, BBS/Didier Jean, UCM</li></ul>
+</div>
+<p>&nbsp;</p>
+<p><strong>Main Discussion topics</strong></p>
+<div>
+<ul>
+<li>Introduction of new LEHBBG, BBS </li><li>Gefco overview:
+<ul>
+<li>25% owned by PSA (Peugeot Citroen), 75% by Russian Railways (Previously 100% subsidiary of Peugeot)
+</li><li>Specialized in Automotive Logistics as per previous ownership, they are now heavily diversifying their cargo mixture
+</li><li>5 business units: Trucking, finished vehicules logistics, Customs/Tax declarations, Wharehousing, Air &amp; Sea Freight
+</li><li>Main expansion markets to be: Latam, Asia,&nbsp;East Europe (incl. Russia). Weak position in SEA, US, India
+</li><li>Developing a block train product from China to Eastern Europe </li><li>Currently handling 120,000 TEUs for Ocean
+<ul>
+<li>Latam = 35% of TTL handling vol. mostly out of LEH </li><li>AESW/AESE match back ratio = 100%</li></ul>
+</li><li>Carrier program: 70% of handle volumes allocated to 10 carriers</li></ul>
+</li></ul>
+</div>
+<p>&nbsp;</p>
+<p><strong>Current Business relation status:</strong></p>
+<ul>
+<li>HJS = top carrier on AESW for GEFCO </li><li>Strong relations in France, <strong>GEFCO needs to bring the partnership to a more global level</strong> as per their growth plans and needs a more global approach with
+<strong><u>more local contacts</u></strong> </li><li>Procurement to be centralized in Paris and via LEHBB</li></ul>
+<p>&nbsp;</p>
+<p><strong>Next steps</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>As per customer diversification strategy for 2014, it is necessary that each office and region must develop closer ties with the GEFCO local stations. Please find attached the list of Gefco network</li></ul>
+<div id="MailSignSentSent">
+<div id="kaoni_sign1">
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Kind Regards,</div>
+<div>&nbsp;</div>
+<div>UCM</div>
+</div>
+</div>
+</div>
+</div>
+<div><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_--
+
+--_004_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_
+Content-Type: application/vnd.ms-excel; name="OVS MANAGER.xls"
+Content-Description: OVS MANAGER.xls
+Content-Disposition: attachment; filename="OVS MANAGER.xls"; size=43586;
+	creation-date="Thu, 21 Nov 2013 00:10:04 GMT";
+	modification-date="Thu, 21 Nov 2013 00:10:04 GMT"
+Content-Transfer-Encoding: base64
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA
+EAAAUAAAAAEAAAD+////AAAAAAAAAAD/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////9
+////UwAAAAMAAAAEAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAADgAAAA8A
+AAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAcAAAAHQAA
+AB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAAACcAAAAoAAAAKQAAACoAAAArAAAA
+LAAAAC0AAAAuAAAALwAAADAAAAAxAAAAMgAAADMAAAA0AAAANQAAADYAAAA3AAAAOAAAADkAAAA6
+AAAAOwAAADwAAAA9AAAAPgAAAD8AAABAAAAAQQAAAEIAAABDAAAARAAAAEUAAABGAAAARwAAAEgA
+AABJAAAASgAAAEsAAABMAAAATQAAAE4AAABPAAAA/v////7///9SAAAA/v////7/////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAWAAUA//////////8CAAAAIAgCAAAAAADAAAAAAAAARgAAAAAAAAAAAAAAANDYNbhN5s4B
+UQAAAMACAAAAAAAAVwBvAHIAawBiAG8AbwBrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAABIAAgEEAAAA//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAACAAAA25oAAAAAAAAFAFMAdQBtAG0AYQByAHkASQBuAGYAbwByAG0AYQB0
+AGkAbwBuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAACAQEAAAADAAAA/////wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMAAAAAAAAAAUARABvAGMAdQBtAGUAbgB0
+AFMAdQBtAG0AYQByAHkASQBuAGYAbwByAG0AYQB0AGkAbwBuAAAAAAAAAAAAAAA4AAIB////////
+////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAwBAAAAAAAACQgQ
+AAAGBQCrH80HyQABAAYEAADhAAIAsATBAAIAAADiAAAAXABwAAMAAEhKUyAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCAAIAsARhAQIAAADAAQAAPQEGAAEA
+AgADAJwAAgAQABkAAgAAABIAAgAAABMAAgAAAK8BAgAAALwBAgAAAD0AEgDwAFoAbAyJHDgAAAAA
+AAEAWAJAAAIAAACNAAIAAAAiAAIAAAAOAAIAAQC3AQIAAADaAAIAAAAxAB4A3AAAAAgAkAEAAAAC
+AJoHAUMAYQBsAGkAYgByAGkAMQAeANwAAAAIAJABAAAAAgCaBwFDAGEAbABpAGIAcgBpADEAHgDc
+AAAACACQAQAAAAIAmgcBQwBhAGwAaQBiAHIAaQAxAB4A3AAAAAgAkAEAAAACAJoHAUMAYQBsAGkA
+YgByAGkAMQAeANwAAAAIAJABAAAAAgCaBwFDAGEAbABpAGIAcgBpADEAHgDcAAAACQCQAQAAAAIA
+mgcBQwBhAGwAaQBiAHIAaQAxAB4A3AAAAAoAkAEAAAACAJoHAUMAYQBsAGkAYgByAGkAMQAeANwA
+AQA0ALwCAAAAAgCaBwFDAGEAbABpAGIAcgBpADEAHgDcAAAANACQAQAAAAIAmgcBQwBhAGwAaQBi
+AHIAaQAxAB4A3AAAAD4AkAEAAAACAJoHAUMAYQBsAGkAYgByAGkAMQAeANwAAAAUAJABAAAAAgCa
+BwFDAGEAbABpAGIAcgBpADEAHgDcAAAAPACQAQAAAAIAmgcBQwBhAGwAaQBiAHIAaQAxAB4A3AAA
+ABEAkAEAAAACAJoHAUMAYQBsAGkAYgByAGkAMQAeANwAAQA/ALwCAAAAAgCaBwFDAGEAbABpAGIA
+cgBpADEAHgDcAAIAFwCQAQAAAAIAmgcBQwBhAGwAaQBiAHIAaQAxAB4AaAEBADgAvAIAAAACAJoH
+AUMAYQBtAGIAcgBpAGEAMQAeACwBAQA4ALwCAAAAAgCaBwFDAGEAbABpAGIAcgBpADEAHgAEAQEA
+OAC8AgAAAAIAmgcBQwBhAGwAaQBiAHIAaQAxAB4A3AABADgAvAIAAAACAJoHAUMAYQBsAGkAYgBy
+AGkAMQAeANwAAQAIALwCAAAAAgCaBwFDAGEAbABpAGIAcgBpADEAHgDcAAEACQC8AgAAAAIAmgcB
+QwBhAGwAaQBiAHIAaQAxAB4A3AAAAAgAkAEAAAACAJoHAUMAYQBsAGkAYgByAGkAMQAeANwAAAAJ
+AJABAAAAAgCaBwFDAGEAbABpAGIAcgBpADEAHgDcAAEACQC8AgAAAAIAmgcBQwBhAGwAaQBiAHIA
+aQAeBBwABQAXAAAiJCIjLCMjMF8pO1woIiQiIywjIzBcKR4EIQAGABwAACIkIiMsIyMwXyk7W1Jl
+ZF1cKCIkIiMsIyMwXCkeBCIABwAdAAAiJCIjLCMjMC4wMF8pO1woIiQiIywjIzAuMDBcKR4EJwAI
+ACIAACIkIiMsIyMwLjAwXyk7W1JlZF1cKCIkIiMsIyMwLjAwXCkeBDcAKgAyAABfKCIkIiogIywj
+IzBfKTtfKCIkIiogXCgjLCMjMFwpO18oIiQiKiAiLSJfKTtfKEBfKR4ELgApACkAAF8oKiAjLCMj
+MF8pO18oKiBcKCMsIyMwXCk7XygqICItIl8pO18oQF8pHgQ/ACwAOgAAXygiJCIqICMsIyMwLjAw
+Xyk7XygiJCIqIFwoIywjIzAuMDBcKTtfKCIkIiogIi0iPz9fKTtfKEBfKR4ENgArADEAAF8oKiAj
+LCMjMC4wMF8pO18oKiBcKCMsIyMwLjAwXCk7XygqICItIj8/Xyk7XyhAXykeBDMApAAXAAEjACwA
+IwAjADAAXAAgACIArCAiADsAXAAtACMALAAjACMAMABcACAAIgCsICIAHgQ9AKUAHAABIwAsACMA
+IwAwAFwAIAAiAKwgIgA7AFsAUgBlAGQAXQBcAC0AIwAsACMAIwAwAFwAIAAiAKwgIgAeBD8ApgAd
+AAEjACwAIwAjADAALgAwADAAXAAgACIArCAiADsAXAAtACMALAAjACMAMAAuADAAMABcACAAIgCs
+ICIAHgRJAKcAIgABIwAsACMAIwAwAC4AMAAwAFwAIAAiAKwgIgA7AFsAUgBlAGQAXQBcAC0AIwAs
+ACMAIwAwAC4AMAAwAFwAIAAiAKwgIgAeBHEAqAA2AAFfAC0AKgAgACMALAAjACMAMABcACAAIgCs
+ICIAXwAtADsAXAAtACoAIAAjACwAIwAjADAAXAAgACIArCAiAF8ALQA7AF8ALQAqACAAIgAtACIA
+XAAgACIArCAiAF8ALQA7AF8ALQBAAF8ALQAeBGsAqQAzAAFfAC0AKgAgACMALAAjACMAMABcACAA
+XwCsIF8ALQA7AFwALQAqACAAIwAsACMAIwAwAFwAIABfAKwgXwAtADsAXwAtACoAIAAiAC0AIgBc
+ACAAXwCsIF8ALQA7AF8ALQBAAF8ALQAeBIEAqgA+AAFfAC0AKgAgACMALAAjACMAMAAuADAAMABc
+ACAAIgCsICIAXwAtADsAXAAtACoAIAAjACwAIwAjADAALgAwADAAXAAgACIArCAiAF8ALQA7AF8A
+LQAqACAAIgAtACIAPwA/AFwAIAAiAKwgIgBfAC0AOwBfAC0AQABfAC0AHgR7AKsAOwABXwAtACoA
+IAAjACwAIwAjADAALgAwADAAXAAgAF8ArCBfAC0AOwBcAC0AKgAgACMALAAjACMAMAAuADAAMABc
+ACAAXwCsIF8ALQA7AF8ALQAqACAAIgAtACIAPwA/AFwAIABfAKwgXwAtADsAXwAtAEAAXwAtAB4E
+GQCsABQAACJWcmFpIjsiVnJhaSI7IkZhdXgiHgQeAK0AGQAAIkFjdGlmIjsiQWN0aWYiOyJJbmFj
+dGlmIh4EXQCuACwAAVsAJACsIC0AMgBdAFwAIAAjACwAIwAjADAALgAwADAAXwApADsAWwBSAGUA
+ZABdAFwAKABbACQArCAtADIAXQBcACAAIwAsACMAIwAwAC4AMAAwAFwAKQDgABQAAAAAAPX/IAAA
+AAAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAA
+wCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAA
+APX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAA
+AAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDg
+ABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/
+IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAAAAAAwCDgABQABQAAAPX/IAAA9AAAAAAA
+AAAAwCDgABQAAAAAAAEAIAAAAAAAAAAAAAACwCDgABQABQAAAPX/IAAAtAAAAAAAAAAEnyDgABQA
+BQAAAPX/IAAAtAAAAAAAAAAErSDgABQABQAAAPX/IAAAtAAAAAAAAAAEqiDgABQABQAAAPX/IAAA
+tAAAAAAAAAAEriDgABQABQAAAPX/IAAAtAAAAAAAAAAEmyDgABQABQAAAPX/IAAAtAAAAAAAAAAE
+ryDgABQABQAAAPX/IAAAtAAAAAAAAAAErCDgABQABQAAAPX/IAAAtAAAAAAAAAAEnSDgABQABQAA
+APX/IAAAtAAAAAAAAAAEiyDgABQABQAAAPX/IAAAtAAAAAAAAAAEriDgABQABQAAAPX/IAAAtAAA
+AAAAAAAErCDgABQABQAAAPX/IAAAtAAAAAAAAAAEsyDgABQABgAAAPX/IAAAtAAAAAAAAAAEniDg
+ABQABgAAAPX/IAAAtAAAAAAAAAAEnSDgABQABgAAAPX/IAAAtAAAAAAAAAAEiyDgABQABgAAAPX/
+IAAAtAAAAAAAAAAEpCDgABQABgAAAPX/IAAAtAAAAAAAAAAEsSDgABQABgAAAPX/IAAAtAAAAAAA
+AAAEtCDgABQABgAAAPX/IAAAtAAAAAAAAAAEviDgABQABgAAAPX/IAAAtAAAAAAAAAAEiiDgABQA
+BgAAAPX/IAAAtAAAAAAAAAAEuSDgABQABgAAAPX/IAAAtAAAAAAAAAAEpCDgABQABgAAAPX/IAAA
+tAAAAAAAAAAEsSDgABQABgAAAPX/IAAAtAAAAAAAAAAEtSDgABQACwAAAPX/IAAAtAAAAAAAAAAE
+rSDgABQACAAAAPX/IAAAlBERlwuXCwAEliDgABQAFQAAAPX/IAAAlGZmvx+/HwAEtyDgABQABQCr
+APX/IAAA+AAAAAAAAAAAwCDgABQABQCpAPX/IAAA+AAAAAAAAAAAwCDgABQABQCqAPX/IAAA+AAA
+AAAAAAAAwCDgABQABQCoAPX/IAAA+AAAAAAAAAAAwCDgABQADwAAAPX/IAAA9AAAAAAAAAAAwCDg
+ABQADQAAAPX/IAAAtAAAAAAAAAAEqiDgABQAEQAAAPX/IAAA1ABQAAAAHwAAwCDgABQAEgAAAPX/
+IAAA1ABQAAAACwAAwCDgABQAEwAAAPX/IAAA1AAgAAAADwAAwCDgABQAEwAAAPX/IAAA9AAAAAAA
+AAAAwCDgABQACgAAAPX/IAAAlBERlwuXCwAEryDgABQACQAAAPX/IAAA1ABgAAAAGgAAwCDgABQA
+DAAAAPX/IAAAtAAAAAAAAAAEqyDgABQABQAAAPX/IAAAnBERFgsWCwAEmiDgABQADgAAAPX/IAAA
+lBERvx+/HwAEliDgABQABQAJAPX/IAAA+AAAAAAAAAAAwCDgABQAEAAAAPX/IAAA9AAAAAAAAAAA
+wCDgABQAFAAAAPX/IAAA1ABhAAA+HwAAwCDgABQABwAAAPX/IAAA9AAAAAAAAAAAwCDgABQAFgAA
+AAEAIAAACAAAAAAAAAACwCDgABQAFgAAAAEAIQAAGAAAAAAAAAACwCDgABQAFgAAAAEAIQAAOAAR
+AACfDwACwCDgABQAFgAAAAEAIAAAKAARAACfDwACwCDgABQAFwAAAAEAIAAAaAAQAACADwAGPh/g
+ABQAFwAAAAEAIQAAeAAQAACADwAGPh/gABQAFwAAAAEAIAAAaAAQAACADwAGHg/gABQAFgAAAAEA
+IAAAaAAQAAAAHwAGnw/gABQAFgAAAAEAIAAAKAAQAACADwACwCDgABQAGAAAAAEAIAAAaAAQAACA
+DwAGHg/gABQAFwAAAAEAIAAAaAAQAAAADwAGHg98CBQAfAgAAAAAAAAAAAAAAABJAF1Ls2R9CC0A
+fQgAAAAAAAAAAAAAAAAAAAAAAgANABQAAwAAAAEAAAAAMAAwAF8AKQ4ABQACfQgtAH0IAAAAAAAA
+AAAAAAAAAQAAAAIADQAUAAMAAAABAAAAADAAMABfACkOAAUAAn0ILQB9CAAAAAAAAAAAAAAAAAIA
+AAACAA0AFAADAAAAAQAAAAAwADAAXwApDgAFAAJ9CC0AfQgAAAAAAAAAAAAAAAADAAAAAgANABQA
+AwAAAAEAAAAAMAAwAF8AKQ4ABQACfQgtAH0IAAAAAAAAAAAAAAAABAAAAAIADQAUAAMAAAABAAAA
+ADAAMABfACkOAAUAAn0ILQB9CAAAAAAAAAAAAAAAAAUAAAACAA0AFAADAAAAAQAAAAAwADAAXwAp
+DgAFAAJ9CC0AfQgAAAAAAAAAAAAAAAAGAAAAAgANABQAAwAAAAEAAAAAMAAwAF8AKQ4ABQACfQgt
+AH0IAAAAAAAAAAAAAAAABwAAAAIADQAUAAMAAAABAAAAADAAMABfACkOAAUAAn0ILQB9CAAAAAAA
+AAAAAAAAAAgAAAACAA0AFAADAAAAAQAAAAAwADAAXwApDgAFAAJ9CC0AfQgAAAAAAAAAAAAAAAAJ
+AAAAAgANABQAAwAAAAEAAAAAMAAwAF8AKQ4ABQACfQgtAH0IAAAAAAAAAAAAAAAACgAAAAIADQAU
+AAMAAAABAAAAADAAMABfACkOAAUAAn0ILQB9CAAAAAAAAAAAAAAAAAsAAAACAA0AFAADAAAAAQAA
+AAAwADAAXwApDgAFAAJ9CC0AfQgAAAAAAAAAAAAAAAAMAAAAAgANABQAAwAAAAEAAAAAMAAwAF8A
+KQ4ABQACfQgtAH0IAAAAAAAAAAAAAAAADQAAAAIADQAUAAMAAAABAAAAADAAMABfACkOAAUAAn0I
+LQB9CAAAAAAAAAAAAAAAAA4AAAACAA0AFAADAAAAAQAAAAAwADAAXwApDgAFAAJ9CC0AfQgAAAAA
+AAAAAAAAAAAPAAAAAgANABQAAwAAAAEAAAAAMAAwAF8AKQ4ABQACfQhBAH0IAAAAAAAAAAAAAAAA
+EAAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAGVmBAAAAFsAJACsIC0AfQhBAH0I
+AAAAAAAAAAAAAAAAEQAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAGVmBQAAAFsA
+JACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAEgAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQA
+FAADAGVmBgAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAEwAAAAMADQAUAAMAAAABAAAAADAA
+MABfACkOAAUAAgQAFAADAGVmBwAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAFAAAAAMADQAU
+AAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAGVmCAAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAA
+AAAAFQAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAGVmCQAAAFsAJACsIC0AfQhB
+AH0IAAAAAAAAAAAAAAAAFgAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAMxMBAAA
+AFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAFwAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUA
+AgQAFAADAMxMBQAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAGAAAAAMADQAUAAMAAAABAAAA
+ADAAMABfACkOAAUAAgQAFAADAMxMBgAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAGQAAAAMA
+DQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAMxMBwAAAFsAJACsIC0AfQhBAH0IAAAAAAAA
+AAAAAAAAGgAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAMxMCAAAAFsAJACsIC0A
+fQhBAH0IAAAAAAAAAAAAAAAAGwAAAAMADQAUAAMAAAABAAAAADAAMABfACkOAAUAAgQAFAADAMxM
+CQAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAHAAAAAMADQAUAAMAAAAAAAAAADAAMABfACkO
+AAUAAgQAFAADADIzBAAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAHQAAAAMADQAUAAMAAAAA
+AAAAADAAMABfACkOAAUAAgQAFAADADIzBQAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAHgAA
+AAMADQAUAAMAAAAAAAAAADAAMABfACkOAAUAAgQAFAADADIzBgAAAFsAJACsIC0AfQhBAH0IAAAA
+AAAAAAAAAAAAHwAAAAMADQAUAAMAAAAAAAAAADAAMABfACkOAAUAAgQAFAADADIzBwAAAFsAJACs
+IC0AfQhBAH0IAAAAAAAAAAAAAAAAIAAAAAMADQAUAAMAAAAAAAAAADAAMABfACkOAAUAAgQAFAAD
+ADIzCAAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAIQAAAAMADQAUAAMAAAAAAAAAADAAMABf
+ACkOAAUAAgQAFAADADIzCQAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAIgAAAAMADQAUAAMA
+AAAAAAAAADAAMABfACkOAAUAAgQAFAADAAAABAAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAA
+IwAAAAMADQAUAAMAAAAAAAAAADAAMABfACkOAAUAAgQAFAADAAAABQAAAFsAJACsIC0AfQhBAH0I
+AAAAAAAAAAAAAAAAJAAAAAMADQAUAAMAAAAAAAAAADAAMABfACkOAAUAAgQAFAADAAAABgAAAFsA
+JACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAJQAAAAMADQAUAAMAAAAAAAAAADAAMABfACkOAAUAAgQA
+FAADAAAABwAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAJgAAAAMADQAUAAMAAAAAAAAAADAA
+MABfACkOAAUAAgQAFAADAAAACAAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAAAAAAJwAAAAMADQAU
+AAMAAAAAAAAAADAAMABfACkOAAUAAgQAFAADAAAACQAAAFsAJACsIC0AfQhBAH0IAAAAAAAAAAAA
+AAAAKAAAAAMADQAUAAIAAACcAAb/ADAAMABfACkOAAUAAgQAFAACAAAA/8fO/1sAJACsIC0AfQiR
+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
+jAAEAAEAAQCuAQQAAwABBBcACAABAAAAAAAAAMEBCADBAQAAHesBAPwAmRHlAAAAxgAAAAgAAEZV
+TkNUSU9OCwAAT1ZTIE1hbmFnZXIEAABBUkVBBwAAQ09VTlRSWREAAE92ZXJzZWFzIFNUQVRJT05T
+BAAATkFNRQMAAFRFTAYAAE1PQklMRQQAAE1BSUwOAAAgTk9SVEggQU1FUklDQQYAAE1FWElDTx0A
+AEhFQUQgT0ZGSUNFIC8gICAgR0VGQ08gTUVYSUNPBgAAKHZpZGUpFAAAVG90YWwgIE5PUlRIIEFN
+RVJJQ0EZAABDRU5UUkFMIEFORCBTT1VUSCBBTUVSSUNBCQAAQVJHRU5USU5BIAAASEVBRCBPRkZJ
+Q0UgLyAgICBHRUZDTyBBUkdFTlRJTkENAABSaWNhcmRvIEFORElBFgAAMDAgNTQgKDExKSA0MCAw
+MCAwNSA5MRkAADAwIDU0ICg5ICkgMTEgNjcgOTggNDAgNTUaAAByaWNhcmRvLmFuZGlhQGdlZmNv
+LmNvbS5hcgYAAEJSQVpJTB0AAEhFQUQgT0ZGSUNFIC8gICAgR0VGQ08gQlJBWklMDQAAS2xhdXMg
+QUZGRUxEVBQAADAwICg1NSAxMSkgMjc1NSA1NTI3FQAAMDAgKDU1IDExKSA5OTk5MiA2MDcyGgAA
+a2xhdXMuYWZmZWxkdEBnZWZjby5jb20uYnIFAABDSElMRRwAAEhFQUQgT0ZGSUNFIC8gICAgR0VG
+Q08gQ0hJTEUPAABEYXBobukgVkFSQUlOTkUUAAAwMCA1NiAoMikgMjU0NCA4NTUzIBMAADAwIDU2
+ICg5KSA3MTQwIDcxMjgYAABkYXBobmUudmFyYWlubmVAZ2VmY28uY2wfAABUb3RhbCBDRU5UUkFM
+IEFORCBTT1VUSCBBTUVSSUNBKAAAQ0VOVFJBTCBBU0lBLCBDRU5UUkFMIEFORCBFQVNURVJOIEVV
+Uk9QRQcAAEFVU1RSSUEmAABIRUFEIE9GRklDRSAvICAgIEdFRkNPIE9zdGVycmVpY2ggR01CSA8A
+AEJsYW5rYSBLVUJBQ09WQRYAADAwIDQzICgwKSA1IDc4OSA3NSAyMjEWAAAwMCA0MyAoMCkgNjY0
+IDg0NCAwNDU1GAAAYmxhbmthLmt1YmFrb3ZhQGdlZmNvLmF0CAAAQlVMR0FSSUEfAABIRUFEIE9G
+RklDRSAvICAgIEdFRkNPIEJVTEdBUklBEgAAVmxhZGltaXIgUEFTSEtVTk9WFQAAMDAgMzU5ICgw
+KSAyOSA2OTQgOTU2FgAAMDAgMzU5ICgwKSA4NzkgMTIzIDMwOBsAAHZsYWRpbWlyLnBhc2hrdW5v
+dkBnZWZjby5iZw4AAENaRUNIIFJFUFVCTElDJwABSABFAEEARAAgAE8ARgBGAEkAQwBFACAALwAg
+ACAAIAAgAEcARQBGAEMATwAgAAwBRQBTAEsAwQAgAFIARQBQAFUAQgBMAEkASwBBACAADAAAUGll
+dHIgWkFPUkFMFgAAMDAgNDIgKDApoDIyNiAyMjIgNzkyIBUAADAwIDQyICgwKaA3MjQgNjA0IDY5
+MxUAAHBldHIuemFvcmFsQGdlZmNvLmN6IAcAAEhVTkdBUlkoAABIRUFEIE9GRklDRSAvICAgIEdF
+RkNPIE1hZ3lhcm9yc3rhZyBLZnQuDgAARmVyZW5jIEtPU1pPUlUOAAAzNiAxoDc2NqAzOSAwOQ8A
+ADM2IDIwIDM2My0xMC02NRcAAGZlcmVuYy5rb3N6b3J1QGdlZmNvLmh1CgAAS0FaQUtIU1RBTh4A
+AEhFQUQgT0ZGSUNFIC8gR0VGQ08gS0FaQUtIU1RBThIAAFBpZXJyZS1KZWFuIE1FTkpPWhQAADAw
+IDcgKDcyNykgMzExIDUzIDY0EgAAMDAgNyA3NzEgNzc5IDU1IDI3HAAAcGllcnJlLWplYW4ubWVu
+am96QGdlZmNvLm5ldAYAAExBVFZJQR0AAEhFQUQgT0ZGSUNFIC8gICAgR0VGQ08gTEFUVklBFQAA
+U3ZlbHRhbmEgQk9MVFJVU0VWSUNBEQAAMDAgMzcgMTY2IDAxMCA5MDIRAAAwMCAzNyAxMjYgNTU3
+IDA5Mx4AAHN2ZWx0YW5hLmJvbHRydXNldmljYUBnZWZjby5sdgYAAFBPTEFORB0AAEhFQUQgT0ZG
+SUNFIC8gICAgR0VGQ08gUE9MQU5EEQABTQBhAHIAdAB5AG4AYQAgAFMAVABBAFMASQBDAVMASwBB
+ABUAADAwIDQ4ICgwKTIyoDUzMSAyMSA4NBEAADAwIDQ4oDUxOCAwMTggMTA3GwAAbWFydHluYS5z
+dGFzaW5za2FAZ2VmY28ubmV0BwAAUk9NQU5JQR4AAEhFQUQgT0ZGSUNFIC8gICAgR0VGQ08gUk9N
+QU5JQQ4AAEJvZGdkYW4gSU9OSVRBEwAAMDAgNDAgMjEgMzAwIDg4IDk1IBIAADAwIDQwIDc0NyA0
+OSA3MSA3OBgAAGJvZ2Rhbi5pb25pdGFAZ2VmY28ubmV0IAYAAFJVU1NJQR0AAEhFQUQgT0ZGSUNF
+IC8gICAgR0VGQ08gUlVTU0lBDQAARXZpamEgUk9CQUxERRYAADAwIDcgKDQ5NSkgOTgxIDMxIDAw
+oCAUAAAwMCA3ICg5NjQpIDc3NCA1MyAxMRcAAGV2aWphLnJvYmFsZGVAZ2VmY28ubmV0CAAAU0xP
+VkFLSUEfAABIRUFEIE9GRklDRSAvICAgIEdFRkNPIFNMT1ZBS0lBDQAASmFuYSBCQUNJS09WQRcA
+ADAwIDQyMSAoMCkyIDMyIDEzIDI5IDMzFAAAMDAgNDIxIDkgMTggODkgNzAgMDkXAABqYW5hLmJh
+Y2lrb3ZhQGdlZmNvLm5ldAgAAFNMT1ZFTklBHwAASEVBRCBPRkZJQ0UgLyAgICBHRUZDTyBTTE9W
+RU5JQQ0AAEFsZW5rYSBTS09SSkESAAAwMCAzOCA2NSA2IDYzOCA3ODcWAABhbGVua2Euc2tvcmph
+QGdlZmNvLnNpBgAAVFVSS0VZMwABSABFAEEARAAgAE8ARgBGAEkAQwBFACAALwAgACAAIAAgAEcA
+RQBGAEMATwAgAFQAYQBfATEBbQBhAGMAMQFsADEBawAgAHYAZQAgAEwAbwBqAGkAcwB0AGkAawAg
+AEEALgBeAS4ACgAAQXZzYXIgREFEQRgAADAwIDkwICgwKTIxNiA1ODEgNTEgMDCgIBQAADAwIDkw
+IDUzIDA0IDYxIDY3IDcxFwAAYXZzYXIuZGFkYUBnZWZjby5jb20udHIHAABVS1JBSU5FHgAASEVB
+RCBPRkZJQ0UgLyAgICBHRUZDTyBVS1JBSU5FAwAAdGJuLgAAVG90YWwgQ0VOVFJBTCBBU0lBLCBD
+RU5UUkFMIEFORCBFQVNURVJOIEVVUk9QRQwAAEVBU1RFUk4gQVNJQQUAAENISU5BHAAASEVBRCBP
+RkZJQ0UgLyAgICBHRUZDTyBDSElOQQ0AAE1pY2hhZWwgWkhBTkcSAAAwMCA4NiAyMSA2MDMyIDUz
+MTEUAAAwMCA4NiAxMyA5MDEgNjA0IDk4NxcAAG1pY2hhZWwuemhhbmdAZ2VmY28uY24gCgAASE9O
+RyBLT05HICAAAEhFQUQgT0ZGSUNFIC8gICAgR0VGQ08gSE9ORyBLT05HCQAAQWRhbSBGT05HEgAA
+MDAgODUyIDIzIDY4IDQzIDkwEgAAMDAgODUyIDY4IDA2IDA2IDkwEgAAYWRhbS5mb25nQGdlZmNv
+LmhrEgAAVG90YWwgRUFTVEVSTiBBU0lBCwAATUlERExFIEVBU1QEAABJUkFOGwAASEVBRCBPRkZJ
+Q0UgLyAgICBHRUZDTyBJUkFOEAAARmFyYWhuYXogSEVZREFSWRIAADAwIDkwMiAxNjUgNzgzIDUw
+MB0AAGZhcmFobmF6LmhleWRhcnlAZ2VmY28uY29tLnRyBAAASVJBURgAAEhFQUQgT0ZGSUNFIC8g
+R0VGQ08gSVJBUQwAAFNydWlkIEpBTUJBWhYAAHNydWlkLmphbWJhekBnZWZjby5uZXQLAABVQUUg
+LSBEVUJBSSYAAEhFQUQgT0ZGSUNFIC8gICAgR0VGQ08gTUlERExFIEVBU1QgRlpFEAAAU293a2Fu
+dGggVklKQVlBThIAADAwIDk3MSAwNDggODk1IDU2Ng8AADk3MSA1NSA1NTIgMTEyNxoAAHNvd2th
+bnRoLnZpamF5YW5AZ2VmY28ubmV0EQAAVG90YWwgTUlERExFIEVBU1QMAABOT1JUSCBBRlJJQ0EH
+AABBTEdFUklBHgAASEVBRCBPRkZJQ0UgLyAgICBHRUZDTyBBTEdFUklBBwAATU9ST0NDTx4AAEhF
+QUQgT0ZGSUNFIC8gICAgR0VGQ08gTU9ST0NDTwcAAFRVTklTSUEeAABIRUFEIE9GRklDRSAvICAg
+IEdFRkNPIFRVTklTSUELAABSYWZpayBEUklESRIAADAwIDIxNiA3MTQgNDQ4IDAzOBEAADAwIDIx
+NiA5ODcgMDc4IDk2FQAAcmFmaWsuZHJpZGlAZ2VmY28ubmV0EgAAVG90YWwgTk9SVEggQUZSSUNB
+DAAAU09VVEggQUZSSUNBIwAASEVBRCBPRkZJQ0UgLyAgICBHRUZDTyBTT1VUSCBBRlJJQ0ESAABU
+b3RhbCBTT1VUSCBBRlJJQ0EOAABXRVNURVJOIEVVUk9QRQgAAEJFTkVMVVggKgAASEVBRCBPRkZJ
+Q0UgICAgICAgR0VGQ08gQVRIIC8gR0hJU0xFTkdISUVOEgAARnJlZGVyaWMgREUgQ09PTUFOFQAA
+MDAgMzIgKDApIDMgNTQ2IDQxIDEwFgAAMDAgMzIgKDApIDQ5OCA4MiAwMSA5MBsAAGZyZWRlcmlj
+LmRlY29vbWFuQGdlZmNvLm5ldAYAAEZyYW5jZSoAAEhFQUQgT0ZGSUNFICAgICAgICAgICAgICAg
+ICAgIEdFRkNPIEZyYW5jZQ4AAFBpZXJyZSBMQUlHTkVMFwAAMDAgMzMgKDApIDEgNDggMTcgNjcg
+MDMXAAAwMCAzMyAoMCkgNiA4MyA2MCA0NCA5NxgAAHBpZXJyZS5sYWlnbmVsQGdlZmNvLm5ldAcA
+AEdFUk1BTlkyAABIRUFEIE9GRklDRSAvICAgICAgICAgICAgICAgR0VGQ08gREVVVFNDSExBTkQg
+R01CSBYAADAwIDQ5ICgwKTQyMSAyNzYzOTggMTAFAABJVEFMWSgAAEhFQUQgT0ZGSUNFIC8gICAg
+ICAgICAgICAgICBHRUZDTyBJVEFMSUELAABBZGFtbyBSVUZGTxMAADAwIDM5IDAyOSAzMjcgMDIg
+NDUVAABhZGFtby5ydWZmb0BnZWZjby5uZXQIAABQb3J0dWdhbCEAAEhFQUQgT0ZGSUNFIC8gICAg
+ICBHRUZDTyBQb3J0dWdhbA4AAEZlcm5hbmRvIFBJTlRPEwAAMDAgMzUxIDIxIDQxNiA5OCAwNxMA
+ADAwIDM1MSA5NiA0MzIgNzIgMDEXAABmZXJuYW5kby5waW50b0BnZWZjby5wdAUAAFNQQUlOJAAA
+SEVBRCBPRkZJQ0UgLyAgICBHRUZDTyBFU1BB0UEgLCBTLkEuEwAASnVhbi1NYW51ZWwgREUtQ1JV
+WhIAADAwIDM0IDkxIDM0NyAzMiAwMBEAADAwIDM0IDY5OSAwNjYgMzAzHAAAanVhbi1tYW51ZWwu
+ZGUtY3J1ekBnZWZjby5lcwsAAFNXSVRaRVJMQU5EIgAASEVBRCBPRkZJQ0UgLyAgICBHRUZDTyBT
+V0lUWkVSTEFORAIAAFVLGgAASEVBRCBPRkZJQ0UgLyBHRUZDTyBVSyBsdGQNAABDZWRyaWMgQ0hB
+Q09OFgAAMDAgNDQgKDApMiA0NzYgNTE0IDkwMRcAADAwIDQ0ICgwKSA3OSA4MCA3MDAgMzMwFwAA
+Y2VkcmljLmNoYWNvbkBnZWZjby5uZXQUAABUb3RhbCBXRVNURVJOIEVVUk9QRf8AygAIAMQ2AAAM
+AAAAGDcAAGAAAAChNwAA6QAAAF84AACnAQAAETkAAFkCAADwOQAAOAMAAK06AAD1AwAAnDsAAOQE
+AABIPAAAkAUAAPo8AABCBgAAxT0AAA0HAAB0PgAAvAcAACE/AABpCAAAG0AAAGMJAADFQAAADQoA
+AHZBAAC+CgAAEEIAAFgLAADGQgAADgwAAGtDAACzDAAAEEQAAFgNAADNRAAAFQ4AAJdFAADfDgAA
+YUYAAKkPAAAHRwAATxAAAMRHAAAMEQAAYwgWAGMIAAAAAAAAAAAAABYAAAAAAAAAAgCWCBAAlggA
+AAAAAAAAAAAAQuUBAJsIEACbCAAAAAAAAAAAAAABAAAAjAgQAIwIAAAAAAAAAAAAAAAAAAAKAAAA
+CQgQAAAGEACrH80HyQABAAYEAAALAhgAAAAAAAAAAAAvAAAA+YMAAMeQAAAblwAADQACAAEADAAC
+AGQADwACAAEAEQACAAAAEAAIAPyp8dJNYlA/XwACAAEAKgACAAAAKwACAAAAggACAAEAgAAIAAAA
+AAAAAAAAJQIEAAAALAGBAAIAwQQUAAAAFQAAAIMAAgAAAIQAAgAAACYACABmZmZmZmbmPycACABm
+ZmZmZmbmPygACAAAAAAAAADoPykACAAAAAAAAADoP00AICAAAFwAXABHAEUAQQBBAFUAMQBFAE0A
+RgBQADAAMQBcAFMAYQBmAGUAUQBTAGUAYwB1AHIAZQAAAEQARQBWAE0AAAABBAAB3AB8OA+vAAIB
+AAkAmgs0CAAAAQAHAFgCAgACAFgCAwAAAEEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAMrKAAAAAAAAAABDAG8AdQByAGkAZQByACAA
+TgBlAHcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVABpAG0AZQBz
+ACAATgBlAHcAIABSAG8AbQBhAG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwA
+AAAAAAAAAAAAAAAAAAAAAAAAsAQAAAAAAQAAAP//AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAQT//wAAAAABAAEAAAABBP//AAAAAAAAAQT//wAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAKwArACsAKwAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEgCiAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAAA
+AAAAAAAAAAAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAEAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAMAAAAlQoAAFgCWAIAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAQAAAG84AABTUExYAQAAAG84AABDMzY0AAAAAAAAAAAAAAAAUENMWEwAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAADTGXgQAAAAAAQkANAiaCysAKwArACsAADQImgtMIAAArS0AAGUBNAiaCwA0
+CJoLTCAAAK0tAAABZAAHAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AQEBAQAAAQEASW5UcmF5MQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAQEBAQAAAQEASW5U
+cmF5MgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAQEBAQAAAQEASW5UcmF5MwAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAADAQAAAQEBAQAAAQEASW5UcmF5NAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAEAQAAAQEBAQAAAQEASW5UcmF5TWFudWFsAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQEB
+AQAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQAAAQEAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQAAAQEAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAEBAQAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEBAQAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAQABAQEAAQABAAABAAAOAQAAAAAAAAAAAAAA
+AAABAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAEAQEAAAAA
+BAAAAAABAAEAAAAAAAABAQAAAGQAfQAABAEBAAQBAQABAQEA6QMBAADpAwEAAAEAAAEAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEgA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAQAAAAAA
+AQAAAQAAAAEAAAEAAQABAAEBAQAAAAEAAQACAgADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAAQEAAAAAAQEAAAAAAQAAAQEAAAAAAAEAAAAAAQABAAEAAQEAAQAAAAEAAAABAAAA
+AAEBAAEAAQABAQABAAAAAAABAAEBAAAAAAAAAQAAAAAAAAABAAEAAAABAAAAAAAAAAAAPAA6GQAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQEAZAABAQBkAAEA//8A
+AAEAAQAAAAAAAAABAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEB
+AAAAAAAAAAAAAAAAAAAAAQIAWAJYAlADGAABBAAAAAAAAAEAAAEAAAAAAAAAAQEAAAAAAQAABAEA
+AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAEAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF8CAAFBcmlhbAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAENvdXJpZXIgTmV3AAAAAAAAAAAAAAAAAAAAAAAAAAAAVGltZXMgTmV3
+IFJvbWFuAAAAAAAAAAAAAAAAAAAAAABTeW1ib2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFdp
+bmdkaW5ncwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCxcUGgAA
+AAAAAAAAAAAAAAAAAAAAAAAAAABBcmlhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAENvdXJp
+ZXIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVGltZXMgTmV3IFJvbWFuAAAAAAAAAAAAAAAAAAAA
+AABTeW1ib2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFdpbmdkaW5ncwAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAOkBAAAjBAAAaQUAAHYCAACqAwAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEBAEsABQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAANAiaCwCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFAFgAQwBFAEwALgBFAFgARQAAAAAAAAAAAAAAAAAAAAwA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKdN
+aVwZYREoAAAAAAAAAAAAoQAiAAkAZAABAAEAAQACAFgCWAIzMzMzMzPTPzMzMzMzM9M/AQCcCCYA
+nAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwzAAAAAAAAAABVAAIACAB9AAwAAAAAACQWDwAC
+AAAAfQAMAAEAAQDbFA8AAgAAAH0ADAACAAIAkiQPAAIAAAB9AAwAAwADAEkaDwACAAAAfQAMAAQA
+BAAkFg8AAgAAAH0ADAAFAAUAthgPAAIAAAB9AAwABgAGALYdDwACAAAAfQAMAAcAAAFtCw8AAAAA
+AAACDgAAAAAALwAAAAAABwAAAAgCEAAAAAAABwAsAQAAAAAAAQ8ACAIQAAEAAAAHACwBAAAAAAAB
+DwAIAhAAAgAAAAcALAEAAAAAAAEPAAgCEAADAAAABwAsAQAAAAAAAQ8ACAIQAAQAAAAHACwBAAAA
+AAABDwAIAhAABQAAAAcALAEAAAAAAAEPAAgCEAAGAAAABwAsAQAAAAAAAQ8ACAIQAAcAAAAHACwB
+AAAAAAABDwAIAhAACAAAAAcALAEAAAAAAAEPAAgCEAAJAAAABwAsAQAAAAAAAQ8ACAIQAAoAAAAH
+ACwBAAAAAAABDwAIAhAACwAAAAcALAEAAAAAAAEPAAgCEAAMAAAABwAsAQAAAAAAAQ8ACAIQAA0A
+AAAHACwBAAAAAAABDwAIAhAADgAAAAcALAEAAAAAAAEPAAgCEAAPAAAABwAsAQAAAAAAAQ8ACAIQ
+ABAAAAAHACwBAAAAAAABDwAIAhAAEQAAAAcALAEAAAAAAAEPAAgCEAASAAAABwAsAQAAAAAAAQ8A
+CAIQABMAAAAHACwBAAAAAAABDwAIAhAAFAAAAAcALAEAAAAAAAEPAAgCEAAVAAAABwAsAQAAAAAA
+AQ8ACAIQABYAAAAHACwBAAAAAAABDwAIAhAAFwAAAAcALAEAAAAAAAEPAAgCEAAYAAAABwAsAQAA
+AAAAAQ8ACAIQABkAAAAHACwBAAAAAAABDwAIAhAAGgAAAAcALAEAAAAAAAEPAAgCEAAbAAAABwAs
+AQAAAAAAAQ8ACAIQABwAAAAHACwBAAAAAAABDwAIAhAAHQAAAAcALAEAAAAAAAEPAAgCEAAeAAAA
+BwAsAQAAAAAAAQ8ACAIQAB8AAAAHACwBAAAAAAABDwC+ABQAAAAAAD4APgA/AD8APwA/AD4ABgC+
+ABQAAQAAAD4APgA/AD8APwA/AD4ABgD9AAoAAgAAAEAAAAAAAP0ACgACAAEAQQABAAAAvgAQAAIA
+AgA/AD8APwA/AD4ABgC+ABQAAwAAAD4APwA/AD8APwA/AD4ABgD9AAoABAAAAEIAAgAAAP0ACgAE
+AAEAQgADAAAA/QAKAAQAAgBCAAQAAAD9AAoABAADAEMABQAAAP0ACgAEAAQAQwAGAAAA/QAKAAQA
+BQBDAAcAAAD9AAoABAAGAEMACAAAAP0ACgAFAAAARAAJAAAA/QAKAAUAAQBFAAoAAAD9AAoABQAC
+AEYACwAAAP0ACgAFAAMARQAMAAAA/QAKAAUABABGAAwAAAD9AAoABQAFAEUADAAAAP0ACgAFAAYA
+RgAMAAAA/QAKAAYAAABHAA0AAAC+ABIABgABAEcARwBHAEcARwBHAAYA/QAKAAcAAABIAA4AAAD9
+AAoABwABAEUADwAAAP0ACgAHAAIARgAQAAAA/QAKAAcAAwBFABEAAAD9AAoABwAEAEYAEgAAAP0A
+CgAHAAUARQATAAAA/QAKAAcABgBGABQAAAABAgYACAAAAEgA/QAKAAgAAQBFABUAAAD9AAoACAAC
+AEYAFgAAAP0ACgAIAAMARQAXAAAA/QAKAAgABABGABgAAAD9AAoACAAFAEUAGQAAAP0ACgAIAAYA
+RgAaAAAAAQIGAAkAAABEAP0ACgAJAAEARQAbAAAA/QAKAAkAAgBGABwAAAD9AAoACQADAEUAHQAA
+AP0ACgAJAAQARgAeAAAA/QAKAAkABQBFAB8AAAD9AAoACQAGAEYAIAAAAP0ACgAKAAAARwAhAAAA
+vgASAAoAAQBHAEcARwBHAEcARwAGAP0ACgALAAAASAAiAAAA/QAKAAsAAQBFACMAAAD9AAoACwAC
+AEYAJAAAAP0ACgALAAMARQAlAAAA/QAKAAsABABGACYAAAD9AAoACwAFAEUAJwAAAP0ACgALAAYA
+RgAoAAAAAQIGAAwAAABIAP0ACgAMAAEARQApAAAA/QAKAAwAAgBGACoAAAD9AAoADAADAEUAKwAA
+AP0ACgAMAAQARgAsAAAA/QAKAAwABQBFAC0AAAD9AAoADAAGAEYALgAAAAECBgANAAAASAD9AAoA
+DQABAEUALwAAAP0ACgANAAIARgAwAAAA/QAKAA0AAwBFADEAAAD9AAoADQAEAEYAMgAAAP0ACgAN
+AAUARQAzAAAA/QAKAA0ABgBGADQAAAABAgYADgAAAEgA/QAKAA4AAQBFADUAAAD9AAoADgACAEYA
+NgAAAP0ACgAOAAMARQA3AAAA/QAKAA4ABABGADgAAAD9AAoADgAFAEUAOQAAAP0ACgAOAAYARgA6
+AAAAAQIGAA8AAABIAP0ACgAPAAEARQA7AAAA/QAKAA8AAgBGADwAAAD9AAoADwADAEUAPQAAAP0A
+CgAPAAQARgA+AAAA/QAKAA8ABQBFAD8AAAD9AAoADwAGAEYAQAAAAAECBgAQAAAASAD9AAoAEAAB
+AEUAQQAAAP0ACgAQAAIARgBCAAAA/QAKABAAAwBFAEMAAAD9AAoAEAAEAEYARAAAAP0ACgAQAAUA
+RQBFAAAA/QAKABAABgBGAEYAAAABAgYAEQAAAEgA/QAKABEAAQBFAEcAAAD9AAoAEQACAEYASAAA
+AP0ACgARAAMARQBJAAAA/QAKABEABABGAEoAAAD9AAoAEQAFAEUASwAAAP0ACgARAAYARgBMAAAA
+AQIGABIAAABIAP0ACgASAAEARQBNAAAA/QAKABIAAgBGAE4AAAD9AAoAEgADAEUATwAAAP0ACgAS
+AAQARgBQAAAA/QAKABIABQBFAFEAAAD9AAoAEgAGAEYAUgAAAAECBgATAAAASAD9AAoAEwABAEUA
+UwAAAP0ACgATAAIARgBUAAAA/QAKABMAAwBFAFUAAAD9AAoAEwAEAEYAVgAAAP0ACgATAAUARQBX
+AAAA/QAKABMABgBGAFgAAAABAgYAFAAAAEgA/QAKABQAAQBFAFkAAAD9AAoAFAACAEYAWgAAAP0A
+CgAUAAMARQBbAAAA/QAKABQABABGAFwAAAD9AAoAFAAFAEUAXQAAAP0ACgAUAAYARgBeAAAAAQIG
+ABUAAABIAP0ACgAVAAEARQBfAAAA/QAKABUAAgBGAGAAAAD9AAoAFQADAEUAYQAAAP0ACgAVAAQA
+RgBiAAAA/QAKABUABQBFAAwAAAD9AAoAFQAGAEYAYwAAAAECBgAWAAAASAD9AAoAFgABAEUAZAAA
+AP0ACgAWAAIARgBlAAAA/QAKABYAAwBFAGYAAAD9AAoAFgAEAEYAZwAAAP0ACgAWAAUARQBoAAAA
+/QAKABYABgBGAGkAAAABAgYAFwAAAEQA/QAKABcAAQBFAGoAAAD9AAoAFwACAEYAawAAAP0ACgAX
+AAMARQBsAAAA/QAKABcABABGAAwAAAD9AAoAFwAFAEUADAAAAP0ACgAXAAYARgAMAAAA/QAKABgA
+AABHAG0AAAC+ABIAGAABAEcARwBHAEcARwBHAAYA/QAKABkAAABIAG4AAAD9AAoAGQABAEUAbwAA
+AP0ACgAZAAIARgBwAAAA/QAKABkAAwBFAHEAAAD9AAoAGQAEAEYAcgAAAP0ACgAZAAUARQBzAAAA
+/QAKABkABgBGAHQAAAABAgYAGgAAAEQA/QAKABoAAQBFAHUAAAD9AAoAGgACAEYAdgAAAP0ACgAa
+AAMARQB3AAAA/QAKABoABABGAHgAAAD9AAoAGgAFAEUAeQAAAP0ACgAaAAYARgB6AAAA/QAKABsA
+AABHAHsAAAC+ABIAGwABAEcARwBHAEcARwBHAAYA/QAKABwAAABIAHwAAAD9AAoAHAABAEUAfQAA
+AP0ACgAcAAIARgB+AAAA/QAKABwAAwBFAH8AAAD9AAoAHAAEAEYAgAAAAP0ACgAcAAUARQAMAAAA
+/QAKABwABgBGAIEAAAABAgYAHQAAAEgA/QAKAB0AAQBFAIIAAAD9AAoAHQACAEYAgwAAAP0ACgAd
+AAMARQCEAAAA/QAKAB0ABABGAIAAAAD9AAoAHQAFAEUADAAAAP0ACgAdAAYARgCFAAAAAQIGAB4A
+AABEAP0ACgAeAAEARQCGAAAA/QAKAB4AAgBGAIcAAAD9AAoAHgADAEUAiAAAAP0ACgAeAAQARgCJ
+AAAA/QAKAB4ABQBFAIoAAAD9AAoAHgAGAEYAiwAAAP0ACgAfAAAARwCMAAAAvgASAB8AAQBHAEcA
+RwBHAEcARwAGANcARAA2DAAAbAIYABgAMAAYAGIAYgAkAGIAXgBeACQAYgBeAF4AXgBeAF4AXgBe
+AF4AXgBeAF4AXgAkAGIAXgAkAGIAXgBeAAgCEAAgAAAABwAsAQAAAAAAAQ8ACAIQACEAAAAHACwB
+AAAAAAABDwAIAhAAIgAAAAcALAEAAAAAAAEPAAgCEAAjAAAABwAsAQAAAAAAAQ8ACAIQACQAAAAH
+ACwBAAAAAAABDwAIAhAAJQAAAAcALAEAAAAAAAEPAAgCEAAmAAAABwAsAQAAAAAAAQ8ACAIQACcA
+AAAHACwBAAAAAAABDwAIAhAAKAAAAAcALAEAAAAAAAEPAAgCEAApAAAABwAsAQAAAAAAAQ8ACAIQ
+ACoAAAAHACwBAAAAAAABDwAIAhAAKwAAAAcALAEAAAAAAAEPAAgCEAAsAAAABwAsAQAAAAAAAQ8A
+CAIQAC0AAAAHACwBAAAAAAABDwAIAhAALgAAAAcALAEAAAAAAAEPAP0ACgAgAAAASACNAAAA/QAK
+ACAAAQBFAI4AAAD9AAoAIAACAEYAjwAAAP0ACgAgAAMARQAMAAAA/QAKACAABABGAAwAAAD9AAoA
+IAAFAEUADAAAAP0ACgAgAAYARgAMAAAAAQIGACEAAABIAP0ACgAhAAEARQCQAAAA/QAKACEAAgBG
+AJEAAAD9AAoAIQADAEUAbAAAAP0ACgAhAAQARgAMAAAA/QAKACEABQBFAAwAAAD9AAoAIQAGAEYA
+DAAAAAECBgAiAAAARAD9AAoAIgABAEUAkgAAAP0ACgAiAAIARgCTAAAA/QAKACIAAwBFAJQAAAD9
+AAoAIgAEAEYAlQAAAP0ACgAiAAUARQCWAAAA/QAKACIABgBGAJcAAAD9AAoAIwAAAEcAmAAAAL4A
+EgAjAAEARwBHAEcARwBHAEcABgD9AAoAJAAAAEQAmQAAAP0ACgAkAAEARQCZAAAA/QAKACQAAgBG
+AJoAAAD9AAoAJAADAEUADAAAAP0ACgAkAAQARgAMAAAA/QAKACQABQBFAAwAAAD9AAoAJAAGAEYA
+DAAAAP0ACgAlAAAARwCbAAAAvgASACUAAQBHAEcARwBHAEcARwAGAP0ACgAmAAAASACcAAAA/QAK
+ACYAAQBFAJ0AAAD9AAoAJgACAEYAngAAAP0ACgAmAAMARQCfAAAA/QAKACYABABGAKAAAAD9AAoA
+JgAFAEUAoQAAAP0ACgAmAAYARgCiAAAAAQIGACcAAABIAP0ACgAnAAEARQCjAAAA/QAKACcAAgBG
+AKQAAAD9AAoAJwADAEUApQAAAP0ACgAnAAQARgCmAAAA/QAKACcABQBFAKcAAAD9AAoAJwAGAEYA
+qAAAAAECBgAoAAAASAD9AAoAKAABAEUAqQAAAP0ACgAoAAIARgCqAAAA/QAKACgAAwBFAGwAAAD9
+AAoAKAAEAEYAqwAAAP0ACgAoAAUARQAMAAAA/QAKACgABgBGAAwAAAABAgYAKQAAAEgA/QAKACkA
+AQBFAKwAAAD9AAoAKQACAEYArQAAAP0ACgApAAMARQCuAAAA/QAKACkABABGAK8AAAD9AAoAKQAF
+AEUADAAAAP0ACgApAAYARgCwAAAAAQIGACoAAABIAP0ACgAqAAEARQCxAAAA/QAKACoAAgBGALIA
+AAD9AAoAKgADAEUAswAAAP0ACgAqAAQARgC0AAAA/QAKACoABQBFALUAAAD9AAoAKgAGAEYAtgAA
+AAECBgArAAAASAD9AAoAKwABAEUAtwAAAP0ACgArAAIARgC4AAAA/QAKACsAAwBFALkAAAD9AAoA
+KwAEAEYAugAAAP0ACgArAAUARQC7AAAA/QAKACsABgBGALwAAAABAgYALAAAAEgA/QAKACwAAQBF
+AL0AAAD9AAoALAACAEYAvgAAAP0ACgAsAAMARQAMAAAA/QAKACwABABGAAwAAAD9AAoALAAFAEUA
+DAAAAP0ACgAsAAYARgAMAAAAAQIGAC0AAABEAP0ACgAtAAEARQC/AAAA/QAKAC0AAgBGAMAAAAD9
+AAoALQADAEUAwQAAAP0ACgAtAAQARgDCAAAA/QAKAC0ABQBFAMMAAAD9AAoALQAGAEYAxAAAAP0A
+CgAuAAAARwDFAAAAvgASAC4AAQBHAEcARwBHAEcARwAGANcAIgAMBgAAGAFiAF4AXgAkAGIAJABi
+AF4AXgBeAF4AXgBeAF4APgISALYGAwAAAEAAAAAAAAAARwAAAIsIEACLCAAAAAAAAAAAAAAAAEIA
+HQAPAAMAAAAAAAABAAAALgAABpkAAgBtC2cIFwBnCAAAAAAAAAAAAAACAAH/////A0QAAAoAAAAJ
+CBAAAAYQAKsfzQfJAAEABgQAAAsCEAAAAAAAAAAAAAAAAAC1mAAADQACAAEADAACAGQADwACAAEA
+EQACAAAAEAAIAPyp8dJNYlA/XwACAAEAKgACAAAAKwACAAAAggACAAEAgAAIAAAAAAAAAAAAJQIE
+AAAALAGBAAIAwQQUAAAAFQAAAIMAAgAAAIQAAgAAACYACABmZmZmZmbmPycACABmZmZmZmbmPygA
+CAAAAAAAAADoPykACAAAAAAAAADoP6EAIgAAACwBAQABAAEABAACAAH/MzMzMzMz0z8zMzMzMzPT
+PwAAnAgmAJwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8MwAAAAAAAAAAVQACAAgAfQAMAAAA
+AAFtCw8AAAAAAAACDgAAAAAAAAAAAAAAAAAAAD4CEgC2AAAAAABAAAAAAAAAAAAAAACLCBAAiwgA
+AAAAAAAAAAAAAAACAB0ADwADAAAAAAAAAQAAAAAAAACZAAIAbQtnCBcAZwgAAAAAAAAAAAAAAgAB
+/////wNEAAAKAAAACQgQAAAGEACrH80HyQABAAYEAAALAhAAAAAAAAAAAAAAAAAAUZoAAA0AAgAB
+AAwAAgBkAA8AAgABABEAAgAAABAACAD8qfHSTWJQP18AAgABACoAAgAAACsAAgAAAIIAAgABAIAA
+CAAAAAAAAAAAACUCBAAAACwBgQACAMEEFAAAABUAAACDAAIAAACEAAIAAAAmAAgAZmZmZmZm5j8n
+AAgAZmZmZmZm5j8oAAgAAAAAAAAA6D8pAAgAAAAAAAAA6D+hACIAAAAsAQEAAQABAAQAAgAB/zMz
+MzMzM9M/MzMzMzMz0z8AAJwIJgCcCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPDMAAAAAAAAA
+AFUAAgAIAH0ADAAAAAABbQsPAAAAAAAAAg4AAAAAAAAAAAAAAAAAAAA+AhIAtgAAAAAAQAAAAAAA
+AAAAAAAAiwgQAIsIAAAAAAAAAAAAAAAAAgAdAA8AAwAAAAAAAAEAAAAAAAAAmQACAG0LZwgXAGcI
+AAAAAAAAAAAAAAIAAf////8DRAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAADAAAA/v///wUAAAAGAAAA
+BwAAAAgAAAD+////CgAAAP7/////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////+/wAABgECAAAAAAAAAAAAAAAAAAAAAAAB
+AAAA4IWf8vlPaBCrkQgAKyez2TAAAACcAAAABwAAAAEAAABAAAAABAAAAEgAAAAIAAAAWAAAABIA
+AABkAAAADAAAAHwAAAANAAAAiAAAABMAAACUAAAAAgAAAOQEAAAeAAAACAAAAEUzOTg5NzEAHgAA
+AAQAAABISlMAHgAAABAAAABNaWNyb3NvZnQgRXhjZWwAQAAAAACN3xHz5c4BQAAAAIDlv7dN5s4B
+AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA/v8AAAYBAgAAAAAAAAAAAAAAAAAAAAAAAQAAAALVzdWcLhsQk5cIACss+a4wAAAA3AAAAAkA
+AAABAAAAUAAAAA8AAABYAAAAFwAAAGgAAAALAAAAcAAAABAAAAB4AAAAEwAAAIAAAAAWAAAAiAAA
+AA0AAACQAAAADAAAALkAAAACAAAA5AQAAB4AAAAIAAAAR0VGQ08AAAADAAAAAAAMAAsAAAAAAAAA
+CwAAAAAAAAALAAAAAAAAAAsAAAAAAAAAHhAAAAMAAAAHAAAARmV1aWwxAAcAAABGZXVpbDIABwAA
+AEZldWlsMwAMEAAAAgAAAB4AAAALAAAAV29ya3NoZWV0cwADAAAAAwAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAP7/AwoAAP////8gCAIAAAAA
+AMAAAAAAAABGJgAAAE1pY3Jvc29mdCBPZmZpY2UgRXhjZWwgMjAwMyBXb3Jrc2hlZXQABgAAAEJp
+ZmY4AA4AAABFeGNlbC5TaGVldC44APQ5snEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBDAG8AbQBwAE8AYgBqAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAgD///////////////8AAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAcgAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+/////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAA////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+
+--_004_9CABD9E4FFEA04498F7943499B5805752A44FE84kovhgvmchanjinc_--

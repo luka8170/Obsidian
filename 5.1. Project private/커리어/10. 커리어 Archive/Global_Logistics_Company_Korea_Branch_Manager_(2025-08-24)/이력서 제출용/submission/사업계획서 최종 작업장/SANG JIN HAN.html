@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sang Jin Han Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, "Helvetica Neue", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #fff;
+            padding: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            border-radius: 10px;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        
+        .header .subtitle {
+            font-size: 1.2em;
+            margin-bottom: 5px;
+            opacity: 1;
+            color: white;
+        }
+        
+        .header .date {
+            font-size: 1em;
+            opacity: 0.8;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+            background: #f9f9f9;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 4px solid #2a5298;
+        }
+        
+        .section h2 {
+            color: #1e3c72;
+            font-size: 1.4em;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #2a5298;
+        }
+        
+        .personal-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .personal-info div {
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .personal-info strong {
+            color: #1e3c72;
+            display: inline-block;
+            width: 120px;
+        }
+        
+        .executive-summary {
+            background: #fff;
+            padding: 20px;
+            border: 2px solid #2a5298;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .executive-summary p {
+            margin-bottom: 16px;
+            line-height: 1.7;
+        }
+        
+        .executive-summary ul {
+            margin: 10px 0 16px 20px;
+        }
+        
+        .executive-summary li {
+            margin-bottom: 6px;
+            padding-left: 10px;
+        }
+        
+        .experience-item {
+            background: white;
+            margin: 15px 0;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #e0e0e0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .company-name {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #1e3c72;
+        }
+        
+        .position-title {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #2a5298;
+            margin: 5px 0;
+        }
+        
+        .period {
+            color: #666;
+            font-size: 0.95em;
+            white-space: nowrap;
+        }
+        
+        .achievements {
+            margin-top: 15px;
+        }
+        
+        .achievements h4 {
+            color: #1e3c72;
+            margin-bottom: 8px;
+        }
+        
+        .achievements ul {
+            margin-left: 20px;
+        }
+        
+        .achievements li {
+            margin-bottom: 8px;
+            padding-left: 10px;
+        }
+        
+        .network-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(48%, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .network-item {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .network-item h4 {
+            color: #1e3c72;
+            margin-bottom: 10px;
+        }
+        
+        .highlight {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        
+        .target-section {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border: 2px solid #1e3c72;
+        }
+        
+        .target-item {
+            background: white;
+            margin: 15px 0;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 6px solid #28a745;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        
+        .target-item p {
+            margin-bottom: 12px;
+            line-height: 1.7;
+        }
+        
+        .target-item ul {
+            margin: 10px 0 16px 20px;
+        }
+        
+        .target-item li {
+            margin-bottom: 6px;
+            padding-left: 10px;
+        }
+        
+        .phase-title {
+            color: #1e3c72;
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        
+        .highlight strong {
+            color: #1e3c72;
+            margin-bottom: 8px;
+            display: block;
+        }
+        
+        .highlight br + • {
+            margin-left: 15px;
+        }
+        
+        strong {
+            color: #1e3c72;
+        }
+        
+        @media print {
+            body { padding: 20px; }
+            .section { page-break-inside: avoid; }
+        }
+        
+        @media (max-width: 768px) {
+            body { padding: 20px; }
+            .header h1 { font-size: 2em; }
+            .experience-header { flex-direction: column; }
+            .network-section { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>SANG JIN HAN</h1>
+        <div class="subtitle"><strong>Resume for WR Group Korea Branch Manager Position</strong></div>
+        <div class="date">September 2, 2025</div>
+    </div>
+
+    <div class="section">
+        <h2>PERSONAL INFORMATION</h2>
+        <div class="personal-info">
+            <div><strong>Name:</strong> Sang Jin Han</div>
+            <div><strong>Date of Birth:</strong> May 28, 1973 (Age 52)</div>
+            <div><strong>Contact:</strong> +82-10-4167-0528</div>
+            <div><strong>Email:</strong> frankston@naver.com</div>
+            <div><strong>Address:</strong> Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea</div>
+            <div><strong>Military Service:</strong> Korean Army, Sergeant (Jan 1995 - Mar 1997)</div>
+        </div>
+    </div>
+
+    <div class="section executive-summary">
+        <h2>EXECUTIVE SUMMARY</h2>
+        <p><strong>25-year Global Logistics Expert</strong> with proven growth track record and strategic network assets. As a strategic leader with unique international connections, I have achieved verified performance across all global logistics sectors at Hanjin Shipping, including Americas/Europe sales, Americas/Asia/Middle East marketing pricing, and Eastern Europe regional expertise.</p>
+        
+        <p><strong>Key Achievements:</strong></p>
+        <ul>
+            <li>Achieved #1 market share in Middle East routes</li>
+            <li>Generated weekly operating profit of USD 1M+ during Iran sanctions, earning Ministry of Trade, Industry and Energy Award</li>
+            <li>Grew customer fleet from 17 to 100+ vessels (700% increase)</li>
+        </ul>
+        
+        <p><strong>Strategic Networks:</strong> Built exclusive competitive advantages through networks with Middle East key corporate executives, royalty/government officials, and EPC major corporation executives. Strategic partnerships with Sharaf Group and Globe Marine Group, along with ongoing collaborations with Hyundai Steel Industries, Samsung Heavy Industries, and Doosan Enerbility, represent immediately convertible business assets.</p>
+        
+        <p><strong>WR Group Alignment:</strong> Possess competencies matching WR Group's Project Logistics expertise. Accumulated comprehensive TIC (Testing, Inspection, Certification) industry experience and hands-on European intermodal service experience through Slovakia/Czech operations during Hanjin tenure. Based on extensive TIC industry background, capable of providing specialized project logistics services meeting various certification and inspection standards required in EPC project sites.</p>
+        
+        <p><strong>1st Year Target:</strong> Aiming for KRW 50 billion revenue to develop Korea branch as Asia strategic hub, combining German headquarters' European network with my Asia-Middle East network to create new global EPC logistics industry standards.</p>
+    </div>
+
+    <div class="section">
+        <h2>EDUCATION</h2>
+        <div class="experience-item">
+            <div><strong>Korea Maritime & Ocean University</strong> | Maritime Finance MBA | Mar 2018 - Mar 2020</div>
+            <div><strong>Pusan National University</strong> | Bachelor of Linguistics | Mar 1994 - Feb 2000</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>CERTIFICATIONS & LANGUAGE SKILLS</h2>
+        <div class="personal-info">
+            <div><strong>English:</strong> Business Level (Conducting business operations in English at current position)</div>
+            <div><strong>German:</strong> Basic conversational and reading ability (Studied as second language in high school and university elective. Currently challenging but expected to recover to basic conversational/reading level with short-term review)</div>
+            <div><strong>Driver's License:</strong> Class 1 Regular</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>INTERNATIONAL EXPERIENCE & MULTICULTURAL COLLABORATION</h2>
+        <div class="experience-item">
+            <div><strong>2011-2012:</strong> Dubai, UAE (Hanjin Shipping Deputy Branch Manager - Overseeing 10 Middle East countries)</div>
+            <div><strong>2004:</strong> Bratislava, Slovakia & Prague, Czech Republic (Regional Specialist)</div>
+            <div><strong>1999-2000:</strong> Melbourne, Australia (Language Study)</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>AWARDS & RECOGNITION</h2>
+        <div class="experience-item">
+            <div class="position-title">2015 Ministry of Trade, Industry and Energy Minister's Award</div>
+            <div class="period">Export Promotion Category, Trade Security Day</div>
+            <p>Recognized for outstanding contribution to Korea's trade security during Iran sanctions period</p>
+        </div>
+    </div>
+
+    <div class="section target-section">
+        <h2>STRATEGIC COMPETITIVE ADVANTAGES FOR WR GROUP KOREA SUCCESS</h2>
+        
+        <div class="target-item">
+            <div class="phase-title">1. Proven Business Performance & Global Market Expertise</div>
+            
+            <div class="highlight">
+                <strong>Key Achievements</strong>
+                • Grew Korean customers' BV-classed fleet from 17 to 100+ vessels (700% growth)<br>
+                • Secured vessel order contracts for Qatar Gas North Field South Project (USD 10 billion EPC)<br>
+                • Won Petronas Malaysia-Canada project vessel order contracts<br>
+                • Expanding Middle East EPC projects through strategic partnership with Hyundai Steel Industries
+            </div>
+
+            <div class="highlight">
+                <strong>Middle East EPC Project Experience</strong>
+                • Direct negotiation and contract execution with Middle East petrochemical mega-corporations including SABIC, Dubai Aluminum, Qatar Chemical<br>
+                • Successfully secured entire annual import volume from Ethiopian Shipping Line
+            </div>
+
+            <div class="highlight">
+                <strong>Global Market Experience</strong>
+                • Deep understanding of major markets through diverse route experience: Middle East, Americas, Europe, Northeast Asia<br>
+                • Demonstrated crisis response capabilities by supporting customer exports with government permits even during Iran sanctions
+            </div>
+        </div>
+
+        <div class="target-item">
+            <div class="phase-title">2. NVO Pricing Capabilities Through Integrated Domestic/International Shipping Networks</div>
+            
+            <div class="highlight">
+                <strong>Domestic Shipping Company Executive Networks → Competitive Freight Rates & Space Allocation</strong>
+                Networks with senior executives from major shipping companies including HMM (Executive Vice President), SM Merchant Marine (CEO, Busan Branch Manager), Janggeum Shipping (Chairman), SK Shipping (CEO), Polaris Shipping (Chairman), enabling optimal freight rate acquisition and rapid market response.
+            </div>
+
+            <div class="highlight">
+                <strong>Global Shipping Company Networks → Competitive Freight Rates & Space Allocation</strong>
+                Senior-level connections with PIL, Sea-Lead, Emirates Shipping, X-Press Feeder, ONE, and participation in shipping association meetings as company representative for CMA CGM, COSCO, HPL, MSC major global carriers secured international competitiveness.
+            </div>
+
+            <div class="highlight">
+                <strong>Freight Rate Competitiveness</strong>
+                • Secured favorable rates and space allocation compared to competitors through direct negotiations with shipping executives<br>
+                • Optimal freight rate provision and customized services based on market trend analysis<br>
+                • Maintained freight rate stability through risk management of peak season space shortages, currency/oil price fluctuations
+            </div>
+        </div>
+
+        <div class="target-item">
+            <div class="phase-title">3. Field Sales Capabilities</div>
+            
+            <div class="highlight">
+                <strong>Major Shipper Networks</strong>
+                Maintaining continuous relationships with LG Energy Solution, POSCO International, SK Gas, SK E&S, SABIC Ulsan Plant, ACE E&T Ulsan Plant, UNION Busan Plant, Samsung Electro-Mechanics, Samsung Electronics Home Appliances, Taechang Industrial, NGU Group, HUMAX, Ssangyong Materials, and others.
+            </div>
+
+            <div class="highlight">
+                <strong>Sales Performance</strong>
+                • Directly visited major industrial complexes including Busan Noksan, Sinpyeong, Changwon to develop new shippers and execute Americas Service Contracts<br>
+                • In current position, expanded Korean customers' vessel utilization from 17 to 100+ ships, significantly improving market share and industry credibility
+            </div>
+        </div>
+
+        <div class="target-item">
+            <div class="phase-title">4. Leadership & Strategic Operations Capabilities</div>
+            
+            <div class="highlight">
+                <strong>P&L Management</strong>
+                At Hanjin Shipping and Bureau Veritas, executed profitability maximization strategies through CAPEX/OPEX analysis, managed annual business planning and performance target setting/monitoring for regional headquarters (Americas/Asia/Europe).
+            </div>
+
+            <div class="highlight">
+                <strong>Team Management</strong>
+                • Set clear performance targets for each headquarters and branch, guided goal achievement through periodic feedback<br>
+                • Enhanced team capabilities and provided vision through Trans-Pacific West Bound Trade profitability improvement training
+            </div>
+
+            <div class="highlight">
+                <strong>Global Communication</strong>
+                • Smooth communication with global teams through English report preparation and headquarters executive briefings<br>
+                • At Hanjin Shipping, secured majority of Ethiopia's annual import/export volume; at Bureau Veritas, won Qatar Gas and Petronas projects for the first time in company history
+            </div>
+
+            <div class="highlight">
+                <strong>Regulatory Compliance & IT Utilization</strong>
+                • Managed strategic materials in cooperation with Korean government agencies, US State Department, and OFAC during Iran sanctions (received Ministry Award)<br>
+                • Capabilities in IBM CRM, Salesforce, Tableau utilization and ESG regulatory compliance
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Strategic Networks</h2>
+        
+        <div class="network-section">
+            <div class="network-item">
+                <h4>1) Middle East Localization Network</h4>
+                <p>Over 50% of Korean EPC company projects are conducted in the Middle East, making local FOB sales critically important. Secured local influence through integrated network spanning government officials-royalty-major corporate CEOs.</p>
+                
+                <div class="highlight">
+                    <strong>Core Business Partners</strong>
+                    • Ibrahim Sharaf, Chairman of Sharaf Group: Maritime/logistics/energy portfolio, long-term cooperation with EPC management companies<br>
+                    • Ehsan F. Abdul Jawad, Chairman of Globe Marine Group: Maritime business specialized group<br>
+                    • Peter Verheijen, CEO of Gulftainer: MOU execution for exclusive freight rates and space allocation<br>
+                    • KS Kim, CEO of GSI Logistics (UAE): UAE's first forwarder
+                </div>
+                
+                <div class="highlight">
+                    <strong>Royalty & Government Officials</strong>
+                    • UAE: Sheikh Ahmed Al Maktoum (Royalty), Ahmed Bin Sulayem (DMCC Chairman)<br>
+                    • Kuwait: Sheikha Mariyam Al Sabah (Royalty), Ahmed Al Mesafir (Government Official)
+                </div>
+            </div>
+
+            <div class="network-item">
+                <h4>2) Korean EPC & Shipbuilding/Marine Plant Networks</h4>
+                
+                <div class="highlight">
+                    <strong>Major EPC Companies</strong>
+                    • Hyundai Engineering Group: Securing logistics cargo for Hyundai Engineering's Saudi Aramco Amiral Petrochemical (USD 11 billion) through Hyundai Steel Industries partnership<br>
+                    • Samsung Engineering: Securing Samsung Engineering volume through Samsung Heavy Industries CCS project partnership<br>
+                    • Doosan Enerbility: Securing Doosan Enerbility logistics cargo related to Hinkley Point C nuclear plant and SMR development through current company's other department cooperation<br>
+                    • Dong-A Construction: Construction company that previously executed Libya Great Man-Made River Project (USD 10.4 billion), currently under SM Group, securing Dong-A Construction project cargo through SM Group CEO networks
+                </div>
+
+                <div class="highlight">
+                    <strong>Shipbuilding & Marine Plants</strong>
+                    • HD Hyundai Heavy Industries: Over 40 years marine plant experience, multiple projects including Qatar offshore oil field EPC, securing logistics cargo through current executive networks<br>
+                    • Samsung Heavy Industries: CCS partner, 270,000-ton LNG carrier development, securing logistics cargo through current executive networks<br>
+                    • Hanwha Ocean: Joint development of 270,000-ton LNG carrier, securing logistics cargo through current executive networks
+                </div>
+
+                <div class="highlight">
+                    <strong>Renewable Energy</strong>
+                    Securing logistics cargo from participants in two ongoing offshore wind projects:<br>
+                    • Anma Offshore Wind 532MW (SK Ecoplant, Daihan Cable, LS Marine Solution)<br>
+                    • Gray Whale 3 Offshore Wind 500MW (BadaEnergy, TotalEnergies, Hyundai Heavy Industries)<br>
+                    • LG Energy Solution: Providing logistics services for Poland ESS and US Texas ESS projects through junior colleague who is headquarters logistics team manager
+                </div>
+            </div>
+
+            <div class="network-item">
+                <h4>3) Multimodal & Special Cargo Networks</h4>
+                
+                <div class="highlight">
+                    <strong>Comprehensive Logistics Service Foundation</strong>
+                    Established comprehensive service foundation spanning air/maritime/land/customs/finance through cooperation with Korean Air (Cargo Sales), Busan New Port Terminal, Spain Algeciras Terminal, CAI Korea, Busan Port Authority, Shinhan Customs Law Firm.
+                </div>
+
+                <div class="highlight">
+                    <strong>HMM Special Cargo Team</strong>
+                    • Team processing approximately 200,000 TEU in 2025 (5x growth from 40,000 TEU in 2007)<br>
+                    • Networks with key personnel responsible for freight rates and space allocation<br>
+                    • Recently achieved USD 100,000 freight cost reduction for UK-Korea vessel transport
+                </div>
+
+                <div class="highlight">
+                    <strong>Hyundai Glovis</strong>
+                    Cooperation in project logistics, equipment logistics, bulk logistics
+                </div>
+            </div>
+
+            <div class="network-item">
+                <h4>4) MRO & Inspection/Certification Integrated Service Networks</h4>
+                
+                <div class="highlight">
+                    <strong>MRO Specialized Networks</strong>
+                    • Ship Repair Yards: Yeosu Ocean, Union Shipyard (Korea-US MRO logistics)<br>
+                    • Energy & Plants: Doosan Heavy Industries, Samsung Heavy Industries, Hyundai Heavy Industries maintenance parts<br>
+                    • Petrochemicals: SK Energy, LG Chemical, Hanwha Total MRO materials<br>
+                    • Aviation & Defense: Korean Air, KAI, Hanwha Aerospace maintenance parts
+                </div>
+
+                <div class="highlight">
+                    <strong>Logistics Service Expansion Through Inspection/Certification Customer Base:</strong>
+                    Current marine classification services are closely related to project cargo transport through maritime transport safety verification, marine plant design review, and large equipment transport verification. Through cooperation with Industry (risk management), Certification (ISO certification), Commodities (quality inspection), and GSIT (customs/regulatory) departments, can secure logistics service customers from various inspection and certification client bases. Logistics business expansion possible through connection with currently ongoing global EPC projects (Iraq Kuwait Energy EUR 1.3M, Qatar Energy EUR 3M, Saudi Royal Family EUR 2.5M).
+                </div>
+
+                <p>Additionally, through Kazakhstan Kashagan oil field development and Tengiz oil field expansion project networks and European GSIT networks (Siemens AG, Shell plc, Ørsted), can realize global expansion of integrated inspection+certification+logistics services by developing Korea-Kazakhstan railway routes providing alternatives to China transit.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>PROFESSIONAL EXPERIENCE (25 Years)</h2>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Bureau Veritas Korea</div>
+                    <div class="position-title">Marketing & Sales Director, Marine & Offshore</div>
+                    <div style="font-size: 0.9em; color: #666;">(Ships, marine structures, and EPC project-related inspection service customer acquisition marketing and sales)</div>
+                </div>
+                <div class="period">2017 - Present</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    • Grew Korean customers' BV-classed vessels from 17 to 100+ (700% growth)<br>
+                    • First-ever contract wins for Qatar Gas and Petronas projects in 2022 (first since company establishment)<br>
+                    • Built strategic relationships with domestic Big 3 shipyards and Busan shipowners
+                </div>
+
+                <div class="highlight">
+                    <strong>Logistics Business Relevance</strong>
+                    • Deep understanding of Middle East/Europe/Asia large EPC project sites<br>
+                    • Professional network expertise in marine structures and project cargo safety/regulatory compliance<br>
+                    • Collaboration experience with Bureau Veritas Industry, Certification, and Commodities divisions
+                </div>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Hanjin Shipping</div>
+                    <div class="position-title">Deputy General Manager~Manager, Asia Marketing Team</div>
+                    <div style="font-size: 0.9em; color: #666;">Container Shipping Division - Middle East & Red Sea Routes Management</div>
+                </div>
+                <div class="period">2012 - 2016</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    • Achieved #1 market share in Asia-Middle East routes<br>
+                    • Generated weekly operating profit of USD 1M+ during Iran sanctions<br>
+                    • Company representative for IRA (Middle East Shipping Conference) and IRSA (Red Sea Shipping Conference)<br>
+                    • Received 2015 Ministry of Trade, Industry and Energy Minister's Award for Trade Security
+                </div>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Hanjin Shipping</div>
+                    <div class="position-title">Deputy Branch Manager, UAE Branch</div>
+                    <div style="font-size: 0.9em; color: #666;">Managing 10 Middle East Countries</div>
+                </div>
+                <div class="period">2011 - 2012</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    • Developed and executed integrated marketing strategies for 10 Middle East and Red Sea countries<br>
+                    • Executed agency contracts with Sharaf Group and Globe Marine Group (continuing to present)<br>
+                    • Participated in Abu Dhabi Barakah nuclear plant project cargo transport<br>
+                    • Direct contracts with mega clients including SABIC, Qatar Chemical, Dubai Aluminum
+                </div>
+
+                <div class="highlight">
+                    <strong>Middle East Market Expertise</strong>
+                    • Comprehensive networks with Middle East royalty, government officials, and major corporate CEOs<br>
+                    • Deep understanding of EPC project local characteristics, culture, and decision-making structures<br>
+                    • Proven performance creation capability in complex Middle East business environments
+                </div>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Hanjin Shipping</div>
+                    <div class="position-title">Deputy General Manager, Americas Marketing Team</div>
+                    <div style="font-size: 0.9em; color: #666;">Asia↔Americas Routes Management</div>
+                </div>
+                <div class="period">2007 - 2011</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    • Asia↔Americas route service establishment, vessel deployment, regional headquarters P&L management<br>
+                    • Created and distributed multimodal transport route freight confirmation guidelines and tools for field sales personnel<br>
+                    • Multimodal transport route design and multimodal service optimization
+                </div>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Hanjin Shipping</div>
+                    <div class="position-title">Associate, Northeast Asia Regional HQ Marketing Team</div>
+                </div>
+                <div class="period">2004 - 2006</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    • Korea/Japan/Taiwan to Americas/Asia marketing and policy sales management<br>
+                    • Freight strategy establishment through service route-specific profit/cost analysis<br>
+                    • Business plan establishment based on profit models and subsidiary branch target achievement management<br>
+                    • Korea origin major shipper management and Service Contract execution
+                </div>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Hanjin Shipping</div>
+                    <div class="position-title">Regional Specialist, Slovakia & Czech Republic</div>
+                </div>
+                <div class="period">2004</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    • New EU member Eastern European countries market environment and feasibility analysis, inland transport network in-depth analysis<br>
+                    <strong>• European inland logistics infrastructure and railway transport system field investigation and headquarters reporting</strong><br>
+                    • Major Slovak manufacturing customer management including Samsung Electronics Galanta and Kia Motors Žilina<br>
+                    • Understanding of Eastern Europe-Central Asia connecting multimodal transport routes<br>
+                    • Understanding of European business culture and headquarters-local corporation cooperation systems
+                </div>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Hanjin Shipping</div>
+                    <div class="position-title">Associate, HQ Bulk Strategy Team</div>
+                </div>
+                <div class="period">2003 - 2004</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    • Bulk business strategic planning and market development<br>
+                    • Mid-to-long term strategy establishment support through research data analysis and major shipper business strategy development<br>
+                    • Sales support through data analysis
+                </div>
+            </div>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div>
+                    <div class="company-name">Hanjin Shipping</div>
+                    <div class="position-title">Employee, Busan Sales Branch</div>
+                </div>
+                <div class="period">2000 - 2003</div>
+            </div>
+
+            <div class="achievements">
+                <div class="highlight">
+                    <strong>Key Achievements</strong>
+                    <strong>• New market creation through systematic development from zero customer base</strong><br>
+                    <strong>• Direct visit sales to Busan Noksan Industrial Complex, Sinpyeong Industrial Complex, Changwon Industrial Complex to discover EPC-related manufacturers</strong><br>
+                    • Key achievements: Humax (set-top box), Taechang Industrial (textile), Saint Gobain Vetrotex, Ssangyong Materials (wire rope), Hyosung Electric (Delphi), etc.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>SELF-INTRODUCTION & MOTIVATION</h2>
+        <p>The 25 years of experience accumulated in the global logistics industry represents not merely a career record, but strategic assets for WR Group Korea branch success. From Hanjin Shipping to Bureau Veritas, I have created verified performance through new challenges and innovations at every moment.</p>
+
+        <p>From field sales experience as a new employee directly covering Busan Noksan Industrial Complex developing customers from zero base, to crisis management capabilities that generated over USD 1 million weekly operating profit during extreme Iran sanctions situations earning the Ministry of Trade, Industry and Energy Minister's Award, my strength lies in finding creative solutions under any difficult circumstances.</p>
+
+        <p>Particularly, the networks built over 25 years from Middle East high-ranking officials to Korean major corporation executives represent strategic partnerships based on mutual trust. The expansion from 17 to over 100 vessels at Bureau Veritas was also a result of these trust relationships.</p>
+
+        <p>The core reason I am applying for WR Group Korea Branch Manager position is my confidence that my strategic assets align to create synergies for WR Group's pursuit of successful Korea branch establishment and operations. Combining German headquarters' European foundation with my Asia-Middle East foundation can form global dual pillars, and adding my TIC industry experience and EPC project site understanding to WR Group's Certification and Project Logistics expertise can provide differentiated integrated services.</p>
+    </div>
+
+    <div class="section target-section">
+        <h2>BUSINESS PLAN & ASPIRATIONS POST-EMPLOYMENT</h2>
+
+        <div class="target-item">
+            <div class="phase-title">Phase 1 (Year 1): Immediate Execution Using Existing Networks</div>
+            
+            <div class="highlight">
+                <strong>Confirmed Project Pipeline</strong>
+            </div>
+            
+            <div class="highlight">
+                <strong>Hyundai Steel Industries Middle East Project Expansion</strong>
+                • Saudi Aramco Amiral Petrochemical Complex logistics services (USD 11 billion scale)<br>
+                • Phased expansion based on currently ongoing business relationships<br>
+                • Specialized logistics services for steel products including pipes, structural steel, plates
+            </div>
+
+            <div class="highlight">
+                <strong>Qatar Gas & Petronas EPC Mega Projects</strong>
+                • Participation in Qatar Gas North Field South Project logistics (USD 10 billion EPC)<br>
+                • Connection with Petronas Malaysia and Canada projects<br>
+                • Simultaneous utilization of existing Middle East networks and Bureau Veritas relationships
+            </div>
+
+            <div class="highlight">
+                <strong>Shipbuilding & Marine Plant Integrated Logistics</strong>
+                • Collaboration with Anma Offshore Wind 532MW project participants (SK Ecoplant, Daihan Cable)<br>
+                • Connection with HD Hyundai Heavy Industries Qatar offshore oil field EPCI project<br>
+                • Offshore wind/marine plant specialized equipment transport services<br>
+                • Participation in MRO business-related logistics for Korea-US logistics supply target
+            </div>
+
+            <div class="highlight">
+                <strong>Year 1 Targets</strong>
+                • <strong>Revenue:</strong> KRW 50 billion (200% achievement vs German headquarters target)<br>
+                • <strong>Core Customers:</strong> 15 companies secured (5 EPC majors + 3 shipbuilders + 7 Middle East local companies)<br>
+                • <strong>Differentiated Services:</strong> Complete multimodal/ESG eco-friendly logistics platform establishment
+            </div>
+        </div>
+
+        <div class="target-item">
+            <div class="phase-title">Phase 2 (Years 2-3): Asia Strategic Hub Completion</div>
+            
+            <div class="highlight">
+                <strong>Innovative Service Platform Development</strong>
+            </div>
+            
+            <div class="highlight">
+                <strong>ESG-Based Eco-Friendly Logistics Ecosystem</strong>
+                • 30% CO2 emission reduction multimodal services connected with German headquarters railway network<br>
+                • Specialized logistics systems for renewable energy projects including offshore wind and solar
+            </div>
+
+            <div class="highlight">
+                <strong>New Market Development</strong>
+                • Energy and mining projects utilizing Bureau Veritas Kazakhstan networks<br>
+                • Korea-Kazakhstan multimodal transport route commercialization<br>
+                • Natural gas development project logistics in Uzbekistan and Turkmenistan
+            </div>
+
+            <div class="highlight">
+                <strong>MRO Specialized Logistics Business</strong>
+                • Specialized logistics for existing customer maintenance parts (Doosan Enerbility, LG Energy Solution, etc.)<br>
+                • Supply chain establishment for marine plant/power plant preventive maintenance and emergency repair parts<br>
+                • Aviation/aerospace industry precision parts logistics service expansion
+            </div>
+
+            <div class="highlight">
+                <strong>Years 2-3 Targets</strong>
+                • <strong>Year 2 Revenue:</strong> KRW 90 billion (Asia regional hub completion)<br>
+                • <strong>Year 3 Revenue:</strong> KRW 150 billion (Top-tier Asia EPC logistics company)<br>
+                • <strong>Regional Expansion:</strong> Southeast Asia entry through Vietnam/Thailand/Indonesia hub establishment
+            </div>
+        </div>
+
+        <div class="target-item">
+            <div class="phase-title">Developing Korea Branch as Asia Strategic Hub</div>
+            
+            <div class="highlight">
+                <strong>Perfect Synergy with German Headquarters</strong>
+                • European business culture understanding + headquarters-local corporation cooperation system experience<br>
+                • Multimodal connection between German railway networks and Asia-Middle East maritime routes
+            </div>
+
+            <div class="highlight">
+                <strong>Driving WR Group Global Growth</strong>
+                • Completing Europe-Middle East-Asia triangular network through Asia EPC market preemption<br>
+                • Synergy between Korean technology (shipbuilding/nuclear/petrochemical) and German logistics innovation<br>
+                • Alternative supply chain role for global companies seeking to reduce China dependence
+            </div>
+        </div>
+
+        <div class="target-item">
+            <div class="phase-title">Long-term Vision: Global EPC Logistics Leader</div>
+            
+            <div class="highlight">
+                <strong>5-Year Target</strong>
+                • <strong>Revenue KRW 300 billion:</strong> #1 Asia EPC logistics market share<br>
+                • <strong>Regional Expansion:</strong> Asia-Pacific network encompassing Southeast Asia, India, Australia
+            </div>
+
+            <div class="highlight">
+                <strong>Korea Branch Role in WR Group Global Strategy</strong>
+                • Fusion of Western advanced logistics technology with Asian dynamic growth<br>
+                • Leading industry advancement through next-generation global logistics standards creation
+            </div>
+        </div>
+
+        <div class="target-item">
+            <div class="phase-title">Conclusion: Future to Create with WR Group</div>
+            <p>Based on 25 years of global logistics experience and exclusive network assets, I will develop WR Group Korea branch not as a simple local corporation but as a strategic growth engine encompassing all of Asia.</p>
+            
+            <p>My Middle East royalty/government/corporate networks, direct relationships with Korean EPC majors, global project experience through current workplace client networks, and European market understanding represent perfect strategic assets for WR Group to secure an unparalleled position in Asian markets.</p>
+            
+            <p>Particularly, based on diverse and extensive current workplace networks, can create natural synergies with logistics business while providing differentiated logistics services.</p>
+            
+            <p><strong>Where WR Group's innovative vision meets my execution capabilities, we will together achieve historic performance creating new standards in the global EPC logistics industry.</strong></p>
+        </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 40px; padding: 20px; background: #f8f9fa; border-radius: 8px;">
+        <strong>September 2, 2025</strong><br>
+        <strong style="font-size: 1.2em; color: #1e3c72;">Sang Jin Han</strong>
+    </div>
+</body>
+</html>

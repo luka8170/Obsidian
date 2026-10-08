@@ -1,0 +1,498 @@
+Received: from KOVHHVMC.hanjin.com ([172.20.10.130]) by kovhgvme.hanjin.com
+ ([203.246.154.25]) with mapi id 14.03.0123.003; Fri, 15 Nov 2013 19:58:41
+ +0900
+From: Jin-Ki PARK <jkpark@hanjin.com>
+To: Chil-Ho KIM <chilhkim@hanjin.com>, Sang-Keun KIM <sangkkim@hanjin.com>,
+	Dae-Kyu KIM <forbong@hanjin.com>, Seon-Young HWANG <syhwang@hanjin.com>,
+	Kwang-Oog RYU <ryuko@hanjin.com>, Seon-Woo NAM <swnam@hanjin.com>,
+	"YI(Yong-In) Lee" <yilee@hanjin.com>, Jin-Woo AHN <jwahn@hanjin.com>,
+	Sang-Real BAEK <srbaek@hanjin.com>, Soo-Hyun KONG <shkong@hanjin.com>,
+	Joon-Sang PARK <jspark1@hanjin.com>, Boo-Young CHUNG <byjung@hanjin.com>,
+	"JS(Ji-Suk) KIM" <jskim@hanjin.com>, "Rainbow(Chae-Hong) LEE"
+	<chonglee@hanjin.com>, "SW(Seung-Woo) OH" <swoh@hanjin.com>, Kang-Soo KIM
+	<kskim03@hanjin.com>, "MY(Mun-Young) KIM" <mykim@hanjin.com>, Hee-Do PARK
+	<hdpark@hanjin.com>, Man-Seok MOON <msmoon@hanjin.com>, Dong-Hwan KIM
+	<kimdh@hanjin.com>, "David(Hyoung-Wook) PARK" <hwpark@hanjin.com>,
+	"JH(Jong-Hoon) KIM" <jhkima@hanjin.com>, Jung-Hwan PARK
+	<jhpark323@hanjin.com>, Chan-Young KANG <cykang@hanjin.com>, Han-Jong KANG
+	<hjkang@hanjin.com>, Eung-Sig BAI <esbae@hanjin.com>, Dae-Won KANG
+	<dwkang@hanjin.com>, Jae-Hee JANG <jhjang@hanjin.com>, Kyu-Hyun SONG
+	<khsong@hanjin.com>, Yeong-Sig PARK <parkys@hanjin.com>, Hoon PARK
+	<hpark@hanjin.com>, Jung-Seo MOON <jsmoona@hanjin.com>, Man-Young HUR
+	<myhur@hanjin.com>, "JM(Jeong-Min) LEE" <jmlee@hanjin.com>, Myung-Sik PARK
+	<parkms@hanjin.com>, "S. J. (Seung-Jong) PARK" <sjpark@hanjin.com>, Young-Kuk
+ YUN <ykyun@hanjin.com>, Cheong-Rim WOO <clwoo@hanjin.com>, Young-Chung OK
+	<ycok@hanjin.com>, Ju-Sig CHO <jscho@hanjin.com>, Hyung-Su KIM
+	<hskim@hanjin.com>, Dae-Young KANG <dykang@hanjin.com>, "JC(Jin-Cheol) KIM"
+	<kjc10@hanjin.com>
+CC: Young-Ho SON <yhson@hanjin.com>, Yoon-Han JUNG <jungyh@hanjin.com>,
+	Kuk-Jong Lee <kjlee@hanjin.com>, Young-Jun LIM <yjlim@hanjin.com>,
+	"HH(Han-Hoe) KIM" <hhkim@hanjin.com>, Cheon-Won PACK <cwpark@hanjin.com>,
+	Deok-Lim CHOI <dlchoi@hanjin.com>, Jong-Suk LIM <jslim@hanjin.com>, Sang-Soo
+ LEE <2ss@hanjin.com>, Ho-Sik PARK <hspark@hanjin.com>, "Edward(Kwang-Min)
+ LEE" <kmlee@hanjin.com>, "Dynia(Min-Sun) Kim" <mskim@hanjin.com>, Sungjae
+ Kang <sjkang81@hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>,
+	Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK <hunt72@hanjin.com>,
+	SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim <wjkim@hanjin.com>,
+	"Daisy(Ji-Kyong) BHANG" <jkbhang@hanjin.com>, "TH(Tae-Hoon) AN"
+	<than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Yoo-Kyung KIM
+	<kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, "Lloyd(Woosik) Yang"
+	<shakin@hanjin.com>, "Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>, Bae-Young
+ SUH <bysuh@hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>, "Jessie(Ji-Soo)
+ YOON" <jessyoon@hanjin.com>, Sang-Young SHIN <syshin@hanjin.com>, Ken-Hyoung
+ HONG <khhong@hanjin.com>, Tae-Jin KIM <ktj5274@hanjin.com>, Hye-In AHN
+	<hiahn@hanjin.com>, "Matt(Wonil) Choi" <willchoi@hanjin.com>, Sung-Ku KIM
+	<imsungku@hanjin.com>
+Subject: =?ks_c_5601-1987?B?UkU6IFlpZWxkIE1HTVQgsK3IrSDA5yC/5MO7?=
+Thread-Topic: =?ks_c_5601-1987?B?WWllbGQgTUdNVCCwrcitIMDnIL/kw7s=?=
+Thread-Index: Ac7h5WrZc2a93TbHRb6QmGezxlqGUgACuQOx
+Disposition-Notification-To: Jin-Ki PARK <jkpark@hanjin.com>
+Date: Fri, 15 Nov 2013 19:58:40 +0900
+Message-ID: <87CC1CEDE38E524BBDE1E5875665DD30022315@kovhhvmc.hanjin.com>
+References: <3B2C0F46C9EFA442B161F4F60AB3B97D05BC30@cow380f.hanjin.com>
+In-Reply-To: <3B2C0F46C9EFA442B161F4F60AB3B97D05BC30@cow380f.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: kovhgvme.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.246.154.253]
+Content-Type: multipart/alternative;
+	boundary="_000_87CC1CEDE38E524BBDE1E5875665DD30022315kovhhvmchanjincom_"
+MIME-Version: 1.0
+
+--_000_87CC1CEDE38E524BBDE1E5875665DD30022315kovhhvmchanjincom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+VE8gOiBBU0cNCkZNIDogU1NUDQoNCiAgICAgIMD7wP3H0SDB9sGhIEd1aWRlv6EgsKi757XluLO0
+z7TZLiDH9sDnIMi4u+ewoSDDs8fRILHXIL7utrIguLu3ziC8s7jtx8+x4iDI+7XnIL3JsKLH0Q0K
+u/PIssDUtM+02S4gwba808j3IMHWsKMgtNzApyDI5sDauKYgvcPH9sShILj4IMfSILDmv+wgu/3B
+uMDaw7ywoSC60rChtMnHz7TZtMIgwaHAuiC89sL3DQq6u7rOwOW01LXpv6Gw1LTCILyzuO215biw
+ILDHwNS0z7TZLg0KDQq6u7vntbUgwPwgQ1RZIMDOt8LAuyC1v7/4x8+/qSDBobzSurAgWWllbGQg
+u/PIssC7IMHWwvcgtNzApyDBobDLx9IgsM3AzLjnILq7us6/obyttbUgud215b3DDQrAzrvztcgg
+yK25sLfOIG1heCBML0a4piDAr8H2IMfSILz2IMDWtbW3zyDH9sDlIMGhvNK4piDDtsD6yPcgsPy4
+riCwqLW2x8+/qSDB1r3DseIgudm2+LTPtNkuDQrAzLevx9EgwfbEp7+hILTrx9EgZm9sbG93sKEg
+vNLIpsfPsMWzqiBZaWVsZL+hILTrx8+/qSDA+7HYwPsgbGVhZGluZ8DMILj4IMfRIMH2waHAxyCw
+5r/sv6G0wg0Kuru757W1ILHXIGFjdGlvbsC7IMPrx9IgsM3AzLOqILq7us61tSC53bXlvcMgwbbE
+obChIMPrx9ggwfogvPYgwNa1tbfPIMfPv6kgwda9w7HiILnZtvi0z7TZLg0KDQrGr8j3LCC/7sDT
+IMDOu/MgsPy3wywgWWllbGQgsPy3wyDIrcHWtenAxyC60ri4wLogxse4xb/4tenAzCC+y77GvK0g
+wPux2MD7wLi3ziDIrcHWv80gv+y4rr/NwMcNCrD8sOi/obytILmuwaawoSC537v9xKEgvsq1tbfP
+IGRhbWFnZSBjb250cm9swLsgx8+/qb7fIMfPtMIgsM3AzLOqILCjyKQgyK3B1sDHILrSuLjAuyC6
+u7vnLA0Kuru6zr+hIMXkt87Hz7TCILDNwMwgxse4xb/4wMcgvve5q7fOIML4sKLHz7TCILDmv+yw
+oSDA1rTCILnZIMDMIMGhIL+qvcMgx/bA5SDBobzSv6Egw+a60Mj3DQpHdWlkZSDH2CDB1r3DseIg
+udm2+LTPtNkuDQoNCmIucmdkcw0KDQoNCg0KDQoNCl9fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fDQpGcm9tIDogIkNoaWwtSG8gS0lNIiA8Y2hpbGhraW1AaGFuamluLmNvbT4NClNlbnQg
+OiAyMDEzLTExLTE1IDE4OjMxOjQ4ICggKzA5OjAwICkNClRvIDogU2FuZy1LZXVuIEtJTSA8c2Fu
+Z2traW1AaGFuamluLmNvbT4sIERhZS1LeXUgS0lNIDxmb3Jib25nQGhhbmppbi5jb20+LCBTZW9u
+LVlvdW5nIEhXQU5HIDxzeWh3YW5nQGhhbmppbi5jb20+LCBLd2FuZy1Pb2cgUllVIDxyeXVrb0Bo
+YW5qaW4uY29tPiwgU2Vvbi1Xb28gTkFNIDxzd25hbUBoYW5qaW4uY29tPiwgWUkoWW9uZy1Jbikg
+TGVlIDx5aWxlZUBoYW5qaW4uY29tPiwgSmluLVdvbyBBSE4gPGp3YWhuQGhhbmppbi5jb20+LCBT
+YW5nLVJlYWwgQkFFSyA8c3JiYWVrQGhhbmppbi5jb20+LCBTb28tSHl1biBLT05HIDxzaGtvbmdA
+aGFuamluLmNvbT4sIEpvb24tU2FuZyBQQVJLIDxqc3BhcmsxQGhhbmppbi5jb20+LCBCb28tWW91
+bmcgQ0hVTkcgPGJ5anVuZ0BoYW5qaW4uY29tPiwgSlMoSmktU3VrKSBLSU0gPGpza2ltQGhhbmpp
+bi5jb20+LCBSYWluYm93KENoYWUtSG9uZykgTEVFIDxjaG9uZ2xlZUBoYW5qaW4uY29tPiwgU1co
+U2V1bmctV29vKSBPSCA8c3dvaEBoYW5qaW4uY29tPiwgS2FuZy1Tb28gS0lNIDxrc2tpbTAzQGhh
+bmppbi5jb20+LCBNWShNdW4tWW91bmcpIEtJTSA8bXlraW1AaGFuamluLmNvbT4sIEhlZS1EbyBQ
+QVJLIDxoZHBhcmtAaGFuamluLmNvbT4sIE1hbi1TZW9rIE1PT04gPG1zbW9vbkBoYW5qaW4uY29t
+PiwgRG9uZy1Id2FuIEtJTSA8a2ltZGhAaGFuamluLmNvbT4sIERhdmlkKEh5b3VuZy1Xb29rKSBQ
+QVJLIDxod3BhcmtAaGFuamluLmNvbT4sIEpIKEpvbmctSG9vbikgS0lNIDxqaGtpbWFAaGFuamlu
+LmNvbT4sIEp1bmctSHdhbiBQQVJLIDxqaHBhcmszMjNAaGFuamluLmNvbT4sIENoYW4tWW91bmcg
+S0FORyA8Y3lrYW5nQGhhbmppbi5jb20+LCBIYW4tSm9uZyBLQU5HIDxoamthbmdAaGFuamluLmNv
+bT4sIEV1bmctU2lnIEJBSSA8ZXNiYWVAaGFuamluLmNvbT4sIERhZS1Xb24gS0FORyA8ZHdrYW5n
+QGhhbmppbi5jb20+LCBKYWUtSGVlIEpBTkcgPGpoamFuZ0BoYW5qaW4uY29tPiwgS3l1LUh5dW4g
+U09ORyA8a2hzb25nQGhhbmppbi5jb20+LCBZZW9uZy1TaWcgUEFSSyA8cGFya3lzQGhhbmppbi5j
+b20+LCBIb29uIFBBUksgPGhwYXJrQGhhbmppbi5jb20+LCBKdW5nLVNlbyBNT09OIDxqc21vb25h
+QGhhbmppbi5jb20+LCBNYW4tWW91bmcgSFVSIDxteWh1ckBoYW5qaW4uY29tPiwgSk0oSmVvbmct
+TWluKSBMRUUgPGptbGVlQGhhbmppbi5jb20+LCBNeXVuZy1TaWsgUEFSSyA8cGFya21zQGhhbmpp
+bi5jb20+LCBTLiBKLiAoU2V1bmctSm9uZykgUEFSSyA8c2pwYXJrQGhhbmppbi5jb20+LCBZb3Vu
+Zy1LdWsgWVVOIDx5a3l1bkBoYW5qaW4uY29tPiwgQ2hlb25nLVJpbSBXT08gPGNsd29vQGhhbmpp
+bi5jb20+LCBZb3VuZy1DaHVuZyBPSyA8eWNva0BoYW5qaW4uY29tPiwgSnUtU2lnIENITyA8anNj
+aG9AaGFuamluLmNvbT4sIEh5dW5nLVN1IEtJTSA8aHNraW1AaGFuamluLmNvbT4sIERhZS1Zb3Vu
+ZyBLQU5HIDxkeWthbmdAaGFuamluLmNvbT4sIEpDKEppbi1DaGVvbCkgS0lNIDxramMxMEBoYW5q
+aW4uY29tPg0KQ2MgOiBZb3VuZy1IbyBTT04gPHloc29uQGhhbmppbi5jb20+LCBZb29uLUhhbiBK
+VU5HIDxqdW5neWhAaGFuamluLmNvbT4sIEppbi1LaSBQQVJLIDxqa3BhcmtAaGFuamluLmNvbT4s
+IEt1ay1Kb25nIExlZSA8a2psZWVAaGFuamluLmNvbT4sIFlvdW5nLUp1biBMSU0gPHlqbGltQGhh
+bmppbi5jb20+LCBISChIYW4tSG9lKSBLSU0gPGhoa2ltQGhhbmppbi5jb20+LCBDaGVvbi1Xb24g
+UEFDSyA8Y3dwYXJrQGhhbmppbi5jb20+LCBEZW9rLUxpbSBDSE9JIDxkbGNob2lAaGFuamluLmNv
+bT4sIEpvbmctU3VrIExJTSA8anNsaW1AaGFuamluLmNvbT4sIFNhbmctU29vIExFRSA8MnNzQGhh
+bmppbi5jb20+LCBIby1TaWsgUEFSSyA8aHNwYXJrQGhhbmppbi5jb20+LCBFZHdhcmQoS3dhbmct
+TWluKSBMRUUgPGttbGVlQGhhbmppbi5jb20+LCBEeW5pYShNaW4tU3VuKSBLaW0gPG1za2ltQGhh
+bmppbi5jb20+LCBTdW5namFlIEthbmcgPHNqa2FuZzgxQGhhbmppbi5jb20+LCBNRChNeXVuZy1E
+ZW9rKSBDSE8gPG1kY2hvQGhhbmppbi5jb20+LCBTZXVuZy1NaW4gUEFSSyA8c21pbnBhcmtAaGFu
+amluLmNvbT4sIE5hbS1Ib29uIEJBSUsgPGh1bnQ3MkBoYW5qaW4uY29tPiwgU0goU1VLLUhXQU4p
+IEpVTkcgPGNoMDIxQGhhbmppbi5jb20+LCBXb29qdW5nIEtpbSA8d2praW1AaGFuamluLmNvbT4s
+IERhaXN5KEppLUt5b25nKSBCSEFORyA8amtiaGFuZ0BoYW5qaW4uY29tPiwgVEgoVGFlLUhvb24p
+IEFOIDx0aGFuQGhhbmppbi5jb20+LCBTYW5nLUppbiBIQU4gPHNqaGFuQGhhbmppbi5jb20+LCBZ
+b28tS3l1bmcgS0lNIDxraW15a0BoYW5qaW4uY29tPiwgQXJhbSBLSU0gPGFyYW1AaGFuamluLmNv
+bT4sIExsb3lkKFdvb3NpaykgWWFuZyA8c2hha2luQGhhbmppbi5jb20+LCBMdXRoKEt5dW5nLVdv
+bikgQ0hPSSA8bHV0aGNob2lAaGFuamluLmNvbT4sIEJhZS1Zb3VuZyBTVUggPGJ5c3VoQGhhbmpp
+bi5jb20+LCBKZW9uZy1KYWUgQ0hPSSA8ampjaG9pQGhhbmppbi5jb20+LCBKZXNzaWUoSmktU29v
+KSBZT09OIDxqZXNzeW9vbkBoYW5qaW4uY29tPiwgU2FuZy1Zb3VuZyBTSElOIDxzeXNoaW5AaGFu
+amluLmNvbT4sIEtlbi1IeW91bmcgSE9ORyA8a2hob25nQGhhbmppbi5jb20+LCBUYWUtSmluIEtJ
+TSA8a3RqNTI3NEBoYW5qaW4uY29tPiwgSHllLUluIEFITiA8aGlhaG5AaGFuamluLmNvbT4sIE1h
+dHQoV29uaWwpIENob2kgPHdpbGxjaG9pQGhhbmppbi5jb20+LCBTdW5nLUt1IEtJTSA8aW1zdW5n
+a3VAaGFuamluLmNvbT4NClN1YmplY3QgOiBZaWVsZCBNR01UILCtyK0gwOcgv+TDuw0KDQpUTyA6
+IEJCR3MgdW5kZXIgU0hBQVMNCkNDIDogUkFTLCBTU0MsIFNTVCwgQ0NBLCBDQ0UsIENDTSwgQ0NZ
+DQpGTSA6IEFTRw0KDQoxMS8xwM+6ziCxuMHWLCC+xsHWILnXILOyucwgs+u8sSBSLlIgwPu/68DM
+ILXHvvrAuLjnILrOutDA+8C4t84gvLqw+MD7wM4guOmw+iC02bzSIL7Gvay/8g0KuOm1tSDA1rTC
+sNQgu+e9x8DUtM+02S4gsde4rrDtILHdwM8oMTEvMTXAz7rOKbfOILnMwdYgs+u8sb+hILTrx9i8
+rbW1IEdSSSDA+7/rwMwgtce++r3AtM+02Q0KDQq6u7vnLCC6u7rOILnXILCiILTjtOfA2rChIFRy
+YWRlL3N1YiB0cmFkZbqwt84gWWllbGQgTUdNVL+hILTrx9ggu/O8vMfRIEd1aWRlwLsgxevH2A0K
+wfa80yCwrcG2uKYgx8+w7SDA1rDtLCDH9sDlv6G8rbW1IMDPus4gyK3B1rXpt866zsXNILrSuLjA
+zCDA1sH2uLggwfax3bHuwfa0wiDA3yDH2MHWvcOw7Q0KwNa0wiCwzcC4t84guri/qSDB/bTPtNku
+IMfPwfa4uCDAz7rOIMH2v6ogudcgs+u8sb+hvK0gu+fA/CBCS0cgRGF0YSC51yC9x8D7IMGhsMsg
+sOGw+g0KTG93IFBheWluZ8itwdYgubC3rsDMIMbysdXAzLvzILyxwPu1x7DtIMDWsMWzqiwgwPzD
+vMD7wLi3ziBSLlIgwPzIxCC03Lz4ILrxsbMgvcMNCkNNUEKwoSBSLlIuIMD7v+sgwdbC97+hIMfP
+tvS1x7TCILDmv+y1tSDA1r3AtM+02S4gtb8gQ2FzZb+hILTrx9i8rSC/+MDOILHUuO0gwd+/oSDA
+1r3AtM+02Q0KDQq1+7bzvK0gwMy5+CCx4si4uKYgw9a068fRIMPrx8/A2rTCIMP4uOm/obytIL7G
+t6G/zSCwsMDMIFlpZWxkIE1nbXS/oSC068fYILjuILChwfYgwOcgsK3BtrimDQq15biuv8C0zyDD
+tsD6yPcgwdi89sfPv6kgwda9w7HiILnZtvi0z7TZLg0KDQoxLiCxuMHWILPrvLEgWWllbGQgTWFu
+YWdlbWVudCDB9rzTwLsgxevH0SC89sDNvLogwfW06w0KICAgIC0gMTEvMcDPIFIuUiDAzMjEIL/u
+wNMguq+1v8DMIMH2vNO1x7DtIMDWwfa4uCDH9sDnwMcgTWFya2V0IL/uwNPAuyDF68fYIMPWtOvH
+0SC89sDNDQogICAgICDDosPiwMwgtckgvPYgwNa1tbfPIMf2IL+psMfHz7+hvK0gw9a068fRILz2
+wM28usC7ILDtt8HH0SC8sbq5ILD8uK4gwfa808fPv6kgwda9w7HiILnZtvO45w0KICAgIC0gwM+6
+ziDFqyDG+MDHIEYnIENhc3QgvuC8vLimILq4wMy0wiBNRUQgs+u8sb+hILTrx9i8rbTCIMD7waQg
+vPbB2CBML0YgwK/B9rChIMfKv+TH0cGhILDtt8ENCiAgICAgILHiwbggyK3B1iC5sLeuIMPWtOvH
+0SC55r7uv80gTG9zdCDIrbmwIMDnIMCvxKHHz7+pIMHWvcOx4iC52bb4tM+02S4NCg0KMi4gs7K5
+zCCz67yxDQogICAgLSBFQywgV0Mgs+u8sSBHUkmwoSC8urD4wPvAuLfOIMbHtNy1y7TPtNkuIMDP
+us4gyK3B1rfOILrOxc0gv+7A0yDAzsfPIL7QudrAzCDA1rDtLCC2x8fRDQogICAgICBXQ1NBwMcg
+sOa/7CBGJyBDYXN0tbUgwfazrSAyLTPB1rTruvEgvuAgMTAlIMGktbUgx8+29LXIIL7nu/PAzLOq
+LCC9w8DlIERlbWFuZMDHILHZurvAzCDI57XpuK6w7Q0KICAgICAgwNa02bDttMIgxse03LXHwfYg
+vsq0wiC52SwgwMy5+CCx4si4v6EgvcfB+sD7wM4gyK3B1iC02bqvyK2woSC1ySC89iDA1rW1t88g
+tOvH/CDIrcHWwMcgTmFtZWQgQklaDQogICAgICC68cHfwLsgw+C80sfPsO0gvPbAzby6wMwgs/TA
+uiBGQUsgb3IgvPbAzby6wMwgs/TAuiCw7cGkIMitwdYgwK/EoSC4tsH2uLcgseLIuLfOILq4vcOw
+7Q0KICAgICAgwffBoiBCb29raW5nILvzyLIgTW9uaXRvcmluZ8fPv6kgwda9w7HiILnZtvi0z7TZ
+LiDC/LDtt84gMTEvMSwgOcDPus63ziC068f8IE5WT0NDwMcNCiAgICAgIExvdyBwYXlpbmcgbmFt
+ZWQgQklasKEgwOWx4iCw6L7gwLi3ziBHUkkgwPu/68DMIL7ItcggyK3B1rTCIL74vcC0z7TZLg0K
+DQozLiBJQVMNCiAgIC0gwd+1vywgyKvH2LPrvLEgUi5SIMi/sPqwoSC5zLnMx8+zqiCx1yDB3yC8
+9sDNvLrAzCCz9MC6IMitwdYsIERFU1SwoSC60LjtyPcgwNa9wLTPtNkNCiAgICAgx/bA5yC/qbDH
+x8+/obytIMPWtOvH0SC89sDNvLq/oSCx4rndx9EgyK3B1iCxuLy6L7qvyK0sIERFU1TGx7jFILXu
+wMwgtckgvPYgwNa1tbfPIMG2xKHHz7+pDQogICAgIMHWvcOw7SwgIMijwdYgs+u8sb+hILTrx9i8
+rbTCILyxurkgwbbA/SC/tcfiwLi3ziAxMC8yNMDPIFIuUiDIv7D6sKEgwfa80yC1x7DtIMDWvcC0
+z7TZDQogICAgIMfPwfa4uCA5LzEwv/kgv+7A08DMIMPWwPrAzyC2pyDAz7rOILDovuC1yCBOVk9D
+QyBOYW1lZCDIrcHWILmwt64gxevBprChIMfKv+Qgx9W0z7TZLg0KICAgICCx4iBHdWlkZcfRILnZ
+v80gsLDAzCBIS0cgQmFzZSAgTlZPQ0PAxyBOYW1lZCBBQ0NUv6EgtOvH2LyttMIgwfbBobqwIEd1
+aWRlx9ENCiAgICAgufzAp7O7v6EgvLHA+8DMILXJvPYgwNa1tbfPIEJLRyCw/LiuIMfPv6kgwda9
+w7HiILnZtvi0z7TZLiDC/LDtt84gtb8gTmFtZWQgQklav6ENCiAgICAgtOvH2CCx4sG4IL/uwNO0
+67rxIMPWvNIgVSQyMDAvNDAwKFQvRinAuyAxMS8yMsDPus63ziDAzrvzwMwgseDBpMD7wLi3ziDB
++Mfgwd+/oSDA1r3AtM+02Q0KDQo0LiBUUEUNCiAgIC0gsd3AzyBQb3N0IEdSSSC/7sDTIL3DwOUg
+v+7A07D6IL+ssOjHz7+pIMDnIFNldHRpbmcgx8+/tL3AtM+02Q0KICAgICBOVk9DQyBTcG90IFJh
+dGWwoSDAz7rOIEJDTyC/7sDTuri02SCz9L7Gwfy/obX7tvMgTlZPQ0MgubC3riDB9bTruKYgxevH
+2CCz67yxDQogICAgILz2wM28uiCws7yxwMwgtckgvPYgwNa1tbfPIMHWv+QgTlZPQ0Mgu9O4uL7G
+tM+28yDB37zSx/wgTlZPQ0O3ziC6zsXNILmwt64gwfW067ChDQogICAgILXJILz2IMDWtbW3zyBO
+Vk9DQ7+hILTrx9EgudDC+CC/tb73ILrOxbm15biuuOcsIEFXRbPrvLHAxyBGJ2Nhc3QssKEgMTG/
++b+htbUgwfa80w0KICAgICCwrby8wM7BocC7ILDtt8EgSGlnaCBSRVYgubC3rsDMIMPWtOvH0SC8
+scD7ILXJvPYgwNa1tbfPILPrt8LHz7+pIMHWvcOw7Swgw9ax2SCwocDlILO3wLoNCiAgICAgvcfA
++7D6IEYnQ2FzdLimILq4wMyw7SDA1rTCIFBOV7PrvLG/oSC068fYvK0sIMSzs6q02SC1v7rOIEQ1
+IFByb21vdGlvbiwgUE4gUG9ydA0KICAgICBMb2NhbCC5sLeuwfW06ywgIENBUFJSILDmwK8gTWlk
+IFdlc3QgSVBJILmwt64gwfW067XuILnMwdYgs+u8sSDB38GhIMbHuMUgSXRlbXO/oSC068fYDQog
+ICAgIMH2vNPA+8DOIMbHuMUgsK3IrSC6zsW5ILXluLO0z7TZLg0KDQogICAgu/Ox4r/NILCwwMwg
+sKIgs+u8sb+hILTrx9ggWWllbGQgTWdudL+hILTrx9ggwOcgsK3BtiDHz7+0wLi45ywgMTG/+SDA
+/MXrwPvAziC68bz2seK287DtDQogIMfPwfa4uCBDUFO4piDF68fRILD4sd4gwbbA/SwgsKIgs+u8
+sbqwIDExLCAxMr/5IEdSSS9SUsDMIL+5waS1x77uIMDWtMLBoSC17sC7ILDtt8HHz7+pDQogIMH2
+waHA5bTUtemysryttMIgwPwgs+u8sSwgwPwgyK3B1iC067vzwLi3ziBZaWVsZCBNR05UsKEgtcm8
+9iDA1rW1t88guMXB+MfPv6kgwda9w7HiILnZtvi0z7TZLg0KICCwqLvnx9W0z7TZDQoNCiAgQi5S
+R0RTDQogIENIIEtJTQ0KDQoNCg0KDQo=
+
+--_000_87CC1CEDE38E524BBDE1E5875665DD30022315kovhhvmchanjincom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+</head>
+<body>
+<div style=3D"FONT-FAMILY: =B8=BC=C0=BA =B0=ED=B5=F1; FONT-SIZE: 12pt" id=
+=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>TO : ASG</div>
+<div>FM : SST</div>
+<div>&nbsp;</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =C0=FB=C0=FD=C7=D1 =C1=F6=C1=A1 Guide=
+=BF=A1 =B0=A8=BB=E7=B5=E5=B8=B3=B4=CF=B4=D9. =C7=F6=C0=E7 =C8=B8=BB=E7=B0=
+=A1 =C3=B3=C7=D1 =B1=D7 =BE=EE=B6=B2 =B8=BB=B7=CE =BC=B3=B8=ED=C7=CF=B1=E2 =
+=C8=FB=B5=E7 =BD=C9=B0=A2=C7=D1</div>
+<div>=BB=F3=C8=B2=C0=D4=B4=CF=B4=D9. <strong><font color=3D"#ff0000">=C1=B6=
+=BC=D3=C8=F7 =C1=D6=B0=A3 =B4=DC=C0=A7 =C8=E6=C0=DA=B8=A6 =BD=C3=C7=F6=C4=
+=A1 =B8=F8 =C7=D2 =B0=E6=BF=EC =BB=FD=C1=B8=C0=DA=C3=BC=B0=A1 </font><font =
+color=3D"#ff0000">=BA=D2=B0=A1</font><font color=3D"#ff0000">=B4=C9</font><=
+/strong>=C7=CF=B4=D9=B4=C2 =C1=A1=C0=BA =BC=F6=C2=F7</div>
+<div>=BA=BB=BA=CE=C0=E5=B4=D4=B5=E9=BF=A1=B0=D4=B4=C2 =BC=B3=B8=ED=B5=E5=B8=
+=B0 =B0=C7=C0=D4=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>=BA=BB=BB=E7=B5=B5 =C0=FC CTY =C0=CE=B7=C2=C0=BB =B5=BF=BF=F8=C7=CF=BF=
+=A9 =C1=A1=BC=D2=BA=B0 Yield =BB=F3=C8=B2=C0=BB =C1=D6=C2=F7 =B4=DC=C0=A7 =
+=C1=A1=B0=CB=C7=D2 =B0=CD=C0=CC=B8=E7 =BA=BB=BA=CE=BF=A1=BC=AD=B5=B5 =B9=DD=
+=B5=E5=BD=C3 </div>
+<div>=C0=CE=BB=F3=B5=C8 =C8=AD=B9=B0=B7=CE max L/F=B8=A6 =C0=AF=C1=F6 =C7=
+=D2 =BC=F6 =C0=D6=B5=B5=B7=CF =C7=F6=C0=E5 =C1=A1=BC=D2=B8=A6 =C3=B6=C0=FA=
+=C8=F7 =B0=FC=B8=AE =B0=A8=B5=B6=C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=
+=F8=B4=CF=B4=D9.</div>
+<div>=C0=CC=B7=AF=C7=D1&nbsp;=C1=F6=C4=A7=BF=A1 =B4=EB=C7=D1 follow=B0=A1&n=
+bsp;=BC=D2=C8=A6=C7=CF=B0=C5=B3=AA Yield=BF=A1 =B4=EB=C7=CF=BF=A9 =C0=FB=B1=
+=D8=C0=FB leading=C0=CC =B8=F8 =C7=D1 =C1=F6=C1=A1=C0=C7 =B0=E6=BF=EC=BF=A1=
+=B4=C2 </div>
+<div>=BA=BB=BB=E7=B5=B5 =B1=D7 action=C0=BB =C3=EB=C7=D2 =B0=CD=C0=CC=B3=AA=
+ =BA=BB=BA=CE=B5=B5 =B9=DD=B5=E5=BD=C3 =C1=B6=C4=A1=B0=A1 =C3=EB=C7=D8 =C1=
+=FA =BC=F6 =C0=D6=B5=B5=B7=CF =C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=
+=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>=C6=AF=C8=F7, =BF=EE=C0=D3 =C0=CE=BB=F3 =B0=FC=B7=C3, Yield =B0=FC=B7=
+=C3 =C8=AD=C1=D6=B5=E9=C0=C7 =BA=D2=B8=B8=C0=BA =C6=C7=B8=C5=BF=F8=B5=E9=C0=
+=CC =BE=CB=BE=C6=BC=AD =C0=FB=B1=D8=C0=FB=C0=B8=B7=CE =C8=AD=C1=D6=BF=CD =
+=BF=EC=B8=AE=BF=CD=C0=C7 </div>
+<div>=B0=FC=B0=E8=BF=A1=BC=AD =B9=AE=C1=A6=B0=A1 =B9=DF=BB=FD=C4=A1 =BE=CA=
+=B5=B5=B7=CF damage control=C0=BB =C7=CF=BF=A9=BE=DF =C7=CF=B4=C2 =B0=CD=C0=
+=CC=B3=AA&nbsp;=B0=A3=C8=A4&nbsp;=C8=AD=C1=D6=C0=C7 =BA=D2=B8=B8=C0=BB =BA=
+=BB=BB=E7, </div>
+<div>=BA=BB=BA=CE=BF=A1 =C5=E4=B7=CE=C7=CF=B4=C2 =B0=CD=C0=CC =C6=C7=B8=C5=
+=BF=F8=C0=C7 =BE=F7=B9=AB=B7=CE =C2=F8=B0=A2=C7=CF=B4=C2 =B0=E6=BF=EC=B0=A1=
+ =C0=D6=B4=C2 =B9=D9 =C0=CC =C1=A1 =BF=AA=BD=C3 =C7=F6=C0=E5 =C1=A1=BC=D2=
+=BF=A1 =C3=E6=BA=D0=C8=F7</div>
+<div>Guide =C7=D8 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>b.rgds</div>
+<div>&nbsp;</div>
+<div><br>
+<br>
+&nbsp;</div>
+<div id=3D"MailSignSent"></div>
+<div><br>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div style=3D"FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<hr tabindex=3D"-1">
+<b>From : </b>&quot;Chil-Ho KIM&quot; &lt;chilhkim@hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-15 18:31:48 ( &#43;09:00 )<br>
+<b>To : </b>Sang-Keun KIM &lt;sangkkim@hanjin.com&gt;, Dae-Kyu KIM &lt;forb=
+ong@hanjin.com&gt;, Seon-Young HWANG &lt;syhwang@hanjin.com&gt;, Kwang-Oog =
+RYU &lt;ryuko@hanjin.com&gt;, Seon-Woo NAM &lt;swnam@hanjin.com&gt;, YI(Yon=
+g-In) Lee &lt;yilee@hanjin.com&gt;, Jin-Woo AHN &lt;jwahn@hanjin.com&gt;,
+ Sang-Real BAEK &lt;srbaek@hanjin.com&gt;, Soo-Hyun KONG &lt;shkong@hanjin.=
+com&gt;, Joon-Sang PARK &lt;jspark1@hanjin.com&gt;, Boo-Young CHUNG &lt;byj=
+ung@hanjin.com&gt;, JS(Ji-Suk) KIM &lt;jskim@hanjin.com&gt;, Rainbow(Chae-H=
+ong) LEE &lt;chonglee@hanjin.com&gt;, SW(Seung-Woo) OH &lt;swoh@hanjin.com&=
+gt;,
+ Kang-Soo KIM &lt;kskim03@hanjin.com&gt;, MY(Mun-Young) KIM &lt;mykim@hanji=
+n.com&gt;, Hee-Do PARK &lt;hdpark@hanjin.com&gt;, Man-Seok MOON &lt;msmoon@=
+hanjin.com&gt;, Dong-Hwan KIM &lt;kimdh@hanjin.com&gt;, David(Hyoung-Wook) =
+PARK &lt;hwpark@hanjin.com&gt;, JH(Jong-Hoon) KIM &lt;jhkima@hanjin.com&gt;=
+,
+ Jung-Hwan PARK &lt;jhpark323@hanjin.com&gt;, Chan-Young KANG &lt;cykang@ha=
+njin.com&gt;, Han-Jong KANG &lt;hjkang@hanjin.com&gt;, Eung-Sig BAI &lt;esb=
+ae@hanjin.com&gt;, Dae-Won KANG &lt;dwkang@hanjin.com&gt;, Jae-Hee JANG &lt=
+;jhjang@hanjin.com&gt;, Kyu-Hyun SONG &lt;khsong@hanjin.com&gt;, Yeong-Sig
+ PARK &lt;parkys@hanjin.com&gt;, Hoon PARK &lt;hpark@hanjin.com&gt;, Jung-S=
+eo MOON &lt;jsmoona@hanjin.com&gt;, Man-Young HUR &lt;myhur@hanjin.com&gt;,=
+ JM(Jeong-Min) LEE &lt;jmlee@hanjin.com&gt;, Myung-Sik PARK &lt;parkms@hanj=
+in.com&gt;, S. J. (Seung-Jong) PARK &lt;sjpark@hanjin.com&gt;, Young-Kuk YU=
+N
+ &lt;ykyun@hanjin.com&gt;, Cheong-Rim WOO &lt;clwoo@hanjin.com&gt;, Young-C=
+hung OK &lt;ycok@hanjin.com&gt;, Ju-Sig CHO &lt;jscho@hanjin.com&gt;, Hyung=
+-Su KIM &lt;hskim@hanjin.com&gt;, Dae-Young KANG &lt;dykang@hanjin.com&gt;,=
+ JC(Jin-Cheol) KIM &lt;kjc10@hanjin.com&gt;<br>
+<b>Cc : </b>Young-Ho SON &lt;yhson@hanjin.com&gt;, Yoon-Han JUNG &lt;jungyh=
+@hanjin.com&gt;, Jin-Ki PARK &lt;jkpark@hanjin.com&gt;, Kuk-Jong Lee &lt;kj=
+lee@hanjin.com&gt;, Young-Jun LIM &lt;yjlim@hanjin.com&gt;, HH(Han-Hoe) KIM=
+ &lt;hhkim@hanjin.com&gt;, Cheon-Won PACK &lt;cwpark@hanjin.com&gt;, Deok-L=
+im
+ CHOI &lt;dlchoi@hanjin.com&gt;, Jong-Suk LIM &lt;jslim@hanjin.com&gt;, San=
+g-Soo LEE &lt;2ss@hanjin.com&gt;, Ho-Sik PARK &lt;hspark@hanjin.com&gt;, Ed=
+ward(Kwang-Min) LEE &lt;kmlee@hanjin.com&gt;, Dynia(Min-Sun) Kim &lt;mskim@=
+hanjin.com&gt;, Sungjae Kang &lt;sjkang81@hanjin.com&gt;, MD(Myung-Deok) CH=
+O
+ &lt;mdcho@hanjin.com&gt;, Seung-Min PARK &lt;sminpark@hanjin.com&gt;, Nam-=
+Hoon BAIK &lt;hunt72@hanjin.com&gt;, SH(SUK-HWAN) JUNG &lt;ch021@hanjin.com=
+&gt;, Woojung Kim &lt;wjkim@hanjin.com&gt;, Daisy(Ji-Kyong) BHANG &lt;jkbha=
+ng@hanjin.com&gt;, TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;, Sang-Jin HAN &l=
+t;sjhan@hanjin.com&gt;,
+ Yoo-Kyung KIM &lt;kimyk@hanjin.com&gt;, Aram KIM &lt;aram@hanjin.com&gt;, =
+Lloyd(Woosik) Yang &lt;shakin@hanjin.com&gt;, Luth(Kyung-Won) CHOI &lt;luth=
+choi@hanjin.com&gt;, Bae-Young SUH &lt;bysuh@hanjin.com&gt;, Jeong-Jae CHOI=
+ &lt;jjchoi@hanjin.com&gt;, Jessie(Ji-Soo) YOON &lt;jessyoon@hanjin.com&gt;=
+,
+ Sang-Young SHIN &lt;syshin@hanjin.com&gt;, Ken-Hyoung HONG &lt;khhong@hanj=
+in.com&gt;, Tae-Jin KIM &lt;ktj5274@hanjin.com&gt;, Hye-In AHN &lt;hiahn@ha=
+njin.com&gt;, Matt(Wonil) Choi &lt;willchoi@hanjin.com&gt;, Sung-Ku KIM &lt=
+;imsungku@hanjin.com&gt;<br>
+<b>Subject : </b>Yield MGMT =B0=AD=C8=AD =C0=E7 =BF=E4=C3=BB<br>
+<br>
+</div>
+<div style=3D"FONT-FAMILY: Malgun gothic; FONT-SIZE: 12pt">
+<div style=3D"FONT-FAMILY: =B8=BC=C0=BA =B0=ED=B5=F1; FONT-SIZE: 12pt" id=
+=3D"ezFormProc_div">
+<div>
+<div>TO : BBGs under SHAAS</div>
+<div>CC : RAS, SSC, SST, CCA, CCE, CCM, CCY</div>
+<div>FM : ASG</div>
+<div>&nbsp;</div>
+<div>11/1=C0=CF=BA=CE =B1=B8=C1=D6, =BE=C6=C1=D6 =B9=D7&nbsp;=B3=B2=B9=CC =
+=B3=EB=BC=B1&nbsp;R.R =C0=FB=BF=EB=C0=CC&nbsp;=B5=C7=BE=FA=C0=B8=B8=E7&nbsp=
+;=BA=CE=BA=D0=C0=FB=C0=B8=B7=CE =BC=BA=B0=F8=C0=FB=C0=CE =B8=E9=B0=FA =B4=
+=D9=BC=D2 =BE=C6=BD=AC=BF=F2</div>
+<div>=B8=E9=B5=B5 =C0=D6=B4=C2=B0=D4 =BB=E7=BD=C7=C0=D4=B4=CF=B4=D9. =B1=D7=
+=B8=AE=B0=ED =B1=DD=C0=CF(11/15=C0=CF=BA=CE)=B7=CE =B9=CC=C1=D6 =B3=EB=BC=
+=B1=BF=A1 =B4=EB=C7=D8=BC=AD=B5=B5 GRI =C0=FB=BF=EB=C0=CC =B5=C7=BE=FA=BD=
+=C0=B4=CF=B4=D9</div>
+<div>&nbsp;</div>
+<div>=BA=BB=BB=E7, =BA=BB=BA=CE =B9=D7 =B0=A2 =B4=E3=B4=E7=C0=DA=B0=A1 Trad=
+e/sub trade=BA=B0=B7=CE Yield MGMT=BF=A1 =B4=EB=C7=D8 =BB=F3=BC=BC=C7=D1 Gu=
+ide=C0=BB =C5=EB=C7=D8</div>
+<div>=C1=F6=BC=D3 =B0=AD=C1=B6=B8=A6 =C7=CF=B0=ED =C0=D6=B0=ED, =C7=F6=C0=
+=E5=BF=A1=BC=AD=B5=B5 =C0=CF=BA=CE =C8=AD=C1=D6=B5=E9=B7=CE=BA=CE=C5=CD =BA=
+=D2=B8=B8=C0=CC =C0=D6=C1=F6=B8=B8 =C1=F6=B1=DD=B1=EE=C1=F6=B4=C2 =C0=DF =
+=C7=D8=C1=D6=BD=C3=B0=ED</div>
+<div>=C0=D6=B4=C2 =B0=CD=C0=B8=B7=CE&nbsp;=BA=B8=BF=A9 =C1=FD=B4=CF=B4=D9. =
+=C7=CF=C1=F6=B8=B8 =C0=CF=BA=CE =C1=F6=BF=AA =B9=D7 =B3=EB=BC=B1=BF=A1=BC=
+=AD =BB=E7=C0=FC BKG Data =B9=D7 =BD=C7=C0=FB =C1=A1=B0=CB =B0=E1=B0=FA</di=
+v>
+<div>Low Paying=C8=AD=C1=D6 =B9=B0=B7=AE=C0=CC =C6=F2=B1=D5=C0=CC=BB=F3 =BC=
+=B1=C0=FB=B5=C7=B0=ED =C0=D6=B0=C5=B3=AA, =C0=FC=C3=BC=C0=FB=C0=B8=B7=CE R.=
+R =C0=FC=C8=C4 =B4=DC=BC=F8 =BA=F1=B1=B3 =BD=C3 </div>
+<div>CMPB=B0=A1 R.R. =C0=FB=BF=EB =C1=D6=C2=F7=BF=A1 =C7=CF=B6=F4=B5=C7=B4=
+=C2 =B0=E6=BF=EC=B5=B5 =C0=D6=BD=C0=B4=CF=B4=D9. =B5=BF Case=BF=A1 =B4=EB=
+=C7=D8=BC=AD =BF=F8=C0=CE =B1=D4=B8=ED =C1=DF=BF=A1 =C0=D6=BD=C0=B4=CF=B4=
+=D9</div>
+<div>&nbsp;</div>
+<div>=B5=FB=B6=F3=BC=AD&nbsp;=C0=CC=B9=F8&nbsp;=B1=E2=C8=B8=B8=A6 =C3=D6=B4=
+=EB=C7=D1 =C3=EB=C7=CF=C0=DA=B4=C2&nbsp;=C3=F8=B8=E9=BF=A1=BC=AD&nbsp;=BE=
+=C6=B7=A1=BF=CD =B0=B0=C0=CC Yield Mgmt=BF=A1 =B4=EB=C7=D8 =B8=EE =B0=A1=C1=
+=F6 =C0=E7&nbsp;=B0=AD=C1=B6=B8=A6 </div>
+<div>=B5=E5=B8=AE=BF=C0=B4=CF =C3=B6=C0=FA=C8=F7 =C1=D8=BC=F6=C7=CF=BF=A9 =
+=C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>1. =B1=B8=C1=D6 =B3=EB=BC=B1 Yield Management =C1=F6=BC=D3=C0=BB =C5=
+=EB=C7=D1 =BC=F6=C0=CD=BC=BA =C1=F5=B4=EB</div>
+<div>&nbsp;&nbsp;&nbsp; - 11/1=C0=CF R.R =C0=CC=C8=C4 =BF=EE=C0=D3 =BA=AF=
+=B5=BF=C0=CC =C1=F6=BC=D3=B5=C7=B0=ED =C0=D6=C1=F6=B8=B8&nbsp;=C7=F6=C0=E7=
+=C0=C7 Market =BF=EE=C0=D3=C0=BB =C5=EB=C7=D8&nbsp;=C3=D6=B4=EB=C7=D1 =BC=
+=F6=C0=CD</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;=C3=A2=C3=E2=C0=CC =B5=C9 =BC=F6 =C0=D6=
+=B5=B5=B7=CF =C7=F6 =BF=A9=B0=C7=C7=CF=BF=A1=BC=AD =C3=D6=B4=EB=C7=D1 =BC=
+=F6=C0=CD=BC=BA=C0=BB =B0=ED=B7=C1=C7=D1 =BC=B1=BA=B9 =B0=FC=B8=AE =C1=F6=
+=BC=D3=C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F3=B8=E7</div>
+<div>&nbsp;&nbsp;&nbsp; - =C0=CF=BA=CE =C5=AB =C6=F8=C0=C7 F' Cast =BE=E0=
+=BC=BC=B8=A6 =BA=B8=C0=CC=B4=C2 MED =B3=EB=BC=B1=BF=A1 =B4=EB=C7=D8=BC=AD=
+=B4=C2&nbsp;=C0=FB=C1=A4 =BC=F6=C1=D8&nbsp;L/F&nbsp;=C0=AF=C1=F6=B0=A1 =C7=
+=CA=BF=E4=C7=D1=C1=A1&nbsp;=B0=ED=B7=C1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B1=E2=C1=B8 =C8=AD=C1=D6 =B9=B0=
+=B7=AE =C3=D6=B4=EB=C7=D1 =B9=E6=BE=EE=BF=CD Lost =C8=AD=B9=B0 =C0=E7 =C0=
+=AF=C4=A1=C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>2. =B3=B2=B9=CC =B3=EB=BC=B1</div>
+<div>&nbsp;&nbsp;&nbsp; - EC, WC =B3=EB=BC=B1 GRI=B0=A1 =BC=BA=B0=F8=C0=FB=
+=C0=B8=B7=CE =C6=C7=B4=DC=B5=CB=B4=CF=B4=D9. =C0=CF=BA=CE =C8=AD=C1=D6=B7=
+=CE =BA=CE=C5=CD&nbsp;=BF=EE=C0=D3 =C0=CE=C7=CF =BE=D0=B9=DA=C0=CC =C0=D6=
+=B0=ED, =B6=C7=C7=D1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;WCSA=C0=C7 =B0=E6=BF=EC F' Cast=B5=B5 =
+=C1=F6=B3=AD 2-3=C1=D6=B4=EB=BA=F1 =BE=E0 10% =C1=A4=B5=B5 =C7=CF=B6=F4=B5=
+=C8 =BE=E7=BB=F3=C0=CC=B3=AA, =BD=C3=C0=E5 Demand=C0=C7 =B1=D9=BA=BB=C0=CC&=
+nbsp;=C8=E7=B5=E9=B8=AE=B0=ED </div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =C0=D6=B4=D9=B0=ED=B4=C2 =C6=C7=B4=DC=
+=B5=C7=C1=F6&nbsp;=BE=CA=B4=C2 =B9=D9, =C0=CC=B9=F8 =B1=E2=C8=B8=BF=A1 =BD=
+=C7=C1=FA=C0=FB=C0=CE =C8=AD=C1=D6 =B4=D9=BA=AF=C8=AD=B0=A1 =B5=C9 =BC=F6 =
+=C0=D6=B5=B5=B7=CF =B4=EB=C7=FC =C8=AD=C1=D6=C0=C7 Named BIZ</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;=BA=F1=C1=DF=C0=BB =C3=E0=BC=D2=C7=CF=
+=B0=ED =BC=F6=C0=CD=BC=BA=C0=CC =B3=F4=C0=BA FAK or =BC=F6=C0=CD=BC=BA=C0=
+=CC =B3=F4=C0=BA =B0=ED=C1=A4 =C8=AD=C1=D6&nbsp;=C0=AF=C4=A1 =B8=B6=C1=F6=
+=B8=B7 =B1=E2=C8=B8=B7=CE =BA=B8=BD=C3=B0=ED</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C1=F7=C1=A2 Booking =BB=F3=C8=B2 =
+Monitoring=C7=CF=BF=A9 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9. =C2=FC=
+=B0=ED=B7=CE 11/1, 9=C0=CF=BA=CE=B7=CE =B4=EB=C7=FC NVOCC=C0=C7</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Low paying named BIZ=B0=A1 =C0=E5=B1=E2=
+ =B0=E8=BE=E0=C0=B8=B7=CE GRI =C0=FB=BF=EB=C0=CC =BE=C8=B5=C8&nbsp;=C8=AD=
+=C1=D6=B4=C2 =BE=F8=BD=C0=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>3. IAS</div>
+<div>&nbsp;&nbsp; -&nbsp;=C1=DF=B5=BF, =C8=AB=C7=D8=B3=EB=BC=B1 R.R =C8=BF=
+=B0=FA=B0=A1 =B9=CC=B9=CC=C7=CF=B3=AA =B1=D7 =C1=DF =BC=F6=C0=CD=BC=BA=C0=
+=CC&nbsp;=B3=F4=C0=BA =C8=AD=C1=D6, DEST=B0=A1 =BA=D0=B8=ED=C8=F7&nbsp;=C0=
+=D6=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =C7=F6=C0=E7&nbsp;=BF=A9=B0=C7=C7=CF=BF=A1=BC=
+=AD =C3=D6=B4=EB=C7=D1 =BC=F6=C0=CD=BC=BA=BF=A1 =B1=E2=B9=DD=C7=D1&nbsp;=C8=
+=AD=C1=D6 =B1=B8=BC=BA/=BA=AF=C8=AD, DEST=C6=C7=B8=C5 =B5=EE=C0=CC =B5=C9 =
+=BC=F6 =C0=D6=B5=B5=B7=CF =C1=B6=C4=A1=C7=CF=BF=A9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C1=D6=BD=C3=B0=ED,&nbsp; =C8=A3=C1=D6 =
+=B3=EB=BC=B1=BF=A1 =B4=EB=C7=D8=BC=AD=B4=C2 =BC=B1=BA=B9 =C1=B6=C0=FD =BF=
+=B5=C7=E2=C0=B8=B7=CE 10/24=C0=CF R.R =C8=BF=B0=FA=B0=A1 =C1=F6=BC=D3 =B5=
+=C7=B0=ED =C0=D6=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C7=CF=C1=F6=B8=B8 9/10=BF=F9 =BF=EE=C0=
+=D3=C0=CC =C3=D6=C0=FA=C0=CF =B6=A7 =C0=CF=BA=CE =B0=E8=BE=E0=B5=C8 NVOCC N=
+amed =C8=AD=C1=D6 =B9=B0=B7=AE =C5=EB=C1=A6=B0=A1 =C7=CA=BF=E4 =C7=D5=B4=CF=
+=B4=D9.</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B1=E2 Guide=C7=D1 =B9=D9=BF=CD =B0=B0=
+=C0=CC&nbsp;HKG Base&nbsp;&nbsp;NVOCC=C0=C7 Named ACCT=BF=A1 =B4=EB=C7=D8=
+=BC=AD=B4=C2&nbsp;=C1=F6=C1=A1=BA=B0 Guide=C7=D1 </div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =B9=FC=C0=A7=B3=BB=BF=A1 =BC=B1=C0=FB=C0=CC&n=
+bsp;=B5=C9=BC=F6 =C0=D6=B5=B5=B7=CF&nbsp;BKG&nbsp;=B0=FC=B8=AE =C7=CF=BF=A9=
+ =C1=D6=BD=C3=B1=E2&nbsp;=B9=D9=B6=F8=B4=CF=B4=D9. =C2=FC=B0=ED=B7=CE =B5=
+=BF Named&nbsp;BIZ=BF=A1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B4=EB=C7=D8&nbsp;=B1=E2=C1=B8 =BF=EE=C0=
+=D3=B4=EB=BA=F1 =C3=D6=BC=D2 U$200/400(T/F)=C0=BB 11/22=C0=CF=BA=CE=B7=CE =
+=C0=CE=BB=F3=C0=CC =B1=E0=C1=A4=C0=FB=C0=B8=B7=CE =C1=F8=C7=E0=C1=DF=BF=A1 =
+=C0=D6=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;</div>
+<div>4. TPE</div>
+<div>&nbsp;&nbsp; -&nbsp;=B1=DD=C0=CF Post GRI =BF=EE=C0=D3 =BD=C3=C0=E5 =
+=BF=EE=C0=D3=B0=FA =BF=AC=B0=E8=C7=CF=BF=A9&nbsp;=C0=E7 Setting =C7=CF=BF=
+=B4=BD=C0=B4=CF=B4=D9</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; NVOCC Spot Rate=B0=A1 =C0=CF=BA=CE BCO =BF=EE=
+=C0=D3=BA=B8=B4=D9 =B3=F4=BE=C6=C1=FC=BF=A1=B5=FB=B6=F3 NVOCC =B9=B0=B7=AE =
+=C1=F5=B4=EB=B8=A6 =C5=EB=C7=D8 =B3=EB=BC=B1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =BC=F6=C0=CD=BC=BA =B0=B3=BC=B1=C0=CC =B5=C9 =
+=BC=F6 =C0=D6=B5=B5=B7=CF =C1=D6=BF=E4 NVOCC =BB=D3=B8=B8=BE=C6=B4=CF=B6=F3=
+ =C1=DF=BC=D2=C7=FC NVOCC=B7=CE =BA=CE=C5=CD&nbsp;=B9=B0=B7=AE =C1=F5=B4=EB=
+=B0=A1</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=B5=C9 =BC=F6 =C0=D6=B5=B5=B7=CF NVOCC=
+=BF=A1 =B4=EB=C7=D1 =B9=D0=C2=F8 =BF=B5=BE=F7 =BA=CE=C5=B9=B5=E5=B8=AE=B8=
+=E7, AWE=B3=EB=BC=B1=C0=C7 F'cast,=B0=A1 11=BF=F9=BF=A1=B5=B5 =C1=F6=BC=D3<=
+/div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =B0=AD=BC=BC=C0=CE=C1=A1=C0=BB =B0=ED=B7=C1&n=
+bsp;High REV&nbsp;=B9=B0=B7=AE=C0=CC =C3=D6=B4=EB=C7=D1 =BC=B1=C0=FB =B5=C9=
+=BC=F6 =C0=D6=B5=B5=B7=CF =B3=EB=B7=C2=C7=CF=BF=A9 =C1=D6=BD=C3=B0=ED, =C3=
+=D6=B1=D9 =B0=A1=C0=E5 =B3=B7=C0=BA</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp; =BD=C7=C0=FB=B0=FA F'Cast=B8=A6 =BA=B8=C0=CC=
+=B0=ED =C0=D6=B4=C2 PNW=B3=EB=BC=B1=BF=A1 =B4=EB=C7=D8=BC=AD, =C4=B3=B3=AA=
+=B4=D9 =B5=BF=BA=CE D5 Promotion, PN Port</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Local =B9=B0=B7=AE=C1=F5=B4=EB,&nbsp; CA=
+PRR =B0=E6=C0=AF Mid West IPI =B9=B0=B7=AE =C1=F5=B4=EB=B5=EE =B9=CC=C1=D6 =
+=B3=EB=BC=B1 =C1=DF=C1=A1&nbsp;=C6=C7=B8=C5 Items=BF=A1 =B4=EB=C7=D8</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=C1=F6=BC=D3=C0=FB=C0=CE =C6=C7=B8=C5 =
+=B0=AD=C8=AD&nbsp;=BA=CE=C5=B9 =B5=E5=B8=B3=B4=CF=B4=D9.</div>
+<div>&nbsp;</div>
+<div>&nbsp;&nbsp;&nbsp; =BB=F3=B1=E2=BF=CD =B0=B0=C0=CC =B0=A2&nbsp;=B3=EB=
+=BC=B1=BF=A1 =B4=EB=C7=D8 Yield Mgnt=BF=A1 =B4=EB=C7=D8 =C0=E7 =B0=AD=C1=B6=
+ =C7=CF=BF=B4=C0=B8=B8=E7, 11=BF=F9 =C0=FC=C5=EB=C0=FB=C0=CE =BA=F1=BC=F6=
+=B1=E2=B6=F3=B0=ED</div>
+<div>&nbsp; =C7=CF=C1=F6=B8=B8 CPS=B8=A6 =C5=EB=C7=D1 =B0=F8=B1=DE =C1=B6=
+=C0=FD, =B0=A2 =B3=EB=BC=B1=BA=B0 11, 12=BF=F9 GRI/RR=C0=CC =BF=B9=C1=A4=B5=
+=C7=BE=EE =C0=D6=B4=C2=C1=A1 =B5=EE=C0=BB =B0=ED=B7=C1=C7=CF=BF=A9</div>
+<div>&nbsp;&nbsp;=C1=F6=C1=A1=C0=E5=B4=D4=B5=E9=B2=B2=BC=AD=B4=C2 =C0=FC =
+=B3=EB=BC=B1, =C0=FC =C8=AD=C1=D6 =B4=EB=BB=F3=C0=B8=B7=CE Yield MGNT=B0=A1=
+ =B5=C9=BC=F6 =C0=D6=B5=B5=B7=CF&nbsp;=B8=C5=C1=F8=C7=CF=BF=A9 =C1=D6=BD=C3=
+=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9.</div>
+<div></div>
+<div>&nbsp;&nbsp;=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9</div>
+<div>&nbsp;</div>
+<div>&nbsp; B.RGDS</div>
+<div>&nbsp; CH KIM&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_87CC1CEDE38E524BBDE1E5875665DD30022315kovhhvmchanjincom_--

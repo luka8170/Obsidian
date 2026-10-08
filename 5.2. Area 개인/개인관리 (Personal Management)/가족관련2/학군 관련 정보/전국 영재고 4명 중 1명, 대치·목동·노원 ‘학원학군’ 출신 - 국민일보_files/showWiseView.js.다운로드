@@ -1,0 +1,53 @@
+"use strict";
+(function() {
+    try {
+        var script = document.currentScript || document.getElementById("_WiseMobViewScript_");
+		var src = script.src;
+		var getParameter =  function(paramName) {
+				var parmasLists = src.replace(/^[^\?]+\?/, '')
+						.replace(/#.+$/, '')
+						.split('&');
+				var queries = {} , query;
+				while(parmasLists.length){
+					query = parmasLists.shift().split('=');
+					queries[query[0]] = query[1];
+				}
+				return !queries[paramName] ? '' : queries[paramName];
+		};
+        var code = getParameter('code');
+        var action = getParameter('action');
+        var createScript = document.createElement('script');
+        var url = "https://ad.api.stax.kr/static/js/wiseview/show_ads.js?code="+code+"&action="+action+"&req=" + new Date().getTime();
+        var s = document.getElementsByTagName("script")[0];
+        createScript.async = true;
+        createScript.src = url ;
+        createScript.id = '_WiseMobViewAdsScript_';
+        createScript.charset = 'utf-8';
+        createScript.onreadystatechange = function () {
+            if (this.readyState == 'complete' || this.readyState == 'loaded') {
+                try{
+                    console.log('wiseView scriptLoad finish');
+                    //var img = document.createElement('img');
+					//	img.src = 'https://ad.api.stax.kr/tracker/userAgent/';
+                    //    img.width = 0;
+                    //    img.height = 0;
+                    //document.appendChild(img);
+                    //https://ad.api.stax.kr/tracker/userAgent/
+                }
+                catch(e){}
+            }
+        };
+        createScript.onload = function () {
+            try{
+                console.log('wiseView scriptLoad finish onLoad');
+                //var img = document.createElement('img');
+                //    img.src = 'https://ad.api.stax.kr/tracker/userAgent/';
+                //    img.width = 0;
+                //    img.height = 0;
+                //document.appendChild(img);
+            }catch(e){}
+        };
+        s.parentNode.insertBefore(createScript, s); //or something of the likes
+    }
+    catch(e){console.log(e);}
+}());

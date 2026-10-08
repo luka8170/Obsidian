@@ -1,0 +1,1082 @@
+Received: from COW380C.hanjin.com (192.168.100.243) by kovhgvme.hanjin.com
+ (203.246.154.25) with Microsoft SMTP Server (TLS) id 14.3.123.3; Mon, 25 Nov
+ 2013 19:13:54 +0900
+Received: from COW380E.hanjin.com ([192.168.10.1]) by cow380c.hanjin.com
+ ([192.168.100.243]) with mapi id 14.03.0123.003; Mon, 25 Nov 2013 18:13:45
+ +0800
+From: Paris PENG <paris@cn.hanjin.com>
+To: Yoo-Kyung KIM <kimyk@hanjin.com>, Chil-Ho KIM <chilhkim@hanjin.com>,
+	Jeong-Jae CHOI <jjchoi@hanjin.com>, Grace WANG <gracewang@cn.hanjin.com>,
+	Spike CHEN <spike@cn.hanjin.com>, Jessica LU <jessicalu@cn.hanjin.com>, Alex
+ FAN <alexfan@cn.hanjin.com>, Sang-Keun KIM <sangkkim@hanjin.com>, Dae-Kyu KIM
+	<forbong@hanjin.com>, Danny ZHOU <danny@cn.hanjin.com>, Jason SHI
+	<jasonshi@cn.hanjin.com>, Claud Yan <claud@cn.hanjin.com>, Oasis Shen
+	<oasis@cn.hanjin.com>, Alex Lin <alexlin@cn.hanjin.com>, Soo-Hyun KONG
+	<shkong@hanjin.com>, Joon-Sang PARK <jspark1@hanjin.com>, HAN JIANG
+	<hjiang@cn.hanjin.com>, HUI SUN <ranger@cn.hanjin.com>, Carol YANG
+	<carolyang@cn.hanjin.com>, Jane SHAO <janeshao@cn.hanjin.com>, Candy TANG
+	<tangdi@cn.hanjin.com>, Trancy QI <trancyqi@cn.hanjin.com>, Henry CHAI
+	<henrychai@cn.hanjin.com>
+CC: Andrew Hou <andrew@cn.hanjin.com>, "Luth(Kyung-Won) CHOI"
+	<luthchoi@hanjin.com>, "Lloyd(Woosik) Yang" <shakin@hanjin.com>, Aram KIM
+	<aram@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, "TH(Tae-Hoon) AN"
+	<than@hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>
+Subject: RE: [RES] NBOBB & SHABB Customer Mixture Improvement
+Thread-Topic: [RES] NBOBB & SHABB Customer Mixture Improvement
+Thread-Index: AQHO6ZwRcPmgzcLw/0CxlgWNaRKUm5o1sROg
+Date: Mon, 25 Nov 2013 19:13:44 +0900
+Message-ID: <8E5883A85E84604A801647F445782F2D042375@cow380e.hanjin.com>
+References: <FDDBE423BCD65E41A1FDFD42D563015C02089E@kovhhvmc.hanjin.com>
+In-Reply-To: <FDDBE423BCD65E41A1FDFD42D563015C02089E@kovhhvmc.hanjin.com>
+Accept-Language: en-US
+Content-Language: zh-CN
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380c.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.100.30]
+Content-Type: multipart/alternative;
+	boundary="_000_8E5883A85E84604A801647F445782F2D042375cow380ehanjincom_"
+MIME-Version: 1.0
+
+--_000_8E5883A85E84604A801647F445782F2D042375cow380ehanjincom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+VG8gQ0NFDQpGbSBBU0kNCg0KRGVhciBNcyBLaW0sDQoNClBsZWFzZSBraW5kbHkgcmVmZXIgdG8g
+b3VyIGNvbW1lbnQgYmVsb3c6DQoNCg0KMS4gICAgTkJPQkIgaGF2ZSBiZWVuIGhlYXZpbHkgcmVs
+eWluZyBvbiAyIE5WT3Mgc2luY2UgdGhleSBhZG9wdGVkDQpjdXN0b21lciBzZWdtZW50YXRpb24g
+YW5kIHNlbGVjdCAyIE5WT3MgYXMgdGhlaXIgVGllciAxIGFjY3QNCnN0YXJ0aW5nIHRoaXMgQXBy
+aWwgdG8gZW5zdXJlIGZ1bGwgbG9hZGluZ3MgZm9yIGEgdHJpYWwuDQoNCkFmdGVyIGhhbGYgeWVh
+cqGvcyB0cmlhbCwgd2UgZmVlbCB0aGlzIGN1c3RvbWVyIHNlZ21lbnRhdGlvbiBpcyByaXNreSBh
+cyBvdXINCmN1c3RvbWVyIGJhc2UgaXMgd2Vha2VuZWQsIHNvbWUgb2Ygb3VyIGN1c3RvbWVycyBh
+cmUgbG9zaW5nIHRvIFQxDQpkdWUgdG8gbW9yZSBjb21wZXRpdGl2ZSByYXRlIGZyb20gdGhlbSB0
+aGFuIGZyb20gSEpTIGFzIFQxIGVuam95DQpVU0Q1MC90ZXUgcmF0ZSBmYXZvci4gQWxzbyBDTVBC
+IFBGTUMgaXMgbG93Lg0KDQpIYXZlIGNvbW11bmljYXRlZCB3aXRoIE5CT0JCIHJlY2VudGx5IGFu
+ZCB0aGV5IGNhbmNlbGxlZA0KVDEgY3VzdG9tZXIgc2VnbWVudGF0aW9uIGVmZmVjdGl2ZSBmcm9t
+IHRoaXMgd2Vlay4gVGhleaGvcmUgbm93IHNlZWtpbmcNCm5ldyBjdXN0b21lcnMgYW5kIGVzdGFi
+bGlzaCBjdXN0b21lciBiYXNlIHN0ZXAgYnkgc3RlcC4NCg0KV2Ugd2lsbCBrZWVwIG1vbml0b3Jp
+bmcgdGhlIHByb2dyZXNzIGFuZCBzZWUgdGhlIHJlc3VsdC4NCg0KDQoyLiAgICBTSEFCQiBtYXJr
+ZXQgTC9GIGtlZXBzIGxvdyA3MCV+ODAlIHNvbWV0aW1lcyBldmVuIDUwJSB0aGlzIHllYXIuDQpU
+aGVyZSBhcmUgYSBmZXcgY3VzdG9tZXJzIHdobyBoYXZlIHJlZ3VsYXIgdm9sdW1lcywgYnV0IHdl
+IGZhaWxlZCB0byBrZWVwDQp0aGVtIGR1ZSB0byBhZ2dyZXNzaXZlIHJhdGUgYW5kIGJldHRlciBz
+ZXJ2aWNlIGZyb20gb3VyIGNvbXBldGl0b3JzLg0KZWcuIG90aGVyIGNhcnJpZXJzIGNvdWxkIHdh
+aXZlIEVJUyBhdCBKT0FRSiwgYW5kIHdhaXZlIGRldGVudGlvbiBjaGFyZ2UNCmF0IFBPRCwgd2hp
+bGUgd2UgdXN1YWxseSBrZWVwIGNvbnNlcnZhdGl2ZSBwcmljaW5nIHBvbGljeS4NCg0KV2Ugd2ls
+bCByZXF1ZXN0IFNIQUJCIHRvIHNlZWsgbW9yZSBjdXN0b21lcnMgYXMgb3VyIGJhc2UgbG9hZGVy
+cw0KdG8gaW1wcm92ZSBjdXN0b21lciBtaXh0dXJlIGZyb20gbm93IG9uLg0KDQpUaGFuayB5b3Uu
+DQoNCmIucmdkcy9QYXJpcw0KDQpGcm9tOiBZb28tS3l1bmcgS0lNDQpTZW50OiBNb25kYXksIE5v
+dmVtYmVyIDI1LCAyMDEzIDE6MDYgUE0NClRvOiBDaGlsLUhvIEtJTTsgSmVvbmctSmFlIENIT0k7
+IFBhcmlzIFBFTkc7IEdyYWNlIFdBTkc7IFNwaWtlIENIRU47IEplc3NpY2EgTFU7IEFsZXggRkFO
+OyBTYW5nLUtldW4gS0lNOyBEYWUtS3l1IEtJTTsgRGFubnkgWkhPVTsgSmFzb24gU0hJOyBDbGF1
+ZCBZYW47IE9hc2lzIFNoZW47IEFsZXggTGluOyBTb28tSHl1biBLT05HOyBKb29uLVNhbmcgUEFS
+SzsgSEFOIEpJQU5HOyBIVUkgU1VOOyBDYXJvbCBZQU5HOyBKYW5lIFNIQU87IENhbmR5IFRBTkc7
+IFRyYW5jeSBRSTsgSGVucnkgQ0hBSQ0KQ2M6IEFuZHJldyBIb3U7IEx1dGgoS3l1bmctV29uKSBD
+SE9JOyBMbG95ZChXb29zaWspIFlhbmc7IEFyYW0gS0lNOyBTYW5nLUppbiBIQU47IFRIKFRhZS1I
+b29uKSBBTjsgTUQoTXl1bmctRGVvaykgQ0hPDQpTdWJqZWN0OiBbUkVTXSBOQk9CQiAmIFNIQUJC
+IEN1c3RvbWVyIE1peHR1cmUgSW1wcm92ZW1lbnQNCg0KVE86IEFTRy9JLCBOQk9CQiwgU0hBQkIN
+CkZNOiBDQ0UNCg0KUkU6IFtSRVNdIE5CT0JCICYgU0hBQkIgQ3VzdG9tZXIgTWl4dHVyZSBJbXBy
+b3ZlbWVudA0KDQoNCldlIG9ic2VydmUgTkJPQkIgYW5kIFNIQUJCIGhhdmUgcHJvYmxlbXMgaW4g
+Y3VzdG9tZXIgbWl4dHVyZXMgb24gUkVTLg0KQW5kIGl0IGlzIGplb3BhcmRpemluZyBSRVMgcmV2
+ZW51ZSBhcyB0aGUgdHdvIG1haW4gbG9hZGVycycgY29udHJpYnV0aW9ucyBhcmUNCmZhciBiZWxv
+dyBleHBlY3RhdGlvbi4gUGx6IHNlZSBiZWxvdyBhbmQgdGFrZSBpbW1lZGlhdGUgYWN0aW9ucyB0
+byBpbXByb3ZlLg0KDQpbTkJPQkJdDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAoV0sgNDB+NDcsIDcgdnZkcykNCg0KTk8uDQoNCg0KQ1VT
+VE9NRVINCg0KDQpMT0FEDQoNCg0KDQoNCg0KMQ0KDQoNCiBOSU5HQk8gVU5JT04gT0NFQU4gU0hJ
+UFBJTkcNCg0KDQo2OTFUDQoNCg0KDQoNCiBUT1AgNA0KDQpUVEwgMSw1NjdUDQoNCjkwLjQlDQoN
+Cg0KMg0KDQoNCiBIRUFEV0lOIExPR0lTVElDUw0KDQoNCjQ5MFQNCg0KDQozDQoNCiBHVVJVTiBJ
+TlRFUk5BVElPTkFMIFRSQURJTkcNCg0KDQoxOTdUDQoNCg0KNA0KDQoNCiBOSU5HQk8gREFTSElO
+RyBJTlRFUk5BVElPTkFMDQoNCg0KMTg5VA0KDQoNCjUtMTINCg0KDQo4IGN1c3RvbWVycw0KDQoN
+CjE2NlQNCg0KDQoNCg0KDQpUT1RBTA0KDQoNCjEsNzMzVA0KDQoNCg0KDQqi0SBZb3UgaGF2ZSB0
+b28gbXVjaCBvdmVyLWRlcGVuZGVuY3kgb24gYSBmZXcgbnVtYmVyIG9mIGJpZyBzaXplIGxvY2Fs
+IE5WT3MNCiAgIChUb3AgNCBjdXN0b21lcnMgdGFrZXMgOTAlKyBvZiB0b3RhbC4pIGFuZCBvbmx5
+IGhhdmUgMTIgY3VzdG9tZXJzIGZvciAxLDczM1QuDQqi0SBVbmRlciB0aGUgY2lyY3Vtc3RhbmNl
+LCB5b3UgaGF2ZSBubyBjaG9pY2UgYnV0IHRvIGZvbGxvdyBtYXJrZXQncyBib3R0b20NCiAgICBy
+YXRlcyBhbGwgdGhlIHRpbWUgYW5kIG5vIGNoYW5jZSB0byBtYXhpbWlzZSBvdXIgcmV2ZW51ZSB3
+aXRoIGdpdmVuIHNwYWNlLg0KotEgU2VyaW91c2x5IG5lZWQgZGl2ZXJzaWZ5IGN1c3RvbWVyIG1p
+eHR1cmUgYnkgZGV2ZWxvcGluZyBuZXcgY3VzdG9tZXJzLg0KDQpbU0hBQkJdDQogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoV0sg
+NDB+NDcsIDcgdnZkcykNCg0KUE9EDQoNCg0KTE9BRA0KDQoNClNIQVJFDQoNCg0KIFFUQQ0KDQoN
+CkFDSFYgJQ0KDQoNClNJTg0KDQoNCjYzNFQNCg0KDQo1MyUNCg0KDQoNCg0KIDEsMTAwVA0KDQoN
+Cg0KDQotDQoNCg0KUkVEIFNFQQ0KDQoNCjU2OVQNCg0KDQo0NyUNCg0KDQo1MS43JQ0KDQoNClRU
+TA0KDQoNCjEsMjAzVA0KDQoNCjEwMCUNCg0KDQoxMDkuNCUNCg0KotEgWW91ciBhcmUgZnVyZmls
+bGluZyBSRVMgUVRBIG1vc3RseSB3aXRoIFNJTiBjYXJnb2VzIHdoaWNoIGdlbmVyYXRlIGxvdyBD
+TVBCLg0KICAgKE92ZXJhbGwgUkVTIFFUQSBBQ0hWIGlzIDEwOSUgYnV0IGxvb2tpbmcgYXQgcHVy
+ZSBSZWQtc2VhIGNnbywgaXQncyBvbmx5IDUxLjclKQ0KotEgQWJzb2x1dGUgbGFjayBvZiBwdXJl
+IFJlZC1zZWEgY3VzdG9tZXJzIGV2ZW4gdGhvdWdoIG1rdCB2b2x1bWUgbXVzdCBiZSBodWdlLg0K
+DQoNCjcgV0tzIFRUTA0KDQoNCldLTFkgQVZSRw0KDQoNCk51bWJlciBvZiBjdXN0b21lcnMNCg0K
+DQphYnYgNzBUDQoNCg0KYWJ2IDEwVA0KDQoNCk5JTA0KDQoNCjM1VH43MFQNCg0KDQo1VH4xMFQN
+Cg0KDQo0DQoNCg0KN1R+MzRUDQoNCg0KMVR+NFQNCg0KDQoyMg0KDQoNCmxlc3MgdGhhbiA3VA0K
+DQoNCmxlc3MgdGhhbiAxVA0KDQoNCjM0DQoNCg0KVE9UQUwNCg0KDQo2MA0KDQqi0SBZb3UgaGF2
+ZSBOTyBjdXN0b21lciB3aG8gY2FuIHN1cHBvcnQgd2Vla2x5IDEwVCsgdnMgd2tseSBRVEEgMTU3
+VC4NCqLRIE1vcmUgdGhhbiBoYWxmIG9mIHlvdXIgY3VzdG9tZXJzIGFyZSBsb2FkaW5nIG9ubHkg
+bGVzcyB0aGFuIDFUIGEgd2Vlay4NCqLRIFlvdSBuZWVkIHJlZ3VsYXIgYmFzZSBsb2FkZXJzIHRv
+IHN0YWJsaXplIHlvdXIgUkVTIGxpZnRpbmdzLg0KDQoNCkJlbGlldmUgeW91IHRha2UgaXQgc2Vy
+aW91c2x5IHRvIHNlZSB3aGVyZSB3ZSBhcmUgYW5kIHRoYXQgd2UgYXJlIG5vdCBzZWxsaW5nIHdl
+bGwuDQpXZSBpbnZpdGUgQVNJIGNvbW1lbnQsIGZpcnN0IGFuZCBmb2xsb3dpbmcgYWN0aW9uIHBs
+YW5zIHRvZ2V0aGVyIHdpdGggdGltZS1mcmFtZQ0KZnJvbSBTSEFCQiBhbmQgTkJPQkIuDQoNCg0K
+Qi5SR0RTLg0KWS5LLktpbSAvIENDRS1JQVMNCg0K
+
+--_000_8E5883A85E84604A801647F445782F2D042375cow380ehanjincom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Gulim;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Malgun Gothic";}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"\@Batang";
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"\@Gulim";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Lucida Handwriting";
+	panose-1:3 1 1 1 1 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Gulim","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Gulim","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:21.0pt;
+	font-size:12.0pt;
+	font-family:"Gulim","sans-serif";}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Arial","sans-serif";
+	color:black;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1343125417;
+	mso-list-type:hybrid;
+	mso-list-template-ids:110165648 255484756 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ZH-CN" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">To CCE<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Fm ASI<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Dear Ms Kim,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Please kindly =
+refer to our comment below:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:18.0pt;text-indent:-18.0=
+pt;mso-list:l0 level1 lfo1">
+<![if !supportLists]><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><span style=3D"m=
+so-list:Ignore">1.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&n=
+bsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"EN-US" style=3D"font-size:11.0=
+pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">NBOBB =
+have been heavily relying on 2 NVOs since they adopted
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">customer segme=
+ntation and select 2 NVOs as their Tier 1 acct
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">starting this =
+April to ensure full loadings for a trial.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">After half yea=
+r=A1=AFs trial, we feel this customer segmentation is risky as our
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">customer base =
+is weakened, some of our customers are losing to T1
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">due to more co=
+mpetitive rate from them than from HJS as T1 enjoy
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">USD50/teu rate=
+ favor. Also CMPB PFMC is low.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Have communica=
+ted with NBOBB recently and they cancelled<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">T1 customer se=
+gmentation effective from this week. They=A1=AFre now seeking<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">new customers =
+and establish customer base step by step.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">We will keep m=
+onitoring the progress and see the result.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:18.0pt;text-indent:-18.0=
+pt;mso-list:l0 level1 lfo1">
+<![if !supportLists]><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><span style=3D"m=
+so-list:Ignore">2.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&n=
+bsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3D"EN-US" style=3D"font-size:11.0=
+pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">SHABB =
+market L/F keeps low 70%~80% sometimes even 50% this year.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">There are a fe=
+w customers who have regular volumes, but we failed to keep
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">them due to ag=
+gressive rate and better service from our competitors.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">eg. other carr=
+iers could waive EIS at JOAQJ, and waive detention charge<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">at POD, while =
+we usually keep conservative pricing policy.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">We will reques=
+t SHABB to seek more customers as our base loaders<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">to improve cus=
+tomer mixture from now on.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Aria=
+l&quot;,&quot;sans-serif&quot;;color:black">Thank you.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Aria=
+l&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-justify:inter-ideog=
+raph"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Aria=
+l&quot;,&quot;sans-serif&quot;;color:black">b.rgds/Paris<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o=
+:p></span></p>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;fo=
+nt-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;"> Yoo-Kyung KIM
+<br>
+<b>Sent:</b> Monday, November 25, 2013 1:06 PM<br>
+<b>To:</b> Chil-Ho KIM; Jeong-Jae CHOI; Paris PENG; Grace WANG; Spike CHEN;=
+ Jessica LU; Alex FAN; Sang-Keun KIM; Dae-Kyu KIM; Danny ZHOU; Jason SHI; C=
+laud Yan; Oasis Shen; Alex Lin; Soo-Hyun KONG; Joon-Sang PARK; HAN JIANG; H=
+UI SUN; Carol YANG; Jane SHAO; Candy
+ TANG; Trancy QI; Henry CHAI<br>
+<b>Cc:</b> Andrew Hou; Luth(Kyung-Won) CHOI; Lloyd(Woosik) Yang; Aram KIM; =
+Sang-Jin HAN; TH(Tae-Hoon) AN; MD(Myung-Deok) CHO<br>
+<b>Subject:</b> [RES] NBOBB &amp; SHABB Customer Mixture Improvement<o:p></=
+o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<div id=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>
+<div id=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">TO: ASG/I, NBOBB, SHABB<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">FM: CCE<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><strong><u><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Malgun Gothic&quot;">RE: [RES] NBOBB &amp; SHABB Customer Mixture Im=
+provement</span></u></strong><span lang=3D"EN-US" style=3D"font-family:&quo=
+t;Malgun Gothic&quot;"><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">We observe NBOBB and SHABB&nbsp;have problems&nbsp;in cust=
+omer mixtures&nbsp;on RES.
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">And it is jeopardizing&nbsp;RES revenue&nbsp;as&nbsp;the t=
+wo&nbsp;main loaders' contributions are<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">far below&nbsp;expectation. Plz see below&nbsp;and take im=
+mediate actions to improve.&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><strong><span lang=3D"EN-US" style=3D"font-family:&q=
+uot;Malgun Gothic&quot;">[NBOBB]</span></strong><span lang=3D"EN-US" style=
+=3D"font-family:&quot;Malgun Gothic&quot;"><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><em><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+(WK 40~47, 7 vvds)</span></em><span lang=3D"EN-US" style=3D"font-family:&qu=
+ot;Malgun Gothic&quot;"><o:p></o:p></span></p>
+</div>
+<div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"503" style=3D"width:377.25pt;border-collapse:collapse">
+<tbody>
+<tr style=3D"height:13.5pt">
+<td width=3D"40" style=3D"width:30.0pt;border:solid black 1.0pt;background:=
+#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">NO.<o:p></o:=
+p></span></p>
+</td>
+<td width=3D"293" style=3D"width:219.75pt;border:solid black 1.0pt;border-l=
+eft:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">CUSTOMER<o:p=
+></o:p></span></p>
+</td>
+<td width=3D"65" style=3D"width:48.75pt;border:solid black 1.0pt;border-lef=
+t:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">LOAD<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"92" style=3D"width:69.0pt;border-top:solid white 1.0pt;border-=
+left:none;border-bottom:solid black 1.0pt;border-right:solid white 1.0pt;pa=
+dding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p><=
+/o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"40" style=3D"width:30.0pt;border:solid black 1.0pt;border-top:=
+none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">1<o:p></o:p>=
+</span></p>
+</td>
+<td width=3D"293" style=3D"width:219.75pt;border-top:none;border-left:none;=
+border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75p=
+t .75pt .75pt .75pt;height:13.5pt">
+<p style=3D"word-break:break-all"><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Malgun Gothic&quot;">&nbsp;NINGBO UNION OCEAN SHIPPING<o:p></o:p></s=
+pan></p>
+</td>
+<td width=3D"65" style=3D"width:48.75pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"right" style=3D"text-align:right;word-break:break-all"><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">691T&nbsp;
+<o:p></o:p></span></p>
+</td>
+<td width=3D"92" rowspan=3D"4" style=3D"width:69.0pt;border-top:none;border=
+-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;p=
+adding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p style=3D"word-break:break-all"><span lang=3D"EN-US" style=3D"font-size:1=
+0.0pt;font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">&nbsp;TOP 4<=
+o:p></o:p></span></p>
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><u><sp=
+an lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">TTL 1,567=
+T</span></u><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;Malgun Gothic&quot;"><o:p></o:p></span></p>
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">90.4%</span>=
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Malgun Got=
+hic&quot;"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"40" style=3D"width:30.0pt;border:solid black 1.0pt;border-top:=
+none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">2<o:p></o:p>=
+</span></p>
+</td>
+<td width=3D"293" style=3D"width:219.75pt;border-top:none;border-left:none;=
+border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75p=
+t .75pt .75pt .75pt;height:13.5pt">
+<p style=3D"word-break:break-all"><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Malgun Gothic&quot;">&nbsp;HEADWIN LOGISTICS<o:p></o:p></span></p>
+</td>
+<td width=3D"65" style=3D"width:48.75pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"right" style=3D"text-align:right;word-break:break-all"><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">490T&nbsp;
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"40" style=3D"width:30.0pt;border:solid black 1.0pt;border-top:=
+none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">3<o:p></o:p>=
+</span></p>
+</td>
+<td width=3D"293" style=3D"width:219.75pt;border-top:none;border-left:none;=
+border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75p=
+t .75pt .75pt .75pt;height:13.5pt">
+<p class=3D"MsoNormal" style=3D"word-break:break-all"><span lang=3D"EN-US" =
+style=3D"font-family:&quot;Malgun Gothic&quot;">&nbsp;GURUN INTERNATIONAL T=
+RADING<o:p></o:p></span></p>
+</td>
+<td width=3D"65" style=3D"width:48.75pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"right" style=3D"text-align:right;word-break:break-all"><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">197T&nbsp;
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"40" style=3D"width:30.0pt;border:solid black 1.0pt;border-top:=
+none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">4<o:p></o:p>=
+</span></p>
+</td>
+<td width=3D"293" style=3D"width:219.75pt;border-top:none;border-left:none;=
+border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75p=
+t .75pt .75pt .75pt;height:13.5pt">
+<p style=3D"word-break:break-all"><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Malgun Gothic&quot;">&nbsp;NINGBO DASHING INTERNATIONAL<o:p></o:p></=
+span></p>
+</td>
+<td width=3D"65" style=3D"width:48.75pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"right" style=3D"text-align:right;word-break:break-all"><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">189T&nbsp;
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"40" style=3D"width:30.0pt;border-top:none;border-left:solid bl=
+ack 1.0pt;border-bottom:double black 2.25pt;border-right:solid black 1.0pt;=
+padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">5-12<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"293" style=3D"width:219.75pt;border-top:none;border-left:none;=
+border-bottom:double black 2.25pt;border-right:solid black 1.0pt;padding:.7=
+5pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">8 customers<=
+o:p></o:p></span></p>
+</td>
+<td width=3D"65" style=3D"width:48.75pt;border-top:none;border-left:none;bo=
+rder-bottom:double black 2.25pt;border-right:solid black 1.0pt;padding:.75p=
+t .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"right" style=3D"text-align:right;word-break:break-all"><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">166T&nbsp;
+<o:p></o:p></span></p>
+</td>
+<td width=3D"92" style=3D"width:69.0pt;border-top:none;border-left:none;bor=
+der-bottom:solid white 1.0pt;border-right:solid white 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p style=3D"word-break:break-all"><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"336" colspan=3D"2" style=3D"width:252.0pt;border:solid black 1=
+.0pt;border-top:none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">TOTAL</span>=
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Malgun Got=
+hic&quot;"><o:p></o:p></span></p>
+</td>
+<td width=3D"65" style=3D"width:48.75pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"right" style=3D"text-align:right;word-break:break-all"><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">1,733T<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"92" style=3D"width:69.0pt;border-top:none;border-left:none;bor=
+der-bottom:solid white 1.0pt;border-right:solid white 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p style=3D"word-break:break-all"><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"> You have too much over=
+-dependency on a few number of big size local NVOs&nbsp;</span><span lang=
+=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;"><o:p></o:p></spa=
+n></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;&nbsp; (Top 4&nbsp;customers takes 90%&#43; of&nbsp;=
+total.) and only have 12 customers for 1,733T.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"> Under the circumstance=
+, you&nbsp;have no choice but to follow market's bottom</span><span lang=3D=
+"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;"><o:p></o:p></span><=
+/p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp; &nbsp; rates&nbsp;all the time and no chance to max=
+imise our revenue with given space.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;Seriously need di=
+versify customer mixture by developi</span><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;Malgun Gothic&quot;">ng
+ new customers.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><strong><span lang=3D"EN-US" style=3D"font-family:&q=
+uot;Malgun Gothic&quot;">[SHABB]
+</span></strong><span lang=3D"EN-US" style=3D"font-family:&quot;Malgun Goth=
+ic&quot;"><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><em><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;(WK 40~47, 7 vvds)</span></em><span lan=
+g=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;"><o:p></o:p></sp=
+an></p>
+</div>
+<table class=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"436" style=3D"width:327.0pt;border-collapse:collapse;border=
+:none">
+<tbody>
+<tr style=3D"height:13.5pt">
+<td width=3D"94" style=3D"width:70.5pt;border:solid black 1.0pt;background:=
+#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">POD<o:p></o:=
+p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border:solid black 1.0pt;border-left=
+:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">LOAD<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border:solid black 1.0pt;border-left=
+:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">SHARE<o:p></=
+o:p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border:solid black 1.0pt;border-left=
+:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">&nbsp;QTA<o:=
+p></o:p></span></p>
+</td>
+<td width=3D"86" style=3D"width:64.5pt;border:solid black 1.0pt;border-left=
+:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">ACHV %<o:p><=
+/o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"94" style=3D"width:70.5pt;border:solid black 1.0pt;border-top:=
+none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">SIN<o:p></o:=
+p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border-top:none;border-left:none;bor=
+der-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">634T<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border-top:none;border-left:none;bor=
+der-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">53%<o:p></o:=
+p></span></p>
+</td>
+<td width=3D"80" rowspan=3D"3" style=3D"width:60.0pt;border-top:none;border=
+-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;p=
+adding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p><=
+/o:p></span></p>
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">&nbsp;1,100T=
+<o:p></o:p></span></p>
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p><=
+/o:p></span></p>
+</td>
+<td width=3D"86" style=3D"width:64.5pt;border-top:none;border-left:none;bor=
+der-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">-<o:p></o:p>=
+</span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"94" style=3D"width:70.5pt;border-top:none;border-left:solid bl=
+ack 1.0pt;border-bottom:double black 2.25pt;border-right:solid black 1.0pt;=
+padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">RED SEA<o:p>=
+</o:p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border-top:none;border-left:none;bor=
+der-bottom:double black 2.25pt;border-right:solid black 1.0pt;padding:.75pt=
+ .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">569T<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border-top:none;border-left:none;bor=
+der-bottom:double black 2.25pt;border-right:solid black 1.0pt;padding:.75pt=
+ .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">47%<o:p></o:=
+p></span></p>
+</td>
+<td width=3D"86" style=3D"width:64.5pt;border-top:none;border-left:none;bor=
+der-bottom:double black 2.25pt;border-right:solid black 1.0pt;padding:.75pt=
+ .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">51.7%<o:p></=
+o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"94" style=3D"width:70.5pt;border:solid black 1.0pt;border-top:=
+none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">TTL<o:p></o:=
+p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border-top:none;border-left:none;bor=
+der-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">1,203T<o:p><=
+/o:p></span></p>
+</td>
+<td width=3D"80" style=3D"width:60.0pt;border-top:none;border-left:none;bor=
+der-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">100%<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"86" style=3D"width:64.5pt;border-top:none;border-left:none;bor=
+der-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt .=
+75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">109.4%<o:p><=
+/o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"> Your are furfilling&nb=
+sp;RES QTA mostly with SIN cargoes which generate low CMPB.</span><span lan=
+g=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;"><o:p></o:p></sp=
+an></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;&nbsp; (Overall RES QTA ACHV is 109% but looking at =
+pure Red-sea cgo, it's only 51.7%)<o:p></o:p></span></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"> Absolute lack of pure =
+Red-sea customers even though mkt volume must be huge.</span><span lang=3D"=
+EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;"><o:p></o:p></span></=
+p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<table class=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"305" style=3D"width:228.75pt;border-collapse:collapse;borde=
+r:none">
+<tbody>
+<tr style=3D"height:13.5pt">
+<td width=3D"103" style=3D"width:77.25pt;border:solid black 1.0pt;backgroun=
+d:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">7 WKs TTL<o:=
+p></o:p></span></p>
+</td>
+<td width=3D"101" style=3D"width:75.75pt;border:solid black 1.0pt;border-le=
+ft:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">WKLY AVRG<o:=
+p></o:p></span></p>
+</td>
+<td width=3D"91" style=3D"width:68.25pt;border:solid black 1.0pt;border-lef=
+t:none;background:#BBFFFF;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">Number of cu=
+stomers<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"103" style=3D"width:77.25pt;border:solid black 1.0pt;border-to=
+p:none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">abv 70T&nbsp=
+;<o:p></o:p></span></p>
+</td>
+<td width=3D"101" style=3D"width:75.75pt;border-top:none;border-left:none;b=
+order-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt=
+ .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">abv 10T<o:p>=
+</o:p></span></p>
+</td>
+<td width=3D"91" style=3D"width:68.25pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">NIL<o:p></o:=
+p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"103" style=3D"width:77.25pt;border:solid black 1.0pt;border-to=
+p:none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">35T~70T<o:p>=
+</o:p></span></p>
+</td>
+<td width=3D"101" style=3D"width:75.75pt;border-top:none;border-left:none;b=
+order-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt=
+ .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">5T~10T<o:p><=
+/o:p></span></p>
+</td>
+<td width=3D"91" style=3D"width:68.25pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">4
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"103" style=3D"width:77.25pt;border:solid black 1.0pt;border-to=
+p:none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">7T~34T<o:p><=
+/o:p></span></p>
+</td>
+<td width=3D"101" style=3D"width:75.75pt;border-top:none;border-left:none;b=
+order-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt=
+ .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">1T~4T<o:p></=
+o:p></span></p>
+</td>
+<td width=3D"91" style=3D"width:68.25pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">22<o:p></o:p=
+></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"103" style=3D"width:77.25pt;border-top:none;border-left:solid =
+black 1.0pt;border-bottom:double black 2.25pt;border-right:solid black 1.0p=
+t;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">less than 7T=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"101" style=3D"width:75.75pt;border-top:none;border-left:none;b=
+order-bottom:double black 2.25pt;border-right:solid black 1.0pt;padding:.75=
+pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">less than 1T=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"91" style=3D"width:68.25pt;border-top:none;border-left:none;bo=
+rder-bottom:double black 2.25pt;border-right:solid black 1.0pt;padding:.75p=
+t .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">34<o:p></o:p=
+></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"207" colspan=3D"2" style=3D"width:155.25pt;border:solid black =
+1.0pt;border-top:none;padding:.75pt .75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">TOTAL<o:p></=
+o:p></span></p>
+</td>
+<td width=3D"91" style=3D"width:68.25pt;border-top:none;border-left:none;bo=
+rder-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:.75pt =
+.75pt .75pt .75pt;height:13.5pt">
+<p align=3D"center" style=3D"text-align:center;word-break:break-all"><span =
+lang=3D"EN-US" style=3D"font-family:&quot;Malgun Gothic&quot;">60<o:p></o:p=
+></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"> You have&nbsp;NO custo=
+mer who&nbsp;can support weekly 10T&#43;</span><span lang=3D"EN-US" style=
+=3D"font-family:&quot;Malgun Gothic&quot;">
+ vs wkly QTA 157T.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"> More than half of your=
+ customers are loading only&nbsp;less than 1T a week.</span><span lang=3D"E=
+N-US" style=3D"font-family:&quot;Malgun Gothic&quot;"><o:p></o:p></span></p=
+>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"KO" style=3D"font-family:&quot;Batang&=
+quot;,&quot;serif&quot;">=A2=D1</span><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"> You need regular base =
+loaders&nbsp;to&nbsp;stablize your RES liftings.</span><span lang=3D"EN-US"=
+ style=3D"font-family:&quot;Malgun Gothic&quot;">
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">Believe you take it seriously to see where we are and&nbsp=
+;that we are not selling well.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">We invite ASI comment, first and following action plans to=
+gether with time-frame
+<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">from SHABB and NBOBB.&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;"><br>
+&nbsp;<o:p></o:p></span></p>
+</div>
+<div id=3D"MailSignSent">
+<div id=3D"kaoni_sign1">
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;">B.RGDS.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><strong><span lang=3D"EN-US" style=3D"font-family:&q=
+uot;Lucida Handwriting&quot;">Y.K.Kim</span></strong><span lang=3D"EN-US" s=
+tyle=3D"font-family:&quot;Malgun Gothic&quot;"> / CCE-IAS<o:p></o:p></span>=
+</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Malg=
+un Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_8E5883A85E84604A801647F445782F2D042375cow380ehanjincom_--

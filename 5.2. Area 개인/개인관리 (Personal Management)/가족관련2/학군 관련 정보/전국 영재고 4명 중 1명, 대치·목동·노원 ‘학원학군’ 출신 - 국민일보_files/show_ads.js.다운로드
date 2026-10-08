@@ -1,0 +1,452 @@
+"use strict";
+(function() {
+	try{
+		let timer;
+		let isOver = false;
+		let dragged;
+		let pos1 = 0;
+		let pos2 = 0;
+
+		const script = document.currentScript || document.getElementById("_WiseMobViewAdsScript_");
+		const src = script.src;
+		const util =  function() {
+			return {
+				isEmpty : function(str) {
+					if(typeof str == "undefined" || str == null || str == "")
+						return true;
+					else
+						return false ;
+				},
+				getParameter : function(paramName) {
+					const parmasLists = src.replace(/^[^\?]+\?/, '')
+							.replace(/#.+$/, '')
+							.split('&');
+					let queries = {} , query;
+					while(parmasLists.length){
+						query = parmasLists.shift().split('=');
+						queries[query[0]] = query[1];
+					}
+					return this.isEmpty(queries[paramName]) ? "" : queries[paramName];
+				},
+				dynamicLink : function(src,params,callback) {
+					const head = document.head || document.getElementsByTagName('head')[0];
+					const link = document.createElement("link");
+					link.href = src;
+					link.async = true;
+					link.rel = "stylesheet";
+					link.type = "text/css";
+					head.appendChild(link);
+
+					const img = document.createElement('img');
+					img.onerror = function(){
+						callback(params)
+					}
+					img.src = src;
+					return true;
+				}
+			}
+		}();
+		const slide = function(slideWrap,width,speed,time,maxLen) {
+			if (maxLen > 1)	{
+				let curIndex = 0;
+				return setInterval(function() {
+					slideWrap.style.transition = (speed / 1000) + 's';
+					slideWrap.style.transform = "translate3d(-"+width*(curIndex+1)+"px, 0px, 0px)";
+					curIndex++;
+					if(curIndex === maxLen){
+						setTimeout(function(){
+							slideWrap.style.transition = '0s';
+							slideWrap.style.transform = "translate3d(0px, 0px, 0px)";
+						},speed + 1)
+						curIndex = 0;
+					}
+				},time);
+			}
+			return null;
+		}
+		const createPassBackIfrm = function(data) {
+			let isClose = false;
+			let adinfoDiv = document.createElement('div');
+
+			const isCloseiconView = data['isCloseiconView'];
+			const isInfoIconView = data['isInfoIconView'];
+            let width = data['isMobile'] ? window.innerWidth : 970;
+            let mainDiv = document.createElement('div');
+				mainDiv.className = "__staxbn_wrap";
+			let inBoxDiv =  document.createElement('div');
+				inBoxDiv.className = "__staxbn_inbox";
+			if (isInfoIconView == true) {
+				adinfoDiv.className = "__staxadinfo";
+			}
+
+			let adCloseDiv = document.createElement('div');
+				adCloseDiv.className = "__staxadclose";
+			let bannerBoxDiv = document.createElement('div');
+				bannerBoxDiv.className = "__staxbn_box";
+            document.body.append(mainDiv);
+    		mainDiv.append(inBoxDiv);
+			if (isInfoIconView == true) {
+				inBoxDiv.append(adinfoDiv);
+			}
+			if (isCloseiconView == true) {
+				inBoxDiv.append(adCloseDiv);
+			}
+
+    		inBoxDiv.append(bannerBoxDiv);
+            const iframe = document.createElement("iframe");
+				iframe.id = 'iframe_' + code;
+				iframe.src = data['passBackUrl'];
+				iframe.width = data['width'] ;
+				iframe.height = data['height'] ;
+				iframe.frameBorder = "0";
+				iframe.scrolling = "no";
+			bannerBoxDiv.appendChild(iframe);
+			if (isCloseiconView == true) {
+				let closeClick = document.querySelector(".__staxbn_wrap .__staxbn_inbox .__staxadclose");
+				closeClick.addEventListener("click", function() {
+					isClose = true;
+					document.querySelector(".__staxbn_wrap").classList.remove('on');
+				});
+			}
+			mainDiv.classList.add('on');
+			/*
+			if(data['selfPassBack']) {
+				console.log('self_pass_back');
+				mainDiv.classList.add('on');
+			}
+			else {
+				window.addEventListener('message', function(e) {
+					let message = e.data;
+					if (typeof message.isPassBack !== 'undefined') {
+						console.log('PASSBACK - ' + message.isPassBack);
+	                	if (message.isPassBack && message.isPassBack == 'YES') {
+							if (!isClose) {
+								mainDiv.classList.add('on');
+							}
+							console.log('PASSBACK ON');
+	                	}
+					}
+					else {
+						if (!isClose) {
+							mainDiv.classList.add('on');
+						}
+						console.log(' message.isPassBack  - ' + message.isPassBack);
+					}
+				} , false);
+			}
+			*/
+		}
+		const createWiseViewBanner = function(data) {
+			const resInfoLen = data['resInfo'].length;
+			const infourl = data['info'].link;
+			const isCloseiconView = data['info'].isCloseiconView;
+			const isInfoIconView = data['info'].isInfoIconView;
+
+			let width = data['isMobile'] ? window.innerWidth : 970;
+			let mainDiv = document.createElement('div');
+				mainDiv.className = "__staxbn_wrap";
+			let inBoxDiv =  document.createElement('div');
+				inBoxDiv.className = "__staxbn_inbox";
+			let adinfoDiv =  document.createElement('div');
+				adinfoDiv.className = "__staxadinfo";
+			let adCloseDiv = document.createElement('div');
+				adCloseDiv.className = "__staxadclose";
+			let bannerBoxDiv = document.createElement('div');
+				bannerBoxDiv.className = "__staxbn_box";
+			if (!data['isMobile']) {
+				bannerBoxDiv.style.width = width * (resInfoLen + 1) + "px";
+			}
+			document.body.append(mainDiv);
+			mainDiv.append(inBoxDiv);
+
+			if (isInfoIconView == true) {
+				inBoxDiv.append(adinfoDiv);
+			}
+
+			// inBoxDiv.append(adinfoDiv);
+			if (isCloseiconView == true) {
+				inBoxDiv.append(adCloseDiv);
+			}
+			inBoxDiv.append(bannerBoxDiv);
+
+			if (data['isSlide']) {
+				let slideWrapDiv = document.createElement('div');
+				slideWrapDiv.className = "wiseSlideWrap";
+				inBoxDiv.append(slideWrapDiv);
+				let slideBoxDiv = document.createElement('div');
+				slideBoxDiv.className = "wiseSlideBox active";
+				slideWrapDiv.append(slideBoxDiv);
+				let coverImg = document.createElement('img');
+				coverImg.className = "wiseSlideCover";
+				coverImg.src = data['resInfo'][0].slidingBannerFile; //"cover.jpg";
+				coverImg.addEventListener("click", function () {
+				  //window.open("https://mykindkorea.com/");
+				  window.open( data['resInfo'][0].mainLink );
+				});
+				slideBoxDiv.append(coverImg);
+				let slideArwDiv = document.createElement('div');
+				slideArwDiv.className = "wiseSlideArw";
+				slideBoxDiv.append(slideArwDiv);
+				let arwImg = document.createElement('img');
+				arwImg.className = "wiseSlideHandler";
+				arwImg.src = "https://static.stax.kr/resource/images/arw.png";
+				slideArwDiv.append(arwImg);
+			}
+
+			let staxbnBox = document.querySelector(".__staxbn_box");
+			const loopCnt = (resInfoLen > 1) ? resInfoLen + 1 : resInfoLen;
+			for (let i = 0 ; i < loopCnt ; i++){
+				let idx = (i == resInfoLen) ? 0 : i;
+				let ul = document.createElement('ul');
+					ul.id = '__multibn' + (i + 1);
+					ul.style.position = 'absolute';
+					ul.style.width = data['isMobile'] ? '100%' : width + 'px';
+					ul.style.height = data['isMobile'] ? '75px' : '96px';
+					ul.style.top = '0px';
+					ul.style.left = data['isMobile'] ? i * 100 + '%' : i * width + 'px';
+				bannerBoxDiv.append(ul);
+				let img = document.createElement('img');
+					img.src = data['resInfo'][idx].bannerFilePath;
+					img.addEventListener("click", function() {
+						window.open(data['resInfo'][idx].mainLink);
+					});
+				if (data['isMobile']){
+					let imgDiv = document.createElement('div');
+						imgDiv.className = '__staxbnimg';
+					let bgLeftDiv = document.createElement('div');
+						bgLeftDiv.className = '__staxbgleft';
+						bgLeftDiv.style.backgroundColor = '#' + data['resInfo'][idx].leftBgColor;
+					let bgRightDiv = document.createElement('div');
+						bgRightDiv.className = '__staxbgright';
+						bgRightDiv.style.backgroundColor = '#' + data['resInfo'][idx].rightBgColor;
+					if (data['isSlide']) {
+						bgLeftDiv.style.height = '75px';
+						bgRightDiv.style.height = '75px';
+					}
+					ul.append(imgDiv);
+					ul.append(bgLeftDiv);
+					ul.append(bgRightDiv);
+					imgDiv.append(img);
+				}
+				else {
+					ul.append(img);
+				}
+
+				if (data['isSlide']) {
+					if (!util.isEmpty(data['resInfo'][idx].multiLink)){
+						const multiLinkLen = data['resInfo'][idx].multiLink.length;
+						for (let j = 0 ; j < multiLinkLen ; j++){
+							const top = data['resInfo'][idx].multiLink[j].top;
+							const left = data['resInfo'][idx].multiLink[j].left;
+							const width = data['resInfo'][idx].multiLink[j].width;
+							const height = data['resInfo'][idx].multiLink[j].height;
+							const link  = data['resInfo'][idx].multiLink[j].link;
+							let multiLinkDiv = document.createElement('div');
+								multiLinkDiv.className = 'linkbox b' + j;
+								multiLinkDiv.style.top = top + 'px';
+								multiLinkDiv.style.left = left + 'px';
+								multiLinkDiv.style.width = width + 'px';
+								multiLinkDiv.style.height = height + 'px';
+								multiLinkDiv.style.zIndex  = 1000;
+								multiLinkDiv.addEventListener("click", function() {
+									console.log(link);
+									window.open(link);
+								});
+							let multiBn = data['isMobile'] ? document.querySelector('#__multibn' + (i + 1) + ' .__staxbnimg')
+												: document.querySelector('#__multibn' +(i + 1)) ;
+							multiBn.append(multiLinkDiv);
+						}
+					}
+				}
+
+			}
+			console.log(isCloseiconView);
+			if (isCloseiconView == true) {
+				let closeClick = document.querySelector(".__staxbn_wrap .__staxbn_inbox .__staxadclose");
+				closeClick.addEventListener("click", function() {
+					if (!util.isEmpty(timer)){
+						clearInterval(timer);
+					}
+					document.querySelector(".__staxbn_wrap").classList.remove('on');
+				});
+			}
+
+			if (isInfoIconView == true) {
+				let infoOepn = document.querySelector(".__staxbn_wrap .__staxbn_inbox .__staxadinfo");
+				infoOepn.addEventListener("click", function() {
+					window.open(infourl);
+				});
+			}
+
+			let mouseAct = document.querySelector(".__staxbn_wrap .__staxbn_inbox");
+			mouseAct.addEventListener("mouseover", function() {
+				if (!util.isEmpty(timer)){
+					clearInterval(timer);
+				}
+			});
+			mouseAct.addEventListener("mouseout", function() {
+				timer = slide(document.querySelector(".__staxbn_box"),width,data['speed'],data['time'],data['resInfo'].length);
+			});
+
+			timer = slide(staxbnBox,width,data['speed'],data['time'],resInfoLen);
+
+			if (data['isSlide']) {
+
+				const slideBtn = document.querySelector(".wiseSlideHandler");
+				const slideElmnt = document.querySelector(".wiseSlideBox");
+
+				if (data['isMobile']) {
+
+					slideBtn.addEventListener("click", function () {
+						slideElmnt.classList.remove("active");
+						slideElmnt.animate({ right: "150%" }, 500);
+						setTimeout(() => slideElmnt.remove(), 500);
+						setTimeout(() => window.open( data['resInfo'][0].mainLink ), 700);
+					});
+
+					slideBtn.addEventListener("touchstart", function (e) {
+						slideElmnt.classList.remove("active");
+						slideElmnt.animate({ right: "150%" }, 500);
+						setTimeout(() => slideElmnt.remove(), 500);
+						setTimeout(() => window.open( data['resInfo'][0].mainLink ), 700);
+					});
+
+					
+				}else{
+					slideBtn.addEventListener("mousedown", function (e) {
+						dragMouseDown(e);
+					});
+				}
+
+			}
+
+			mainDiv.classList.add('on');
+
+			function dragMouseDown(e) { //press
+				e = e || window.event;
+				e.preventDefault();
+				document.querySelector(".wiseSlideBox").classList.remove("active");
+				pos2 = e.clientX;
+				document.onmouseup = closeDragElement;
+				document.onmousemove = elementDrag;
+
+			}
+			function elementDrag(e) { //move
+				let slideElmnt = document.querySelector(".wiseSlideBox");
+				e = e || window.event;
+				e.preventDefault();
+				pos1 = pos2 - e.clientX;
+				pos2 = e.clientX;
+				slideElmnt.style.left = (slideElmnt.offsetLeft - pos1) + "px";
+				if (slideElmnt.offsetLeft - pos1 < -400 && isOver === false) {
+					slideElmnt.animate({ left: "-150%" }, 500);
+					setTimeout(() => window.open(data['resInfo'][0].mainLink), 500);
+					isOver = true;
+				}
+			}
+
+			function closeDragElement() {//up
+			  let slideElmnt = document.querySelector(".wiseSlideBox");
+				document.onmouseup = null;
+				document.onmousemove = null;
+				if (slideElmnt.offsetLeft - pos1 >= -400 && isOver === false) {
+					let divStyle = document.querySelector(".wiseSlideBox");
+					divStyle.style.removeProperty("left");
+					divStyle.classList.add("active");
+				}
+			}
+		}
+
+
+		const code = util.getParameter('code');
+		const action = util.getParameter('action');
+		const passBackUrl = util.getParameter('pbUrl');
+		if (!util.isEmpty(code) ){
+			let pbUrl = "";
+			if (!util.isEmpty(passBackUrl)) {
+				pbUrl = passBackUrl;
+			}
+			else {
+				pbUrl = typeof __passbackUrl__ === "undefined" ? '' :
+									(util.isEmpty(__passbackUrl__) ? '' : __passbackUrl__);
+			}
+			const href = encodeURIComponent(location.href);
+			const ref = encodeURIComponent(document.referrer);
+			const params = btoa('code=' + code + '&href=' + href + '&ref=' + ref);
+			console.log('https://ad.api.stax.kr/campaign/wiseView/?params='+ params);
+			fetch('https://ad.api.stax.kr/campaign/wiseView/?params='+ params, {method: "get",credentials: 'include'})
+				.then(resp => {	return resp.json(); })
+				.then(data => {
+					if (!util.isEmpty(data)){
+						if (!util.isEmpty(data['targeting'])) {
+							console.log('TARGETING : ' + data['targeting']);
+						}
+						if (!util.isEmpty(data['orderBy'])) {
+							console.log('ORDER_BY : ' + data['orderBy']);
+						}
+						if (!util.isEmpty(data['areaCode'])) {
+							console.log('areaCode : ' + data['areaCode']);
+						}
+
+
+
+						const params = new Date().getTime();
+						let type = util.isEmpty(action) ? 'normal' : action;
+
+						if( data['info'] !== undefined ) {
+							if( data['info'].icon !== undefined ) {
+								if( data['info'].icon === 'https://static.stax.kr/resource/images/ico_snaad.png' ) {
+									type = type + '_sna';
+								}
+							}
+						}
+						
+
+						let hrefCss = data['isMobile'] ? 'https://static.stax.kr/resource/css/wiseviewslide/mobile/' + type +'.css'
+								: 'https://static.stax.kr/resource/css/wiseviewslide/pc/' + type +'.css';
+						if (util.isEmpty(data['resInfo'])) {
+							// 패스백 IFRAME 생성
+							const returnPassBakUrl = typeof data['passBackUrl'] === "undefined" ? ''
+									: (util.isEmpty(data['passBackUrl']) ? '' : data['passBackUrl']);
+							data['passBackUrl'] = !util.isEmpty(pbUrl) ? pbUrl : returnPassBakUrl;
+							data['selfPassBack'] = !util.isEmpty(pbUrl) ? true : false;
+							if (!util.isEmpty(data['passBackUrl'])) {
+								util.dynamicLink(hrefCss,data,createPassBackIfrm);
+							}
+							console.log('no resInfo');
+							return ;
+						}
+
+						if( data['resInfo'] !== undefined ) {
+							if( data['resInfo'][0].isSliding !== undefined ) {
+								if( data['resInfo'][0].isSliding === 'T' ) {
+									data['isSlide'] = true;
+								}
+								else {
+									data['isSlide'] = false;
+								}
+							}
+							else {
+								data['isSlide'] = false;
+							}
+						}
+						else {
+							data['isSlide'] = false;
+						}
+
+
+						console.log('wiseview banner load');
+						util.dynamicLink(hrefCss,data,createWiseViewBanner);
+					}
+					else {
+						console.log('no add');
+					}
+				})
+				.catch(excResp => {console.log(excResp)});
+		}
+		else {
+			console.log('invalid code');
+		}
+	}
+	catch(e){console.log(e);}
+}());

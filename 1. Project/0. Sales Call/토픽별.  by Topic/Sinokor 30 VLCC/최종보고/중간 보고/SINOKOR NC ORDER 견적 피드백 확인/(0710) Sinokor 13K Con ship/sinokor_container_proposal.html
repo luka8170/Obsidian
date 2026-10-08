@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sinokor 13,000 TEU Container Vessel 신조 제안서</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            overflow-x: hidden;
+        }
+
+        .presentation-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .slide {
+            min-height: 100vh;
+            display: none;
+            padding: 60px 40px;
+            position: relative;
+            animation: slideIn 0.6s ease-out;
+        }
+
+        .slide.active {
+            display: block;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .slide h1 {
+            font-size: 3.5rem;
+            font-weight: bold;
+            margin-bottom: 30px;
+            background: linear-gradient(135deg, #ffffff 0%, #e3f2fd 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .slide h2 {
+            font-size: 2.5rem;
+            margin-bottom: 25px;
+            color: #e3f2fd;
+        }
+
+        .slide h3 {
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            color: #bbdefb;
+        }
+
+        .slide p, .slide li {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            color: #e8f4f8;
+        }
+
+        .slide ul {
+            margin-left: 30px;
+            margin-bottom: 20px;
+        }
+
+        .slide li {
+            margin-bottom: 10px;
+        }
+
+        .bv-logo {
+            position: absolute;
+            top: 30px;
+            right: 40px;
+            width: 120px;
+            height: 120px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: #1e3c72;
+            font-size: 14px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+        }
+
+        .highlight-box {
+            background: rgba(255, 255, 255, 0.1);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 15px;
+            padding: 30px;
+            margin: 30px 0;
+            backdrop-filter: blur(10px);
+        }
+
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin: 30px 0;
+        }
+
+        .stat-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 25px;
+            border-radius: 12px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #4fc3f7;
+            display: block;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin: 30px 0;
+        }
+
+        .feature-item {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 25px;
+            border-radius: 12px;
+            border-left: 4px solid #4fc3f7;
+        }
+
+        .feature-item h4 {
+            color: #4fc3f7;
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+
+        .navigation {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(255, 255, 255, 0.15);
+            padding: 15px 25px;
+            border-radius: 50px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            z-index: 1000;
+        }
+
+        .nav-btn {
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: white;
+            font-size: 1rem;
+            padding: 10px 20px;
+            margin: 0 5px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .nav-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .nav-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .slide-number {
+            position: absolute;
+            top: 30px;
+            left: 40px;
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .vessel-image {
+            width: 100%;
+            max-width: 500px;
+            height: 300px;
+            background: linear-gradient(45deg, #0277bd, #4fc3f7);
+            border-radius: 15px;
+            margin: 20px auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        .timeline {
+            display: flex;
+            align-items: center;
+            margin: 30px 0;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .timeline-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px 20px;
+            border-radius: 10px;
+            border-left: 4px solid #4fc3f7;
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .timeline-item h4 {
+            color: #4fc3f7;
+            font-size: 1.2rem;
+            margin-bottom: 5px;
+        }
+
+        @media (max-width: 768px) {
+            .slide {
+                padding: 40px 20px;
+            }
+            
+            .slide h1 {
+                font-size: 2.5rem;
+            }
+            
+            .slide h2 {
+                font-size: 2rem;
+            }
+            
+            .bv-logo {
+                width: 80px;
+                height: 80px;
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="presentation-container">
+        
+        <!-- Slide 1: Title -->
+        <div class="slide active">
+            <div class="slide-number">1 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h1>Sinokor Maritime</h1>
+            <h2>13,000 TEU Container Vessel</h2>
+            <h2>신조 분류 제안서</h2>
+            <div class="vessel-image">
+                13,000 TEU Container Vessel<br>
+                with Scrubber System
+            </div>
+            <div class="highlight-box">
+                <h3>Bureau Veritas Korea</h3>
+                <p>Shaping a World of Trust by Ensuring Responsible Progress</p>
+                <p><strong>July 2025</strong></p>
+            </div>
+        </div>
+
+        <!-- Slide 2: Bureau Veritas Introduction -->
+        <div class="slide">
+            <div class="slide-number">2 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>Bureau Veritas 소개</h2>
+            <div class="highlight-box">
+                <h3>A Business to Business to Society Company</h3>
+                <p>1828년 창립 이래 거의 200년간 비즈니스와 사회 간의 신뢰를 구축해 온 Bureau Veritas는 글로벌 선도 TIC(Testing, Inspection, Certification) 기업입니다.</p>
+            </div>
+            
+            <div class="stats-container">
+                <div class="stat-item">
+                    <span class="stat-number">83,000+</span>
+                    <p>전 세계 임직원</p>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">1,600+</span>
+                    <p>사무소 및 연구소</p>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">140+</span>
+                    <p>서비스 제공 국가</p>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">#1</span>
+                    <p>글로벌 해사 분류기관</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>우리의 미션</h3>
+                <p><strong>책임감 있는 발전을 보장함으로써 신뢰의 세계를 구축</strong></p>
+            </div>
+        </div>
+
+        <!-- Slide 3: Container Ship Experience -->
+        <div class="slide">
+            <div class="slide-number">3 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>컨테이너선 분야 50년+ 경험</h2>
+            
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h4>1969</h4>
+                    <p>최초 컨테이너 전용선 ATLANTIC CHAMPAGNE (740 TEU) 분류</p>
+                </div>
+                <div class="timeline-item">
+                    <h4>2020s</h4>
+                    <p>23,000 TEU 초대형 컨테이너선 분류</p>
+                </div>
+                <div class="timeline-item">
+                    <h4>현재</h4>
+                    <p>750+ 컨테이너선 분류 중</p>
+                </div>
+            </div>
+
+            <div class="stats-container">
+                <div class="stat-item">
+                    <span class="stat-number">750+</span>
+                    <p>현재 분류 중인 컨테이너선</p>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">2,000+</span>
+                    <p>역대 분류 실적</p>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">80+</span>
+                    <p>건조 중인 컨테이너선</p>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">87</span>
+                    <p>컨테이너선 전문 조사소</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>13,000 TEU급 컨테이너선 분류 전문성</h3>
+                <ul>
+                    <li>CMA CGM, MSC, PIL 등 주요 선사 13,000 TEU급 선박 다수 분류</li>
+                    <li>한국 및 중국 조선소에서 건조된 대형 컨테이너선 풍부한 경험</li>
+                    <li>Scrubber 장착 컨테이너선 특화 기술 지원</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Slide 4: Scrubber System -->
+        <div class="slide">
+            <div class="slide-number">4 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>Scrubber 시스템 전문성</h2>
+            
+            <div class="highlight-box">
+                <h3>EGCS-Scrubber 분류 기호</h3>
+                <p>황 산화물 배출 규제(IMO 2020) 대응을 위한 배기가스 청정 시스템 장착 선박에 부여되는 특별 기호</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>설계 단계 지원</h4>
+                    <p>• Scrubber 시스템 배치 최적화<br>
+                    • 구조적 영향 평가<br>
+                    • 중량 및 중심 검토<br>
+                    • 진동 및 소음 고려사항</p>
+                </div>
+                <div class="feature-item">
+                    <h4>규정 준수</h4>
+                    <p>• IMO MEPC 규정 완전 준수<br>
+                    • 각국 항만 요구사항 대응<br>
+                    • 배출가스 모니터링 시스템<br>
+                    • 세정수 배출 기준 준수</p>
+                </div>
+                <div class="feature-item">
+                    <h4>장비 인증</h4>
+                    <p>• Scrubber 제조사 승인<br>
+                    • 주요 구성품 형식승인<br>
+                    • 설치 검사 및 성능 시험<br>
+                    • 정기 검사 체계</p>
+                </div>
+                <div class="feature-item">
+                    <h4>운항 지원</h4>
+                    <p>• 글로벌 항만 정보 제공<br>
+                    • 세정수 배출 지역 안내<br>
+                    • 연료유 전환 절차<br>
+                    • 유지보수 가이드라인</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>Sinokor 13,000 TEU 선박 적용 혜택</h3>
+                <ul>
+                    <li>연료비 절감: 고황유(HSFO) 사용으로 연간 약 $1-2M 절약</li>
+                    <li>운항 유연성: 전 세계 항만 규제 대응</li>
+                    <li>투자회수: 3-4년 내 투자비 회수 가능</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Slide 5: Technical Excellence - Structure -->
+        <div class="slide">
+            <div class="slide-number">5 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>구조 안전성 및 기술적 우수성</h2>
+            
+            <div class="highlight-box">
+                <h3>첨단 구조 해석 도구</h3>
+                <ul>
+                    <li><strong>MARS 2D</strong> - 규정 요구사항 평가</li>
+                    <li><strong>VeriSTAR-HULL</strong> - 3D 유한요소해석</li>
+                    <li><strong>HOMER</strong> - 유체-구조 연성 해석</li>
+                </ul>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>Hull Girder Strength</h4>
+                    <p>• IACS UR S11A 완전 준수<br>
+                    • Ultimate Strength 해석<br>
+                    • Yielding & Buckling 평가<br>
+                    • 7개 등가설계파 적용</p>
+                </div>
+                <div class="feature-item">
+                    <h4>Whipping & Springing (WhiSp2)</h4>
+                    <p>• 비선형 Whipping 효과 고려<br>
+                    • 선체 동적 응답 해석<br>
+                    • 350m 이상 선박 필수<br>
+                    • 최적화된 강재 배치</p>
+                </div>
+                <div class="feature-item">
+                    <h4>Fatigue Analysis</h4>
+                    <p>• Spectral Fatigue (25년 수명)<br>
+                    • Hotspot Mapping<br>
+                    • 전 세계 항로 고려<br>
+                    • 임계 구조 세부 평가</p>
+                </div>
+                <div class="feature-item">
+                    <h4>Complete Ship Analysis</h4>
+                    <p>• 3D 전선 모델 해석<br>
+                    • 비틀림 거동 평가<br>
+                    • Cargo Hold 구조 강도<br>
+                    • Local Scantling 최적화</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 6: Lashing System -->
+        <div class="slide">
+            <div class="slide-number">6 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>라싱 시스템 최적화</h2>
+            
+            <div class="highlight-box">
+                <h3>LASHING-RSSA-WAF 기호</h3>
+                <p>특정 항로 및 기상 조건에 최적화된 화물 고박 시스템으로 최대 30% 화물 적재량 증대 가능</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>Route-Specific Analysis</h4>
+                    <p>• 19개 사전 정의 항로<br>
+                    • 1990-2020 기상 데이터 기반<br>
+                    • 항로별 가속도 값 최적화<br>
+                    • 신규 항로 추가 가능</p>
+                </div>
+                <div class="feature-item">
+                    <h4>Weather Forecast (-WAF)</h4>
+                    <p>• 72시간 미만 단기 항해<br>
+                    • 실시간 기상예보 반영<br>
+                    • 동적 라싱 패턴 조정<br>
+                    • 안전성 확보</p>
+                </div>
+                <div class="feature-item">
+                    <h4>VeriSTAR Lashing Tool</h4>
+                    <p>• 복잡한 라싱 구성 해석<br>
+                    • Internal/External/Mixed 시스템<br>
+                    • Twist-lock 간격 고려<br>
+                    • 라싱 브리지 구조 해석</p>
+                </div>
+                <div class="feature-item">
+                    <h4>Sinokor 적용 혜택</h4>
+                    <p>• 아시아-유럽 항로 최적화<br>
+                    • 연간 15-25% 화물량 증대<br>
+                    • 단위 컨테이너당 운송비 절감<br>
+                    • 경쟁력 강화</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 7: Fire Safety -->
+        <div class="slide">
+            <div class="slide-number">7 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>화재 안전성 강화 (ECFP)</h2>
+            
+            <div class="highlight-box">
+                <h3>Enhanced Cargo Fire Protection (ECFP)</h3>
+                <p>컨테이너선 화물 화재 위험에 대응하는 BV 독자 개발 안전 기준</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>ECFP-1 (기본형)</h4>
+                    <p>• 휴대용 장비 및 설비<br>
+                    • 기존 선박 개조 적용 가능<br>
+                    • 다목적선 컨테이너 운송<br>
+                    • 기본 화재 대응 체계</p>
+                </div>
+                <div class="feature-item">
+                    <h4>ECFP-2 (표준형) ✓ 권장</h4>
+                    <p>• 확장된 완화 조치<br>
+                    • 표준 기술로 구현 가능<br>
+                    • 해수 주입 시스템<br>
+                    • 고정식 모니터 설치</p>
+                </div>
+                <div class="feature-item">
+                    <h4>화재 위험 단계별 대응</h4>
+                    <p>• 예방/점화 단계<br>
+                    • 억제/봉쇄 단계<br>
+                    • 대피/구조 단계<br>
+                    • 종합적 위험 관리</p>
+                </div>
+                <div class="feature-item">
+                    <h4>실질적 혜택</h4>
+                    <p>• 보험료 절감 효과<br>
+                    • 화물주 신뢰도 향상<br>
+                    • 항만 당국 선호<br>
+                    • 브랜드 가치 제고</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 8: Cyber Security -->
+        <div class="slide">
+            <div class="slide-number">8 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>사이버 보안 (CYBER RESILIENT)</h2>
+            
+            <div class="highlight-box">
+                <h3>차세대 디지털 선박 보안</h3>
+                <p>IACS UR E26/E27 완전 준수하는 사이버 보안 설계 및 인증</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>설계 단계 보안</h4>
+                    <p>• Cyber Secure by Design<br>
+                    • 네트워크 분리 설계<br>
+                    • 취약점 사전 차단<br>
+                    • 보안 아키텍처 최적화</p>
+                </div>
+                <div class="feature-item">
+                    <h4>IACS 표준 준수</h4>
+                    <p>• UR E26 운영 네트워크<br>
+                    • UR E27 장비 인증<br>
+                    • IMO MSC(428).98 준수<br>
+                    • 강제 표준 선제 적용</p>
+                </div>
+                <div class="feature-item">
+                    <h4>장비 및 시스템</h4>
+                    <p>• 60+ 인증 장비<br>
+                    • 주요 제조사 협력<br>
+                    • 방화벽 및 암호화<br>
+                    • 침입 탐지 시스템</p>
+                </div>
+                <div class="feature-item">
+                    <h4>운항 중 지원</h4>
+                    <p>• CHART 사이버 감사<br>
+                    • 승무원 교육 프로그램<br>
+                    • 취약점 모니터링<br>
+                    • 사고 대응 체계</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>13,000 TEU 적용 시나리오</h3>
+                <ul>
+                    <li>통합 선교 시스템 (IBS) 보안 강화</li>
+                    <li>화물 관리 시스템 사이버 보안</li>
+                    <li>선대 관리 원격 모니터링 보안</li>
+                    <li>항만 자동화 시스템 연계 보안</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Slide 9: Project Management -->
+        <div class="slide">
+            <div class="slide-number">9 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>Premium 프로젝트 관리</h2>
+            
+            <div class="highlight-box">
+                <h3>한국 조선소 전담 팀 구성</h3>
+                <p>Sinokor 13,000 TEU 프로젝트 전용 팀 배정 및 원스톱 서비스 제공</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>프로젝트 조직</h4>
+                    <p>• 한국 현장 프로젝트 리더<br>
+                    • 설계검토 전담 팀<br>
+                    • 건조검사 전문 팀<br>
+                    • 장비인증 지원 팀</p>
+                </div>
+                <div class="feature-item">
+                    <h4>품질 관리 시스템</h4>
+                    <p>• PAUT/TOFD 전문 검사원<br>
+                    • 용접 품질 관리<br>
+                    • 순찰 검사 시스템<br>
+                    • 단계별 품질 검증</p>
+                </div>
+                <div class="feature-item">
+                    <h4>진행 관리</h4>
+                    <p>• 월별 운영위원회<br>
+                    • 실시간 진행 보고<br>
+                    • 위험 요소 사전 식별<br>
+                    • 일정 최적화</p>
+                </div>
+                <div class="feature-item">
+                    <h4>기술 지원</h4>
+                    <p>• 첨단 기술 연구센터<br>
+                    • 전문가 자문단<br>
+                    • 24/7 기술 핫라인<br>
+                    • 온사이트 기술 지원</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>Sponsor Committee</h3>
+                <p>주요 기술적 이슈 발생 시 48시간 내 BV 최고 경영진 직접 대응 체계</p>
+                <ul>
+                    <li>Zone Vice President (프로젝트 스폰서)</li>
+                    <li>Technical Vice President</li>
+                    <li>Operations Vice President</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Slide 10: Digital Services -->
+        <div class="slide">
+            <div class="slide-number">10 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>디지털 서비스 패키지</h2>
+            
+            <div class="highlight-box">
+                <h3>MOVE by Bureau Veritas</h3>
+                <p>Sinokor에게 무료 제공되는 통합 디지털 플랫폼</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>신조 단계</h4>
+                    <p>• VPM 프로젝트 관리<br>
+                    • 3D 분류 서비스<br>
+                    • 도면 검토 진행 추적<br>
+                    • 실시간 소통 플랫폼</p>
+                </div>
+                <div class="feature-item">
+                    <h4>운항 단계</h4>
+                    <p>• Fleet 상태 모니터링<br>
+                    • 검사 일정 자동 관리<br>
+                    • 디지털 증명서 발급<br>
+                    • PSC 준비 지원</p>
+                </div>
+                <div class="feature-item">
+                    <h4>환경 규제 대응</h4>
+                    <p>• VeriSTAR Green (CII/EEXI)<br>
+                    • EU MRV/ETS 자동 계산<br>
+                    • IMO DCS 데이터 수집<br>
+                    • 배출량 실시간 모니터링</p>
+                </div>
+                <div class="feature-item">
+                    <h4>원격 서비스</h4>
+                    <p>• Remote Survey Centre<br>
+                    • AR/VR 검사 기술<br>
+                    • 8개 지역 센터 연결<br>
+                    • 24시간 글로벌 커버리지</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 11: Training & Benefits -->
+        <div class="slide">
+            <div class="slide-number">11 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>교육 프로그램 & 부가 혜택</h2>
+            
+            <div class="highlight-box">
+                <h3>Sinokor 전용 기술 교육 프로그램</h3>
+                <p>13,000 TEU 컨테이너선 운영 전문성 강화를 위한 맞춤형 교육</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>컨테이너선 전문 교육</h4>
+                    <p>• 대형 컨테이너선 설계 원리<br>
+                    • Scrubber 시스템 운영<br>
+                    • 라싱 시스템 최적화<br>
+                    • 화재 안전 관리</p>
+                </div>
+                <div class="feature-item">
+                    <h4>실무 교육</h4>
+                    <p>• 현장 파견 교육 (2명)<br>
+                    • 엔지니어링 사무소 연수<br>
+                    • 건조 현장 실습<br>
+                    • 검사 절차 교육</p>
+                </div>
+                <div class="feature-item">
+                    <h4>eAcademy 크레딧</h4>
+                    <p>• 선박당 $30,000 교육 크레딧<br>
+                    • 30+ 온라인 과정<br>
+                    • 사이버 보안 교육<br>
+                    • 지속적 전문성 개발</p>
+                </div>
+                <div class="feature-item">
+                    <h4>운항 최적화 지원</h4>
+                    <p>• 항로 최적화 컨설팅<br>
+                    • CII 성능 예측<br>
+                    • 연료 효율성 분석<br>
+                    • 1년 무료 구독</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>5년 블록 피 제안</h3>
+                <p>장기 파트너십 구축을 위한 <strong>특별 할인 조건</strong> 및 프리미엄 서비스 패키지</p>
+                <ul>
+                    <li>경쟁력 있는 분류비 조건</li>
+                    <li>전담 Key Account Manager 배정</li>
+                    <li>우선 서비스 제공</li>
+                    <li>기술 자문 무료 제공</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Slide 12: Partnership & Conclusion -->
+        <div class="slide">
+            <div class="slide-number">12 / 12</div>
+            <div class="bv-logo">BUREAU<br>VERITAS<br>1828</div>
+            <h2>장기 파트너십 제안</h2>
+            
+            <div class="highlight-box">
+                <h3>Sinokor와 함께하는 미래</h3>
+                <p>신뢰할 수 있는 장기 비즈니스 파트너로서 Sinokor의 성공적인 미래를 함께 만들어 갑니다.</p>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h4>기술 혁신 리더십</h4>
+                    <p>• 차세대 연료 기술 선도<br>
+                    • 디지털 혁신 동반자<br>
+                    • 지속가능한 해운 지원<br>
+                    • 규제 변화 선제 대응</p>
+                </div>
+                <div class="feature-item">
+                    <h4>글로벌 네트워크</h4>
+                    <p>• 전 세계 140개국 서비스<br>
+                    • 24/7 기술 지원<br>
+                    • 현지 전문가 배치<br>
+                    • 신속한 문제 해결</p>
+                </div>
+                <div class="feature-item">
+                    <h4>경제적 가치</h4>
+                    <p>• 운영비 절감 솔루션<br>
+                    • 화물 적재량 최적화<br>
+                    • 연료비 절감 지원<br>
+                    • ROI 극대화</p>
+                </div>
+                <div class="feature-item">
+                    <h4>지속적 발전</h4>
+                    <p>• 정기 기술 워크샵<br>
+                    • 신기술 공동 개발<br>
+                    • 고위급 교류<br>
+                    • 전략적 협력 확대</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>Why Choose Bureau Veritas?</h3>
+                <ul>
+                    <li><strong>검증된 전문성</strong>: 50년+ 컨테이너선 분류 경험</li>
+                    <li><strong>기술적 우수성</strong>: 업계 최고 수준의 해석 도구와 방법론</li>
+                    <li><strong>글로벌 리치</strong>: 전 세계 어디서나 동일한 품질의 서비스</li>
+                    <li><strong>혁신적 솔루션</strong>: 미래 지향적 기술과 디지털 서비스</li>
+                    <li><strong>파트너십</strong>: 고객 성공을 위한 진정한 동반자</li>
+                </ul>
+            </div>
+
+            <div class="contact-info">
+                <h3>연락처</h3>
+                <p><strong>Bureau Veritas Korea</strong></p>
+                <p>📧 korea.marine@bureauveritas.com</p>
+                <p>📞 +82-51-123-4567</p>
+                <p>🌐 marine-offshore.bureauveritas.com</p>
+                <br>
+                <p><strong>신뢰의 세계를 함께 만들어 갑시다</strong></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="navigation">
+        <button class="nav-btn" id="prevBtn" onclick="changeSlide(-1)">◀ 이전</button>
+        <span id="slideIndicator">1 / 12</span>
+        <button class="nav-btn" id="nextBtn" onclick="changeSlide(1)">다음 ▶</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        function showSlide(n) {
+            slides[currentSlide].classList.remove('active');
+            currentSlide = (n + totalSlides) % totalSlides;
+            slides[currentSlide].classList.add('active');
+            
+            // Update navigation
+            document.getElementById('slideIndicator').textContent = `${currentSlide + 1} / ${totalSlides}`;
+            document.getElementById('prevBtn').disabled = currentSlide === 0;
+            document.getElementById('nextBtn').disabled = currentSlide === totalSlides - 1;
+        }
+
+        function changeSlide(direction) {
+            if (direction === 1 && currentSlide < totalSlides - 1) {
+                showSlide(currentSlide + 1);
+            } else if (direction === -1 && currentSlide > 0) {
+                showSlide(currentSlide - 1);
+            }
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                e.preventDefault();
+                changeSlide(1);
+            } else if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                changeSlide(-1);
+            }
+        });
+
+        // Initialize
+        showSlide(0);
+
+        // Touch/swipe support for mobile
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        document.addEventListener('touchstart', function(e) {
+            touchStartX = e.changedTouches[0].screenX;
+        });
+
+        document.addEventListener('touchend', function(e) {
+            touchEndX = e.changedTouches[0].screenX;
+            handleSwipe();
+        });
+
+        function handleSwipe() {
+            const swipeThreshold = 50;
+            const diff = touchStartX - touchEndX;
+            
+            if (Math.abs(diff) > swipeThreshold) {
+                if (diff > 0) {
+                    changeSlide(1); // Swipe left - next slide
+                } else {
+                    changeSlide(-1); // Swipe right - previous slide
+                }
+            }
+        }
+    </script>
+</body>
+</html>

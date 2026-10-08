@@ -1,0 +1,2004 @@
+Received: from COW380C.hanjin.com (192.168.100.243) by kovhgvmd.hanjin.com
+ (203.246.154.24) with Microsoft SMTP Server (TLS) id 14.3.123.3; Fri, 22 Nov
+ 2013 15:26:41 +0900
+Received: from COW380E.hanjin.com ([192.168.10.1]) by cow380c.hanjin.com
+ ([192.168.100.243]) with mapi id 14.03.0123.003; Fri, 22 Nov 2013 14:25:57
+ +0800
+From: Grace WANG <gracewang@cn.hanjin.com>
+To: "TH(Tae-Hoon) AN" <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>,
+	Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, "Lloyd(Woosik)
+ Yang" <shakin@hanjin.com>, "Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>,
+	Gracie CHEN <wmchen@sg.hanjin.com>
+CC: Dae-Kyu KIM <forbong@hanjin.com>, Danny ZHOU <danny@cn.hanjin.com>, Jason
+ SHI <jasonshi@cn.hanjin.com>, Claud Yan <claud@cn.hanjin.com>, Oasis Shen
+	<oasis@cn.hanjin.com>, Alex Lin <alexlin@cn.hanjin.com>, Da WANG
+	<wangda@cn.hanjin.com>, Andrew AI <xing@cn.hanjin.com>, Kwang-Oog RYU
+	<ryuko@hanjin.com>, "YH(Yeon-Ho) NAM" <yhnam@hanjin.com>, Kwang-Oog RYU
+	<ryuko@hanjin.com>, Feng FANG <fengfang@cn.hanjin.com>, Li SHA
+	<lisha@cn.hanjin.com>, Su JINGNAN <su_jn@cn.hanjin.com>, Shane Liu
+	<shaneliu@cn.hanjin.com>, "STANLEY ." <huanzhifei@cn.hanjin.com>, LI CHEN XIN
+	<rachel_lee@cn.hanjin.com>, Seon-Woo NAM <swnam@hanjin.com>, "YI(Yong-In)
+ Lee" <yilee@hanjin.com>, "D. DAVID" <ddavid@cn.hanjin.com>, Fiona Wang
+	<fiona@cn.hanjin.com>, Charlie Wu <charlie@cn.hanjin.com>, Merry ZHAO
+	<merry@cn.hanjin.com>, Doris Ao <dorisao@cn.hanjin.com>, Sang-Real BAEK
+	<srbaek@hanjin.com>, "S. MU" <musi@cn.hanjin.com>, Liu FENG
+	<liufeng@cn.hanjin.com>, Bosco Cao <caobo@cn.hanjin.com>, Allen LV
+	<lvdapeng@cn.hanjin.com>, Joon-Sang PARK <jspark1@hanjin.com>, Ada JIANG
+	<adajiang@cn.hanjin.com>, HUI SUN <ranger@cn.hanjin.com>, Carol YANG
+	<carolyang@cn.hanjin.com>, Jane SHAO <janeshao@cn.hanjin.com>, Candy TANG
+	<tangdi@cn.hanjin.com>, Trancy QI <trancyqi@cn.hanjin.com>, Henry CHAI
+	<henrychai@cn.hanjin.com>, Daniel YANG <yang@cn.hanjin.com>, "JS(Ji-Suk) KIM"
+	<jskim@hanjin.com>, Liang Zan <liangzan@cn.hanjin.com>, Tang LI
+	<tangli@cn.hanjin.com>, Ma MING <czmartin@cn.hanjin.com>, JEVANS LI
+	<jevans@cn.hanjin.com>, Lily LIU <lilyliu@cn.hanjin.com>, Kevin Xie
+	<Kevin_xie@cn.hanjin.com>, Zheng Xie <xiezheng@cn.hanjin.com>, Lydia YU
+	<lydiayu@cn.hanjin.com>, Hannah HAN <hanhuan@cn.hanjin.com>, Tom WU
+	<tom_wu@cn.hanjin.com>, PAN YING <catherin@cn.hanjin.com>, Vivian ZHANG
+	<vivianzh@cn.hanjin.com>, Tom WU <tom_wu@cn.hanjin.com>, Engi CHEN
+	<engichan@cn.hanjin.com>, "SW(Seung-Woo) OH" <swoh@hanjin.com>, Kang-Soo KIM
+	<kskim03@hanjin.com>, "Alex C. Y. SO" <alex@hk.hanjin.com>, "Fion S. O. MAK"
+	<mkon@hk.hanjin.com>, "Karen K. L. CHANG" <karenchang@hk.hanjin.com>, "Simon
+ C. W. SIU" <simon@hk.hanjin.com>, "Winnie  W. P. MOK" <winnie@hk.hanjin.com>,
+	"Terry, K. W. CHEUNG" <terrycheung@hk.hanjin.com>, "Winston S. W. CHAN"
+	<winstonchan@hk.hanjin.com>, "Joan H. Y. WONG" <joanwong@hk.hanjin.com>,
+	"MY(Mun-Young) KIM" <mykim@hanjin.com>, Hee-Do PARK <hdpark@hanjin.com>,
+	Kevin SONG <kevinsong@cn.hanjin.com>, Raymond Yang
+	<raymondyang@cn.hanjin.com>, Forrest Yuan <forrestyuan@cn.hanjin.com>, Justin
+ Shi <justinshi@cn.hanjin.com>, Rex ZHANG <rexzhang@cn.hanjin.com>, Ryan Li
+	<ryanli@cn.hanjin.com>, Winy Tang <winytang@cn.hanjin.com>,
+	"David(Hyoung-Wook) PARK" <hwpark@hanjin.com>, Tiffany HUANG
+	<tiffanyhuang@cn.hanjin.com>, Winnie LI <winnieli@cn.hanjin.com>, Bryan ZHUO
+	<bryanzhuo@cn.hanjin.com>, George LEE <glee@tw.hanjin.com>, Janice CHOU
+	<tpe0041@tw.hanjin.com>, "JASON(Jason) CHANG" <jasonchang@tw.hanjin.com>,
+	"Arthur  CHEN" <arthurchen@tw.hanjin.com>, Jeff Chen
+	<jeffchen@tw.hanjin.com>, Sara TSAI <sara@tw.hanjin.com>, Annie WU
+	<anniewu@tw.hanjin.com>, Yeong-Sig PARK <parkys@hanjin.com>, Hoon PARK
+	<hpark@hanjin.com>, Jung-IL KANG <jikang@hanjin.com>, Yong-Ik HWANG
+	<yihwang@hanjin.com>, "A. M. JANG" <amjang@hanjin.com>, Hyun-Chul KIM
+	<hyunckim@hanjin.com>, Kwang-Rock OH <rhocko@hanjin.com>, Jae-Hwa LIM
+	<jhlim@hanjin.com>, "YJ(Young-Jin) AHN" <yjahn@hanjin.com>, "BJ(Bong-Jo)
+ KANG" <bjkang1@hanjin.com>, "Jay(Jun-Yong) Park" <jaypark@hanjin.com>,
+	YOSHITSUGU KAGAWA <kagawa@jp.hanjin.com>, Dae-Young KANG <dykang@hanjin.com>,
+	MASAHARU UMIHARA <umihara@jp.hanjin.com>, SHINGO NAKAZATO
+	<nakazato@jp.hanjin.com>, SHIN HIRANO <hirano@jp.hanjin.com>, MIZUKI WAKIMOTO
+	<wakimoto@jp.hanjin.com>, MASASHI SUEYASU <sueyasu@jp.hanjin.com>, Vivian
+ ZHANG <vivianzh@cn.hanjin.com>, Candy TANG <tangdi@cn.hanjin.com>, Simon HSU
+	<simonhsu@tw.hanjin.com>, Gi-Beom PARK <kbpark@hanjin.com>, Paris PENG
+	<paris@cn.hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>, Spike CHEN
+	<spike@cn.hanjin.com>, Jessica LU <jessicalu@cn.hanjin.com>, Alex FAN
+	<alexfan@cn.hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>
+Subject: =?gb2312?B?tPC4tDogPENLQT4gUVRBIGFkanVzdG1lbnQ=?=
+Thread-Topic: <CKA> QTA adjustment
+Thread-Index: Ac7LBoSPyTM9fapzSryaw1JAhna86AcRF5DA
+Date: Fri, 22 Nov 2013 15:25:56 +0900
+Message-ID: <6C87299945D69B4C91EE1BD5C1F3E8E604C5F1@cow380e.hanjin.com>
+Accept-Language: en-US
+Content-Language: zh-CN
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380c.hanjin.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.100.36]
+Content-Type: multipart/mixed;
+	boundary="_004_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_"
+MIME-Version: 1.0
+
+--_004_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_
+Content-Type: multipart/alternative;
+	boundary="_000_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_"
+
+--_000_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: base64
+
+VG8gQ0NFDQpDYyBCQlMvSVBDDQpGbSBBU0kNCg0KUkU6IENLQSBRVEEgYWRqdXN0bWVudA0KDQpI
+aSBMdXRoLA0KDQpEdWUgdG8gQXUgbWFya2V0IHN0ZXAgaW50byB0cmFkaXRpb25hbCB3ZWFrIHNl
+YXNvbiwgd2Ugd291bGQgbGlrZSB0byBtYWtlIHNtYWxsIGFkanVzdG1lbnQgZm9yIENLQSBRVEEu
+IFBscyBmaW5kIGJlbG93IHJldmlzaW9uLg0KDQpCZWxvdyBRVEEgaWRlYSBpcyBhcHBsaWNhYmxl
+IGZvciBiaWcgdmVzc2VsIG9ubHkgKFRUTDogMTUwMFRFVSkNCk9GQw0KDQpRVEENCg0KQ3VycmVu
+dA0KDQpUby1iZQ0KDQpEaWZmDQoNCkhLR0JCDQoNCjIxMA0KDQoyMTANCg0KMA0KDQpTWlBCQg0K
+DQoxODANCg0KMTgwDQoNCjANCg0KWE1OQkINCg0KMTQNCg0KMTUNCg0KMQ0KDQpDSEdCQg0KDQow
+DQoNCjANCg0KMA0KDQpETENCQg0KDQo1Ng0KDQo1Ng0KDQowDQoNCk5CT0JCDQoNCjE5MA0KDQox
+OTANCg0KMA0KDQpOS0dCQg0KDQo0NQ0KDQo0OA0KDQozDQoNClNFTEJCDQoNCjIwMA0KDQoyMDAN
+Cg0KMA0KDQpTSEFCQg0KDQozMTANCg0KMzEwDQoNCjANCg0KVEFPQkINCg0KMTUNCg0KMjUNCg0K
+MTANCg0KVFBFQkINCg0KMTgwDQoNCjE2Ng0KDQotMTQNCg0KVFNOQkINCg0KNDUNCg0KNDUNCg0K
+MA0KDQpUWU9CQg0KDQo1NQ0KDQo1NQ0KDQowDQoNClRUTA0KDQoxLDUwMA0KDQoxLDUwMA0KDQow
+DQoNCg0KPGF0dGFjaG1lbnQ6IENLQSBRVEEgMjAxMyBOb3YgLTIwMTQgSnVuZT4NCg0KDQpUaGFu
+a3MgJiBCZXN0IFJlZ2FyZHMNCkdyYWNlIFdhbmcvU0hBQVNJDQoNCreivP7IyzogR3JhY2UgV0FO
+Rw0Kt6LLzcqxvOQ6IDIwMTPE6jEw1MIxN8jVIDE1OjAwDQrK1bz+yMs6IFRIKFRhZS1Ib29uKSBB
+TjsgU2FuZy1KaW4gSEFOOyBZb28tS3l1bmcgS0lNOyBBcmFtIEtJTTsgTGxveWQoV29vc2lrKSBZ
+YW5nOyBMdXRoKEt5dW5nLVdvbikgQ0hPSTsgR3JhY2llIENIRU4NCrOty806IERhZS1LeXUgS0lN
+OyBEYW5ueSBaSE9VOyBKYXNvbiBTSEk7IENsYXVkIFlhbjsgT2FzaXMgU2hlbjsgQWxleCBMaW47
+IERhIFdBTkc7IEFuZHJldyBBSTsgS3dhbmctT29nIFJZVTsgWUgoWWVvbi1IbykgTkFNOyBLd2Fu
+Zy1Pb2cgUllVOyBGZW5nIEZBTkc7IExpIFNIQTsgU3UgSklOR05BTjsgU2hhbmUgTGl1OyBTVEFO
+TEVZIC47IExJIENIRU4gWElOOyBTZW9uLVdvbyBOQU07IFlJKFlvbmctSW4pIExlZTsgRC4gREFW
+SUQ7IEZpb25hIFdhbmc7IENoYXJsaWUgV3U7IE1lcnJ5IFpIQU87IERvcmlzIEFvOyBTYW5nLVJl
+YWwgQkFFSzsgUy4gTVU7IExpdSBGRU5HOyBCb3NjbyBDYW87IEFsbGVuIExWOyBKb29uLVNhbmcg
+UEFSSzsgQWRhIEpJQU5HOyBIVUkgU1VOOyBDYXJvbCBZQU5HOyBKYW5lIFNIQU87IENhbmR5IFRB
+Tkc7IFRyYW5jeSBRSTsgSGVucnkgQ0hBSTsgRGFuaWVsIFlBTkc7IEpTKEppLVN1aykgS0lNOyBM
+aWFuZyBaYW47IFRhbmcgTEk7IE1hIE1JTkc7IEpFVkFOUyBMSTsgTGlseSBMSVU7IEtldmluIFhp
+ZTsgWmhlbmcgWGllOyBMeWRpYSBZVTsgSGFubmFoIEhBTjsgVG9tIFdVOyBQQU4gWUlORzsgVml2
+aWFuIFpIQU5HOyBUb20gV1U7IEVuZ2kgQ0hFTjsgU1coU2V1bmctV29vKSBPSDsgS2FuZy1Tb28g
+S0lNOyBBbGV4IEMuIFkuIFNPOyBGaW9uIFMuIE8uIE1BSzsgS2FyZW4gSy4gTC4gQ0hBTkc7IFNp
+bW9uIEMuIFcuIFNJVTsgV2lubmllIFcuIFAuIE1PSzsgVGVycnksIEsuIFcuIENIRVVORzsgV2lu
+c3RvbiBTLiBXLiBDSEFOOyBKb2FuIEguIFkuIFdPTkc7IE1ZKE11bi1Zb3VuZykgS0lNOyBIZWUt
+RG8gUEFSSzsgS2V2aW4gU09ORzsgUmF5bW9uZCBZYW5nOyBGb3JyZXN0IFl1YW47IEp1c3RpbiBT
+aGk7IFJleCBaSEFORzsgUnlhbiBMaTsgV2lueSBUYW5nOyBEYXZpZChIeW91bmctV29vaykgUEFS
+SzsgVGlmZmFueSBIVUFORzsgV2lubmllIExJOyBCcnlhbiBaSFVPOyBHZW9yZ2UgTEVFOyBKYW5p
+Y2UgQ0hPVTsgSmFzb24gQ0hBTkc7IEFydGh1ciBDSEVOOyBKZWZmIENoZW47IFNhcmEgVFNBSTsg
+QW5uaWUgV1U7IFllb25nLVNpZyBQQVJLOyBIb29uIFBBUks7IEp1bmctSUwgS0FORzsgWW9uZy1J
+ayBIV0FORzsgQS4gTS4gSkFORzsgSHl1bi1DaHVsIEtJTTsgS3dhbmctUm9jayBPSDsgSmFlLUh3
+YSBMSU07IFlKKFlvdW5nLUppbikgQUhOOyBCSihCb25nLUpvKSBLQU5HOyBKYXkoSnVuLVlvbmcp
+IFBhcms7IFlPU0hJVFNVR1UgS0FHQVdBOyBEYWUtWW91bmcgS0FORzsgTUFTQUhBUlUgVU1JSEFS
+QTsgU0hJTkdPIE5BS0FaQVRPOyBTSElOIEhJUkFOTzsgTUlaVUtJIFdBS0lNT1RPOyBNQVNBU0hJ
+IFNVRVlBU1U7IFZpdmlhbiBaSEFORzsgQ2FuZHkgVEFORzsgJ1NpbW9uIEhTVShJUEMnOyAnR2kt
+QmVvbSBQQVJLKFNFTEJSJzsgUGFyaXMgUEVORzsgQW5kcmV3IEhvdTsgU3Bpa2UgQ0hFTjsgSmVz
+c2ljYSBMVTsgQWxleCBGQU47IEplb25nLUphZSBDSE9JDQrW98ziOiA8Q0tBPiBRVEEgYWRqdXN0
+bWVudA0KDQpUbyBDQ0UNCkNjIEJCUy9JUEMNCkZtIEFTSQ0KDQpSRTogQ0tBIFFUQSBhZGp1c3Rt
+ZW50DQoNCkhpIEx1dGgsDQoNCldpdGggY29taW5nIG9mIEUuIEF1IHBlYWsgc2Vhc29uLCB3ZSB3
+b3VsZCBsaWtlIHRvIHJlLXNldCB1cCBRVEEgZm9yIENLQSBsYW5lIGluIG9yZGVyIHRvIGltcHJv
+dmUgdnNsIHV0aWxpemF0aW9uIGFuZCBtYXhpbWl6ZSBjb21wYW55IHJldmVudWUuDQoNCk91ciBR
+VEEgaWRlYSBmb3IgcGVhayBwZXJpb2QgaXMgYXMgYmVsb3cgYmFzZWQgb24gUlIgYWN0aW9uIGFu
+ZCBib29raW5nIHNpdHVhdGlvbi4NCg0KPEJJRyBWU0w+DQpPRkMNCg0KUVRBDQoNCkN1cnJlbnQN
+Cg0KVG8tYmUNCg0KRGlmZg0KDQpIS0dCQg0KDQoyMDANCg0KMjEwDQoNCjEwDQoNClNaUEJCDQoN
+CjE1Ng0KDQoxODANCg0KMjQNCg0KWE1OQkINCg0KMTUNCg0KMTQNCg0KLTENCg0KQ0hHQkINCg0K
+MA0KDQowDQoNCjANCg0KRExDQkINCg0KNTYNCg0KNTYNCg0KMA0KDQpOQk9CQg0KDQoxODUNCg0K
+MTkwDQoNCjUNCg0KTktHQkINCg0KNDgNCg0KNDUNCg0KLTMNCg0KU0VMQkINCg0KMjUwDQoNCjIw
+MA0KDQotNTANCg0KU0hBQkINCg0KMzAwDQoNCjMxMA0KDQoxMA0KDQpUQU9CQg0KDQoyNQ0KDQox
+NQ0KDQotMTANCg0KVFBFQkINCg0KMTY1DQoNCjE4MA0KDQoxNQ0KDQpUU05CQg0KDQo0NQ0KDQo0
+NQ0KDQowDQoNClRZT0JCDQoNCjU1DQoNCjU1DQoNCjANCg0KVFRMDQoNCjEsNTAwDQoNCjEsNTAw
+DQoNCjANCg0KDQo8U01BTEwgVlNMPg0KT0ZDDQoNClFUQQ0KDQpDdXJyZW50DQoNClRvLWJlDQoN
+CkRpZmYNCg0KSEtHQkINCg0KMTMwDQoNCjEyNQ0KDQotNQ0KDQpTWlBCQg0KDQo4MA0KDQo5NQ0K
+DQoxNQ0KDQpYTU5CQg0KDQo4DQoNCjgNCg0KMA0KDQpDSEdCQg0KDQowDQoNCjANCg0KMA0KDQpE
+TENCQg0KDQo0Mg0KDQo0Mg0KDQowDQoNCk5CT0JCDQoNCjEyMA0KDQoxMjANCg0KMA0KDQpOS0dC
+Qg0KDQoyNQ0KDQoyNQ0KDQowDQoNClNFTEJCDQoNCjE3NQ0KDQoxNjUNCg0KLTEwDQoNClNIQUJC
+DQoNCjIxMA0KDQoyMTANCg0KMA0KDQpUQU9CQg0KDQo1DQoNCjUNCg0KMA0KDQpUUEVCQg0KDQox
+MjANCg0KMTIwDQoNCjANCg0KVFNOQkINCg0KMzUNCg0KMzUNCg0KMA0KDQpUWU9CQg0KDQo0MA0K
+DQo0MA0KDQowDQoNClRUTA0KDQo5OTANCg0KOTkwDQoNCjANCg0KDQpFZmZlY3RpdmUgVlZEI0ND
+TlAxMzA1RQ0KRW5kIFZWRCNZTU9LMDAzOEUNCg0KQ0tBIFFUQSB3aWxsIGJlIHJldmlld2VkIGFn
+YWluIGluIGVuZCBvZiBOb3YuDQpEbyB5b3VyIGJlc3QgdG8gaW1wcm92ZSBDTVBCIGxldmVsIHdp
+dGggZnVsbCB2c2wgbG9hZGluZy4NCg0KDQpUaGFua3MgJiBCZXN0IFJlZ2FyZHMNCkdyYWNlIFdh
+bmcvU0hBQVNJDQoNCg==
+
+--_000_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ZH-CN" link=3D"blue" vlink=3D"purple" style=3D"text-justify-t=
+rim:punctuation">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D">To CCE<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D">Cc BBS/=
+IPC<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D">Fm ASI<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><u><span lang=3D"EN-US" style=3D"color:#1F497D">RE: =
+CKA QTA adjustment<o:p></o:p></span></u></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D">Hi Luth=
+,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D">Due to =
+Au market step into traditional weak season, we would like to make small ad=
+justment for CKA QTA. Pls find below revision.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D">Below Q=
+TA idea is applicable for big vessel only (TTL: 1500TEU)<o:p></o:p></span><=
+/p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"288" style=3D"width:216.05pt;margin-left:-.9pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" rowspan=3D"2" style=3D"width:54.0pt;border:sol=
+id windowtext 1.0pt;border-bottom:solid black 1.0pt;padding:0cm 5.4pt 0cm 5=
+.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">OFC<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"216" nowrap=3D"" colspan=3D"3" style=3D"width:162.05pt;border-=
+top:solid windowtext 1.0pt;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.=
+5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">QTA<o:p></o:p></span><=
+/p>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">Current<o:p></o:p></sp=
+an></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">To-be<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">Diff<o:p></o:p></span>=
+</p>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">HKGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">210<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">210<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SZPBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">180<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">180<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">XMNBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">14<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">15<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">1<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">CHGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">DLCBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">56<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">56<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">NBOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">190<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">190<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">NKGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">45<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">48<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">3<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SELBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">200<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">200<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SHABB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">310<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">310<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TAOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">15<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">25<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">10<o:p></o:p></span></=
+p>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TPEBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">180<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">166<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">-14<o:p></o:p></span><=
+/p>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TSNBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">45<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">45<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TYOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">55<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">55<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:16.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:=
+16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TTL<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"96" nowrap=3D"" style=3D"width:72.3pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">1,500<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">1,500<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.85pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0<o:p></o:p></span></p=
+>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D">&lt;att=
+achment: CKA QTA 2013 Nov -2014 June&gt;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black">Thanks &amp; Best Regards</sp=
+an><span lang=3D"EN-US" style=3D"font-family:&quot;Verdana&quot;,&quot;sans=
+-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black">Grace Wang/SHAASI<o:p></o:p><=
+/span></p>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:#1F497D"><o:p>&n=
+bsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><b><span st=
+yle=3D"font-size:10.0pt;font-family:SimSun">=B7=A2=BC=FE=C8=CB<span lang=3D=
+"EN-US">:</span></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:SimSun"> Grace WANG
+<br>
+</span><b><span style=3D"font-size:10.0pt;font-family:SimSun">=B7=A2=CB=CD=
+=CA=B1=BC=E4<span lang=3D"EN-US">:</span></span></b><span lang=3D"EN-US" st=
+yle=3D"font-size:10.0pt;font-family:SimSun"> 2013</span><span style=3D"font=
+-size:10.0pt;font-family:SimSun">=C4=EA<span lang=3D"EN-US">10</span>=D4=C2=
+<span lang=3D"EN-US">17</span>=C8=D5<span lang=3D"EN-US">
+ 15:00<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosi=
+k) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN<br>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> Dae-Kyu KIM; Danny ZHOU; Jason SHI; Claud Yan; Oasis Shen; Alex Lin; Da W=
+ANG; Andrew AI; Kwang-Oog RYU; YH(Yeon-Ho) NAM; Kwang-Oog RYU; Feng FANG; L=
+i SHA; Su JINGNAN; Shane Liu; STANLEY .; LI CHEN
+ XIN; Seon-Woo NAM; YI(Yong-In) Lee; D. DAVID; Fiona Wang; Charlie Wu; Merr=
+y ZHAO; Doris Ao; Sang-Real BAEK; S. MU; Liu FENG; Bosco Cao; Allen LV; Joo=
+n-Sang PARK; Ada JIANG; HUI SUN; Carol YANG; Jane SHAO; Candy TANG; Trancy =
+QI; Henry CHAI; Daniel YANG; JS(Ji-Suk)
+ KIM; Liang Zan; Tang LI; Ma MING; JEVANS LI; Lily LIU; Kevin Xie; Zheng Xi=
+e; Lydia YU; Hannah HAN; Tom WU; PAN YING; Vivian ZHANG; Tom WU; Engi CHEN;=
+ SW(Seung-Woo) OH; Kang-Soo KIM; Alex C. Y. SO; Fion S. O. MAK; Karen K. L.=
+ CHANG; Simon C. W. SIU; Winnie
+ W. P. MOK; Terry, K. W. CHEUNG; Winston S. W. CHAN; Joan H. Y. WONG; MY(Mu=
+n-Young) KIM; Hee-Do PARK; Kevin SONG; Raymond Yang; Forrest Yuan; Justin S=
+hi; Rex ZHANG; Ryan Li; Winy Tang; David(Hyoung-Wook) PARK; Tiffany HUANG; =
+Winnie LI; Bryan ZHUO; George LEE;
+ Janice CHOU; Jason CHANG; Arthur CHEN; Jeff Chen; Sara TSAI; Annie WU; Yeo=
+ng-Sig PARK; Hoon PARK; Jung-IL KANG; Yong-Ik HWANG; A. M. JANG; Hyun-Chul =
+KIM; Kwang-Rock OH; Jae-Hwa LIM; YJ(Young-Jin) AHN; BJ(Bong-Jo) KANG; Jay(J=
+un-Yong) Park; YOSHITSUGU KAGAWA;
+ Dae-Young KANG; MASAHARU UMIHARA; SHINGO NAKAZATO; SHIN HIRANO; MIZUKI WAK=
+IMOTO; MASASHI SUEYASU; Vivian ZHANG; Candy TANG; 'Simon HSU(IPC'; 'Gi-Beom=
+ PARK(SELBR'; Paris PENG; Andrew Hou; Spike CHEN; Jessica LU; Alex FAN; Jeo=
+ng-Jae CHOI<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> &lt;CKA&gt; QTA adjustment<o:p></o:p></span></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><span lang=
+=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">To CCE<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Cc BBS/IPC<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Fm ASI<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><u><span lang=3D"EN-US">RE: CKA QTA adjustment<o:p><=
+/o:p></span></u></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Hi Luth,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">With coming of E. Au peak seaso=
+n, we would like to re-set up QTA for CKA lane in order to improve vsl util=
+ization and maximize company revenue.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Our QTA idea for peak period is=
+ as below based on RR action and booking situation.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&lt;BIG VSL&gt;<o:p></o:p></spa=
+n></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"288" style=3D"width:216.0pt;margin-left:-.65pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" rowspan=3D"2" style=3D"width:54.0pt;border:sol=
+id windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><a name=
+=3D"RANGE!C27:F42"><span lang=3D"EN-US" style=3D"font-size:12.0pt;color:bla=
+ck">OFC</span></a><span lang=3D"EN-US" style=3D"font-size:12.0pt;color:blac=
+k"><o:p></o:p></span></p>
+</td>
+<td width=3D"216" nowrap=3D"" colspan=3D"3" style=3D"width:162.0pt;border:s=
+olid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:1=
+5.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">Q</span><span lang=3D"=
+EN-US" style=3D"font-size:12.0pt">TA<span style=3D"color:black"><o:p></o:p>=
+</span></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">Current<o:p></o:p></sp=
+an></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">T</span><span lang=3D"=
+EN-US" style=3D"font-size:12.0pt">o-be<span style=3D"color:black"><o:p></o:=
+p></span></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">D</span><span lang=3D"=
+EN-US" style=3D"font-size:12.0pt">iff<span style=3D"color:black"><o:p></o:p=
+></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">HKGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">200
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">210
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">10
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SZPBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">156
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">180
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">24
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">XMNBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">15
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">14
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">-1
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">CHGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">DLCBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">56
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">56
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">NBOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">185
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">190
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">5
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">NKGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">48
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">45
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">-3
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SELBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">250
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">200
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">-50
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SHABB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">300
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">310
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">10
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TAOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">25
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">15
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">-10
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TPEBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">165
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">180
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">15
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TSNBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">45
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">45
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TYOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">55
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">55
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:=
+15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TTL<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">1,500
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">1,500
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&lt;SMALL VSL&gt;<o:p></o:p></s=
+pan></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"288" style=3D"width:216.0pt;margin-left:-.65pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" rowspan=3D"2" style=3D"width:54.0pt;border:sol=
+id windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">OFC<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"216" nowrap=3D"" colspan=3D"3" style=3D"width:162.0pt;border:s=
+olid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:1=
+5.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">Q</span><span lang=3D"=
+EN-US" style=3D"font-size:12.0pt">TA<span style=3D"color:black"><o:p></o:p>=
+</span></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">Current<o:p></o:p></sp=
+an></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">T</span><span lang=3D"=
+EN-US" style=3D"font-size:12.0pt">o-be<span style=3D"color:black"><o:p></o:=
+p></span></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">D</span><span lang=3D"=
+EN-US" style=3D"font-size:12.0pt">iff<span style=3D"color:black"><o:p></o:p=
+></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">HKGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">130
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">125
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">-5
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SZPBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">80
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">95
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">15
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">XMNBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">8
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">8
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">CHGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">DLCBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">42
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">42
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">NBOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">120
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">120
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">NKGBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">25
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">25
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SELBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">175
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">165
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">-10
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">SHABB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">210
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">210
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TAOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">5
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">5
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TPEBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">120
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">120
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TSNBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">35
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">35
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TYOBB<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">40
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">40
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border:solid windowtext =
+1.0pt;border-top:none;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:=
+15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">TTL<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"97" nowrap=3D"" style=3D"width:72.6pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">990
+<o:p></o:p></span></p>
+</td>
+<td width=3D"73" nowrap=3D"" style=3D"width:54.9pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">990
+<o:p></o:p></span></p>
+</td>
+<td width=3D"46" nowrap=3D"" style=3D"width:34.5pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:black">0
+<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Effective VVD#CCNP1305E<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">End VVD#YMOK0038E<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">CKA QTA will be reviewed again =
+in end of Nov.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Do your best to improve CMPB le=
+vel with full vsl loading.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black">Thanks &amp; Best Regards<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black">Grace Wang/SHAASI<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_--
+
+--_004_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;
+	name="CKA QTA 2013-2014.xlsx"
+Content-Description: CKA QTA 2013-2014.xlsx
+Content-Disposition: attachment; filename="CKA QTA 2013-2014.xlsx";
+	size=18271; creation-date="Tue, 05 Nov 2013 07:18:22 GMT";
+	modification-date="Fri, 22 Nov 2013 06:23:05 GMT"
+Content-Transfer-Encoding: base64
+
+UEsDBBQABgAIAAAAIQC8iE9PdwEAAJgFAAATANsBW0NvbnRlbnRfVHlwZXNdLnhtbCCi1wEooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAACslEFOwzAQRfdI3CHyFiVuu0AINe2iwBIqAQcw9rSx6tiWxy3t7ZkkNAIUgkq6
+SRRF8/+fN2NP5/vSJDsIqJ3N2TgbsQSsdErbdc5eXx7SG5ZgFFYJ4yzk7ADI5rPLi+nLwQMmVG0x
+Z0WM/pZzlAWUAjPnwdKflQuliPQZ1twLuRFr4JPR6JpLZyPYmMZKg82mTxQgaAXJUoT4KEry4XvD
+I6lB8xxnpMeSRVNYeedMeG+0FJGS851VP1xTt1ppCcrJbUleWS12VanwXw0xHgzgYCv0AYTCAiCW
+JmtEj853sBJbE5P7PRFooAcweFprnzAzqqzbx0J77HHoZ9fP5N2FzZtzm3NTqehkpdD2mLtrCWh6
+y+A8cpr14ABQIVegUk+SEKKGllmXNy1g1Xs9RuT1azI4w/fVaPX7GHTkGH4a/pdDCiMXBc3szBxa
+3T84YCECqOcY6HY6+zH9qt2Xo91J6QKcDuJ4dqvqjk3k9b06+wAAAP//AwBQSwMEFAAGAAgAAAAh
+ALVVMCP1AAAATAIAAAsAzgFfcmVscy8ucmVscyCiygEooAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIySz07DMAzG70i8Q+T76m5ICKGlu0xI
+uyFUHsAk7h+1jaMkQPf2hAOCSmPb0fbnzz9b3u7maVQfHGIvTsO6KEGxM2J712p4rZ9WD6BiImdp
+FMcajhxhV93ebF94pJSbYtf7qLKLixq6lPwjYjQdTxQL8exypZEwUcphaNGTGahl3JTlPYa/HlAt
+PNXBaggHeweqPvo8+bK3NE1veC/mfWKXToxAnhM7y3blQ2YLqc/bqJpCy0mDFfOc0xHJ+yJjA54m
+2lxP9P+2OHEiS4nQSODzPN+Kc0Dr64Eun2ip+L3OPOKnhOFNZPhhwcUPVF8AAAD//wMAUEsDBBQA
+BgAIAAAAIQD+aepXCgEAAMwDAAAaAAgBeGwvX3JlbHMvd29ya2Jvb2sueG1sLnJlbHMgogQBKKAA
+AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+BQYAAAAADAAMAAQDAAAzNgAAAAA=
+
+--_004_6C87299945D69B4C91EE1BD5C1F3E8E604C5F1cow380ehanjincom_--

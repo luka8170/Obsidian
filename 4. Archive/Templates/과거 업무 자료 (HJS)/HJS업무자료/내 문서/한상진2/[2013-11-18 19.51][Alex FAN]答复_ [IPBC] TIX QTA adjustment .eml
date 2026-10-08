@@ -1,0 +1,626 @@
+Received: from COW380D.hanjin.com (192.168.100.244) by kovhhvmd.hanjin.com
+ (203.246.154.26) with Microsoft SMTP Server (TLS) id 14.3.123.3; Mon, 18 Nov
+ 2013 19:51:47 +0900
+Received: from COW380F.hanjin.com ([192.168.10.2]) by cow380d.hanjin.com
+ ([222.68.181.254]) with mapi id 14.03.0123.003; Mon, 18 Nov 2013 18:51:43
+ +0800
+From: Alex FAN <alexfan@cn.hanjin.com>
+To: Sang-Jin HAN <sjhan@hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>,
+	"TH(Tae-Hoon) AN" <than@hanjin.com>, Yoo-Kyung KIM <kimyk@hanjin.com>, Aram
+ KIM <aram@hanjin.com>, "Lloyd(Woosik) Yang" <shakin@hanjin.com>,
+	"Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>, Gracie CHEN
+	<wmchen@sg.hanjin.com>, Andrew Hou <andrew@cn.hanjin.com>
+CC: Jeong-Jae CHOI <jjchoi@hanjin.com>, Grace WANG <gracewang@cn.hanjin.com>,
+	Jessica LU <jessicalu@cn.hanjin.com>, Spike CHEN <spike@cn.hanjin.com>, Paris
+ PENG <paris@cn.hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>
+Subject: =?gb2312?B?tPC4tDogW0lQQkNdIFRJWCBRVEEgYWRqdXN0bWVudCA=?=
+Thread-Topic: [IPBC] TIX QTA adjustment 
+Thread-Index: Ac7g/d5MP6nRC7CPQ5SBzRnqNDhD6gDK+D5gAAdPH/AAAUhs4A==
+Date: Mon, 18 Nov 2013 19:51:43 +0900
+Message-ID: <D06C2507ECE1F749B7CA328054DBEC4E03A891@cow380f.hanjin.com>
+References: <D06C2507ECE1F749B7CA328054DBEC4E03A54B@cow380f.hanjin.com>
+ <128F8EB4DB3A09448F30FF0931187F9305F5C9@kovhhvmc.hanjin.com>
+In-Reply-To: <128F8EB4DB3A09448F30FF0931187F9305F5C9@kovhhvmc.hanjin.com>
+Accept-Language: en-US
+Content-Language: zh-CN
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380d.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.100.86]
+Content-Type: multipart/alternative;
+	boundary="_000_D06C2507ECE1F749B7CA328054DBEC4E03A891cow380fhanjincom_"
+MIME-Version: 1.0
+
+--_000_D06C2507ECE1F749B7CA328054DBEC4E03A891cow380fhanjincom_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: base64
+
+Rk06IFNIQUFTSQ0KDQpEZWFyIE1yLiBIYW4sDQoNCldlbGwgbm90ZWQgd2l0aCB0aGFua3MuDQoN
+ClRoYW5rcyAmIEJlc3QgUmVnYXJkcyENCkFsZXggRmFuL1NIQUFTRy9BU0kNCg0Kt6K8/sjLOiBT
+YW5nLUppbiBIQU4NCreiy83KsbzkOiAyMDEzxOoxMdTCMTjI1SAxODoxNg0KytW8/sjLOiBBbGV4
+IEZBTjsgTUQoTXl1bmctRGVvaykgQ0hPOyBUSChUYWUtSG9vbikgQU47IFlvby1LeXVuZyBLSU07
+IEFyYW0gS0lNOyBMbG95ZChXb29zaWspIFlhbmc7IEx1dGgoS3l1bmctV29uKSBDSE9JOyBHcmFj
+aWUgQ0hFTjsgQW5kcmV3IEhvdQ0Ks63LzTogSmVvbmctSmFlIENIT0k7IEdyYWNlIFdBTkc7IEpl
+c3NpY2EgTFU7IFNwaWtlIENIRU47IFBhcmlzIFBFTkc7IE1EKE15dW5nLURlb2spIENITw0K1vfM
+4jogUkU6IFtJUEJDXSBUSVggUVRBIGFkanVzdG1lbnQNCg0KRGVhciBNci4gRmFuDQoNCk5vIG9i
+amVjdGlvbi4NClRoZSBzeXN0ZW0gd2lsbCBiZSB1cGRhdGVkIGFjY29yZGluZ2x5Lg0KDQpCLlJH
+RFMsDQoNCkZyb206IEFsZXggRkFODQpTZW50OiBNb25kYXksIE5vdmVtYmVyIDE4LCAyMDEzIDM6
+NDYgUE0NClRvOiBBbGV4IEZBTjsgTUQoTXl1bmctRGVvaykgQ0hPOyBUSChUYWUtSG9vbikgQU47
+IFNhbmctSmluIEhBTjsgWW9vLUt5dW5nIEtJTTsgQXJhbSBLSU07IExsb3lkKFdvb3NpaykgWWFu
+ZzsgTHV0aChLeXVuZy1Xb24pIENIT0k7IEdyYWNpZSBDSEVOOyBBbmRyZXcgSG91DQpDYzogSmVv
+bmctSmFlIENIT0k7IEdyYWNlIFdBTkc7IEplc3NpY2EgTFU7IFNwaWtlIENIRU47IFBhcmlzIFBF
+TkcNClN1YmplY3Q6ILTwuLQ6IFtJUEJDXSBUSVggUVRBIGFkanVzdG1lbnQNCg0KVE86ICBDQ0UN
+CkZNOiBTSEFBU0kNCg0KRGVhciBNci4gSGFuOg0KDQpDb3VsZCB5b3UgcGxlYXNlIGdpdmUgeW91
+IGNvbW1lbnQsIHRoYW5rIHlvdSENCg0KVGhhbmtzICYgQmVzdCBSZWdhcmRzIQ0KQWxleCBGYW4v
+U0hBQVNHL0FTSQ0KDQq3orz+yMs6IEFsZXggRkFODQq3osvNyrG85DogMjAxM8TqMTHUwjE0yNUg
+MTM6NTQNCsrVvP7IyzogTUQoTXl1bmctRGVvaykgQ0hPOyBUSChUYWUtSG9vbikgQU47IFNhbmct
+SmluIEhBTjsgWW9vLUt5dW5nIEtJTTsgQXJhbSBLSU07IExsb3lkKFdvb3NpaykgWWFuZzsgTHV0
+aChLeXVuZy1Xb24pIENIT0k7IEdyYWNpZSBDSEVODQqzrcvNOiBKZW9uZy1KYWUgQ0hPSTsgR3Jh
+Y2UgV0FORzsgSmVzc2ljYSBMVTsgU3Bpa2UgQ0hFTjsgUGFyaXMgUEVORw0K1vfM4jogW0lQQkNd
+IFRJWCBRVEEgYWRqdXN0bWVudA0KDQpUTzpDQ0UNCkZNOiBTSEFBU0kNCg0KRGVhciBNci4gSGFu
+Og0KDQpHb29kIGRheSENCg0KQWZ0ZXIgRklYL0lDUyBRVEEgYWRqdXN0bWVudCBkdWUgdG8gQlNB
+IHJlZHVjdGlvbiwgc29tZSBzYWxlcyBvZmZpY2Vzoa8gZGVtYW5kIGZvciBUSVggaXMgY2hhbmdl
+ZCBhcyB3ZWxsLg0KDQpCZWxvdyBpbmZvcm1hdGlvbiBzaG93ZWQgdGhlIGZlZWRiYWNrIGZyb20g
+dGhlIHN1cnZleSBvZiBUSVggUVRBOg0KDQp3ZWYgVElYL0FQSU8wMTc3Vw0KDQpPRkZJQ0UNCg0K
+Q1VSUkVOVA0KDQpUTy1CRQ0KDQpURVUNCg0KRDIgUkVTVFJJQ1RJT04NCg0KRExDQkINCg0KMzUN
+Cg0KMzUNCg0KMjUNCg0KVEFPQkINCg0KMA0KDQoxMA0KDQo1DQoNClNaUEJCDQoNCjQwDQoNCjQw
+DQoNCjE1DQoNCkhLR0JCDQoNCjQwDQoNCjM1DQoNCjEwDQoNClRUTA0KDQoxMTUNCg0KMTIwDQoN
+CjU1DQoNCg0KQWxsIGZpZ3VyZXMgaGF2ZSBiZWVuIGNvbmZpcm1lZCBieSBsb2NhbCBzYWxlcyBv
+ZmZpY2VzLg0KDQpJbiBvcmRlciB0byBhY2hpZXZlIGJldHRlciBwZXJmb3JtYW5jZSBvbiBUSVgg
+c3ZjLCB3ZSBzdWdnZXN0IHRvIG1ha2Ugc29tZSBjaGFuZ2UgZm9yIFRJWCBRVEEgYW5kIHdhaXQg
+Zm9yIHlvdXIgY29tbWVudC4NCg0KVGhhbmsgeW91IQ0KDQpUaGFua3MgJiBCZXN0IFJlZ2FyZHMh
+DQpBbGV4IEZhbi9TSEFBU0cvQVNJDQoNCg==
+
+--_000_D06C2507ECE1F749B7CA328054DBEC4E03A891cow380fhanjincom_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:=CB=CE=CC=E5;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@=CB=CE=CC=E5";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"=C5=FA=D7=A2=BF=F2=CE=C4=B1=BE Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:"Malgun Gothic","serif";}
+span.Char
+	{mso-style-name:"=C5=FA=D7=A2=BF=F2=CE=C4=B1=BE Char";
+	mso-style-priority:99;
+	mso-style-link:=C5=FA=D7=A2=BF=F2=CE=C4=B1=BE;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Arial","sans-serif";
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Arial","sans-serif";
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Malgun Gothic","serif";
+	color:#1F497D;}
+p.a, li.a, div.a
+	{mso-style-name:"\D48D\C120 \B3C4\C6C0\B9D0 \D14D\C2A4\D2B8";
+	mso-style-link:"\D48D\C120 \B3C4\C6C0\B9D0 \D14D\C2A4\D2B8 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+span.Char0
+	{mso-style-name:"\D48D\C120 \B3C4\C6C0\B9D0 \D14D\C2A4\D2B8 Char";
+	mso-style-priority:99;
+	mso-style-link:"\D48D\C120 \B3C4\C6C0\B9D0 \D14D\C2A4\D2B8";
+	font-family:"Malgun Gothic","serif";}
+span.EmailStyle24
+	{mso-style-type:personal-reply;
+	font-family:"Arial","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ZH-CN" link=3D"blue" vlink=3D"purple" style=3D"text-justify-t=
+rim:punctuation">
+<div class=3D"WordSection1">
+<div>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">FM: SHAASI<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Dear Mr. Han,<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Well noted with thanks=
+.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:12.0pt;co=
+lor:#365F91">Thanks &amp; Best Regards!<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:12.0pt;co=
+lor:#365F91">Alex Fan/SHAASG/ASI<o:p></o:p></span></b></p>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Aria=
+l&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><b><span st=
+yle=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5">=B7=A2=BC=FE=C8=CB<span l=
+ang=3D"EN-US">:</span></span></b><span lang=3D"EN-US" style=3D"font-size:10=
+.0pt;font-family:=CB=CE=CC=E5"> Sang-Jin HAN
+<br>
+</span><b><span style=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5">=B7=A2=
+=CB=CD=CA=B1=BC=E4<span lang=3D"EN-US">:</span></span></b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5"> 2013</span><span s=
+tyle=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5">=C4=EA<span lang=3D"EN-U=
+S">11</span>=D4=C2<span lang=3D"EN-US">18</span>=C8=D5<span lang=3D"EN-US">
+ 18:16<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> Alex FAN; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Yoo-Kyung KIM; Aram =
+KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN; Andrew Hou<br>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> Jeong-Jae CHOI; Grace WANG; Jessica LU; Spike CHEN; Paris PENG; MD(Myung-=
+Deok) CHO<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> RE: [IPBC] TIX QTA adjustment
+<o:p></o:p></span></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><span lang=
+=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Malgun Gothic&quot;,&quot;serif&quot;;color:#1F497D">Dear Mr. =
+Fan<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Malgun Gothic&quot;,&quot;serif&quot;;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Malgun Gothic&quot;,&quot;serif&quot;;color:#1F497D">No object=
+ion.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Malgun Gothic&quot;,&quot;serif&quot;;color:#1F497D">The syste=
+m will be updated accordingly.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Malgun Gothic&quot;,&quot;serif&quot;;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Malgun Gothic&quot;,&quot;serif&quot;;color:#1F497D">B.RGDS,<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Malgun Gothic&quot;,&quot;serif&quot;;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><b><span la=
+ng=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Alex FAN
+<br>
+<b>Sent:</b> Monday, November 18, 2013 3:46 PM<br>
+<b>To:</b> Alex FAN; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo=
+-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN=
+; Andrew Hou<br>
+<b>Cc:</b> Jeong-Jae CHOI; Grace WANG; Jessica LU; Spike CHEN; Paris PENG<b=
+r>
+<b>Subject:</b> </span><span style=3D"font-size:10.0pt;font-family:=CB=CE=
+=CC=E5">=B4=F0=B8=B4</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">: [IPBC] TIX QTA adju=
+stment
+<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><span lang=
+=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">TO: &nbsp;CCE<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">FM: SHAASI<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Dear Mr. Han:<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Could you please give =
+you comment, thank you!<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:12.0pt;co=
+lor:#365F91">Thanks &amp; Best Regards!<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:12.0pt;co=
+lor:#365F91">Alex Fan/SHAASG/ASI<o:p></o:p></span></b></p>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Aria=
+l&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><b><span st=
+yle=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5">=B7=A2=BC=FE=C8=CB<span l=
+ang=3D"EN-US">:</span></span></b><span lang=3D"EN-US" style=3D"font-size:10=
+.0pt;font-family:=CB=CE=CC=E5"> Alex FAN
+<br>
+</span><b><span style=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5">=B7=A2=
+=CB=CD=CA=B1=BC=E4<span lang=3D"EN-US">:</span></span></b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5"> 2013</span><span s=
+tyle=3D"font-size:10.0pt;font-family:=CB=CE=CC=E5">=C4=EA<span lang=3D"EN-U=
+S">11</span>=D4=C2<span lang=3D"EN-US">14</span>=C8=D5<span lang=3D"EN-US">
+ 13:54<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; A=
+ram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Gracie CHEN<br>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> Jeong-Jae CHOI; Grace WANG; Jessica LU; Spike CHEN; Paris PENG<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> [IPBC] TIX QTA adjustment
+<o:p></o:p></span></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><span lang=
+=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">TO:CCE<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">FM: SHAASI<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Dear Mr. Han:<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Good day!<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">After FIX/ICS QTA adju=
+stment due to BSA reduction, some sales offices=A1=AF demand for TIX is cha=
+nged as well.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Below information show=
+ed the feedback from the survey of TIX QTA:<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"363" style=3D"width:272.0pt;margin-left:-.85pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:14.25pt">
+<td width=3D"144" nowrap=3D"" colspan=3D"2" style=3D"width:108.0pt;padding:=
+0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:black">=
+wef TIX/APIO0177W<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;padding:0cm 5.4pt 0cm 5.=
+4pt;height:14.25pt">
+</td>
+<td width=3D"147" nowrap=3D"" style=3D"width:110.0pt;padding:0cm 5.4pt 0cm =
+5.4pt;height:14.25pt">
+</td>
+</tr>
+<tr style=3D"height:14.25pt">
+<td width=3D"67" nowrap=3D"" rowspan=3D"2" style=3D"width:50.05pt;border-to=
+p:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-col=
+or:windowtext;border-style:solid;background:#E6B9B8;padding:0cm 5.4pt 0cm 5=
+.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">OFFICE<o:p></o:p></span></b></p>
+</td>
+<td width=3D"77" nowrap=3D"" rowspan=3D"2" style=3D"width:57.95pt;border-to=
+p:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.=
+0pt;border-right:solid windowtext 1.0pt;background:#E6B9B8;padding:0cm 5.4p=
+t 0cm 5.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">CURRENT<o:p></o:p></span></b></p>
+</td>
+<td width=3D"219" nowrap=3D"" colspan=3D"2" style=3D"width:164.0pt;border-t=
+op:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1=
+.0pt;border-right:solid black 1.5pt;background:#E6B9B8;padding:0cm 5.4pt 0c=
+m 5.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">TO-BE<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:#E6B9B8;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">TEU<o:p></o:p></span></b></p>
+</td>
+<td width=3D"147" nowrap=3D"" style=3D"width:110.0pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.5pt;background:#E6B9B8;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">D2 RESTRICTION<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"67" nowrap=3D"" style=3D"width:50.05pt;border-top:none;border-=
+left:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">DLCBB<o:p></o:p></span></b></p>
+</td>
+<td width=3D"77" nowrap=3D"" style=3D"width:57.95pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">35<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">35<o:p></o:p></span></p>
+</td>
+<td width=3D"147" nowrap=3D"" style=3D"width:110.0pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.5pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">25<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"67" nowrap=3D"" style=3D"width:50.05pt;border-top:none;border-=
+left:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">TAOBB<o:p></o:p></span></b></p>
+</td>
+<td width=3D"77" nowrap=3D"" style=3D"width:57.95pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">0<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">10<o:p></o:p></span></p>
+</td>
+<td width=3D"147" nowrap=3D"" style=3D"width:110.0pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.5pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">5<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"67" nowrap=3D"" style=3D"width:50.05pt;border-top:none;border-=
+left:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">SZPBB<o:p></o:p></span></b></p>
+</td>
+<td width=3D"77" nowrap=3D"" style=3D"width:57.95pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">40<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">40<o:p></o:p></span></p>
+</td>
+<td width=3D"147" nowrap=3D"" style=3D"width:110.0pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.5pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">15<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:13.5pt">
+<td width=3D"67" nowrap=3D"" style=3D"width:50.05pt;border-top:none;border-=
+left:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">HKGBB<o:p></o:p></span></b></p>
+</td>
+<td width=3D"77" nowrap=3D"" style=3D"width:57.95pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">40<o:p></o:p></span></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext=
+ 1.0pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">35<o:p></o:p></span></p>
+</td>
+<td width=3D"147" nowrap=3D"" style=3D"width:110.0pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowte=
+xt 1.5pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:13.5pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:blac=
+k">10<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.25pt">
+<td width=3D"67" nowrap=3D"" style=3D"width:50.05pt;border-top:none;border-=
+left:solid windowtext 1.5pt;border-bottom:solid windowtext 1.5pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">TTL<o:p></o:p></span></b></p>
+</td>
+<td width=3D"77" nowrap=3D"" style=3D"width:57.95pt;border-top:none;border-=
+left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtex=
+t 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">115<o:p></o:p></span></b></p>
+</td>
+<td width=3D"72" nowrap=3D"" style=3D"width:54.0pt;border-top:none;border-l=
+eft:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext=
+ 1.0pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">120<o:p></o:p></span></b></p>
+</td>
+<td width=3D"147" nowrap=3D"" style=3D"width:110.0pt;border-top:none;border=
+-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowte=
+xt 1.5pt;background:#D7E4BC;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=CB=CE=CC=E5;color:b=
+lack">55<o:p></o:p></span></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">All figures have been =
+confirmed by local sales offices.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">In order to achieve be=
+tter performance on TIX svc, we suggest to make some change for TIX QTA and=
+ wait for your comment.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Book=
+man Old Style&quot;,&quot;serif&quot;;color:#365F91">Thank you!<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><b><u><span lang=3D"EN-US" style=3D"font-size:12.0pt=
+;color:#365F91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<o:p></o:p></span></u></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:12.0pt;co=
+lor:#365F91">Thanks &amp; Best Regards!<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:12.0pt;co=
+lor:#365F91">Alex Fan/SHAASG/ASI<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_D06C2507ECE1F749B7CA328054DBEC4E03A891cow380fhanjincom_--

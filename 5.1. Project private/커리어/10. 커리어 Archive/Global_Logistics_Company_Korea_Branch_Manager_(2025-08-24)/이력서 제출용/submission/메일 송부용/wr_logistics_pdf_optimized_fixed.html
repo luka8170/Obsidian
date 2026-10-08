@@ -1,0 +1,1212 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WR Logistics Korea 사업계획서 (PDF 최적화)</title>
+    <style>
+        /* 기본 리셋 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: '맑은 고딕', 'Malgun Gothic', Arial, sans-serif;
+            line-height: 1.3;
+            color: #333;
+            background: #f0f0f0;
+            padding: 0;
+        }
+        
+        /* 프린트 버튼 */
+        .print-btn {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: #2c5aa0;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9rem;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+        
+        .print-btn:hover {
+            background: #1e4080;
+        }
+        
+        /* 페이지 컨테이너 - A4 가로 최적화 */
+        .page {
+            width: 29.7cm;
+            height: 21cm;
+            margin: 5px auto;
+            padding: 1.2cm;
+            box-sizing: border-box;
+            background: white;
+            page-break-after: always;
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* 표지 페이지 */
+        .cover-page {
+            background: linear-gradient(135deg, #2c5aa0, #1e4080);
+            color: white;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .cover-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+        
+        .cover-subtitle {
+            font-size: 1.4rem;
+            margin-bottom: 30px;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        .cover-meta {
+            font-size: 1rem;
+            opacity: 0.8;
+            line-height: 1.6;
+        }
+        
+        /* 일반 페이지 헤더 */
+        .page-header {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 15px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #2c5aa0;
+            flex-shrink: 0;
+        }
+        
+        .page-number {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: #2c5aa0;
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+        
+        .page-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin: 0;
+        }
+        
+        .page-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* 목차 스타일 */
+        .toc-list {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            height: 100%;
+            font-size: 0.95rem;
+        }
+        
+        .toc-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 6px 12px;
+            border-radius: 4px;
+            background: #f8f9fa;
+            border-left: 3px solid #2c5aa0;
+        }
+        
+        .toc-number {
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-right: 8px;
+        }
+        
+        .toc-title-text {
+            flex: 1;
+            font-weight: 600;
+        }
+        
+        .toc-page-num {
+            font-weight: 700;
+            color: #2c5aa0;
+            background: white;
+            padding: 2px 5px;
+            border-radius: 8px;
+        }
+        
+        /* 섹션 스타일 */
+        .section {
+            margin-bottom: 8px;
+            padding: 8px;
+            background: #f8f9fa;
+            border-radius: 4px;
+            border-left: 3px solid #2c5aa0;
+            flex-shrink: 0;
+        }
+        
+        .section-title {
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .section-title::before {
+            content: "■";
+            margin-right: 4px;
+            color: #2c5aa0;
+        }
+        
+        .bullet-title {
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: #333;
+            margin: 4px 0 3px 0;
+        }
+        
+        .bullet-title::before {
+            content: "◆";
+            margin-right: 4px;
+            color: #2c5aa0;
+        }
+        
+        .bullet-list {
+            list-style: none;
+            padding-left: 10px;
+        }
+        
+        .bullet-list li {
+            margin: 2px 0;
+            position: relative;
+            padding-left: 8px;
+            font-size: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .bullet-list li::before {
+            content: "•";
+            color: #2c5aa0;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+        
+        /* SWOT 분석 */
+        .swot-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            height: 100%;
+        }
+        
+        .swot-box {
+            background: white;
+            border-radius: 6px;
+            padding: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+            border-top: 3px solid;
+            overflow: hidden;
+        }
+        
+        .swot-box.strengths { border-top-color: #2c5aa0; }
+        .swot-box.weaknesses { border-top-color: #666; }
+        .swot-box.opportunities { border-top-color: #f4c430; }
+        .swot-box.threats { border-top-color: #999; }
+        
+        .swot-title {
+            font-size: 0.85rem;
+            font-weight: 700;
+            margin-bottom: 5px;
+            text-align: center;
+        }
+        
+        .swot-box.strengths .swot-title { color: #2c5aa0; }
+        .swot-box.weaknesses .swot-title { color: #666; }
+        .swot-box.opportunities .swot-title { color: #d4a300; }
+        .swot-box.threats .swot-title { color: #999; }
+        
+        /* 재무 테이블 */
+        .financial-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 6px 0;
+            font-size: 0.75rem;
+        }
+        
+        .financial-table th,
+        .financial-table td {
+            border: 1px solid #2c5aa0;
+            padding: 3px 5px;
+            text-align: center;
+        }
+        
+        .financial-table th {
+            background: #2c5aa0;
+            color: white;
+            font-weight: 700;
+        }
+        
+        .financial-table tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+        
+        .financial-table .highlight {
+            background: #e8f2ff;
+            font-weight: 700;
+            color: #2c5aa0;
+        }
+        
+        /* 메트릭 카드 */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 6px;
+            margin: 6px 0;
+        }
+        
+        .metric-card {
+            background: white;
+            border: 1px solid #2c5aa0;
+            border-radius: 6px;
+            padding: 6px;
+            text-align: center;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        }
+        
+        .metric-value {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 2px;
+        }
+        
+        .metric-label {
+            font-size: 0.65rem;
+            color: #666;
+            font-weight: 500;
+        }
+        
+        /* 파이프라인 */
+        .pipeline-section {
+            margin: 4px 0;
+            padding: 4px;
+            background: white;
+            border-radius: 4px;
+            border-left: 3px solid #2c5aa0;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        
+        .pipeline-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 2px;
+        }
+        
+        .pipeline-amount {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #f4c430;
+            float: right;
+        }
+        
+        /* 조직도 */
+        .org-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            height: 100%;
+        }
+        
+        .position-card {
+            background: white;
+            border: 1px solid #2c5aa0;
+            border-radius: 4px;
+            padding: 4px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex: 1;
+        }
+        
+        .position-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            margin-bottom: 1px;
+        }
+        
+        .position-desc {
+            font-size: 0.65rem;
+            color: #666;
+        }
+        
+        .position-salary {
+            font-size: 0.7rem;
+            font-weight: 700;
+            color: #f4c430;
+        }
+        
+        /* 로드맵 */
+        .roadmap-phases {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 6px;
+            height: 100%;
+        }
+        
+        .phase-card {
+            background: white;
+            border-radius: 4px;
+            padding: 6px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+            border-top: 3px solid #2c5aa0;
+            overflow: hidden;
+        }
+        
+        .phase-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #2c5aa0;
+            text-align: center;
+            margin-bottom: 3px;
+        }
+        
+        .phase-period {
+            font-size: 0.65rem;
+            color: #666;
+            text-align: center;
+            margin-bottom: 4px;
+        }
+        
+        /* ROI 하이라이트 */
+        .roi-highlight {
+            background: linear-gradient(135deg, #2c5aa0, #1e4080);
+            color: white;
+            padding: 6px;
+            border-radius: 6px;
+            text-align: center;
+            margin: 6px 0;
+            flex-shrink: 0;
+        }
+        
+        .roi-title {
+            font-size: 0.8rem;
+            font-weight: 700;
+            margin-bottom: 3px;
+        }
+        
+        .roi-desc {
+            font-size: 0.7rem;
+            opacity: 0.9;
+        }
+        
+        /* 결론 페이지 */
+        .conclusion-page {
+            background: linear-gradient(135deg, #2c5aa0, #1e4080);
+            color: white;
+            text-align: center;
+            justify-content: center;
+        }
+        
+        .conclusion-title {
+            font-size: 1.6rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+        
+        .success-formula {
+            font-size: 0.8rem;
+            margin: 8px 0;
+            padding: 8px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 6px;
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        .contact-info {
+            font-size: 0.8rem;
+            margin-top: 15px;
+        }
+        
+        /* 두 컬럼 레이아웃 */
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            height: 100%;
+        }
+        
+        /* 프린트 스타일 */
+        @media print {
+            * {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+                color-adjust: exact !important;
+            }
+            
+            @page {
+                size: A4 landscape;
+                margin: 8mm;
+            }
+            
+            body {
+                background: white;
+                padding: 0;
+            }
+            
+            .print-btn {
+                display: none !important;
+            }
+            
+            .page {
+                width: 29.7cm !important;
+                height: 21cm !important;
+                margin: 0 !important;
+                padding: 1.2cm !important;
+                page-break-after: always !important;
+                page-break-inside: avoid !important;
+                box-shadow: none !important;
+                border: none !important;
+                overflow: hidden !important;
+            }
+            
+            .page:last-child {
+                page-break-after: avoid !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="print-btn" onclick="window.print()">🖨️ Print</button>
+
+    <!-- 페이지 1: 표지 -->
+    <div class="page cover-page">
+        <h1 class="cover-title">WR Logistics 한국지사 사업계획서</h1>
+        <div class="cover-subtitle">글로벌 프로젝트 물류 전문 기업으로의 도약</div>
+        <div class="cover-meta">
+            <div>제출일: 2025년 9월 11일</div>
+            <div>작성자: 한상진 (지사장 후보)</div>
+            <br>
+            <div style="font-style: italic;">"글로벌 네트워크, 로컬 전문성"</div>
+            <div style="margin-top: 10px; font-size: 0.9rem; color: #ffeb3b;">✅ 이력서 기반 수정본</div>
+        </div>
+    </div>
+
+    <!-- 페이지 2: 목차 -->
+    <div class="page">
+        <div class="page-number">1</div>
+        <div class="page-header">
+            <h2 class="page-title">목차</h2>
+        </div>
+        <div class="page-content">
+            <div class="toc-list">
+                <div class="toc-item">
+                    <span class="toc-number">1</span>
+                    <span class="toc-title-text">사업 개요 및 목적</span>
+                    <span class="toc-page-num">2</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">2</span>
+                    <span class="toc-title-text">시장 분석 및 성장성</span>
+                    <span class="toc-page-num">3</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">3</span>
+                    <span class="toc-title-text">SWOT 분석</span>
+                    <span class="toc-page-num">4</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">4</span>
+                    <span class="toc-title-text">핵심 서비스 포트폴리오</span>
+                    <span class="toc-page-num">5</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">5</span>
+                    <span class="toc-title-text">확정 프로젝트 파이프라인</span>
+                    <span class="toc-page-num">6</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">6</span>
+                    <span class="toc-title-text">재무 계획 및 ROI</span>
+                    <span class="toc-page-num">7</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">7</span>
+                    <span class="toc-title-text">네트워크 기반 마케팅 전략</span>
+                    <span class="toc-page-num">8</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">8</span>
+                    <span class="toc-title-text">조직 구성 및 인력 계획</span>
+                    <span class="toc-page-num">9</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">9</span>
+                    <span class="toc-title-text">단계별 실행 로드맵</span>
+                    <span class="toc-page-num">10</span>
+                </div>
+                <div class="toc-item">
+                    <span class="toc-number">10</span>
+                    <span class="toc-title-text">결론 및 기대 효과</span>
+                    <span class="toc-page-num">11</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 3: 사업 개요 -->
+    <div class="page">
+        <div class="page-number">2</div>
+        <div class="page-header">
+            <h2 class="page-title">1. 사업 개요</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">WR Logistics Korea 소개</div>
+                <ul class="bullet-list">
+                    <li>독일 뒤셀도르프 본사 글로벌 프로젝트 물류 전문기업의 한국지사</li>
+                    <li>복잡한 산업 및 인프라 프로젝트 엔지니어링 중심 물류 솔루션</li>
+                    <li>25년 중동 네트워크 + 독일 본사 글로벌 네트워크 시너지</li>
+                    <li>체스 후원 등을 통한 브랜드 차별화 및 신뢰성 구축</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <div class="section-title">사업 목적</div>
+                <ul class="bullet-list">
+                    <li>한국 프로젝트 물류 시장에서의 선도적 지위 확보</li>
+                    <li>석유화학, 에너지, 중공업 분야 전문 물류 서비스</li>
+                    <li>독일 본사 네트워크와 중동 25년 경험 활용</li>
+                    <li>아시아 글로벌 프로젝트 물류 허브 구축</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">180억원</div>
+                    <div class="metric-label">1차년도 매출</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">310%</div>
+                    <div class="metric-label">1차년도 ROI</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">230억원</div>
+                    <div class="metric-label">확정 파이프라인</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">18개월</div>
+                    <div class="metric-label">투자회수</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 4: 시장 분석 -->
+    <div class="page">
+        <div class="page-number">3</div>
+        <div class="page-header">
+            <h2 class="page-title">2. 시장 분석 - 규모 및 성장성</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">글로벌 프로젝트 물류 시장</div>
+                <ul class="bullet-list">
+                    <li>2025년 4,623억 달러 → 2030년 6,172억 달러 (CAGR 5.95%)</li>
+                    <li>아시아태평양 지역 37.84% 점유 (최대 시장)</li>
+                    <li>한국 물류 자동화: 2024년 1,015백만 달러 → 2035년 4,832백만 달러</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <div class="section-title">한국 시장 성장 동력</div>
+                <ul class="bullet-list">
+                    <li>K-뉴딜 정책에 따른 인프라 투자 확대</li>
+                    <li>탄소중립 달성을 위한 신재생에너지 프로젝트 급증</li>
+                    <li>대형 EPC 업체들의 해외 진출 가속화</li>
+                    <li>글로벌 공급망 재편에 따른 아시아 중심 이동</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">6,000억원</div>
+                    <div class="metric-label">한국 시장규모</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">15%</div>
+                    <div class="metric-label">연평균 성장률</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">43.7%</div>
+                    <div class="metric-label">해상풍력 성장</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">37.84%</div>
+                    <div class="metric-label">아시아 시장점유</div>
+                </div>
+            </div>
+
+            <div class="roi-highlight">
+                <div class="roi-title">시장 기회 요약</div>
+                <div class="roi-desc">
+                    연평균 15% 성장하는 프로젝트 물류 시장에서<br>
+                    정부 정책 지원과 글로벌 네트워크를 활용한 필승 전략
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 5: SWOT 분석 -->
+    <div class="page">
+        <div class="page-number">4</div>
+        <div class="page-header">
+            <h2 class="page-title">3. SWOT 분석</h2>
+        </div>
+        <div class="page-content">
+            <div class="swot-grid">
+                <div class="swot-box strengths">
+                    <div class="swot-title">■ STRENGTHS</div>
+                    <ul class="bullet-list">
+                        <li>독일 본사 글로벌 네트워크</li>
+                        <li>25년 중동-한국 네트워크</li>
+                        <li>프로젝트 물류 전문성</li>
+                        <li>왕족·정부 고위층 관계</li>
+                        <li>검증된 브랜드 신뢰성</li>
+                        <li>현업 기반 즉시 실행 가능</li>
+                    </ul>
+                </div>
+
+                <div class="swot-box weaknesses">
+                    <div class="swot-title">■ WEAKNESSES</div>
+                    <ul class="bullet-list">
+                        <li>한국 시장 초기 진입</li>
+                        <li>현지 경쟁업체 관계 부족</li>
+                        <li>초기 투자 비용 부담</li>
+                        <li>로컬 브랜드 인지도 부족</li>
+                        <li>조직 구성 및 인력 확보</li>
+                    </ul>
+                </div>
+
+                <div class="swot-box opportunities">
+                    <div class="swot-title">■ OPPORTUNITIES</div>
+                    <ul class="bullet-list">
+                        <li>프로젝트 물류 15% 성장</li>
+                        <li>K-뉴딜, 탄소중립 정책</li>
+                        <li>글로벌 공급망 재편</li>
+                        <li>아시아 중심 이동</li>
+                        <li>해상풍력 43.7% 급성장</li>
+                        <li>확정 파이프라인 230억원</li>
+                    </ul>
+                </div>
+
+                <div class="swot-box threats">
+                    <div class="swot-title">■ THREATS</div>
+                    <ul class="bullet-list">
+                        <li>기존 대형업체 경쟁</li>
+                        <li>글로벌 경제 불확실성</li>
+                        <li>급속한 기술 변화</li>
+                        <li>규제 강화 및 비용 증가</li>
+                        <li>신규 진입업체 증가</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 6: 핵심 서비스 -->
+    <div class="page">
+        <div class="page-number">5</div>
+        <div class="page-header">
+            <h2 class="page-title">4. 핵심 서비스 포트폴리오</h2>
+        </div>
+        <div class="page-content">
+            <div class="two-column">
+                <div>
+                    <div class="section">
+                        <div class="section-title">프로젝트 물류</div>
+                        <div class="bullet-title">대형 산업 프로젝트 전문</div>
+                        <ul class="bullet-list">
+                            <li>석유화학, 발전소, 철강 분야</li>
+                            <li>초대형/중량 화물 (100톤+)</li>
+                            <li>복합 운송 솔루션</li>
+                            <li>JIT 배송 관리</li>
+                        </ul>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">중량물/특수화물 운송</div>
+                        <div class="bullet-title">독일 엔지니어링 전문성</div>
+                        <ul class="bullet-list">
+                            <li>독일 엔지니어링 노하우</li>
+                            <li>3D 모델링 경로 시뮬레이션</li>
+                            <li>특수 운송 장비 확보</li>
+                            <li>검사·인증 통합 서비스</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="section">
+                        <div class="section-title">차별화된 경쟁 우위</div>
+                        <ul class="bullet-list">
+                            <li><strong>중동 VIP 네트워크:</strong> Sheikh Ahmed Al Maktoum</li>
+                            <li><strong>독일 본사 시너지:</strong> 유럽 18개 지사</li>
+                            <li><strong>한국 EPC 관계:</strong> 현대엔지니어링, 삼성엔지니어링</li>
+                            <li><strong>통합 솔루션:</strong> 검사·인증 + 물류</li>
+                            <li><strong>현업 네트워크:</strong> Bureau Veritas 진행 중</li>
+                        </ul>
+                    </div>
+
+                    <div class="metrics-grid" style="grid-template-columns: 1fr 1fr;">
+                        <div class="metric-card">
+                            <div class="metric-value">25년</div>
+                            <div class="metric-label">중동 경험</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">38개국</div>
+                            <div class="metric-label">글로벌 네트워크</div>
+                        </div>
+                    </div>
+
+                    <div class="roi-highlight">
+                        <div class="roi-title">핵심 경쟁력</div>
+                        <div class="roi-desc">
+                            독일 본사 + 중동 25년 네트워크<br>
+                            + 현업 진행 중인 프로젝트 연계
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 7: 확정 프로젝트 파이프라인 -->
+    <div class="page">
+        <div class="page-number">6</div>
+        <div class="page-header">
+            <h2 class="page-title">5. 확정 프로젝트 파이프라인 (이력서 기반 수정)</h2>
+        </div>
+        <div class="page-content">
+            <div class="two-column">
+                <div>
+                    <div class="section">
+                        <div class="section-title">현대스틸산업 중동 프로젝트</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">사우디 아람코 아미랄 석유화학</div>
+                            <div class="pipeline-amount">80억원</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">110억 달러 EPC 프로젝트 (진행 중)</div>
+                        </div>
+                        <div style="font-size: 0.65rem; color: #28a745; margin-top: 3px; font-weight: 600;">✅ 현재 파트너십 기반 확정적</div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">LG에너지솔루션 ESS</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">폴란드 PGE 981MWh ESS</div>
+                            <div class="pipeline-amount">30억원</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">2026-2027년 EPC</div>
+                        </div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">미국 텍사스 ESS</div>
+                            <div class="pipeline-amount">20억원</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">Burns & McDonnell EPC</div>
+                        </div>
+                        <div style="font-size: 0.65rem; color: #28a745; margin-top: 3px; font-weight: 600;">✅ 본사 물류팀장(후배) 직접 협력</div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="section">
+                        <div class="section-title">Qatar Gas & 중동 네트워크</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Qatar Gas 북부가스전</div>
+                            <div class="pipeline-amount">40억원</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">100억 달러 EPC (기존 수주 경험)</div>
+                        </div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">Petronas 말레이시아</div>
+                            <div class="pipeline-amount">20억원</div>
+                            <div style="clear: both; font-size: 0.65rem; color: #666;">기존 네트워크 + Bureau Veritas</div>
+                        </div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">검사·인증 연계 (현업 기반)</div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">카타르 에너지 (300만 유로)</div>
+                            <div class="pipeline-amount">20억원</div>
+                        </div>
+                        <div class="pipeline-section">
+                            <div class="pipeline-title">사우디 왕실 (250만 유로)</div>
+                            <div class="pipeline-amount">20억원</div>
+                        </div>
+                        <div style="font-size: 0.65rem; color: #28a745; margin-top: 3px; font-weight: 600;">✅ Bureau Veritas 진행 중 프로젝트</div>
+                    </div>
+
+                    <div class="roi-highlight">
+                        <div class="roi-title">현실적 파이프라인 총계</div>
+                        <div class="roi-desc">
+                            <strong>총 230억원</strong><br>
+                            1차년도 목표 180억원 대비 127%<br>
+                            <small>확정성 높은 매출: 150억원 (65%)</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 8: 재무 계획 -->
+    <div class="page">
+        <div class="page-number">7</div>
+        <div class="page-header">
+            <h2 class="page-title">6. 재무 계획 - 3년 수익 목표</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">3개년 매출 및 수익 계획</div>
+                <table class="financial-table">
+                    <thead>
+                        <tr>
+                            <th>연도</th>
+                            <th>매출(억원)</th>
+                            <th>순이익(억원)</th>
+                            <th>성장률</th>
+                            <th>ROI</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="highlight">
+                            <td>2026</td>
+                            <td>180</td>
+                            <td>34.0</td>
+                            <td>-</td>
+                            <td class="highlight">310%</td>
+                        </tr>
+                        <tr>
+                            <td>2027</td>
+                            <td>300</td>
+                            <td>67.5</td>
+                            <td>67%</td>
+                            <td>545%</td>
+                        </tr>
+                        <tr>
+                            <td>2028</td>
+                            <td>450</td>
+                            <td>97.5</td>
+                            <td>50%</td>
+                            <td>818%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="section">
+                <div class="section-title">현실적 파이프라인 기반 계획</div>
+                <ul class="bullet-list">
+                    <li>1차년도: 확정 프로젝트 230억원 중 78% 달성 목표</li>
+                    <li>현대스틸산업: 사우디 아미랄 프로젝트 (80억원, 44% 기여)</li>
+                    <li>LG에너지솔루션: ESS 프로젝트 연계 (50억원, 28% 기여)</li>
+                    <li>중동 네트워크: Qatar Gas + 검사인증 연계 (50억원, 28% 기여)</li>
+                    <li>안전 마진: 목표 대비 28% 여유분으로 리스크 최소화</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">20억원</div>
+                    <div class="metric-label">총 투자금</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">18개월</div>
+                    <div class="metric-label">투자 회수</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">930억원</div>
+                    <div class="metric-label">3년 누적 매출</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">199억원</div>
+                    <div class="metric-label">3년 누적 순이익</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 9: 네트워크 마케팅 -->
+    <div class="page">
+        <div class="page-number">8</div>
+        <div class="page-header">
+            <h2 class="page-title">7. 검증된 네트워크 기반 마케팅 전략</h2>
+        </div>
+        <div class="page-content">
+            <div class="two-column">
+                <div>
+                    <div class="section">
+                        <div class="section-title">중동 네트워크 (25년)</div>
+                        <div class="bullet-title">왕족·정부 고위층</div>
+                        <ul class="bullet-list">
+                            <li>UAE Sheikh Ahmed Al Maktoum</li>
+                            <li>쿠웨이트 Sheikha Mariyam Al Sabah</li>
+                            <li>카타르 에너지부 고위관료</li>
+                            <li>사우디 아람코 임원진</li>
+                        </ul>
+                        
+                        <div class="bullet-title">검증된 프로젝트 실적</div>
+                        <ul class="bullet-list">
+                            <li>Qatar Gas 북부가스전 수주</li>
+                            <li>사우디 아람코 아미랄 현재 진행</li>
+                            <li>Bureau Veritas 550만 유로 진행</li>
+                        </ul>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">한국 기업 네트워크</div>
+                        <ul class="bullet-list">
+                            <li><strong>현대스틸산업:</strong> 현재 파트너십</li>
+                            <li><strong>LG에너지솔루션:</strong> 물류팀장(후배)</li>
+                            <li><strong>현대엔지니어링:</strong> 중동 프로젝트</li>
+                            <li><strong>삼성엔지니어링:</strong> EPC 협력</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="section">
+                        <div class="section-title">독일 본사 시너지</div>
+                        <ul class="bullet-list">
+                            <li>유럽 18개 지사 네트워크</li>
+                            <li>글로벌 프로젝트 물류 전문성</li>
+                            <li>독일 엔지니어링 기술력</li>
+                            <li>체스 후원 등 브랜드 차별화</li>
+                        </ul>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">마케팅 실행 전략</div>
+                        <div class="bullet-title">Phase 1 (0-6개월)</div>
+                        <ul class="bullet-list">
+                            <li>기존 네트워크 활성화</li>
+                            <li>확정 프로젝트 실행</li>
+                            <li>브랜드 런칭 이벤트</li>
+                        </ul>
+                        
+                        <div class="bullet-title">Phase 2 (6-12개월)</div>
+                        <ul class="bullet-list">
+                            <li>한국 EPC 업체 확대</li>
+                            <li>정부 관계 구축</li>
+                            <li>글로벌 프로젝트 연계</li>
+                        </ul>
+                    </div>
+
+                    <div class="roi-highlight">
+                        <div class="roi-title">네트워크 신뢰도</div>
+                        <div class="roi-desc">
+                            25년 검증된 관계 + 현재 진행 중인<br>
+                            550만 유로 프로젝트 기반 신뢰성
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 10: 조직 구성 -->
+    <div class="page">
+        <div class="page-number">9</div>
+        <div class="page-header">
+            <h2 class="page-title">8. 조직 구성 및 인력 계획</h2>
+        </div>
+        <div class="page-content">
+            <div class="section">
+                <div class="section-title">초기 조직 구성 (1차년도)</div>
+                <div class="org-grid">
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">지사장 (한상진)</div>
+                            <div class="position-desc">전략 기획, 영업, 네트워크 관리</div>
+                        </div>
+                        <div class="position-salary">연 1.2억원</div>
+                    </div>
+                    
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">영업 관리자</div>
+                            <div class="position-desc">한국 시장 개발, 고객 관계 관리</div>
+                        </div>
+                        <div class="position-salary">연 8,000만원</div>
+                    </div>
+                    
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">운영 관리자</div>
+                            <div class="position-desc">프로젝트 실행, 물류 운영</div>
+                        </div>
+                        <div class="position-salary">연 7,000만원</div>
+                    </div>
+                    
+                    <div class="position-card">
+                        <div class="position-info">
+                            <div class="position-title">재무/관리 담당</div>
+                            <div class="position-desc">재무 관리, 행정 업무</div>
+                        </div>
+                        <div class="position-salary">연 5,000만원</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">확장 계획 (2-3차년도)</div>
+                <ul class="bullet-list">
+                    <li><strong>영업팀 확대:</strong> 지역별 전문 영업 담당자 3명 추가</li>
+                    <li><strong>기술팀 신설:</strong> 프로젝트 엔지니어링 전문가 2명</li>
+                    <li><strong>운영팀 강화:</strong> 현장 관리자 및 물류 전문가 4명</li>
+                    <li><strong>지원팀 확대:</strong> IT, 마케팅, 법무 전문가 3명</li>
+                </ul>
+            </div>
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">4명</div>
+                    <div class="metric-label">1차년도 인력</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">16명</div>
+                    <div class="metric-label">3차년도 인력</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">3.7억원</div>
+                    <div class="metric-label">1차년도 인건비</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">12.5억원</div>
+                    <div class="metric-label">3차년도 인건비</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 11: 실행 로드맵 -->
+    <div class="page">
+        <div class="page-number">10</div>
+        <div class="page-header">
+            <h2 class="page-title">9. 단계별 실행 로드맵</h2>
+        </div>
+        <div class="page-content">
+            <div class="roadmap-phases">
+                <div class="phase-card">
+                    <div class="phase-title">Phase 1: 기반 구축</div>
+                    <div class="phase-period">0-6개월</div>
+                    <ul class="bullet-list">
+                        <li>법인 설립 및 라이센스</li>
+                        <li>초기 조직 구성 (4명)</li>
+                        <li>사무실 설립 (강남)</li>
+                        <li>확정 프로젝트 실행</li>
+                        <li>브랜드 런칭</li>
+                        <li>목표: 60억원 매출</li>
+                    </ul>
+                </div>
+
+                <div class="phase-card">
+                    <div class="phase-title">Phase 2: 시장 확장</div>
+                    <div class="phase-period">6-18개월</div>
+                    <ul class="bullet-list">
+                        <li>한국 EPC 업체 확대</li>
+                        <li>영업팀 확장 (2명 추가)</li>
+                        <li>정부 관계 구축</li>
+                        <li>신규 프로젝트 수주</li>
+                        <li>운영 시스템 구축</li>
+                        <li>목표: 120억원 매출</li>
+                    </ul>
+                </div>
+
+                <div class="phase-card">
+                    <div class="phase-title">Phase 3: 시장 선도</div>
+                    <div class="phase-period">18-36개월</div>
+                    <ul class="bullet-list">
+                        <li>아시아 허브 구축</li>
+                        <li>기술팀 신설</li>
+                        <li>디지털 플랫폼 구축</li>
+                        <li>글로벌 프로젝트 확대</li>
+                        <li>업계 1위 도약</li>
+                        <li>목표: 450억원 매출</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="roi-highlight">
+                <div class="roi-title">성공 핵심 요소</div>
+                <div class="roi-desc">
+                    기존 네트워크 × 독일 본사 시너지 × 확정 파이프라인<br>
+                    = 18개월 내 투자 회수 및 시장 선도 기업 도약
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 페이지 12: 결론 -->
+    <div class="page conclusion-page">
+        <div class="conclusion-title">결론: WR Logistics Korea 성공 공식</div>
+        
+        <div class="success-formula">
+            <strong>검증된 네트워크</strong><br>
+            중동 25년 + 독일 본사 + 한국 EPC 관계
+        </div>
+        
+        <div class="success-formula">
+            <strong>확정적 파이프라인</strong><br>
+            230억원 확정 프로젝트 + 현업 진행 중
+        </div>
+        
+        <div class="success-formula">
+            <strong>탁월한 수익성</strong><br>
+            1차년도 ROI 310% + 18개월 투자회수
+        </div>
+        
+        <div class="contact-info">
+            <div style="font-size: 1.2rem; margin-bottom: 15px;">
+                <strong>"글로벌 네트워크, 로컬 전문성"</strong>
+            </div>
+            <div>제출자: 한상진 (지사장 후보)</div>
+            <div>연락처: +82-10-XXXX-XXXX</div>
+            <div>이메일: sangjin.han@wrlogistics.com</div>
+        </div>
+    </div>
+
+</body>
+</html>

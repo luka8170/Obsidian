@@ -1,0 +1,883 @@
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <yichwoo@possm.com>  
+**날짜****:** 월요일, 2025년 7월 14일 오전 10:58**받는** **사람****:** Sangjin HAN <sangjin.han@bureauveritas.com>  
+**주제****:** RE: POS SM - BV 계약서 날인 건 (FYFA, CLASSIFICATION SERVICES)
+
+이사님, 업무에 노고 많으십니다. 하기 진행 사항 확인 부탁 드립니다. 3)항 관련해서는 별도 메일 수신하지 못한 것 같습니다. 1) 계약서 BV 날인본 회신 2) 계약서 문의 사항 및 3자 합의서 작성 3) SIRE 2. 0 지적 사항에 대한 귀사 ERS 대응 가능 여부 (Drifting 표류, 기름 유출 경로 예측) Best regards 감사합니다 / 이창우 과장 ─────────────────────────────────────────────────
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+이사님, 업무에 노고 많으십니다.
+
+하기 진행 사항 확인 부탁 드립니다.
+
+3)항 관련해서는 별도 메일 수신하지 못한 것 같습니다.
+
+1) 계약서 BV 날인본 회신
+
+2) 계약서 문의 사항 및 3자 합의서 작성
+
+3) SIRE 2.0 지적 사항에 대한 귀사 ERS 대응 가능 여부 (Drifting 표류, 기름 유출 경로 예측)
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+Tel:+82-51-400-1829 | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!NIkrFhVTmJwDVe-BpU0Sx9acdrhz1sukkTgTe9QBlgej-CC13Fpsmg87HOyni01H3yI4VHj2gGKkzJG5FiG5ow$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** Sangjin HAN <sangjin.han@bureauveritas.com>  
+**Sent:** Thursday, June 26, 2025 4:08 PM  
+**To:** 이창우 [POSSM/해사기획팀] <yichwoo@possm.com>  
+**Subject:** Re: POS SM - BV 계약서 날인 건 (FYFA, CLASSIFICATION SERVICES)
+
+안녕하십니까 과장님.  
+  
+3번 사항은 관련 부서에서 별도로 직접 회신 드리도록 조치해 놓았으니 잠시만 기다려 주시면 감사하겠습니다.  
+1, 2 사항도 내부 결제 진행 중으로 조속히 마무리 하겠습니다.  
+  
+감사합니다
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)](https://group.bureauveritas.com/ "\"https://group.bureauveritas.com/\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!NIkrFhVTmJwDVe-BpU0Sx9acdrhz1sukkTgTe9QBlgej-CC13Fpsmg87HOyni01H3yI4VHj2gGKkzJGkcUMJRA$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!NIkrFhVTmJwDVe-BpU0Sx9acdrhz1sukkTgTe9QBlgej-CC13Fpsmg87HOyni01H3yI4VHj2gGKkzJFRBY1FrQ$ "\"https://www.linkedin.com/company/bureau-veritas-group/\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!NIkrFhVTmJwDVe-BpU0Sx9acdrhz1sukkTgTe9QBlgej-CC13Fpsmg87HOyni01H3yI4VHj2gGKkzJF8T5Sg9g$ "\"https://twitter.com/bureauveritas\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!NIkrFhVTmJwDVe-BpU0Sx9acdrhz1sukkTgTe9QBlgej-CC13Fpsmg87HOyni01H3yI4VHj2gGKkzJHtxMH6PA$ "\"https://www.instagram.com/bureauveritasgroup/\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!NIkrFhVTmJwDVe-BpU0Sx9acdrhz1sukkTgTe9QBlgej-CC13Fpsmg87HOyni01H3yI4VHj2gGKkzJFFR3LkxA$ "\"https://www.facebook.com/bureau.veritas.group\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!NIkrFhVTmJwDVe-BpU0Sx9acdrhz1sukkTgTe9QBlgej-CC13Fpsmg87HOyni01H3yI4VHj2gGKkzJHRcgsPOw$ "\"https://www.youtube.com/user/BureauVeritasGroup\"")|   |
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**날짜****:** 목요일, 2025년 6월 26일 오후 4:06**받는** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**주제****:** RE: POS SM - BV 계약서 날인 건 (FYFA, CLASSIFICATION SERVICES)
+
+이사님, 안녕하세요. 요청 드렸던 메일 3건 확인하시어 답신 부탁 드립니다. 1) 계약서 BV 날인본 회신 2) 계약서 문의 사항 및 3자 합의서 작성 3) SIRE 2. 0 지적 사항에 대한 귀사 ERS 대응 가능 여부 (Drifting 표류, 기름 유출 경로 예측) Best regards 감사합니다 / 이창우 과장 ───────────────────────────────────────────────── Lee, ChangWoo
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+이사님, 안녕하세요.
+
+요청 드렸던 메일 3건 확인하시어 답신 부탁 드립니다.
+
+1) 계약서 BV 날인본 회신
+
+2) 계약서 문의 사항 및 3자 합의서 작성
+
+3) SIRE 2.0 지적 사항에 대한 귀사 ERS 대응 가능 여부 (Drifting 표류, 기름 유출 경로 예측)
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxlWdY4xXA$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** 이창우 [POSSM/해사기획팀]  
+**Sent:** Monday, June 23, 2025 4:03 PM  
+**To:** 'Sangjin HAN' <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Subject:** POS SM - BV 계약서 날인 건 (FYFA, CLASSIFICATION SERVICES)
+
+이사님, 업무에 노고 많으십니다.
+
+각 계약서 당사 성경일 실장님 서명 날인하여 스캔본 송부 드립니다.
+
+확인해보시고 귀 선급 날인 후 송부 주시면 감사 드리겠습니다.
+
+더불어, 아래 문의 내용 1)~3) 도 함께 검토하시어 회신 부탁 드리겠습니다.
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxlWdY4xXA$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** 이창우 [POSSM/해사기획팀]  
+**Sent:** Tuesday, June 17, 2025 10:15 AM  
+**To:** 'Sangjin HAN' <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Subject:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+이사님, 업무에 노고 많으십니다.
+
+보내주신 계약서 최종본으로 내부 품의 중이며, 계약 체결 후 관리 내용 중 몇 가지 문의 있어 연락 드립니다
+
+1) Classification service agreement (SVC agreement) 관련, Discounted amount 의 관리 방안
+
+ -. Services 이용 시 마다 잔액을 BV에서 기록/안내 해주시는지?
+
+2) FYFA 중 Annex B 상 검사비 무상인 Port list 를 명확하게 정의 (BV side directory 에서 검색하면 나오는 port?)
+
+   또는 담당 감독이 매 검사 신청 시 검사비 무상 적용이 되는 Port 인지 견적서 상 확인 문구 삽입
+
+3) 첨부의 3자 합의서 (팬오션-포스에스엠-BV 간 Novation letter) 를 작성하고자 합니다.
+
+  이는 검사 발주 행위는 포스에스엠에서 하나 정산은 팬오션에서 하는 당사 구조 상 필요한 절차로, 체결 예정인
+
+  계약서 날인 후 상기 구조적인 내용에 대하여 3사가 합의한다는 갱신 계약서 형태로 보시면 되겠습니다.
+
+   본 계약 체결 후 첨부 계약서 작성 요청 드릴 예정이오니 사전 검토 부탁 드립니다.
+
+SVC, FYF 계약 날인 본은 명일 중으로 송부 드릴 예정 입니다.
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxlWdY4xXA$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Sent:** Friday, May 30, 2025 6:59 PM  
+**To:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**Subject:** Re: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+안녕하십니까 과장님
+
+첨부와 같이, 요청하신 내용이 반영한 파일을 송부 드리오니 마지막으로 확인 부탁 드립니다.
+
+즐거운 주말 되시기 바랍니다.
+
+감사합니다.
+
+|   |   |   |
+|---|---|---|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)](https://group.bureauveritas.com/ "\"https://group.bureauveritas.com/\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxlZ2ORH6A$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxkxnN0a0A$ "\"https://www.linkedin.com/company/bureau-veritas-group/\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxliOCAOcA$ "\"https://twitter.com/bureauveritas\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxnZmNPjRQ$ "\"https://www.instagram.com/bureauveritasgroup/\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxmopiYm0w$ "\"https://www.facebook.com/bureau.veritas.group\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxnqI8X3rg$ "\"https://www.youtube.com/user/BureauVeritasGroup\"")|   |
+
+**보낸** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**날짜****:** 목요일, 2025년 5월 29일 오후 8:34**받는** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**주제****:** Re: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+죄송합니다  과장님. 본사 숭인 완료하고 저희 대표 숭인 절차로 인해 다음주월화 중에 마무리 될 거 같습니다.  더 이상 지연 되지 않도록 하겠습니다.  
+
+감사합니다
+
+[iOS용 Outlook](https://urldefense.com/v3/__https:/aka.ms/o0ukef__;!!NslPjgbbnDqexg!I-OtzNdDsIgHg3rt1GOdhMHBkSw4tqRZ1fTcr2lB3skLLft2pyhOTCZaTlV4jyw2xAJVp-XEm8X1RxkItjeW-A$) 다운로드
+
+---
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**보낸** **날짜****:** Thursday, May 29, 2025 4:09:59 PM**받는** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**제목****:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+이사님 업무에 노고 많으십니다. UMM SWAYYAH 호 B/FEE 계약 관련하여 Annex B, C 부분 간소화하여 작성되었는지 확인 부탁 드립니다. Best regards 감사합니다 / 이창우 과장 ───────────────────────────────────────────────── Lee, ChangWoo (李昌祐) Manager | Maritime Planning Team Global Leading Ship Management
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+이사님 업무에 노고 많으십니다.
+
+UMM SWAYYAH 호 B/FEE 계약 관련하여 Annex B, C 부분 간소화하여
+
+작성되었는지 확인 부탁 드립니다.
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!LaB6A8YijIj8xr8FyDNbJrDeiOreU89GRN275kpPFJCNAEjSSsIZVkE_yLtg4pprQjNFamULCtxQBSprhHV6og$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** 이창우 [POSSM/해사기획팀]  
+**Sent:** Tuesday, May 13, 2025 10:37 AM  
+**To:** 'Sangjin HAN' <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Subject:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+넵 이사님 11시에 뵙겠습니다~
+
+**From:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Sent:** Tuesday, May 13, 2025 10:36 AM  
+**To:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**Subject:** Re: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+안녕하십니까 과장님  
+제가 Teams meeting을 11시에 초대했는데 그럼 잠시 후 뵙겠습니다.
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)](https://group.bureauveritas.com/ "\"https://group.bureauveritas.com/\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!LaB6A8YijIj8xr8FyDNbJrDeiOreU89GRN275kpPFJCNAEjSSsIZVkE_yLtg4pprQjNFamULCtxQBSr10ISjIQ$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!LaB6A8YijIj8xr8FyDNbJrDeiOreU89GRN275kpPFJCNAEjSSsIZVkE_yLtg4pprQjNFamULCtxQBSq479ghiQ$ "\"https://www.linkedin.com/company/bureau-veritas-group/\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image017.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!LaB6A8YijIj8xr8FyDNbJrDeiOreU89GRN275kpPFJCNAEjSSsIZVkE_yLtg4pprQjNFamULCtxQBSpgFh81Ng$ "\"https://twitter.com/bureauveritas\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image018.png)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!LaB6A8YijIj8xr8FyDNbJrDeiOreU89GRN275kpPFJCNAEjSSsIZVkE_yLtg4pprQjNFamULCtxQBSrcOioS0g$ "\"https://www.instagram.com/bureauveritasgroup/\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image019.png)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!LaB6A8YijIj8xr8FyDNbJrDeiOreU89GRN275kpPFJCNAEjSSsIZVkE_yLtg4pprQjNFamULCtxQBSpbqkBm3Q$ "\"https://www.facebook.com/bureau.veritas.group\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image020.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!LaB6A8YijIj8xr8FyDNbJrDeiOreU89GRN275kpPFJCNAEjSSsIZVkE_yLtg4pprQjNFamULCtxQBSoQLIMJyA$ "\"https://www.youtube.com/user/BureauVeritasGroup\"")|   |
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**날짜****:** 화요일, 2025년 5월 13일 오전 10:21**받는** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**주제****:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+안녕하세요 이사님, 오전 중 통화 가능하오니 언제든지 연락 주십시오. 이창우 드림 From: Sangjin HAN <sangjin. han@ bureauveritas. com> Sent: Monday, May 12, 2025 8: 03 PM To: 이창우 [POSSM/해사기획팀] <yichwoo@ possm. com> Subject: Re: [Urgent] Pan Ocean Contract(draft) Amendments
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+안녕하세요 이사님,
+
+오전 중 통화 가능하오니 언제든지 연락 주십시오.
+
+이창우 드림
+
+**From:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Sent:** Monday, May 12, 2025 8:03 PM  
+**To:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**Subject:** Re: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+안녕하십니까 과장님
+
+하기 말씀해 주신 내용 관련 명확히 내용 확인 차 명일 오전에 편한 시간 알려 주시면 유선으로 문의 드리겠습니다.
+
+감사합니다.
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)](https://group.bureauveritas.com/ "\"https://group.bureauveritas.com/\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!PmlKpMCaauDi9QN_BI3YNdJnu3YHDpa6nMqhoj7kTetr1rANk8bX0gYgwKm0ZELx5QVfsjMJAe0VG07RaOkUbg$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!PmlKpMCaauDi9QN_BI3YNdJnu3YHDpa6nMqhoj7kTetr1rANk8bX0gYgwKm0ZELx5QVfsjMJAe0VG07F8zttfA$ "\"https://www.linkedin.com/company/bureau-veritas-group/\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image017.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!PmlKpMCaauDi9QN_BI3YNdJnu3YHDpa6nMqhoj7kTetr1rANk8bX0gYgwKm0ZELx5QVfsjMJAe0VG04e8LibxA$ "\"https://twitter.com/bureauveritas\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image018.png)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!PmlKpMCaauDi9QN_BI3YNdJnu3YHDpa6nMqhoj7kTetr1rANk8bX0gYgwKm0ZELx5QVfsjMJAe0VG05DeqBxfg$ "\"https://www.instagram.com/bureauveritasgroup/\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image019.png)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!PmlKpMCaauDi9QN_BI3YNdJnu3YHDpa6nMqhoj7kTetr1rANk8bX0gYgwKm0ZELx5QVfsjMJAe0VG05_QovDBg$ "\"https://www.facebook.com/bureau.veritas.group\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image020.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!PmlKpMCaauDi9QN_BI3YNdJnu3YHDpa6nMqhoj7kTetr1rANk8bX0gYgwKm0ZELx5QVfsjMJAe0VG04i1rHf0g$ "\"https://www.youtube.com/user/BureauVeritasGroup\"")|   |
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**날짜****:** 목요일, 2025년 5월 8일 오후 2:04**받는** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**주제****:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+이사님, 업무에 노고 많으십니다. 보내주신 계약서 내용에 크게 이견 없으며, 유선 상 말씀하신 Special condition 으로 따로 뺀 부분에 대해서도 달리 이견이 없습니다. (다만, 귀사 법무팀 통해 special condition 으로 따로 뺀 사유는 확인 필요합니다) 한 가지 문의 드리고 싶은 부분은 FYFA 의 ANNEX B, C 가 수정이 되었던데 (Updated as per FYF template) 초안 내용보다
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+이사님, 업무에 노고 많으십니다.
+
+보내주신 계약서 내용에 크게 이견 없으며, 유선 상 말씀하신 Special condition 으로 따로 뺀 부분에 대해서도
+
+달리 이견이 없습니다. (다만, 귀사 법무팀 통해 special condition 으로 따로 뺀 사유는 확인 필요합니다)
+
+한 가지 문의 드리고 싶은 부분은 FYFA 의 ANNEX B, C 가 수정이 되었던데 (Updated as per FYF template)
+
+초안 내용보다 복잡하고, 저희 계약과는 관계없는 내용도 많이 있는 것 같습니다.
+
+아래의 문의 확인 부탁 드립니다.
+
+1) 편의상, 초안처럼 FYFA 의 cover survey 만 따로 기재할 수 있는지
+
+2) 당사 agreement 해당 내용만 추려서 주실 수 있는지
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!I9u22BQjO1GLqxWVeH-MJ2gsvIwN6lT90C9gt1aa--8LHe9BJp-aKVFtJaTU2T7wB0_lo7gGekyUDwdbs4Ec7A$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Sent:** Wednesday, May 7, 2025 2:00 PM  
+**To:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**Subject:** Re: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+안녕하십니까 과장님
+
+첨부와 같이 송부 드리며, 전화로 다시 말씀 드리겠습니다.
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)](https://group.bureauveritas.com/ "\"https://group.bureauveritas.com/\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](cid:image026.png@01DBC3F0.CCF669F0)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!I9u22BQjO1GLqxWVeH-MJ2gsvIwN6lT90C9gt1aa--8LHe9BJp-aKVFtJaTU2T7wB0_lo7gGekyUDwfGbLfUfQ$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](cid:image027.png@01DBC3F0.CCF669F0)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!I9u22BQjO1GLqxWVeH-MJ2gsvIwN6lT90C9gt1aa--8LHe9BJp-aKVFtJaTU2T7wB0_lo7gGekyUDwcPi9G1Vw$ "\"https://www.linkedin.com/company/bureau-veritas-group/\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!I9u22BQjO1GLqxWVeH-MJ2gsvIwN6lT90C9gt1aa--8LHe9BJp-aKVFtJaTU2T7wB0_lo7gGekyUDwdGn1d5QA$ "\"https://twitter.com/bureauveritas\"")  [![Image](cid:image029.png@01DBC3F0.CCF669F0)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!I9u22BQjO1GLqxWVeH-MJ2gsvIwN6lT90C9gt1aa--8LHe9BJp-aKVFtJaTU2T7wB0_lo7gGekyUDwelsIL3LA$ "\"https://www.instagram.com/bureauveritasgroup/\"")  [![Image](cid:image030.png@01DBC3F0.CCF669F0)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!I9u22BQjO1GLqxWVeH-MJ2gsvIwN6lT90C9gt1aa--8LHe9BJp-aKVFtJaTU2T7wB0_lo7gGekyUDwfya95_pg$ "\"https://www.facebook.com/bureau.veritas.group\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!I9u22BQjO1GLqxWVeH-MJ2gsvIwN6lT90C9gt1aa--8LHe9BJp-aKVFtJaTU2T7wB0_lo7gGekyUDwda7NjAyg$ "\"https://www.youtube.com/user/BureauVeritasGroup\"")|   |
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**날짜****:** 금요일, 2025년 4월 25일 오후 1:01**받는** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**주제****:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+이사님, 업무에 노고 많으십니다. UMM SWAYYAH 호 Agreement 관련 당사 법무 의견 반영된 계약서 수정본 송부 부탁 드립니다. Best regards 감사합니다 / 이창우 과장 ───────────────────────────────────────────────── Lee, ChangWoo (李昌祐) Manager | Maritime Planning Team Global Leading Ship Management
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+이사님, 업무에 노고 많으십니다.
+
+UMM SWAYYAH 호 Agreement 관련 당사 법무 의견 반영된 계약서 수정본 송부 부탁 드립니다.
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image021.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b28QzgLFw$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** 이창우 [POSSM/해사기획팀]  
+**Sent:** Friday, April 18, 2025 1:17 PM  
+**To:** 'Sangjin HAN' <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Cc:** 송유호 [POSSM/LNG선단] <[yh.song@possm.com](mailto:yh.song@possm.com)>  
+**Subject:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+이사님, 업무에 노고 많으십니다.
+
+첨부와 같이 ERS Agreement 성경일 실장님 날인한 스캔본 전달 드립니다.
+
+ERS 서비스 등록 후 증서 전달 부탁 드립니다.
+
+그리고 저희 법무 검토 후 수정 요청 드린 내용이 적용된 계약서 보내주시면 감사 드리겠습니다.
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b28QzgLFw$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** 이창우 [POSSM/해사기획팀]  
+**Sent:** Friday, April 11, 2025 1:48 PM  
+**To:** 'Sangjin HAN' <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Subject:** RE: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+이사님, 업무에 노고 많으십니다.
+
+하기 3.1, 3.2 에 대한 이견은 팬오션 법무팀에서 특별히 문제 삼지 않기로 하였습니다.
+
+이에 저희 쪽에서 요청 드린 수정 안을 적용한 계약서 전달 주시면 내부 품의 후 날인하여 회신 드리겠습니다.
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b28QzgLFw$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Sent:** Monday, March 31, 2025 7:17 PM  
+**To:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**Subject:** FW: [Urgent] Pan Ocean Contract(draft) Amendments - Request for Legal Opinion ASAP
+
+안녕하십니까 과장님
+
+아래와 같이 문의 주신 내용 관련, 저희 본사 변호사의 답변을 송부 드립니다. 대부분 동의하였고, 3.1 과 3.2의 내용과 관련해서만  이견이 있는 점을 확인 부탁 드립니다.
+
+|   |   |   |
+|---|---|---|
+|**Agreement**|**Article/Clause**|**Confirmation request from Pan Ocean**|
+|Classification Services Agreement|ARTICLE 11 (Governing Law and Jurisdiction)|Governing Law: English Law / Jurisdiction: It is recommended to change the jurisdiction to LMAA (London Maritime Arbitrators Association) considering costs and other factors related to arbitration.|
+|Acceptable|
+||APPENDIX 1 - 2.14 “Society”|Refers to “Bureau Veritas Marine & Offshore SAS”. It is recommended to unify the terminology to either “BV” or “Society” throughout the Agreement and Appendix 2 for consistency. It seems more appropriate to use “BV”.|
+||Acceptable|
+||3.1 (Scope of Services),  3.2|As per Clause 3.1, the Society is required to review and inspect the construction arrangement and unit construction. However, Clause 3.2 states that the Society does not perform construction work or verify compliance with the design. This creates a conflict between the two clauses. It is necessary to clarify the definition of “construction” to resolve the inconsistency.|
+||The exact wording of 3.2 is not in contradiction with 3.1. As an independent third-party service provider BV will assess and verify according to the information provided that the design and construction meet the applicable standards and requirements, but it will not declare the construction's conformity with the design which is the responsibility of the owner.|
+|FYF Agreement|ANNEX A - List of Vessels and Standard Fees|Block Fee of USD 30,000 applies for 5 years, followed by an annual fee of USD 6,000 starting from the 11th year. If the intention is to provide free service during the 1st to 5th and 6th to 10th years, it should be explicitly stated. Currently, the Special Rates clause does not clearly indicate when the Block Fee is applied, leading to uncertainty. It is recommended to specify that the Block Fee applies from 11th to 15th year.|
+|@Sangjin HAN I let you revert on this. Please note that we normally do not accept to perform free services.  <br>요청하신대로 수정하도록 하겠습니다.|
+||15. Governing Law and Dispute Resolution|It is recommended to change the jurisdiction to LMAA to align with the Classification Services Agreement.|
+||Acceptable|
+
+별도 메일로 주신 ERS 관련해서는 별도 메일로 송부 드리겠습니다.
+
+감사합니다.
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![Image](cid:image033.png@01DBC3F0.CCF669F0)](https://group.bureauveritas.com/ "\"\"https://group.bureauveritas.com/\"\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image022.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](cid:image026.png@01DBC3F0.CCF669F0)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b2aKnsu7g$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image023.png)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b3so8AghA$ "\"\"https://www.linkedin.com/company/bureau-veritas-group/\"\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image024.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b0VF-nHhg$ "\"\"https://twitter.com/bureauveritas\"\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image025.png)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b0g1CRPDw$ "\"\"https://www.instagram.com/bureauveritasgroup/\"\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image026.png)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b22NCVQkQ$ "\"\"https://www.facebook.com/bureau.veritas.group\"\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image027.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!IPVcyQOHZjpcVtL_Kah2HXIuxDa7M0utt-fA6_H-nqTyJEHVxP_0C2ah-uY3OMW9-fHPSWmfGrrJ8b0hxWKg1g$ "\"\"https://www.youtube.com/user/BureauVeritasGroup\"\"")|   |
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>
+
+이사님, 업무에 노고 많으십니다. 당사 법무팀의 검토 의견을 하기와 같이 전달 드립니다. 붉은색 글씨로 체크된 조항에 대한 수정이 가능한지 검토 부탁 드립니다. Classification Services Agreement ARTICLE 11 - 준거법 : 영국법 / 관할 : LCIA è 중재 진행시 비용 등 고려하여 관할 LMAA(London Maritime Arbitrators Association)로 변경 권고 APPENDIX
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+이사님, 업무에 노고 많으십니다.
+
+당사 법무팀의 검토 의견을 하기와 같이 전달 드립니다.
+
+붉은색 글씨로 체크된 조항에 대한 수정이 가능한지 검토 부탁 드립니다.
+
+**Classification Services Agreement**
+
+**ARTICLE 11**
+
+- 준거법 : 영국법 / 관할 : LCIA  중재 진행시 비용 등 고려하여 관할 LMAA(London Maritime Arbitrators Association)로 변경 권고
+
+**APPENDIX 1**
+
+2.14 “Society” : ‘Bureau Veritas Marine & Offshore SAS’ 지칭 -> Agreement와 Appendix2 고려하여 BV 또는 Society 중 하나로 통일시키는 것 권고 (BV 가 맞는 것 같습니다)
+
+3.1 Subject to the Services requested and always by reference to the Rules, and/or to the Applicable Referential, the Society shall:
+
+review the construction arrangements of the Unit as shown on the documents provided by the Client;
+
+conduct the Unit surveys at the place of the Unit construction;
+
+class the Unit and enter the Unit’s class in the Society’s Register;
+
+survey the Unit periodically in service to note whether the requirements for the maintenance of class are met. The Client shall inform the Society without delay of any circumstances which may cause any changes on the conducted surveys or Services;
+
+perform design assessments, surveys and audits related to Marine Equipment;
+
+witness tests at manufacturer’s premises.
+
+3.2 The Society will not:
+
+declare the acceptance or commissioning of a Unit, nor its construction in conformity with its design, such activities remaining under the exclusive responsibility of the Unit’s owner or builder;
+
+engage in any work relating to the design, construction, production or repair checks, neither in the operation of the Unit or the Unit’s trade, neither in any advisory services, and cannot be held liable on those accounts;
+
+be liable for any delay or costs, charges or losses sustained or incurred by the Client in the event where the Society’s performance of the Services is prevented or delayed directly or indirectly by any act, omission, missing information, default or neglig ence of the Client.
+
+3.2 Society는 하기 내역 수행하지 않음 - Unit의 승인이나 시운전, 설계에 따른 건조 여부(“construction in conformity with its design”)도 판단하지 않으며,
+
+이러한 활동은 Unit 소유주나 조선업자의 전적인 책임 - Unit의 설계, 건조(“construction”), 생산, 수리 점검 관련된 작업에 관여하지 않으며, Unit의 운항이나 거래, 또는 자문서비스에도 관여하지 않고, 이에 대해 책임지지 않음
+
+- Client의 행위, 정보 누락, 정보 미제공, 불이행 또는 과실로 인해 Society 서비스 수행이 직간접적으로 저해되거나 지연되는 경우, 고객이 겪는 지연, 비용, 손실에 책임지지 않음
+
+-> 3.1 “construction arrangement” 지칭하는 바 확인 필요. 문언상으로만 보면 3.2 에서 construction에 관여하지 않는 것과 상충
+
+3.1에서는 construction arrangement 와 unit construction 에 대한 검토와 검사를 수행한다고 하였는데, 3.2에서는 construction 에 대한 작업을 수행하지 않고 준수여부를 확인하지 않는다는 부분이 상충하여 construction 에 대한 정의 확인 필요
+
+**FYF Agreement**
+
+ANNEX A – LIST OF VESSELS AND CORRESPONDING STANDARD FEES
+
+5년간 USD 30,000 적용되며(Block fee), 11년차부터 연간 USD 6,000 지불  1~5, 6~10년차 무상 제공 의도한 경우 해당 내용 명시 필요  현재 special rates 만으로는 Block Fee 언제 적용되는지 불확실
+
+(11~15년차에 Block Fee 적용된다고 명시 요망)
+
+15.GOVERNING LAW AND DISPUTE RESOLUTION
+
+준거법 : 영국법 / 관할 : Maritime Arbitration Chamber of Paris -> 가급적 LMAA로 변경 권고 (Classification Services Agreement 관할과 일치시켜야 함에 주의)
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!KWxtcn_GLODrzHBxs8zpfJV__XeUarLR8JztPkq91TW6_XWxmS4GY54M646VMYBY4KUg86j1zk_m2zwnQJERbA$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Sent:** Wednesday, January 15, 2025 3:05 PM  
+**To:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**Subject:** Re: QATAR GAS 관련 미팅 제안
+
+수고 많으십니다.
+
+계약서 15조 1항에 따르면, 영국과 웨일즈 법이라고 언급 되어 있는 점 참고하시기 바랍니다.  
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image028.png)
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image029.png)](https://group.bureauveritas.com/ "\"\"https://group.bureauveritas.com/\"\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image022.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image030.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image031.png)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!KWxtcn_GLODrzHBxs8zpfJV__XeUarLR8JztPkq91TW6_XWxmS4GY54M646VMYBY4KUg86j1zk_m2zytS9NUug$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image023.png)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!KWxtcn_GLODrzHBxs8zpfJV__XeUarLR8JztPkq91TW6_XWxmS4GY54M646VMYBY4KUg86j1zk_m2zzWiBiLpQ$ "\"\"https://www.linkedin.com/company/bureau-veritas-group/\"\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image024.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!KWxtcn_GLODrzHBxs8zpfJV__XeUarLR8JztPkq91TW6_XWxmS4GY54M646VMYBY4KUg86j1zk_m2zwiWKgaeg$ "\"\"https://twitter.com/bureauveritas\"\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image025.png)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!KWxtcn_GLODrzHBxs8zpfJV__XeUarLR8JztPkq91TW6_XWxmS4GY54M646VMYBY4KUg86j1zk_m2zxJ7w377Q$ "\"\"https://www.instagram.com/bureauveritasgroup/\"\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image026.png)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!KWxtcn_GLODrzHBxs8zpfJV__XeUarLR8JztPkq91TW6_XWxmS4GY54M646VMYBY4KUg86j1zk_m2zz9jOD1dw$ "\"\"https://www.facebook.com/bureau.veritas.group\"\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image027.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!KWxtcn_GLODrzHBxs8zpfJV__XeUarLR8JztPkq91TW6_XWxmS4GY54M646VMYBY4KUg86j1zk_m2zwHIV-GAA$ "\"\"https://www.youtube.com/user/BureauVeritasGroup\"\"")|   |
+
+**보낸** **사람****:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**날짜****:** 수요일, 2025년 1월 15일 오후 12:52**받는** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**주제****:** RE: QATAR GAS 관련 미팅 제안
+
+이사님, 혹시 FYF A 상 준거법은 어디로 하는걸까요? Best regards 감사합니다 / 이창우 과장 ───────────────────────────────────────────────── Lee, ChangWoo (李昌祐) Manager | Maritime Planning Team Global Leading Ship Management Company 4F PAN OCEAN Bldg, 102, Juangang-Daero,
+
+ZjQcmQRYFpfptBannerStart
+
+**Be careful with this message: it is coming from an external sender**
+
+Do not open attachments nor click on links, unless you are sure that the content is safe
+
+ZjQcmQRYFpfptBannerEnd
+
+이사님, 혹시 FYF A 상 준거법은 어디로 하는걸까요?
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image032.png)
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8BxCAZJsw$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** 이창우 [POSSM/해사기획팀]  
+**Sent:** Tuesday, January 14, 2025 1:23 PM  
+**To:** 'Sangjin HAN' <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Subject:** RE: QATAR GAS 관련 미팅 제안
+
+이사님, 업무에 노고 많으십니다.
+
+보내주신 Class service agreement 중 하기 내용 관련하여 추가 설명 부탁 드립니다.
+
+Q1.
+
+APPENDIX 2 중 1. Discount on services 에 명시된 Discounted amount $269,300 은
+
+FYF 에 명시된 BV 의 서비스들의 이용 금액을 차감하는 형태로 1~10년 무상인 형태인지요?
+
+그리고 ERS-S Notation 에 대한 동의가 필요하다는 연락을 받았습니다.
+
+Q2.
+
+ERS 랑 ERS-S 차이가 무엇인지, 동의한다면 어떻게 말씀드리면 되는지요?
+
+Best regards
+
+감사합니다 / 이창우 과장
+
+─────────────────────────────────────────────────
+
+Lee, ChangWoo (李昌祐)
+
+Manager | Maritime Planning Team
+
+![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+**Global Leading Ship Management Company**
+
+4F PAN OCEAN Bldg, 102, Juangang-Daero, Jung-Gu, Busan, 48938, Republic of Korea
+
+[Tel:+82-51-400-1829](Tel:+82-51-400-1829) | Mobile +82-10-3072-9272 | E: [yichwoo@possm.com](mailto:yichwoo@possm.com) | [www.possm.com](https://urldefense.com/v3/__http:/www.possm.com/__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8BxCAZJsw$)
+
+───────────────────────────────────────────────
+
+This email, including attached files, may contain confidential information and is intended only for the use of the individual and/or entity it addresses.
+
+If you are not the intended recipient, disclosure, copying, use, or distribution of the information included in this email is prohibited.
+
+Please delete this email immediately and notify us by replying to this email.
+
+**From:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**Sent:** Wednesday, January 8, 2025 9:34 AM  
+**To:** 이창우 [POSSM/해사기획팀] <[yichwoo@possm.com](mailto:yichwoo@possm.com)>  
+**Subject:** FW: QATAR GAS 관련 미팅 제안
+
+수신: 이창우 과장님 / 해사기획팀
+
+발신: 한상진 / BV Korea
+
+안녕하십니까,
+
+요청하신 Qatar Gas 1st Batch 선박에 대한 계약서 Draft를 첨부하여 송부드립니다.
+
+내용 검토 후 확인 주시면 감사하겠습니다.
+
+추가로 궁금하신 사항이나 필요하신 부분이 있으시면 언제든 말씀 부탁드립니다.
+
+감사합니다.
+
+한상진 드림
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image033.png)](https://group.bureauveritas.com/ "\"\"https://group.bureauveritas.com/\"\"")|**Sang-Jin Han**<br><br>**Marine Marketing & Sales Manager(****理事)**|   |
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image034.png)|(Mobile) [+82 10 4167 0528](tel:+821041670528),<br><br>(Seoul) [+82 2 6928 2235](tel:+82269282235) (Busan) [+82 51 640 2719](tel:+82516402719)|
+|![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image035.png)|**BUREAU VERITAS KOREA MARINE & OFFSHORE**   <br>(Seoul)  3F-302, 396, Seocho-daero, Seocho-gu, Seoul, Korea (06619)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan|
+|![Image](cid:image026.png@01DBC3F0.CCF669F0)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/ "https://marine-offshore.bureauveritas.com/")<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8CZKfs8qA$ "https://www.bureauveritas.co.kr/Marine-offshore")|
+|[![Image](cid:image027.png@01DBC3F0.CCF669F0)](https://urldefense.com/v3/__https:/www.linkedin.com/company/bureau-veritas-group/__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8CQSLEMsw$ "\"\"https://www.linkedin.com/company/bureau-veritas-group/\"\"") [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)](https://urldefense.com/v3/__https:/twitter.com/bureauveritas__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8CxJeWHqA$ "\"\"https://twitter.com/bureauveritas\"\"")  [![Image](cid:image029.png@01DBC3F0.CCF669F0)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritasgroup/__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8ABKXH-NQ$ "\"\"https://www.instagram.com/bureauveritasgroup/\"\"")  [![Image](cid:image030.png@01DBC3F0.CCF669F0)](https://urldefense.com/v3/__https:/www.facebook.com/bureau.veritas.group__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8C5PoRdFg$ "\"\"https://www.facebook.com/bureau.veritas.group\"\"")  [![Image](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8AFxZY8-g$ "\"\"https://www.youtube.com/user/BureauVeritasGroup\"\"")|   |
+
+**보낸** **사람****:** Sangjin HAN <[sangjin.han@bureauveritas.com](mailto:sangjin.han@bureauveritas.com)>  
+**날짜****:** 화요일, 2024년 1월 23일 오후 6:02**받는** **사람****:** 하동형 [POSSM/선박기술팀] <[hadh@possm.com](mailto:hadh@possm.com)>  
+**참조****:** [parkti@possm.com](mailto:parkti@possm.com) <[parkti@possm.com](mailto:parkti@possm.com)>  
+**주제****:** QATAR GAS 관련 미팅 제안
+
+2024. 1. 23.
+
+수신: POSSM /하동형 책임감독님
+
+참조: POSSM /박태일 팀장님
+
+발신: BV Korea / 한상진
+
+안녕하십니까?  늦었지만 새해 복 많이 받으시고 행복한 2024년이 되시기를 바랍니다.
+
+표제 관련, 귀사에서 저희 선급을 선정해 주신 선박 관련한 계약서 draft를 첨부와 같이 송부 드리 오며,
+
+이와 관련한 협의 및 2nd batch 관련한 브리핑도 간단히 진행하기 위해 귀사를 저희 관련 부서 담당자들과
+
+이번주나 다음주 월/화 중 편하신 일시에 방문 드리는 것이 가능할 지 문의드립니다.
+
+감사합니다.
+
+**_Best Regards,_**
+
+|   |   |   |
+|---|---|---|
+|[![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image036.jpg)](https://group.bureauveritas.com/ "\"https://group.bureauveritas.com/\"")|**_Sang-Jin Han_**<br><br>**Marine Marketing & Sales Manager**|   |
+|![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image037.jpg)|(Mobile) +82 10 4167 0528,<br><br>(Seoul) +82 2 6928 2235 (Busan) +82 51 640 2719|
+|![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image038.jpg)|**BUREAU VERITAS KOREA.  MARINE & OFFSHORE**  <br>(Seoul)  5th Floor, 457, Bongeunsa-ro, Gangnam-gu, Seoul, Korea  (06096)<br><br>(Busan) 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan (47351)|
+|![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image039.jpg)|[https://marine-offshore.bureauveritas.com/](https://marine-offshore.bureauveritas.com/)<br><br>[https://www.bureauveritas.co.kr/Marine-offshore](https://urldefense.com/v3/__https:/www.bureauveritas.co.kr/Marine-offshore__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8CZKfs8qA$)<br><br>[https://www.veristar.com/](https://urldefense.com/v3/__https:/www.veristar.com/__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8BnqCLN8Q$)|
+|[![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image040.jpg)](https://urldefense.com/v3/__https:/twitter.com/bv_marine__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8BC35_4pw$ "\"https://twitter.com/bureauveritas\"")  [![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image041.jpg)](https://urldefense.com/v3/__https:/www.linkedin.com/showcase/bureau-veritas-marine-&-offshore__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8Dx8yJTyA$ "\"https://www.linkedin.com/company/bureau-veritas-group/\"")  [![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image042.jpg)](https://urldefense.com/v3/__https:/www.youtube.com/user/BureauVeritasGroup__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8AFxZY8-g$ "\"https://www.youtube.com/user/BureauVeritasGroup\"")  [![](file:////Users/sangjinhan/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image043.jpg)](https://urldefense.com/v3/__https:/www.instagram.com/bureauveritas_marine/__;!!NslPjgbbnDqexg!Neb39__N5GeUPGq0PpXz9ZEOCrnFBpNhbsYhnaC7fRLc4gDBeVEW8TSdNuAkSlJzYufyTpCMcnyKY8BMW2NlAA$ "\"https://www.instagram.com/bureauveritasgroup/\"")|   |
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)
+
+This message contains confidential information. To know more, please click on the following link: [https://disclaimer.bureauveritas.com](https://disclaimer.bureauveritas.com)

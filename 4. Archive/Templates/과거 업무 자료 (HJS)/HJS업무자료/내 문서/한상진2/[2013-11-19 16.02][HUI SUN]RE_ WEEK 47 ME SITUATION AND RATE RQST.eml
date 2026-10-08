@@ -1,0 +1,652 @@
+Received: from COW380C.hanjin.com (192.168.100.243) by kovhgvmd.hanjin.com
+ (203.246.154.24) with Microsoft SMTP Server (TLS) id 14.3.123.3; Tue, 19 Nov
+ 2013 16:02:51 +0900
+Received: from COW380E.hanjin.com ([192.168.10.1]) by cow380c.hanjin.com
+ ([192.168.100.243]) with mapi id 14.03.0123.003; Tue, 19 Nov 2013 15:02:45
+ +0800
+From: HUI SUN <ranger@cn.hanjin.com>
+To: Alex FAN <alexfan@cn.hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>, Jessica
+ LU <jessicalu@cn.hanjin.com>, Spike CHEN <spike@cn.hanjin.com>, Grace WANG
+	<gracewang@cn.hanjin.com>, Paris PENG <paris@cn.hanjin.com>
+CC: Henry CHAI <henrychai@cn.hanjin.com>, Trancy QI <trancyqi@cn.hanjin.com>,
+	Jane SHAO <janeshao@cn.hanjin.com>, Jeong-Jae CHOI <jjchoi@hanjin.com>,
+	Andrew Hou <andrew@cn.hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>,
+	"TH(Tae-Hoon) AN" <than@hanjin.com>, Chil-Ho KIM <chilhkim@hanjin.com>
+Subject: RE: WEEK 47 M/E SITUATION AND RATE RQST
+Thread-Topic: WEEK 47 M/E SITUATION AND RATE RQST
+Thread-Index:
+ Ac7kLqiLF5F73oR9QaeywJS1dyPFMgAC1YSwAAAV9qYAALaWUAACTnGwAAFwgQAAIlVNBw==
+Disposition-Notification-To: HUI SUN <ranger@cn.hanjin.com>
+Date: Tue, 19 Nov 2013 16:02:44 +0900
+Message-ID: <F39D8A48655FFD419CABC0836EA3714B044BFF@cow380e.hanjin.com>
+References:
+ <F39D8A48655FFD419CABC0836EA3714B044873@cow380e.hanjin.com>,<D06C2507ECE1F749B7CA328054DBEC4E03A6B4@cow380f.hanjin.com>
+ <F39D8A48655FFD419CABC0836EA3714B04493F@cow380e.hanjin.com>
+ <D06C2507ECE1F749B7CA328054DBEC4E03A72A@cow380f.hanjin.com>
+ <128F8EB4DB3A09448F30FF0931187F9305F514@kovhhvmc.hanjin.com>,<D06C2507ECE1F749B7CA328054DBEC4E03A89D@cow380f.hanjin.com>
+In-Reply-To: <D06C2507ECE1F749B7CA328054DBEC4E03A89D@cow380f.hanjin.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: cow380c.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [222.68.181.254]
+Content-Type: multipart/alternative;
+	boundary="_000_F39D8A48655FFD419CABC0836EA3714B044BFFcow380ehanjincom_"
+MIME-Version: 1.0
+
+--_000_F39D8A48655FFD419CABC0836EA3714B044BFFcow380ehanjincom_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: base64
+
+VE86QVNJDQpUTzpDQ0UNCkZNOk5CT0JCDQoNCkRlYXIgQWxleCBhbmQgTXIgSGFuLCB0aGtzIGZv
+ciB5b3VyIHN1cHBvcnQgYXMgYWx3YXlzDQoNClVuZm9ydHVuYXRlbHksIE0vRSBta3Qgc3RpbGwg
+c2hvd3Mgc2hhcnAgZG93bnRyZW5kIGR1ZSB0byBjYXJnbyBzaG9ydGFnZSwgYXMgcGVyIGN1cnJl
+bnQgbmV3bHkgcmVsZWFzaW5nIHJhdGUgbGV2ZWwgYnkgT09DTC9DT1NDTywgIDkwMC9ENCxENSAg
+dG8gQUVKRUEgaXMgdmVyeSBjb21tb24gaW4gbWFya2V0IHdoaWNoIGlzIGEgYmlnIHJhdGUgZ2Fw
+IHdpdGggb3VycyBub3cuDQoNCldlIGhhdmUgaGFyZGx5IGFueSBib29raW5nIGluY3JlYXNlIG9u
+IFBTRy1ISlhNMDA0MVcgc2luY2UgZnJvbSB0b2RheShvbmx5IGluY3JlYXNlIDggVGV1IHRvZGF5
+IFZTIHR0bCBia2cgNTIgVGV1KQ0KDQpDdXJyZW50IG1rdCBjYXJyaWVycyBBRUpFQSBib3R0b20g
+cmF0ZQ0KDQpPT0NMIDU1MC85MDAvOTAwICAxMS4yNyBWVkQNCkNPU0NPICA1NTAvOTAwLzkwMCAg
+IDExLjI3IFZWRA0KTllLOjU3NS85MDAvOTAwIDExLjI3IFZWRA0KSE1NOjYwMC8xMDAwLzEwMDAg
+IDExLjIzVlZEDQpZTUw6IDU3NS85NTAvOTUwICAxMS4yMyBWVkQNClBJTDogNjAwLzEwMDAvMTAw
+MCAgIDExLjIzIFZWRA0KQ1NDTDo2MDAvOTUwLzk1MCAxMS4yNCBWVkQNCldITDo1NTAvOTAwLzkw
+MCAxMS4yMyBWVkQNCg0KDQoNCkFsc28gc2luY2UgWU1MIGVubGFyZ2UgaXRzIHNwYWNlIGZyb20g
+bWlkZGxlIG9mIE5vdiBhbmQgdGhleSBiZWdpbiB0byBjYXRjaCBtb3JlIGNhcmdvZXMgZXNwZWNp
+YWxseSBJUVVRUiAsIHdoaWNoIGJyaW5nIHF1aXRlIGJpZyBpbXBhY3QgdG8gb3VyIGNhcmdvIGJh
+c2UuDQoNCg0KDQpXZSBoYXZlIGJpZyBwcmVzc3VyZSBvbiBQU0cgc2VydmljZSBzaW5jZSBmcm9t
+IGxhc3QgdnZkIGFuZCBpbiBvcmRlciB0byBmdWxmaWxsIG91ciBRVEEsIHdlIHJlcXVlc3QgdG8g
+YWRqdXN0IG91ciByYXRlIGFzIGJlbG93IG9uIDI3dGggTm92IFBTRw0KDQoNCkFFSkVBDQpyYXRl
+IDU1MC85MDAvOTAwDQoNCg0KDQpCZXN0IFJlZ2FyZHMNCl9fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fDQpGcm9tIDogIkFsZXggRkFOIiA8YWxleGZhbkBjbi5oYW5qaW4uY29tPg0KU2Vu
+dCA6IDIwMTMtMTEtMTggMTg6NTI6MzAgKCArMDg6MDAgKQ0KVG8gOiBTYW5nLUppbiBIQU4gPHNq
+aGFuQGhhbmppbi5jb20+LCBIVUkgU1VOIDxyYW5nZXJAY24uaGFuamluLmNvbT4sIEplc3NpY2Eg
+TFUgPGplc3NpY2FsdUBjbi5oYW5qaW4uY29tPiwgU3Bpa2UgQ0hFTiA8c3Bpa2VAY24uaGFuamlu
+LmNvbT4sIEdyYWNlIFdBTkcgPGdyYWNld2FuZ0Bjbi5oYW5qaW4uY29tPiwgUGFyaXMgUEVORyA8
+cGFyaXNAY24uaGFuamluLmNvbT4NCkNjIDogSGVucnkgQ0hBSSA8aGVucnljaGFpQGNuLmhhbmpp
+bi5jb20+LCBUcmFuY3kgUUkgPHRyYW5jeXFpQGNuLmhhbmppbi5jb20+LCBKYW5lIFNIQU8gPGph
+bmVzaGFvQGNuLmhhbmppbi5jb20+LCBKb29uLVNhbmcgUEFSSyA8anNwYXJrMUBoYW5qaW4uY29t
+PiwgSmVvbmctSmFlIENIT0kgPGpqY2hvaUBoYW5qaW4uY29tPiwgQW5kcmV3IEhvdSA8YW5kcmV3
+QGNuLmhhbmppbi5jb20+LCBNRChNeXVuZy1EZW9rKSBDSE8gPG1kY2hvQGhhbmppbi5jb20+LCBU
+SChUYWUtSG9vbikgQU4gPHRoYW5AaGFuamluLmNvbT4sIENoaWwtSG8gS0lNIDxjaGlsaGtpbUBo
+YW5qaW4uY29tPg0KU3ViamVjdCA6ILTwuLQ6IFdFRUsgNDcgTS9FIFNJVFVBVElPTiBBTkQgUkFU
+RSBSUVNUDQoNClRPOiBNUi4gSGFuDQpGTTogU0hBQVNJDQoNCndlbGwgbm90ZWQgd2l0aCBtYW55
+IHRoYW5rcy4NCg0KVGhhbmtzICYgQmVzdCBSZWdhcmRzIQ0KQWxleCBGYW4vU0hBQVNHL0FTSQ0K
+DQq3orz+yMs6IFNhbmctSmluIEhBTg0Kt6LLzcqxvOQ6IDIwMTPE6jEx1MIxOMjVIDE4OjEyDQrK
+1bz+yMs6IEFsZXggRkFOOyBIVUkgU1VOOyBKZXNzaWNhIExVOyBTcGlrZSBDSEVOOyBHcmFjZSBX
+QU5HOyBQYXJpcyBQRU5HDQqzrcvNOiBIZW5yeSBDSEFJOyBUcmFuY3kgUUk7IEphbmUgU0hBTzsg
+Sm9vbi1TYW5nIFBBUks7IEplb25nLUphZSBDSE9JOyBBbmRyZXcgSG91OyBNRChNeXVuZy1EZW9r
+KSBDSE87IFRIKFRhZS1Ib29uKSBBTjsgQ2hpbC1IbyBLSU0NCtb3zOI6UkU6IFdFRUsgNDcgTS9F
+IFNJVFVBVElPTiBBTkQgUkFURSBSUVNUDQoNCkRlYXIgQWxleA0KDQpObyBvYmplY3Rpb24gZm9y
+IHlvdXIgc3VnZ2VzdGlvbiBvbiB0aW1lLg0KDQoNCkIuUkdEUywNCg0KRnJvbTogQWxleCBGQU4N
+ClNlbnQ6IE1vbmRheSwgTm92ZW1iZXIgMTgsIDIwMTMgNjoxMiBQTQ0KVG86IEhVSSBTVU47IEpl
+c3NpY2EgTFU7IFNwaWtlIENIRU47IEdyYWNlIFdBTkc7IFBhcmlzIFBFTkc7IFNhbmctSmluIEhB
+Tg0KQ2M6IEhlbnJ5IENIQUk7IFRyYW5jeSBRSTsgSmFuZSBTSEFPOyBKb29uLVNhbmcgUEFSSzsg
+SmVvbmctSmFlIENIT0k7IEFuZHJldyBIb3UNClN1YmplY3Q6ILTwuLQ6IFdFRUsgNDcgTS9FIFNJ
+VFVBVElPTiBBTkQgUkFURSBSUVNUDQoNCkZNOiBTSEFBU0kNCg0KRGVhciBNci4gSGFuOg0KDQpB
+Y2NvcmRpbmcgdG8gcmVwb3J0IG9mIE5CT0JCUywgd2UgZm91bmQgdGhlIGF2ZXJhZ2UgTC9GIGlz
+IGp1c3QgODQlIGFnYWluc3QgYWxsb2NhdGlvbiBhdCAzNTFURVUgY29tYmluZWQgRk1YIGFuZCBQ
+U0cuDQoNCkFzIGluIHdlZWsgNDgsIHdlIGhhdmUgYmxhbmsgc2FpbGluZyAgb2YgRk1YIGFuZCBs
+YXN0IHZveWFnZSBvZiBQU0cgYmVmb3JlIERlYyAxc3QgUlIsIEFTSSBzdWdnZXN0IHRvIGFkanVz
+dCB0aGUgTS9FIHJhdGUgRy9MIGZvciBOQk9CQlMgdG8gVVNENjAwLzEwMDAuDQoNClBscyBnaXZl
+IHlvdXIgY29tbWVudCwgdGhhbmsgeW91IQ0KDQpUaGFua3MgJiBCZXN0IFJlZ2FyZHMhDQpBbGV4
+IEZhbi9TSEFBU0cvQVNJDQoNCreivP7IyzogSFVJIFNVTg0Kt6LLzcqxvOQ6IDIwMTPE6jEx1MIx
+OMjVIDE3OjAwDQrK1bz+yMs6IEFsZXggRkFOOyBKZXNzaWNhIExVOyBTcGlrZSBDSEVOOyBHcmFj
+ZSBXQU5HOyBQYXJpcyBQRU5HOyBTYW5nLUppbiBIQU4NCrOty806IEhlbnJ5IENIQUk7IFRyYW5j
+eSBRSTsgSmFuZSBTSEFPOyBKb29uLVNhbmcgUEFSSzsgSmVvbmctSmFlIENIT0k7IEFuZHJldyBI
+b3UNCtb3zOI6UkU6IFdFRUsgNDcgTS9FIFNJVFVBVElPTiBBTkQgUkFURSBSUVNUDQoNClRPOkFT
+SQ0KRk06TkJPQkINCg0KRGVhciBBbGV4LCBhcyBib3RoIHZzbCBoYXMgbm90IGRlcGFydGVkLCAg
+dGhlIG1vc3QgYWN1cmF0ZSB0aWxsIG5vdyBpcyBhczogRk1YLUhOSEwwMDYzVy0xNzggVGV1LCBQ
+U0ctTk5BTDAwNzFXLTExNiBUZXUNCg0KDQpCZXN0IFJlZ2FyZHMNCl9fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fDQpGcm9tIDogIkFsZXggRkFOIiA8YWxleGZhbkBjbi5oYW5qaW4uY29t
+PG1haWx0bzphbGV4ZmFuQGNuLmhhbmppbi5jb20+Pg0KU2VudCA6IDIwMTMtMTEtMTggMTY6NDI6
+MzIgKCArMDg6MDAgKQ0KVG8gOiBIVUkgU1VOIDxyYW5nZXJAY24uaGFuamluLmNvbTxtYWlsdG86
+cmFuZ2VyQGNuLmhhbmppbi5jb20+PiwgSmVzc2ljYSBMVSA8amVzc2ljYWx1QGNuLmhhbmppbi5j
+b208bWFpbHRvOmplc3NpY2FsdUBjbi5oYW5qaW4uY29tPj4sIFNwaWtlIENIRU4gPHNwaWtlQGNu
+Lmhhbmppbi5jb208bWFpbHRvOnNwaWtlQGNuLmhhbmppbi5jb20+PiwgR3JhY2UgV0FORyA8Z3Jh
+Y2V3YW5nQGNuLmhhbmppbi5jb208bWFpbHRvOmdyYWNld2FuZ0Bjbi5oYW5qaW4uY29tPj4sIFBh
+cmlzIFBFTkcgPHBhcmlzQGNuLmhhbmppbi5jb208bWFpbHRvOnBhcmlzQGNuLmhhbmppbi5jb20+
+PiwgU2FuZy1KaW4gSEFOIDxzamhhbkBoYW5qaW4uY29tPG1haWx0bzpzamhhbkBoYW5qaW4uY29t
+Pj4NCkNjIDogSGVucnkgQ0hBSSA8aGVucnljaGFpQGNuLmhhbmppbi5jb208bWFpbHRvOmhlbnJ5
+Y2hhaUBjbi5oYW5qaW4uY29tPj4sIFRyYW5jeSBRSSA8dHJhbmN5cWlAY24uaGFuamluLmNvbTxt
+YWlsdG86dHJhbmN5cWlAY24uaGFuamluLmNvbT4+LCBKYW5lIFNIQU8gPGphbmVzaGFvQGNuLmhh
+bmppbi5jb208bWFpbHRvOmphbmVzaGFvQGNuLmhhbmppbi5jb20+PiwgSm9vbi1TYW5nIFBBUksg
+PGpzcGFyazFAaGFuamluLmNvbTxtYWlsdG86anNwYXJrMUBoYW5qaW4uY29tPj4sIEplb25nLUph
+ZSBDSE9JIDxqamNob2lAaGFuamluLmNvbTxtYWlsdG86ampjaG9pQGhhbmppbi5jb20+PiwgQW5k
+cmV3IEhvdSA8YW5kcmV3QGNuLmhhbmppbi5jb208bWFpbHRvOmFuZHJld0Bjbi5oYW5qaW4uY29t
+Pj4NClN1YmplY3QgOiC08Li0OiBXRUVLIDQ3IE0vRSBTSVRVQVRJT04gQU5EIFJBVEUgUlFTVA0K
+Rk06IFNIQUFTSQ0KDQpQbHMgYWR2aXNlIHlvdXIgZmluYWwgbG9hZGluZyBmaWd1cmVzIG9mIEZN
+WCBhbmQgUFNHIHRoaXMgd2Vlay4NCg0KVGhhbmtzICYgQmVzdCBSZWdhcmRzIQ0KQWxleCBGYW4v
+U0hBQVNHL0FTSQ0KDQq3orz+yMs6IEhVSSBTVU4NCreiy83KsbzkOiAyMDEzxOoxMdTCMTjI1SAx
+Njo0MQ0KytW8/sjLOiBBbGV4IEZBTjsgSmVzc2ljYSBMVTsgU3Bpa2UgQ0hFTjsgR3JhY2UgV0FO
+RzsgUGFyaXMgUEVORzsgU2FuZy1KaW4gSEFODQqzrcvNOiBIZW5yeSBDSEFJOyBUcmFuY3kgUUk7
+IEphbmUgU0hBTzsgSm9vbi1TYW5nIFBBUks7IEplb25nLUphZSBDSE9JOyBBbmRyZXcgSG91DQrW
+98ziOldFRUsgNDcgTS9FIFNJVFVBVElPTiBBTkQgUkFURSBSUVNUDQoNCg0KVE86QVNJDQpDQzpD
+Q0UNCkZNOk5CT0JCDQoNCkRlYXIgQWxleCwgYWNjb3JkaW5nIHRvIHRoZSBybHNlZCByYXRlIGZy
+b20gbGF0ZSB3ZWVrIDQ2LCB3ZSBjYW4gc2VlIGFub3RoZXIgcmF0ZSBkcm9wIGNvbWUgb3V0IGlu
+IHRoZSBtYXJrZXQNCg0KRHVlIHRvIHNocmluayBvZiBibGFuayBzYWlsaW5nIGluIG1rdCBjb21w
+YXJpbmcgdG8gZWFybHkgTm92LCBNL0UgbWt0IHNwYWNlIHJldHVybiB0byBub3JtYWwgd2hpY2gg
+aXMgc3VycGx1cyB0byB0aGUgY2Fncm8gdm9sdW1lDQoNClVwZGF0ZWQgbWt0IGNhcnJpZXJzIEFF
+SkVBIGJvdHRvbSByYXRlDQoNCkhNTTo2MDAvMTAwMC8xMDAwICAxMS4yM1ZWRA0KWU1MOiA1NzUv
+OTUwLzk1MCAgMTEuMjMgVlZEDQpQSUw6IDYwMC8xMDAwLzEwMDAgMTEuMjMgVlZEDQpDU0NMOjYw
+MC85NTAvOTUwIDExLjI0IFZWRA0KV0hMOjU1MC85MDAvOTAwIDExLjIzIFZWRA0KDQpBcyByYXRl
+IGtlZXAgc2hhcnBseSBkb3dudHJlbmQgZm9yIHZ2ZHMgaW4gbGF0ZSB3ZWVrIDQ3LCAgbWFueSBj
+YXJnbyB2b2x1bWUgcmFuIG9mZiB3aGljaCBtYWtlIGJhZCBwbWZjIG9uIDIwdGggTm92IFBTRy4g
+IEluIHRoaXMgc2l0dWF0aW9uLCBXZSByZXF1ZXN0IGZvbGxvdyB0aGUgbWFya2V0IGFuZCBhZGp1
+c3Qgb3VyIHJhdGUgYXMgYmVsb3cgb24gMjd0aCBOb3YgUFNHDQoNCg0KQUVKRUENCnJhdGUgNjAw
+LzEwMDAvMTAwMA0KDQoNCg0KDQoNCkJlc3QgUmVnYXJkcw0K
+
+--_000_F39D8A48655FFD419CABC0836EA3714B044BFFcow380ehanjincom_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+</head>
+<body>
+<div style=3D"FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12=
+pt" id=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div>
+<div style=3D"FONT-FAMILY: &#47569;&#51008; &#44256;&#46357;; FONT-SIZE: 12=
+pt" id=3D"ezFormProc_div">
+<div id=3D"msgbody">
+<div><font face=3D"Tahoma">
+<div id=3D"msgbody">
+<div><font face=3D"Tahoma">TO:ASI</font></div>
+<div><font face=3D"Tahoma">TO:CCE</font></div>
+<div><font face=3D"Tahoma">FM:NBOBB</font></div>
+</div>
+<div><font face=3D"Tahoma"></font>&nbsp;</div>
+<div><font face=3D"Tahoma">Dear Alex and Mr Han, thks for your support as a=
+lways</font></div>
+<div><font face=3D"Tahoma"></font>&nbsp;</div>
+<div><font face=3D"Tahoma">Unfortunately, M/E mkt still shows sharp downtre=
+nd due to cargo shortage, as per current newly releasing rate level by OOCL=
+/COSCO,&nbsp; 900/D4,D5&nbsp; to AEJEA is very common in market which is a =
+big rate gap with ours now.</font></div>
+<div><font face=3D"Tahoma"></font>&nbsp;</div>
+<div><font face=3D"Tahoma">We have hardly any booking increase on PSG-HJXM0=
+041W since from today(only increase 8 Teu today VS ttl bkg 52 Teu)</font></=
+div>
+<div><font face=3D"Tahoma"></font>&nbsp;</div>
+<div><strong><font face=3D"Tahoma">Current&nbsp;mkt carriers AEJEA bottom&n=
+bsp;rate</font></strong></div>
+<div><br>
+<font color=3D"#0000ff" face=3D"Tahoma">OOCL 550/900/900&nbsp; 11.27 VVD</f=
+ont></div>
+<div><font color=3D"#0000ff" face=3D"Tahoma">COSCO&nbsp; 550/900/900&nbsp;&=
+nbsp; 11.27 VVD</font></div>
+<div><font color=3D"#0000ff">NYK:575/900/900 11.27 VVD</font></div>
+<div><span lang=3D"EN-US"><font face=3D"Tahoma">HMM:600/1000/1000&nbsp; 11.=
+23VVD</font></span></div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"><font face=3D"Tahoma">YML: 575/950/950&nbsp; 11.23 VVD=
+</font></span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"><font face=3D"Tahoma">PIL: 600/1000/1000&nbsp;&nbsp;&n=
+bsp;11.23 VVD</font></span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"><font face=3D"Tahoma">CSCL:600/950/950 11.24 VVD</font=
+></span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"><font face=3D"Tahoma">WHL:550/900/900 11.23 VVD</font>=
+</span></p>
+<p><font face=3D"Tahoma"></font>&nbsp;</p>
+<p>Also since YML enlarge its space from middle of Nov and they begin to ca=
+tch more cargoes especially IQUQR , which bring quite big impact to our car=
+go base.</p>
+<p>&nbsp;</p>
+<p><font face=3D"Tahoma">We have big pressure on PSG service since from las=
+t vvd and in order to fulfill our QTA, we request&nbsp;to&nbsp;adjust our r=
+ate as below on 27th Nov PSG</font></p>
+<p><span lang=3D"EN-US"><font face=3D"Tahoma"></font></span>&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"><font face=3D"Tahoma">AEJEA </font></span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<font face=3D"Tahoma"><span lang=3D"EN-US">rate 550/900/900</span></font></=
+p>
+<p><font face=3D"Tahoma"><span lang=3D"EN-US"></span><br>
+&nbsp;</p>
+</font>
+<div id=3D"MailSignSent"><font face=3D"Tahoma"></font></div>
+<div><font face=3D"Tahoma">Best Regards</font></div>
+</font>
+<hr tabindex=3D"-1">
+<b>From : </b>&quot;Alex FAN&quot; &lt;alexfan@cn.hanjin.com&gt;<br>
+<b>Sent : </b>2013-11-18 18:52:30 ( &#43;08:00 )<br>
+<b>To : </b>Sang-Jin HAN &lt;sjhan@hanjin.com&gt;, HUI SUN &lt;ranger@cn.ha=
+njin.com&gt;, Jessica LU &lt;jessicalu@cn.hanjin.com&gt;, Spike CHEN &lt;sp=
+ike@cn.hanjin.com&gt;, Grace WANG &lt;gracewang@cn.hanjin.com&gt;, Paris PE=
+NG &lt;paris@cn.hanjin.com&gt;<br>
+<b>Cc : </b>Henry CHAI &lt;henrychai@cn.hanjin.com&gt;, Trancy QI &lt;tranc=
+yqi@cn.hanjin.com&gt;, Jane SHAO &lt;janeshao@cn.hanjin.com&gt;, Joon-Sang =
+PARK &lt;jspark1@hanjin.com&gt;, Jeong-Jae CHOI &lt;jjchoi@hanjin.com&gt;, =
+Andrew Hou &lt;andrew@cn.hanjin.com&gt;, MD(Myung-Deok) CHO &lt;mdcho@hanji=
+n.com&gt;,
+ TH(Tae-Hoon) AN &lt;than@hanjin.com&gt;, Chil-Ho KIM &lt;chilhkim@hanjin.c=
+om&gt;<br>
+<b>Subject : </b>=B4=F0=B8=B4: WEEK 47 M/E SITUATION AND RATE RQST<br>
+<br>
+</div>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div class=3D"WordSection1">
+<div>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #=
+365f91" lang=3D"EN-US">TO: MR. Han
+</span></u></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #=
+365f91" lang=3D"EN-US">FM: SHAASI</span></u></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><span style=3D"FONT-FAMILY: 'Bookman Old Style','serif'; COLOR: #3=
+65f91; FONT-SIZE: 10.5pt" lang=3D"EN-US">well noted with many thanks.</span=
+></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #=
+365f91" lang=3D"EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></u></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365=
+f91" lang=3D"EN-US">Thanks &amp; Best Regards!</span></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365=
+f91" lang=3D"EN-US">Alex Fan/SHAASG/ASI</span></b></p>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div>
+<div style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING=
+-BOTTOM: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; BORDER-TOP: #b5c4df 1p=
+t solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p class=3D"MsoNormal"><b><span style=3D"FONT-SIZE: 10pt">=B7=A2=BC=FE=C8=
+=CB<span lang=3D"EN-US">:</span></span></b><span style=3D"FONT-SIZE: 10pt" =
+lang=3D"EN-US"> Sang-Jin HAN
+<br>
+</span><b><span style=3D"FONT-SIZE: 10pt">=B7=A2=CB=CD=CA=B1=BC=E4<span lan=
+g=3D"EN-US">:</span></span></b><span style=3D"FONT-SIZE: 10pt" lang=3D"EN-U=
+S"> 2013</span><span style=3D"FONT-SIZE: 10pt">=C4=EA<span lang=3D"EN-US">1=
+1</span>=D4=C2<span lang=3D"EN-US">18</span>=C8=D5<span lang=3D"EN-US"> 18:=
+12<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> Alex FAN; HUI SUN; Jessica LU; Spike CHEN; Grace WANG; Paris PENG<b=
+r>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> Henry CHAI; Trancy QI; Jane SHAO; Joon-Sang PARK; Jeong-Jae CHOI; Andrew =
+Hou; MD(Myung-Deok) CHO; TH(Tae-Hoon) AN; Chil-Ho KIM<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+>RE: WEEK 47 M/E SITUATION AND RATE RQST</span></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif';=
+ COLOR: #1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">Dear Alex</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif';=
+ COLOR: #1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">No objection for your sugg=
+estion on time.</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif';=
+ COLOR: #1f497d; FONT-SIZE: 10pt" lang=3D"EN-US">B.RGDS,</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div>
+<div style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING=
+-BOTTOM: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; BORDER-TOP: #b5c4df 1p=
+t solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p class=3D"MsoNormal"><b><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'=
+; FONT-SIZE: 10pt" lang=3D"EN-US">From:</span></b><span style=3D"FONT-FAMIL=
+Y: 'Tahoma','sans-serif'; FONT-SIZE: 10pt" lang=3D"EN-US"> Alex FAN
+<br>
+<b>Sent:</b> Monday, November 18, 2013 6:12 PM<br>
+<b>To:</b> HUI SUN; Jessica LU; Spike CHEN; Grace WANG; Paris PENG; Sang-Ji=
+n HAN<br>
+<b>Cc:</b> Henry CHAI; Trancy QI; Jane SHAO; Joon-Sang PARK; Jeong-Jae CHOI=
+; Andrew Hou<br>
+<b>Subject:</b> </span><span style=3D"FONT-SIZE: 10pt">=B4=F0=B8=B4</span><=
+span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt" lang=3D"=
+EN-US">: WEEK 47 M/E SITUATION AND RATE RQST</span></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #=
+365f91" lang=3D"EN-US">FM: SHAASI</span></u></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><span style=3D"FONT-FAMILY: 'Bookman Old Style','serif'; COLOR: #3=
+65f91; FONT-SIZE: 10.5pt" lang=3D"EN-US">Dear Mr. Han:</span></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><span style=3D"FONT-FAMILY: 'Bookman Old Style','serif'; COLOR: #3=
+65f91; FONT-SIZE: 10.5pt" lang=3D"EN-US">According to report of NBOBBS, we =
+found the average L/F is just 84% against
+ allocation at 351TEU combined FMX and PSG.</span></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><span style=3D"FONT-FAMILY: 'Bookman Old Style','serif'; COLOR: #3=
+65f91; FONT-SIZE: 10.5pt" lang=3D"EN-US">As in week 48, we have blank saili=
+ng&nbsp; of FMX and last voyage of PSG before
+ Dec 1<sup>st</sup> RR, ASI suggest to adjust the M/E rate G/L for NBOBBS t=
+o USD600/1000.</span></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal">&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><span style=3D"FONT-FAMILY: 'Bookman Old Style','serif'; COLOR: #3=
+65f91; FONT-SIZE: 10.5pt" lang=3D"EN-US">Pls give your comment, thank you!<=
+/span></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #=
+365f91" lang=3D"EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></u></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365=
+f91" lang=3D"EN-US">Thanks &amp; Best Regards!</span></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class=3D"Ms=
+oNormal"><b><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365=
+f91" lang=3D"EN-US">Alex Fan/SHAASG/ASI</span></b></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING=
+-BOTTOM: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; BORDER-TOP: #b5c4df 1p=
+t solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p class=3D"MsoNormal"><b><span style=3D"FONT-SIZE: 10pt">=B7=A2=BC=FE=C8=
+=CB<span lang=3D"EN-US">:</span></span></b><span style=3D"FONT-SIZE: 10pt" =
+lang=3D"EN-US"> HUI SUN
+<br>
+</span><b><span style=3D"FONT-SIZE: 10pt">=B7=A2=CB=CD=CA=B1=BC=E4<span lan=
+g=3D"EN-US">:</span></span></b><span style=3D"FONT-SIZE: 10pt" lang=3D"EN-U=
+S"> 2013</span><span style=3D"FONT-SIZE: 10pt">=C4=EA<span lang=3D"EN-US">1=
+1</span>=D4=C2<span lang=3D"EN-US">18</span>=C8=D5<span lang=3D"EN-US"> 17:=
+00<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> Alex FAN; Jessica LU; Spike CHEN; Grace WANG; Paris PENG; Sang-Jin =
+HAN<br>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> Henry CHAI; Trancy QI; Jane SHAO; Joon-Sang PARK; Jeong-Jae CHOI; Andrew =
+Hou<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+>RE: WEEK 47 M/E SITUATION AND RATE RQST</span></span></p>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'" l=
+ang=3D"EN-US">TO:ASI</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'" l=
+ang=3D"EN-US">FM:NBOBB</span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'"=
+ lang=3D"EN-US"></span>&nbsp;</p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'" l=
+ang=3D"EN-US">Dear Alex, as both vsl has not departed,&nbsp;&nbsp;the most =
+acurate&nbsp;till now is as: FMX-HNHL0063W-178 Teu, PSG-NNAL0071W-116 Teu</=
+span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'"=
+ lang=3D"EN-US"></span>&nbsp;</p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'"=
+ lang=3D"EN-US"></span>&nbsp;</p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'" l=
+ang=3D"EN-US">Best Regards</span></p>
+<div style=3D"TEXT-ALIGN: center" class=3D"MsoNormal" align=3D"center"><spa=
+n style=3D"FONT-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-US">
+<hr align=3D"center" size=3D"2" width=3D"100%">
+</span></div>
+<p style=3D"MARGIN-BOTTOM: 12pt" class=3D"MsoNormal"><b><span style=3D"FONT=
+-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-US">From :
+</span></b><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-=
+US">&quot;Alex FAN&quot; &lt;<a href=3D"mailto:alexfan@cn.hanjin.com" targe=
+t=3D"_blank">alexfan@cn.hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-18 16:42:32 ( &#43;08:00 )<br>
+<b>To : </b>HUI SUN &lt;<a href=3D"mailto:ranger@cn.hanjin.com" target=3D"_=
+blank">ranger@cn.hanjin.com</a>&gt;, Jessica LU &lt;<a href=3D"mailto:jessi=
+calu@cn.hanjin.com" target=3D"_blank">jessicalu@cn.hanjin.com</a>&gt;, Spik=
+e CHEN &lt;<a href=3D"mailto:spike@cn.hanjin.com" target=3D"_blank">spike@c=
+n.hanjin.com</a>&gt;,
+ Grace WANG &lt;<a href=3D"mailto:gracewang@cn.hanjin.com" target=3D"_blank=
+">gracewang@cn.hanjin.com</a>&gt;, Paris PENG &lt;<a href=3D"mailto:paris@c=
+n.hanjin.com" target=3D"_blank">paris@cn.hanjin.com</a>&gt;, Sang-Jin HAN &=
+lt;<a href=3D"mailto:sjhan@hanjin.com" target=3D"_blank">sjhan@hanjin.com</=
+a>&gt;<br>
+<b>Cc : </b>Henry CHAI &lt;<a href=3D"mailto:henrychai@cn.hanjin.com" targe=
+t=3D"_blank">henrychai@cn.hanjin.com</a>&gt;, Trancy QI &lt;<a href=3D"mail=
+to:trancyqi@cn.hanjin.com" target=3D"_blank">trancyqi@cn.hanjin.com</a>&gt;=
+, Jane SHAO &lt;<a href=3D"mailto:janeshao@cn.hanjin.com" target=3D"_blank"=
+>janeshao@cn.hanjin.com</a>&gt;,
+ Joon-Sang PARK &lt;<a href=3D"mailto:jspark1@hanjin.com" target=3D"_blank"=
+>jspark1@hanjin.com</a>&gt;, Jeong-Jae CHOI &lt;<a href=3D"mailto:jjchoi@ha=
+njin.com" target=3D"_blank">jjchoi@hanjin.com</a>&gt;, Andrew Hou &lt;<a hr=
+ef=3D"mailto:andrew@cn.hanjin.com" target=3D"_blank">andrew@cn.hanjin.com</=
+a>&gt;<br>
+<b>Subject : </b></span>=B4=F0=B8=B4<span style=3D"FONT-FAMILY: 'Malgun Got=
+hic','serif'" lang=3D"EN-US">: WEEK 47 M/E SITUATION AND RATE RQST</span></=
+p>
+</div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-margin-=
+top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal">
+<b><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365f91" l=
+ang=3D"EN-US">FM: SHAASI</span></u></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-margin-=
+top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal">
+<span lang=3D"EN-US"></span>&nbsp;</p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-margin-=
+top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Bookman Old Style','serif'; COLOR: #365f91; FO=
+NT-SIZE: 10.5pt" lang=3D"EN-US">Pls advise your final loading figures of FM=
+X and PSG this week.</span></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-margin-=
+top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal">
+<b><u><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365f91" l=
+ang=3D"EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></u></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-margin-=
+top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal">
+<b><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365f91" lang=
+=3D"EN-US">Thanks &amp; Best Regards!</span></b></p>
+<p style=3D"TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; mso-margin-=
+top-alt: auto; mso-margin-bottom-alt: auto" class=3D"MsoNormal">
+<b><span style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #365f91" lang=
+=3D"EN-US">Alex Fan/SHAASG/ASI</span></b></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"></span>&nbsp;</p>
+<div style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING=
+-BOTTOM: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; BORDER-TOP: #b5c4df 1p=
+t solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<b><span style=3D"FONT-SIZE: 10pt">=B7=A2=BC=FE=C8=CB<span lang=3D"EN-US">:=
+</span></span></b><span style=3D"FONT-SIZE: 10pt" lang=3D"EN-US"> HUI SUN
+<br>
+</span><b><span style=3D"FONT-SIZE: 10pt">=B7=A2=CB=CD=CA=B1=BC=E4<span lan=
+g=3D"EN-US">:</span></span></b><span style=3D"FONT-SIZE: 10pt" lang=3D"EN-U=
+S"> 2013</span><span style=3D"FONT-SIZE: 10pt">=C4=EA<span lang=3D"EN-US">1=
+1</span>=D4=C2<span lang=3D"EN-US">18</span>=C8=D5<span lang=3D"EN-US"> 16:=
+41<br>
+</span><b>=CA=D5=BC=FE=C8=CB<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> Alex FAN; Jessica LU; Spike CHEN; Grace WANG; Paris PENG; Sang-Jin =
+HAN<br>
+</span><b>=B3=AD=CB=CD<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+> Henry CHAI; Trancy QI; Jane SHAO; Joon-Sang PARK; Jeong-Jae CHOI; Andrew =
+Hou<br>
+</span><b>=D6=F7=CC=E2<span lang=3D"EN-US">:</span></b><span lang=3D"EN-US"=
+>WEEK 47 M/E SITUATION AND RATE RQST</span></span></p>
+</div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"></span>&nbsp;</p>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-US"><br>
+</span><span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'" lang=3D"EN-US">TO=
+:ASI</span></p>
+</div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div id=3D"ORGMAIL_CONTENT">
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div id=3D"ORGMAIL_CONTENT">
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span style=3D"FONT-FAMILY: 'Tahoma','sans-serif'" lang=3D"EN-US">CC:CCE</s=
+pan></p>
+</div>
+<div id=3D"ezFormProc_div">
+<div>
+<div>
+<div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">FM:NBOBB</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"></span>&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">Dear Alex, according to the rlsed rate from late week =
+46, we can see another rate drop come out in the market</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"></span>&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">Due to shrink&nbsp;of blank sailing in mkt comparing t=
+o early Nov, M/E mkt space return to normal which is surplus to the cagro v=
+olume</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"><br>
+<b>Updated&nbsp;mkt carriers AEJEA bottom&nbsp;rate</b></span></p>
+</div>
+<div>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"></span>&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">HMM:600/1000/1000&nbsp; 11.23VVD</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">YML: 575/950/950&nbsp; 11.23 VVD</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">PIL: 600/1000/1000 11.23 VVD</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">CSCL:600/950/950 11.24 VVD</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">WHL:550/900/900 11.23 VVD</span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US"></span>&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">As rate keep sharply downtrend&nbsp;for vvds in&nbsp;l=
+ate week 47,&nbsp;&nbsp;many cargo volume&nbsp;ran off which make bad pmfc&=
+nbsp;on 20th Nov PSG.&nbsp;&nbsp;In this situation, We request follow the m=
+arket and adjust our rate as below on 27th Nov PSG</span></p>
+</div>
+</div>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-US"></sp=
+an>&nbsp;</p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">AEJEA </span></p>
+<p style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=3D=
+"MsoNormal">
+<span lang=3D"EN-US">rate 600/1000/1000</span></p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-US"></sp=
+an>&nbsp;</p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-US"></sp=
+an>&nbsp;</p>
+<p><span style=3D"FONT-FAMILY: 'Malgun Gothic','serif'" lang=3D"EN-US">Best=
+ Regards</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_F39D8A48655FFD419CABC0836EA3714B044BFFcow380ehanjincom_--

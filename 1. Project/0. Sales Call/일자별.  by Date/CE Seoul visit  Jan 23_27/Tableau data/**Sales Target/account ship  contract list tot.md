@@ -1,0 +1,6 @@
+# account ship  contract list tot
+
+| Unnamed: 0   | Unnamed: 1   | Unnamed: 2   | Unnamed: 3   | Unnamed: 4   | Unnamed: 5   | Unnamed: 6   |   No of Ships | Revenue   |   PV Total |   평균 PV Ship Contract FYF |   PV FYF IN (€) |   PV FYF OUT (€) |   Billing Variance % | OOS Discount   |
+|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|--------------:|:----------|-----------:|----------------------------:|----------------:|-----------------:|---------------------:|:---------------|
+| Total        | -            | FYF          | -            | -            | -            | Very-Low     |            74 | 1,568K    |       0.79 |                        0.54 |            0.39 |             1.76 |                 0.62 | -518K          |
+| Total        | -            | NON-FYF      | -            | -            | -            | High         |            52 | 649K      |       1.04 |                        0    |          nan    |           nan    |                 0.49 | -498K          |

@@ -1,0 +1,900 @@
+Received: from EOW380D.hanjin.com (192.168.153.133) by kovhgvmd.hanjin.com
+ (203.246.154.24) with Microsoft SMTP Server (TLS) id 14.3.123.3; Tue, 19 Nov
+ 2013 19:23:19 +0900
+Received: from EOW380E.hanjin.com ([192.168.153.134]) by eow380d.hanjin.com
+ ([212.185.62.22]) with mapi id 14.03.0123.003; Tue, 19 Nov 2013 11:22:13
+ +0100
+From: Sang-Shik KIM <sskim1@hanjin.com>
+To: Dong-Ok LEE <dolee@hanjin.com>, Ralf BOTHE <ralf.bothe@de.hanjin.com>,
+	Kwang-Kuk CHOI <kkchoi@hanjin.com>, Holger VOSS <holger.voss@de.hanjin.com>,
+	Daniel CARL <daniel.carl@de.hanjin.com>, Julian Matzner
+	<julian.matzner@de.hanjin.com>, Christof HEUSER
+	<christof.heuser@de.hanjin.com>, Axel zum BROCK
+	<axel.zum.brock@de.hanjin.com>, Bernd FETTKENHAUER
+	<bernd.fettkenhauer@de.hanjin.com>, "Capt. J. BORCHERDING"
+	<joachim.borcherding@de.hanjin.com>, Chull Hong KIM <chkim@de.hanjin.com>,
+	Joern ULRICH <joern.ulrich@de.hanjin.com>, Jes Tom REGNER
+	<jes.regner@de.hanjin.com>, Stefan PREISSNER
+	<stefan.preissner@de.hanjin.com>, Frank SCHWASTA
+	<frank.schwasta@de.hanjin.com>, Nigel K.POTTER <nigel.potter@de.hanjin.com>,
+	Mark SCHENK <mark.schenk@de.hanjin.com>, Seung Ah LEE
+	<seung-ah.lee@de.hanjin.com>, "M. REUTHER"
+	<peter.michael.reuther@de.hanjin.com>, Leif KABELSTROEM
+	<leif.kabelstroem@de.hanjin.com>, Wolf BOLINGER
+	<wolf.bolinger@de.hanjin.com>, "Ara(A-RA) CHO" <archo@hanjin.com>, Tobias
+ HEIFLER <tobias.heifler@de.hanjin.com>, "B. S. PARK"
+	<b.s.park@de.hanjin.com>, Sven DERLIEN <sven.derlien@de.hanjin.com>,
+	Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com>, Tom Stern
+	<tom.stern@de.hanjin.com>, DONG-IL HWANG <dihwang@hanjin.com>, KA-Sung Kim
+	<kks@hanjin.com>, Jung -Woo LEE <jwlee1@hanjin.com>, BYEONG IL MO
+	<bimo@hanjin.com>, Il-Sun Baek <isbaek@hanjin.com>, "SK(Seung-Kwon) Kim"
+	<skkim@hanjin.com>, "Jeremy(Jee-Young) YOO" <jyyoo1@hanjin.com>, Jin-Seon Kim
+	<jskim84@hanjin.com>, Kyu-Man KIM <kmkim@hanjin.com>, Dong-Cheol Kim
+	<dckim@hanjin.com>, Jung-Han YOON <jhyoon@hanjin.com>, Kwang-Hyun LEE
+	<khlee@hanjin.com>, Young-Hwan CHOI <yhchoi85@hanjin.com>, Sang-Won JEONG
+	<swjeong@hanjin.com>, Won CHO <wcho@hanjin.com>, Jae-Yun Lee
+	<yunlee@hanjin.com>, Jin-Gi Jeong <jeongjg@hanjin.com>, Jong-Wan Kim
+	<kjw406@hanjin.com>, Jeung-Uk Ryu <juryu@hanjin.com>, Hyun Joo Lee
+	<lhjteen@hanjin.com>, "JK(Jae-Kyeong) JEON" <jkjeon@hanjin.com>,
+	"Daniel(Se-Chul) KIM" <bbk92@hanjin.com>, Ki-Hyuk LEE <leekh@hanjin.com>,
+	Mi-On KIM <meiwen@hanjin.com>, Jae-Nam Byun <jnbyun9@hanjin.com>, Nara Lee
+	<nrlee@hanjin.com>, Hyo-San KIM <dream123@hanjin.com>, Bo Hee Lee
+	<alicelbh@hanjin.com>, Yongjin Cho <yjcho@hanjin.com>, Young-Jun LIM
+	<yjlim@hanjin.com>, "HH(Han-Hoe) KIM" <hhkim@hanjin.com>, Sung-Tae NA
+	<stna@hanjin.com>, Hae-Sung SHIN <hsshin1@hanjin.com>, Seon-Ju BAEK
+	<sjbaek@hanjin.com>, Joon-Mo Shin <jmshin@hanjin.com>, Jung-Min Lee
+	<jungminlee@hanjin.com>, "Philip(Kwang-Phil) LEE" <philiplee@hanjin.com>,
+	Cheon-Won PACK <cwpark@hanjin.com>, "SH(Seung-Hun) OH" <shoh@hanjin.com>,
+	Sung-Hwan JUNG <jeongsh@hanjin.com>, "C. W. LEE" <cwleea@hanjin.com>,
+	Seok-Won KIM <swkima@hanjin.com>, Young HONG <yhong@hanjin.com>, Yun-Jin Son
+	<yjson@hanjin.com>, Won-Seok CHUNG <wonchung@hanjin.com>, Su Leng SEET
+	<slseet@sg.hanjin.com>, Seung-Min PARK <sminpark@hanjin.com>, Nam-Hoon BAIK
+	<hunt72@hanjin.com>, SUK-HWAN JUNG <ch021@hanjin.com>, Woojung Kim
+	<wjkim@hanjin.com>, "Daisy(Ji-Kyong) BHANG" <jkbhang@hanjin.com>,
+	"TH(Tae-Hoon) AN" <than@hanjin.com>, Sang-Jin HAN <sjhan@hanjin.com>,
+	Yoo-Kyung KIM <kimyk@hanjin.com>, Aram KIM <aram@hanjin.com>, "Lloyd(Woosik)
+ Yang" <shakin@hanjin.com>, "Luth(Kyung-Won) CHOI" <luthchoi@hanjin.com>,
+	Christian MEIERS <Christian.Meiers@de.hanjin.com>, Nils SCHILLING
+	<nils.schilling@de.hanjin.com>
+CC: "DH(Don-Ho) LEE" <leedh@de.hanjin.com>, "Kooks(Kook-Shin) KIM"
+	<kookskim@hanjin.com>, "KD(Kwang-Dae) KIM" <kdkim@hanjin.com>, Sang-Pil MOON
+	<spmoon@hanjin.com>, Chul-Heui KIM <chkim@hanjin.com>, Kuk-Jong Lee
+	<kjlee@hanjin.com>, Gi-Hyun KWON <khkwon@hanjin.com>, SANG-GEON YUN
+	<sgyun@hanjin.com>, "Alex(Tae-Soo) KIM" <tskim@hanjin.com>, "Jerry(Hee-Sung)
+ SHIN" <hshin@hanjin.com>, "MD(Myung-Deok) CHO" <mdcho@hanjin.com>
+Subject: RE: RFS / MV. ELAN Fixture & Request
+Thread-Topic: RFS / MV. ELAN Fixture & Request
+Thread-Index:
+ Ac7gksztImC3uXeVT0S7lmKtjx2PqgBSgDLtAAE0exIADZRK3QC5KFmCAARukEA=
+Date: Tue, 19 Nov 2013 19:22:11 +0900
+Message-ID: <9560940D892F9E42880DF880C657A4BC038145@eow380e.hanjin.com>
+References:
+ <F31FCA669E170B428E2241979036747C0286A4@eow380e.hanjin.com>,<618A552F750146488FE004B077376C03028AAC@eow380e.hanjin.com>,<F31FCA669E170B428E2241979036747C02880D@eow380e.hanjin.com>,<F31FCA669E170B428E2241979036747C028879@eow380e.hanjin.com>
+ <F31FCA669E170B428E2241979036747C028AB1@eow380e.hanjin.com>
+In-Reply-To: <F31FCA669E170B428E2241979036747C028AB1@eow380e.hanjin.com>
+Accept-Language: ko-KR, en-US
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: eow380d.hanjin.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.22.4.234]
+Content-Type: multipart/alternative;
+	boundary="_000_9560940D892F9E42880DF880C657A4BC038145eow380ehanjincom_"
+MIME-Version: 1.0
+
+--_000_9560940D892F9E42880DF880C657A4BC038145eow380ehanjincom_
+Content-Type: text/plain; charset="us-ascii"
+
+TO: UCC
+FM: UOV
+
+Pls be informed that it has been duly informed to surveyor, master of M/V ELAN & HAMBBO.
+Bunker survey will be held while lying at 1st Loading Terminal (HHLA).
+
+C/sked, HNEN & OPRG
+
+VoyNo.      Port      ETA               ETB               ETD
+--------------------------------------------------------------------------
+HNEN0010S   DEHAM D6  2013-11-24 09:00 2013-11-24 12:00 2013-11-24 20:00 discharge only
+HNEN0010S   DEHAM Y1  2013-11-24 20:30 2013-11-24 21:00 2013-11-25 06:00 discharge only
+
+OPRG0010S   DEHAM D6                   2013-11-25 05:30 2013-11-25 12:00 *loading only
+OPRG0010S   DEHAM Y1  2013-11-25 12:30 2013-11-25 13:00 2013-11-25 19:00  loading only
+OPRG0010S   DEKEL     2013-11-26 01:00 2013-11-26 02:00 2013-11-26 13:00
+OPRG0010S   RULED Y1  2013-11-29 03:30 2013-11-29 05:30 2013-11-29 17:30  ON PF
+OPRG0010S   RULED TP  2013-11-29 22:00 2013-11-30 01:00 2013-11-30 12:00
+OPRG0010S   FIKTK     2013-12-02 04:00 2013-12-02 06:00 2013-12-02 14:00
+OPRG0010S   DEKEL     2013-12-04 17:00 2013-12-04 18:00 2013-12-05 01:00
+
+* Loading OPRG will start on completion discharge HNEN only.
+D6: HAM HHLA
+Y1: HAM EUROGATE
+
+B.rgds/ UOV
+
+From: Dong-Ok LEE
+Sent: Tuesday, November 19, 2013 8:59 AM
+To: Ralf BOTHE; Kwang-Kuk CHOI; Sang-Shik KIM; Holger VOSS; Daniel CARL; Julian Matzner; Christof HEUSER; Axel zum BROCK; Bernd FETTKENHAUER; Capt. J. BORCHERDING; Chull Hong KIM; Joern ULRICH; Jes Tom REGNER; Stefan PREISSNER; Frank SCHWASTA; Nigel K.POTTER; Mark SCHENK; Seung Ah LEE; M. REUTHER; Leif KABELSTROEM; Wolf BOLINGER; Ara(A-RA) CHO; Tobias HEIFLER; B. S. PARK; Sven DERLIEN; Bernadett KAEPPLER; Tom Stern; DONG-IL HWANG; KA-Sung Kim; Jung -Woo LEE; BYEONG IL MO; Il-Sun Baek; SK(Seung-Kwon) Kim; Jeremy(Jee-Young) YOO; Jin-Seon Kim; Kyu-Man KIM; Dong-Cheol Kim; Jung-Han YOON; Kwang-Hyun LEE; Young-Hwan CHOI; Sang-Won JEONG; Won CHO; Jae-Yun Lee; Jin-Gi Jeong; Jong-Wan Kim; Jeung-Uk Ryu; Hyun Joo Lee; JK(Jae-Kyeong) JEON; Daniel(Se-Chul) KIM; Ki-Hyuk LEE; Mi-On KIM; Jae-Nam Byun; Nara Lee; Hyo-San KIM; Bo Hee Lee; Yongjin Cho; Young-Jun LIM; HH(Han-Hoe) KIM; Sung-Tae NA; Hae-Sung SHIN; Seon-Ju BAEK; Joon-Mo Shin; Jung-Min Lee; Philip(Kwang-Phil) LEE; Cheon-Won PACK; SH(Seung-Hun) OH; Sung-Hwan JUNG; C. W. LEE; Seok-Won KIM; Young HONG; Yun-Jin Son; Won-Seok CHUNG; Su Leng SEET; Seung-Min PARK; Nam-Hoon BAIK; SUK-HWAN JUNG; Woojung Kim; Daisy(Ji-Kyong) BHANG; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI; Christian MEIERS; Nils SCHILLING
+Cc: DH(Don-Ho) LEE; Kooks(Kook-Shin) KIM; KD(Kwang-Dae) KIM; Sang-Pil MOON; Chul-Heui KIM; Kuk-Jong Lee; Gi-Hyun KWON; SANG-GEON YUN; Alex(Tae-Soo) KIM; Jerry(Hee-Sung) SHIN; MD(Myung-Deok) CHO
+Subject: RE: RFS / MV. ELAN Fixture & Request
+
+To: UOV
+From: UCC
+
+Dear our colleageus,
+
+We would like to inform you that both Owner and Charterer had already agreed with arraing bunker
+survey for M/V Elan as follows;
+
+*. Surveyor Company: Kapitaen H.J. Moeller und Partner
+
+   - Cost: est. lump sum rate for bunker survey : 350.00 Euro
+          (based on hourly rate of 97.85 Euro, see attachment)
+   - Person in charge : Mr. Dominik  Schmidt
+   - Tel no: +49 40 38 65 83 80
+   - E-mail no : office@moeller-expert.com<mailto:office@moeller-expert.com>
+                dominik.schmidt@moeller-expert.com<mailto:dominik.schmidt@moeller-expert.com>
+   - Address : Cuxhavener Str. 36, 21149 Hamburg
+All expenses relating to on-off survey will be shared equally by both parties. Please arrange survey
+while lying at 1st Loading Terminal (HALLA) as usual.
+
+
+
+Best Regards,
+
+D.O(Dong-Ok) Lee
+General Manager
+Hanjin Shipping, Hamburg(UCC)
+_________________________
+Phone: (49) 040 37 685 - 555
+Fax: (49) 040 37 685 - 560
+Mobile: (49) 0175-723 68 09
+E-Mail: dolee@hanjin.com<mailto:dolee@hanjin.com>
+
+________________________________
+From : "Dong-Ok LEE" <dolee@hanjin.com<mailto:dolee@hanjin.com>>
+Sent : 2013-11-15 16:35:59 ( +01:00 )
+To : Ralf BOTHE <ralf.bothe@de.hanjin.com<mailto:ralf.bothe@de.hanjin.com>>, Kwang-Kuk CHOI <kkchoi@hanjin.com<mailto:kkchoi@hanjin.com>>, Sang-Shik KIM <sskim1@hanjin.com<mailto:sskim1@hanjin.com>>, Holger VOSS <holger.voss@de.hanjin.com<mailto:holger.voss@de.hanjin.com>>, Daniel CARL <daniel.carl@de.hanjin.com<mailto:daniel.carl@de.hanjin.com>>, Julian Matzner <julian.matzner@de.hanjin.com<mailto:julian.matzner@de.hanjin.com>>, Christof HEUSER <christof.heuser@de.hanjin.com<mailto:christof.heuser@de.hanjin.com>>, Axel zum BROCK <axel.zum.brock@de.hanjin.com<mailto:axel.zum.brock@de.hanjin.com>>, Bernd FETTKENHAUER <bernd.fettkenhauer@de.hanjin.com<mailto:bernd.fettkenhauer@de.hanjin.com>>, Capt. J. BORCHERDING <joachim.borcherding@de.hanjin.com<mailto:joachim.borcherding@de.hanjin.com>>, Chull Hong KIM <chkim@de.hanjin.com<mailto:chkim@de.hanjin.com>>, Joern ULRICH <joern.ulrich@de.hanjin.com<mailto:joern.ulrich@de.hanjin.com>>, Jes Tom REGNER <jes.regner@de.hanjin.com<mailto:jes.regner@de.hanjin.com>>, Stefan PREISSNER <stefan.preissner@de.hanjin.com<mailto:stefan.preissner@de.hanjin.com>>, Frank SCHWASTA <frank.schwasta@de.hanjin.com<mailto:frank.schwasta@de.hanjin.com>>, Nigel K.POTTER <nigel.potter@de.hanjin.com<mailto:nigel.potter@de.hanjin.com>>, Mark SCHENK <mark.schenk@de.hanjin.com<mailto:mark.schenk@de.hanjin.com>>, Seung Ah LEE <seung-ah.lee@de.hanjin.com<mailto:seung-ah.lee@de.hanjin.com>>, M. REUTHER <peter.michael.reuther@de.hanjin.com<mailto:peter.michael.reuther@de.hanjin.com>>, Leif KABELSTROEM <leif.kabelstroem@de.hanjin.com<mailto:leif.kabelstroem@de.hanjin.com>>, Wolf BOLINGER <wolf.bolinger@de.hanjin.com<mailto:wolf.bolinger@de.hanjin.com>>, Ara(A-RA) CHO <archo@hanjin.com<mailto:archo@hanjin.com>>, Tobias HEIFLER <tobias.heifler@de.hanjin.com<mailto:tobias.heifler@de.hanjin.com>>, B. S. PARK <b.s.park@de.hanjin.com<mailto:b.s.park@de.hanjin.com>>, Sven DERLIEN <sven.derlien@de.hanjin.com<mailto:sven.derlien@de.hanjin.com>>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com<mailto:bernadett.kaeppler@de.hanjin.com>>, Tom Stern <tom.stern@de.hanjin.com<mailto:tom.stern@de.hanjin.com>>, DONG-IL HWANG <dihwang@hanjin.com<mailto:dihwang@hanjin.com>>, KA-Sung Kim <kks@hanjin.com<mailto:kks@hanjin.com>>, Jung -Woo LEE <jwlee1@hanjin.com<mailto:jwlee1@hanjin.com>>, BYEONG IL MO <bimo@hanjin.com<mailto:bimo@hanjin.com>>, Il-Sun Baek <isbaek@hanjin.com<mailto:isbaek@hanjin.com>>, SK(Seung-Kwon) Kim <skkim@hanjin.com<mailto:skkim@hanjin.com>>, Jeremy(Jee-Young) YOO <jyyoo1@hanjin.com<mailto:jyyoo1@hanjin.com>>, Jin-Seon Kim <jskim84@hanjin.com<mailto:jskim84@hanjin.com>>, Kyu-Man KIM <kmkim@hanjin.com<mailto:kmkim@hanjin.com>>, Dong-Cheol Kim <dckim@hanjin.com<mailto:dckim@hanjin.com>>, Jung-Han YOON <jhyoon@hanjin.com<mailto:jhyoon@hanjin.com>>, Kwang-Hyun LEE <khlee@hanjin.com<mailto:khlee@hanjin.com>>, Young-Hwan CHOI <yhchoi85@hanjin.com<mailto:yhchoi85@hanjin.com>>, Sang-Won JEONG <swjeong@hanjin.com<mailto:swjeong@hanjin.com>>, Won CHO <wcho@hanjin.com<mailto:wcho@hanjin.com>>, Jae-Yun Lee <yunlee@hanjin.com<mailto:yunlee@hanjin.com>>, Jin-Gi Jeong <jeongjg@hanjin.com<mailto:jeongjg@hanjin.com>>, Jong-Wan Kim <kjw406@hanjin.com<mailto:kjw406@hanjin.com>>, Jeung-Uk Ryu <juryu@hanjin.com<mailto:juryu@hanjin.com>>, Hyun Joo Lee <lhjteen@hanjin.com<mailto:lhjteen@hanjin.com>>, JK(Jae-Kyeong) JEON <jkjeon@hanjin.com<mailto:jkjeon@hanjin.com>>, Daniel(Se-Chul) KIM <bbk92@hanjin.com<mailto:bbk92@hanjin.com>>, Ki-Hyuk LEE <leekh@hanjin.com<mailto:leekh@hanjin.com>>, Mi-On KIM <meiwen@hanjin.com<mailto:meiwen@hanjin.com>>, Jae-Nam Byun <jnbyun9@hanjin.com<mailto:jnbyun9@hanjin.com>>, Nara Lee <nrlee@hanjin.com<mailto:nrlee@hanjin.com>>, Hyo-San KIM <dream123@hanjin.com<mailto:dream123@hanjin.com>>, Bo Hee Lee <alicelbh@hanjin.com<mailto:alicelbh@hanjin.com>>, Yongjin Cho <yjcho@hanjin.com<mailto:yjcho@hanjin.com>>, Young-Jun LIM <yjlim@hanjin.com<mailto:yjlim@hanjin.com>>, HH(Han-Hoe) KIM <hhkim@hanjin.com<mailto:hhkim@hanjin.com>>, Sung-Tae NA <stna@hanjin.com<mailto:stna@hanjin.com>>, Hae-Sung SHIN <hsshin1@hanjin.com<mailto:hsshin1@hanjin.com>>, Seon-Ju BAEK <sjbaek@hanjin.com<mailto:sjbaek@hanjin.com>>, Joon-Mo Shin <jmshin@hanjin.com<mailto:jmshin@hanjin.com>>, Jung-Min Lee <jungminlee@hanjin.com<mailto:jungminlee@hanjin.com>>, Philip(Kwang-Phil) LEE <philiplee@hanjin.com<mailto:philiplee@hanjin.com>>, Cheon-Won PACK <cwpark@hanjin.com<mailto:cwpark@hanjin.com>>, SH(Seung-Hun) OH <shoh@hanjin.com<mailto:shoh@hanjin.com>>, Sung-Hwan JUNG <jeongsh@hanjin.com<mailto:jeongsh@hanjin.com>>, C. W. LEE <cwleea@hanjin.com<mailto:cwleea@hanjin.com>>, Seok-Won KIM <swkima@hanjin.com<mailto:swkima@hanjin.com>>, Young HONG <yhong@hanjin.com<mailto:yhong@hanjin.com>>, Yun-Jin Son <yjson@hanjin.com<mailto:yjson@hanjin.com>>, Won-Seok CHUNG <wonchung@hanjin.com<mailto:wonchung@hanjin.com>>, Su Leng SEET <slseet@sg.hanjin.com<mailto:slseet@sg.hanjin.com>>, Seung-Min PARK <sminpark@hanjin.com<mailto:sminpark@hanjin.com>>, Nam-Hoon BAIK <hunt72@hanjin.com<mailto:hunt72@hanjin.com>>, SUK-HWAN JUNG <ch021@hanjin.com<mailto:ch021@hanjin.com>>, Woojung Kim <wjkim@hanjin.com<mailto:wjkim@hanjin.com>>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com<mailto:jkbhang@hanjin.com>>, TH(Tae-Hoon) AN <than@hanjin.com<mailto:than@hanjin.com>>, Sang-Jin HAN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Yoo-Kyung KIM <kimyk@hanjin.com<mailto:kimyk@hanjin.com>>, Aram KIM <aram@hanjin.com<mailto:aram@hanjin.com>>, Lloyd(Woosik) Yang <shakin@hanjin.com<mailto:shakin@hanjin.com>>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanjin.com>>, Christian MEIERS <Christian.Meiers@de.hanjin.com<mailto:Christian.Meiers@de.hanjin.com>>, Nils SCHILLING <nils.schilling@de.hanjin.com<mailto:nils.schilling@de.hanjin.com>>
+Cc : DH(Don-Ho) LEE <leedh@de.hanjin.com<mailto:leedh@de.hanjin.com>>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com<mailto:kookskim@hanjin.com>>, KD(Kwang-Dae) KIM <kdkim@hanjin.com<mailto:kdkim@hanjin.com>>, Sang-Pil MOON <spmoon@hanjin.com<mailto:spmoon@hanjin.com>>, Chul-Heui KIM <chkim@hanjin.com<mailto:chkim@hanjin.com>>, Kuk-Jong Lee <kjlee@hanjin.com<mailto:kjlee@hanjin.com>>, Gi-Hyun KWON <khkwon@hanjin.com<mailto:khkwon@hanjin.com>>, SANG-GEON YUN <sgyun@hanjin.com<mailto:sgyun@hanjin.com>>, Alex(Tae-Soo) KIM <tskim@hanjin.com<mailto:tskim@hanjin.com>>, Jerry(Hee-Sung) SHIN <hshin@hanjin.com<mailto:hshin@hanjin.com>>, MD(Myung-Deok) CHO <mdcho@hanjin.com<mailto:mdcho@hanjin.com>>
+Subject : RE: RFS / MV. ELAN Fixture & Request
+To: UOV
+From:UCC
+
+Further to below message, please investigate bunker survey company and estimated survey fees
+for M/V Elan so as to decide on whether we will arrange survey or use master's figure.
+
+Have a good day.
+Best Regards,
+
+D.O(Dong-Ok) Lee
+General Manager
+Hanjin Shipping, Hamburg(UCC)
+_________________________
+Phone: (49) 040 37 685 - 555
+Fax: (49) 040 37 685 - 560
+Mobile: (49) 0175-723 68 09
+E-Mail: dolee@hanjin.com<mailto:dolee@hanjin.com>
+
+________________________________
+From : "Dong-Ok LEE" <dolee@hanjin.com<mailto:dolee@hanjin.com>>
+Sent : 2013-11-15 10:12:34 ( +01:00 )
+To : Ralf BOTHE <ralf.bothe@de.hanjin.com<mailto:ralf.bothe@de.hanjin.com>>, Kwang-Kuk CHOI <kkchoi@hanjin.com<mailto:kkchoi@hanjin.com>>, Sang-Shik KIM <sskim1@hanjin.com<mailto:sskim1@hanjin.com>>, Holger VOSS <holger.voss@de.hanjin.com<mailto:holger.voss@de.hanjin.com>>, Daniel CARL <daniel.carl@de.hanjin.com<mailto:daniel.carl@de.hanjin.com>>, Julian Matzner <julian.matzner@de.hanjin.com<mailto:julian.matzner@de.hanjin.com>>, Christof HEUSER <christof.heuser@de.hanjin.com<mailto:christof.heuser@de.hanjin.com>>, Axel zum BROCK <axel.zum.brock@de.hanjin.com<mailto:axel.zum.brock@de.hanjin.com>>, Bernd FETTKENHAUER <bernd.fettkenhauer@de.hanjin.com<mailto:bernd.fettkenhauer@de.hanjin.com>>, Capt. J. BORCHERDING <joachim.borcherding@de.hanjin.com<mailto:joachim.borcherding@de.hanjin.com>>, Chull Hong KIM <chkim@de.hanjin.com<mailto:chkim@de.hanjin.com>>, Joern ULRICH <joern.ulrich@de.hanjin.com<mailto:joern.ulrich@de.hanjin.com>>, Jes Tom REGNER <jes.regner@de.hanjin.com<mailto:jes.regner@de.hanjin.com>>, Stefan PREISSNER <stefan.preissner@de.hanjin.com<mailto:stefan.preissner@de.hanjin.com>>, Frank SCHWASTA <frank.schwasta@de.hanjin.com<mailto:frank.schwasta@de.hanjin.com>>, Nigel K.POTTER <nigel.potter@de.hanjin.com<mailto:nigel.potter@de.hanjin.com>>, Mark SCHENK <mark.schenk@de.hanjin.com<mailto:mark.schenk@de.hanjin.com>>, Seung Ah LEE <seung-ah.lee@de.hanjin.com<mailto:seung-ah.lee@de.hanjin.com>>, M. REUTHER <peter.michael.reuther@de.hanjin.com<mailto:peter.michael.reuther@de.hanjin.com>>, Leif KABELSTROEM <leif.kabelstroem@de.hanjin.com<mailto:leif.kabelstroem@de.hanjin.com>>, Wolf BOLINGER <wolf.bolinger@de.hanjin.com<mailto:wolf.bolinger@de.hanjin.com>>, Ara(A-RA) CHO <archo@hanjin.com<mailto:archo@hanjin.com>>, Tobias HEIFLER <tobias.heifler@de.hanjin.com<mailto:tobias.heifler@de.hanjin.com>>, B. S. PARK <b.s.park@de.hanjin.com<mailto:b.s.park@de.hanjin.com>>, Sven DERLIEN <sven.derlien@de.hanjin.com<mailto:sven.derlien@de.hanjin.com>>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com<mailto:bernadett.kaeppler@de.hanjin.com>>, Tom Stern <tom.stern@de.hanjin.com<mailto:tom.stern@de.hanjin.com>>, DONG-IL HWANG <dihwang@hanjin.com<mailto:dihwang@hanjin.com>>, KA-Sung Kim <kks@hanjin.com<mailto:kks@hanjin.com>>, Jung -Woo LEE <jwlee1@hanjin.com<mailto:jwlee1@hanjin.com>>, BYEONG IL MO <bimo@hanjin.com<mailto:bimo@hanjin.com>>, Il-Sun Baek <isbaek@hanjin.com<mailto:isbaek@hanjin.com>>, SK(Seung-Kwon) Kim <skkim@hanjin.com<mailto:skkim@hanjin.com>>, Jeremy(Jee-Young) YOO <jyyoo1@hanjin.com<mailto:jyyoo1@hanjin.com>>, Jin-Seon Kim <jskim84@hanjin.com<mailto:jskim84@hanjin.com>>, Kyu-Man KIM <kmkim@hanjin.com<mailto:kmkim@hanjin.com>>, Dong-Cheol Kim <dckim@hanjin.com<mailto:dckim@hanjin.com>>, Jung-Han YOON <jhyoon@hanjin.com<mailto:jhyoon@hanjin.com>>, Kwang-Hyun LEE <khlee@hanjin.com<mailto:khlee@hanjin.com>>, Young-Hwan CHOI <yhchoi85@hanjin.com<mailto:yhchoi85@hanjin.com>>, Sang-Won JEONG <swjeong@hanjin.com<mailto:swjeong@hanjin.com>>, Won CHO <wcho@hanjin.com<mailto:wcho@hanjin.com>>, Jae-Yun Lee <yunlee@hanjin.com<mailto:yunlee@hanjin.com>>, Jin-Gi Jeong <jeongjg@hanjin.com<mailto:jeongjg@hanjin.com>>, Jong-Wan Kim <kjw406@hanjin.com<mailto:kjw406@hanjin.com>>, Jeung-Uk Ryu <juryu@hanjin.com<mailto:juryu@hanjin.com>>, Hyun Joo Lee <lhjteen@hanjin.com<mailto:lhjteen@hanjin.com>>, JK(Jae-Kyeong) JEON <jkjeon@hanjin.com<mailto:jkjeon@hanjin.com>>, Daniel(Se-Chul) KIM <bbk92@hanjin.com<mailto:bbk92@hanjin.com>>, Ki-Hyuk LEE <leekh@hanjin.com<mailto:leekh@hanjin.com>>, Mi-On KIM <meiwen@hanjin.com<mailto:meiwen@hanjin.com>>, Jae-Nam Byun <jnbyun9@hanjin.com<mailto:jnbyun9@hanjin.com>>, Nara Lee <nrlee@hanjin.com<mailto:nrlee@hanjin.com>>, Hyo-San KIM <dream123@hanjin.com<mailto:dream123@hanjin.com>>, Bo Hee Lee <alicelbh@hanjin.com<mailto:alicelbh@hanjin.com>>, Yongjin Cho <yjcho@hanjin.com<mailto:yjcho@hanjin.com>>, Young-Jun LIM <yjlim@hanjin.com<mailto:yjlim@hanjin.com>>, HH(Han-Hoe) KIM <hhkim@hanjin.com<mailto:hhkim@hanjin.com>>, Sung-Tae NA <stna@hanjin.com<mailto:stna@hanjin.com>>, Hae-Sung SHIN <hsshin1@hanjin.com<mailto:hsshin1@hanjin.com>>, Seon-Ju BAEK <sjbaek@hanjin.com<mailto:sjbaek@hanjin.com>>, Joon-Mo Shin <jmshin@hanjin.com<mailto:jmshin@hanjin.com>>, Jung-Min Lee <jungminlee@hanjin.com<mailto:jungminlee@hanjin.com>>, Philip(Kwang-Phil) LEE <philiplee@hanjin.com<mailto:philiplee@hanjin.com>>, Cheon-Won PACK <cwpark@hanjin.com<mailto:cwpark@hanjin.com>>, SH(Seung-Hun) OH <shoh@hanjin.com<mailto:shoh@hanjin.com>>, Sung-Hwan JUNG <jeongsh@hanjin.com<mailto:jeongsh@hanjin.com>>, C. W. LEE <cwleea@hanjin.com<mailto:cwleea@hanjin.com>>, Seok-Won KIM <swkima@hanjin.com<mailto:swkima@hanjin.com>>, Young HONG <yhong@hanjin.com<mailto:yhong@hanjin.com>>, Yun-Jin Son <yjson@hanjin.com<mailto:yjson@hanjin.com>>, Won-Seok CHUNG <wonchung@hanjin.com<mailto:wonchung@hanjin.com>>, Su Leng SEET <slseet@sg.hanjin.com<mailto:slseet@sg.hanjin.com>>, Seung-Min PARK <sminpark@hanjin.com<mailto:sminpark@hanjin.com>>, Nam-Hoon BAIK <hunt72@hanjin.com<mailto:hunt72@hanjin.com>>, SH(SUK-HWAN) JUNG <ch021@hanjin.com<mailto:ch021@hanjin.com>>, Woojung Kim <wjkim@hanjin.com<mailto:wjkim@hanjin.com>>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com<mailto:jkbhang@hanjin.com>>, TH(Tae-Hoon) AN <than@hanjin.com<mailto:than@hanjin.com>>, Sang-Jin HAN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Yoo-Kyung KIM <kimyk@hanjin.com<mailto:kimyk@hanjin.com>>, Aram KIM <aram@hanjin.com<mailto:aram@hanjin.com>>, Lloyd(Woosik) Yang <shakin@hanjin.com<mailto:shakin@hanjin.com>>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanjin.com>>, Christian MEIERS <Christian.Meiers@de.hanjin.com<mailto:Christian.Meiers@de.hanjin.com>>, Nils SCHILLING <nils.schilling@de.hanjin.com<mailto:nils.schilling@de.hanjin.com>>
+Cc : DH(Don-Ho) LEE <leedh@de.hanjin.com<mailto:leedh@de.hanjin.com>>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com<mailto:kookskim@hanjin.com>>, KD(Kwang-Dae) KIM <kdkim@hanjin.com<mailto:kdkim@hanjin.com>>, Sang-Pil MOON <spmoon@hanjin.com<mailto:spmoon@hanjin.com>>, Chul-Heui KIM <chkim@hanjin.com<mailto:chkim@hanjin.com>>, Kuk-Jong Lee <kjlee@hanjin.com<mailto:kjlee@hanjin.com>>, Gi-Hyun KWON <khkwon@hanjin.com<mailto:khkwon@hanjin.com>>, SANG-GEON YUN <sgyun@hanjin.com<mailto:sgyun@hanjin.com>>, Alex(Tae-Soo) KIM <tskim@hanjin.com<mailto:tskim@hanjin.com>>, Jerry(Hee-Sung) SHIN <hshin@hanjin.com<mailto:hshin@hanjin.com>>, MD(Myung-Deok) CHO <mdcho@hanjin.com<mailto:mdcho@hanjin.com>>
+Subject : RE: RFS / MV. ELAN Fixture & Request
+Dear our collegaues,
+
+M/V Evolution will be used by Master' figures with statement of fact for off-hire.
+
+Regarding m/v Elan, we are also planning to use Master's figure so as to save survey fee because
+we can monitor daily consumption clearly and charter period is very short.
+
+Anyway, we will inform you  of final decision next week after discussing with owners.
+
+Have a good day.
+
+
+Best Regards
+
+D.O(Dong-Ok) Lee
+General Manager
+Hanjin Shipping, Hamburg(UCC)
+_________________________
+Phone: (49) 040 37 685 - 555
+Fax: (49) 040 37 685 - 560
+Mobile: (49) 0175-723 68 09
+E-Mail: dolee@hanjin.com<mailto:dolee@hanjin.com>
+
+________________________________
+From : "Ralf BOTHE" <ralf.bothe@de.hanjin.com<mailto:ralf.bothe@de.hanjin.com>>
+Sent : 2013-11-15 09:33:25 ( +01:00 )
+To : Dong-Ok LEE <dolee@hanjin.com<mailto:dolee@hanjin.com>>, Kwang-Kuk CHOI <kkchoi@hanjin.com<mailto:kkchoi@hanjin.com>>, Sang-Shik KIM <sskim1@hanjin.com<mailto:sskim1@hanjin.com>>, Holger VOSS <holger.voss@de.hanjin.com<mailto:holger.voss@de.hanjin.com>>, Daniel CARL <daniel.carl@de.hanjin.com<mailto:daniel.carl@de.hanjin.com>>, Julian Matzner <julian.matzner@de.hanjin.com<mailto:julian.matzner@de.hanjin.com>>, Christof HEUSER <christof.heuser@de.hanjin.com<mailto:christof.heuser@de.hanjin.com>>, Axel zum BROCK <axel.zum.brock@de.hanjin.com<mailto:axel.zum.brock@de.hanjin.com>>, Bernd FETTKENHAUER <bernd.fettkenhauer@de.hanjin.com<mailto:bernd.fettkenhauer@de.hanjin.com>>, Capt. J. BORCHERDING <joachim.borcherding@de.hanjin.com<mailto:joachim.borcherding@de.hanjin.com>>, Chull Hong KIM <chkim@de.hanjin.com<mailto:chkim@de.hanjin.com>>, Joern ULRICH <joern.ulrich@de.hanjin.com<mailto:joern.ulrich@de.hanjin.com>>, Jes Tom REGNER <jes.regner@de.hanjin.com<mailto:jes.regner@de.hanjin.com>>, Stefan PREISSNER <stefan.preissner@de.hanjin.com<mailto:stefan.preissner@de.hanjin.com>>, Frank SCHWASTA <frank.schwasta@de.hanjin.com<mailto:frank.schwasta@de.hanjin.com>>, Nigel K.POTTER <nigel.potter@de.hanjin.com<mailto:nigel.potter@de.hanjin.com>>, Mark SCHENK <mark.schenk@de.hanjin.com<mailto:mark.schenk@de.hanjin.com>>, Seung Ah LEE <seung-ah.lee@de.hanjin.com<mailto:seung-ah.lee@de.hanjin.com>>, M. REUTHER <peter.michael.reuther@de.hanjin.com<mailto:peter.michael.reuther@de.hanjin.com>>, Leif KABELSTROEM <leif.kabelstroem@de.hanjin.com<mailto:leif.kabelstroem@de.hanjin.com>>, Wolf BOLINGER <wolf.bolinger@de.hanjin.com<mailto:wolf.bolinger@de.hanjin.com>>, Ara(A-RA) CHO <archo@hanjin.com<mailto:archo@hanjin.com>>, Tobias HEIFLER <tobias.heifler@de.hanjin.com<mailto:tobias.heifler@de.hanjin.com>>, B. S. PARK <b.s.park@de.hanjin.com<mailto:b.s.park@de.hanjin.com>>, Sven DERLIEN <sven.derlien@de.hanjin.com<mailto:sven.derlien@de.hanjin.com>>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com<mailto:bernadett.kaeppler@de.hanjin.com>>, Tom Stern <tom.stern@de.hanjin.com<mailto:tom.stern@de.hanjin.com>>, DONG-IL HWANG <dihwang@hanjin.com<mailto:dihwang@hanjin.com>>, KA-Sung Kim <kks@hanjin.com<mailto:kks@hanjin.com>>, Jung -Woo LEE <jwlee1@hanjin.com<mailto:jwlee1@hanjin.com>>, BYEONG IL MO <bimo@hanjin.com<mailto:bimo@hanjin.com>>, Il-Sun Baek <isbaek@hanjin.com<mailto:isbaek@hanjin.com>>, SK(Seung-Kwon) Kim <skkim@hanjin.com<mailto:skkim@hanjin.com>>, Jeremy(Jee-Young) YOO <jyyoo1@hanjin.com<mailto:jyyoo1@hanjin.com>>, Jin-Seon Kim <jskim84@hanjin.com<mailto:jskim84@hanjin.com>>, Kyu-Man KIM <kmkim@hanjin.com<mailto:kmkim@hanjin.com>>, Dong-Cheol Kim <dckim@hanjin.com<mailto:dckim@hanjin.com>>, Jung-Han YOON <jhyoon@hanjin.com<mailto:jhyoon@hanjin.com>>, Kwang-Hyun LEE <khlee@hanjin.com<mailto:khlee@hanjin.com>>, Young-Hwan CHOI <yhchoi85@hanjin.com<mailto:yhchoi85@hanjin.com>>, Sang-Won JEONG <swjeong@hanjin.com<mailto:swjeong@hanjin.com>>, Won CHO <wcho@hanjin.com<mailto:wcho@hanjin.com>>, Jae-Yun Lee <yunlee@hanjin.com<mailto:yunlee@hanjin.com>>, Jin-Gi Jeong <jeongjg@hanjin.com<mailto:jeongjg@hanjin.com>>, Jong-Wan Kim <kjw406@hanjin.com<mailto:kjw406@hanjin.com>>, Jeung-Uk Ryu <juryu@hanjin.com<mailto:juryu@hanjin.com>>, Hyun Joo Lee <lhjteen@hanjin.com<mailto:lhjteen@hanjin.com>>, JK(Jae-Kyeong) JEON <jkjeon@hanjin.com<mailto:jkjeon@hanjin.com>>, Daniel(Se-Chul) KIM <bbk92@hanjin.com<mailto:bbk92@hanjin.com>>, Ki-Hyuk LEE <leekh@hanjin.com<mailto:leekh@hanjin.com>>, Mi-On KIM <meiwen@hanjin.com<mailto:meiwen@hanjin.com>>, Jae-Nam Byun <jnbyun9@hanjin.com<mailto:jnbyun9@hanjin.com>>, Nara Lee <nrlee@hanjin.com<mailto:nrlee@hanjin.com>>, Hyo-San KIM <dream123@hanjin.com<mailto:dream123@hanjin.com>>, Bo Hee Lee <alicelbh@hanjin.com<mailto:alicelbh@hanjin.com>>, Yongjin Cho <yjcho@hanjin.com<mailto:yjcho@hanjin.com>>, Young-Jun LIM <yjlim@hanjin.com<mailto:yjlim@hanjin.com>>, HH(Han-Hoe) KIM <hhkim@hanjin.com<mailto:hhkim@hanjin.com>>, Sung-Tae NA <stna@hanjin.com<mailto:stna@hanjin.com>>, Hae-Sung SHIN <hsshin1@hanjin.com<mailto:hsshin1@hanjin.com>>, Seon-Ju BAEK <sjbaek@hanjin.com<mailto:sjbaek@hanjin.com>>, Joon-Mo Shin <jmshin@hanjin.com<mailto:jmshin@hanjin.com>>, Jung-Min Lee <jungminlee@hanjin.com<mailto:jungminlee@hanjin.com>>, Philip(Kwang-Phil) LEE <philiplee@hanjin.com<mailto:philiplee@hanjin.com>>, Cheon-Won PACK <cwpark@hanjin.com<mailto:cwpark@hanjin.com>>, SH(Seung-Hun) OH <shoh@hanjin.com<mailto:shoh@hanjin.com>>, Sung-Hwan JUNG <jeongsh@hanjin.com<mailto:jeongsh@hanjin.com>>, C. W. LEE <cwleea@hanjin.com<mailto:cwleea@hanjin.com>>, Seok-Won KIM <swkima@hanjin.com<mailto:swkima@hanjin.com>>, Young HONG <yhong@hanjin.com<mailto:yhong@hanjin.com>>, Yun-Jin Son <yjson@hanjin.com<mailto:yjson@hanjin.com>>, Won-Seok CHUNG <wonchung@hanjin.com<mailto:wonchung@hanjin.com>>, Su Leng SEET <slseet@sg.hanjin.com<mailto:slseet@sg.hanjin.com>>, Seung-Min PARK <sminpark@hanjin.com<mailto:sminpark@hanjin.com>>, Nam-Hoon BAIK <hunt72@hanjin.com<mailto:hunt72@hanjin.com>>, SH(SUK-HWAN) JUNG <ch021@hanjin.com<mailto:ch021@hanjin.com>>, Woojung Kim <wjkim@hanjin.com<mailto:wjkim@hanjin.com>>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com<mailto:jkbhang@hanjin.com>>, TH(Tae-Hoon) AN <than@hanjin.com<mailto:than@hanjin.com>>, Sang-Jin HAN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Yoo-Kyung KIM <kimyk@hanjin.com<mailto:kimyk@hanjin.com>>, Aram KIM <aram@hanjin.com<mailto:aram@hanjin.com>>, Lloyd(Woosik) Yang <shakin@hanjin.com<mailto:shakin@hanjin.com>>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanjin.com>>, Christian MEIERS <Christian.Meiers@de.hanjin.com<mailto:Christian.Meiers@de.hanjin.com>>, Nils SCHILLING <nils.schilling@de.hanjin.com<mailto:nils.schilling@de.hanjin.com>>
+Cc : DH(Don-Ho) LEE <leedh@de.hanjin.com<mailto:leedh@de.hanjin.com>>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com<mailto:kookskim@hanjin.com>>, KD(Kwang-Dae) KIM <kdkim@hanjin.com<mailto:kdkim@hanjin.com>>, Sang-Pil MOON <spmoon@hanjin.com<mailto:spmoon@hanjin.com>>, Chul-Heui KIM <chkim@hanjin.com<mailto:chkim@hanjin.com>>, Kuk-Jong Lee <kjlee@hanjin.com<mailto:kjlee@hanjin.com>>, Gi-Hyun KWON <khkwon@hanjin.com<mailto:khkwon@hanjin.com>>, SANG-GEON YUN <sgyun@hanjin.com<mailto:sgyun@hanjin.com>>, Alex(Tae-Soo) KIM <tskim@hanjin.com<mailto:tskim@hanjin.com>>, Jerry(Hee-Sung) SHIN <hshin@hanjin.com<mailto:hshin@hanjin.com>>, MD(Myung-Deok) CHO <mdcho@hanjin.com<mailto:mdcho@hanjin.com>>
+Subject : RE: RFS / MV. ELAN Fixture & Request
+Good morning,
+
+we understand that Master of Elan and Evolution will advise bunker quantity for on/off hire.
+
+Please advise if any further on/off-hire inspection by surveyor shall be arranged or not.
+
+Many thanks!
+
+BRGDS,
+Ralf Bothe
+
+
+________________________________
+From : "Dong-Ok LEE" <dolee@hanjin.com<mailto:dolee@hanjin.com>>
+Sent : 2013-11-14 19:50:25 ( +09:00 )
+To : Kwang-Kuk CHOI <kkchoi@hanjin.com<mailto:kkchoi@hanjin.com>>, Sang-Shik KIM <sskim1@hanjin.com<mailto:sskim1@hanjin.com>>, Holger VOSS <holger.voss@de.hanjin.com<mailto:holger.voss@de.hanjin.com>>, Daniel CARL <daniel.carl@de.hanjin.com<mailto:daniel.carl@de.hanjin.com>>, Julian Matzner <julian.matzner@de.hanjin.com<mailto:julian.matzner@de.hanjin.com>>, Christof HEUSER <christof.heuser@de.hanjin.com<mailto:christof.heuser@de.hanjin.com>>, Axel zum BROCK <axel.zum.brock@de.hanjin.com<mailto:axel.zum.brock@de.hanjin.com>>, Bernd FETTKENHAUER <bernd.fettkenhauer@de.hanjin.com<mailto:bernd.fettkenhauer@de.hanjin.com>>, Capt. J. BORCHERDING <joachim.borcherding@de.hanjin.com<mailto:joachim.borcherding@de.hanjin.com>>, Chull Hong KIM <chkim@de.hanjin.com<mailto:chkim@de.hanjin.com>>, Joern ULRICH <joern.ulrich@de.hanjin.com<mailto:joern.ulrich@de.hanjin.com>>, Jes Tom REGNER <jes.regner@de.hanjin.com<mailto:jes.regner@de.hanjin.com>>, Stefan PREISSNER <stefan.preissner@de.hanjin.com<mailto:stefan.preissner@de.hanjin.com>>, Frank SCHWASTA <frank.schwasta@de.hanjin.com<mailto:frank.schwasta@de.hanjin.com>>, Ralf BOTHE <ralf.bothe@de.hanjin.com<mailto:ralf.bothe@de.hanjin.com>>, Nigel K.POTTER <nigel.potter@de.hanjin.com<mailto:nigel.potter@de.hanjin.com>>, Mark SCHENK <mark.schenk@de.hanjin.com<mailto:mark.schenk@de.hanjin.com>>, Seung Ah LEE <seung-ah.lee@de.hanjin.com<mailto:seung-ah.lee@de.hanjin.com>>, M. REUTHER <peter.michael.reuther@de.hanjin.com<mailto:peter.michael.reuther@de.hanjin.com>>, Leif KABELSTROEM <leif.kabelstroem@de.hanjin.com<mailto:leif.kabelstroem@de.hanjin.com>>, Wolf BOLINGER <wolf.bolinger@de.hanjin.com<mailto:wolf.bolinger@de.hanjin.com>>, Ara(A-RA) CHO <archo@hanjin.com<mailto:archo@hanjin.com>>, Tobias HEIFLER <tobias.heifler@de.hanjin.com<mailto:tobias.heifler@de.hanjin.com>>, B. S. PARK <b.s.park@de.hanjin.com<mailto:b.s.park@de.hanjin.com>>, Sven DERLIEN <sven.derlien@de.hanjin.com<mailto:sven.derlien@de.hanjin.com>>, Bernadett KAEPPLER <bernadett.kaeppler@de.hanjin.com<mailto:bernadett.kaeppler@de.hanjin.com>>, Tom Stern <tom.stern@de.hanjin.com<mailto:tom.stern@de.hanjin.com>>, DONG-IL HWANG <dihwang@hanjin.com<mailto:dihwang@hanjin.com>>, KA-Sung Kim <kks@hanjin.com<mailto:kks@hanjin.com>>, Jung -Woo LEE <jwlee1@hanjin.com<mailto:jwlee1@hanjin.com>>, BYEONG IL MO <bimo@hanjin.com<mailto:bimo@hanjin.com>>, Il-Sun Baek <isbaek@hanjin.com<mailto:isbaek@hanjin.com>>, SK(Seung-Kwon) Kim <skkim@hanjin.com<mailto:skkim@hanjin.com>>, Jeremy(Jee-Young) YOO <jyyoo1@hanjin.com<mailto:jyyoo1@hanjin.com>>, Jin-Seon Kim <jskim84@hanjin.com<mailto:jskim84@hanjin.com>>, Kyu-Man KIM <kmkim@hanjin.com<mailto:kmkim@hanjin.com>>, Dong-Cheol Kim <dckim@hanjin.com<mailto:dckim@hanjin.com>>, Jung-Han YOON <jhyoon@hanjin.com<mailto:jhyoon@hanjin.com>>, Kwang-Hyun LEE <khlee@hanjin.com<mailto:khlee@hanjin.com>>, Young-Hwan CHOI <yhchoi85@hanjin.com<mailto:yhchoi85@hanjin.com>>, Sang-Won JEONG <swjeong@hanjin.com<mailto:swjeong@hanjin.com>>, Won CHO <wcho@hanjin.com<mailto:wcho@hanjin.com>>, Jae-Yun Lee <yunlee@hanjin.com<mailto:yunlee@hanjin.com>>, Jin-Gi Jeong <jeongjg@hanjin.com<mailto:jeongjg@hanjin.com>>, Jong-Wan Kim <kjw406@hanjin.com<mailto:kjw406@hanjin.com>>, Jeung-Uk Ryu <juryu@hanjin.com<mailto:juryu@hanjin.com>>, Hyun Joo Lee <lhjteen@hanjin.com<mailto:lhjteen@hanjin.com>>, JK(Jae-Kyeong) JEON <jkjeon@hanjin.com<mailto:jkjeon@hanjin.com>>, Daniel(Se-Chul) KIM <bbk92@hanjin.com<mailto:bbk92@hanjin.com>>, Ki-Hyuk LEE <leekh@hanjin.com<mailto:leekh@hanjin.com>>, Mi-On KIM <meiwen@hanjin.com<mailto:meiwen@hanjin.com>>, Jae-Nam Byun <jnbyun9@hanjin.com<mailto:jnbyun9@hanjin.com>>, Nara Lee <nrlee@hanjin.com<mailto:nrlee@hanjin.com>>, Hyo-San KIM <dream123@hanjin.com<mailto:dream123@hanjin.com>>, Bo Hee Lee <alicelbh@hanjin.com<mailto:alicelbh@hanjin.com>>, Yongjin Cho <yjcho@hanjin.com<mailto:yjcho@hanjin.com>>, Young-Jun LIM <yjlim@hanjin.com<mailto:yjlim@hanjin.com>>, HH(Han-Hoe) KIM <hhkim@hanjin.com<mailto:hhkim@hanjin.com>>, Sung-Tae NA <stna@hanjin.com<mailto:stna@hanjin.com>>, Hae-Sung SHIN <hsshin1@hanjin.com<mailto:hsshin1@hanjin.com>>, Seon-Ju BAEK <sjbaek@hanjin.com<mailto:sjbaek@hanjin.com>>, Joon-Mo Shin <jmshin@hanjin.com<mailto:jmshin@hanjin.com>>, Jung-Min Lee <jungminlee@hanjin.com<mailto:jungminlee@hanjin.com>>, Philip(Kwang-Phil) LEE <philiplee@hanjin.com<mailto:philiplee@hanjin.com>>, Cheon-Won PACK <cwpark@hanjin.com<mailto:cwpark@hanjin.com>>, SH(Seung-Hun) OH <shoh@hanjin.com<mailto:shoh@hanjin.com>>, Sung-Hwan JUNG <jeongsh@hanjin.com<mailto:jeongsh@hanjin.com>>, C. W. LEE <cwleea@hanjin.com<mailto:cwleea@hanjin.com>>, Seok-Won KIM <swkima@hanjin.com<mailto:swkima@hanjin.com>>, Young HONG <yhong@hanjin.com<mailto:yhong@hanjin.com>>, Yun-Jin Son <yjson@hanjin.com<mailto:yjson@hanjin.com>>, Won-Seok CHUNG <wonchung@hanjin.com<mailto:wonchung@hanjin.com>>, Su Leng SEET <slseet@sg.hanjin.com<mailto:slseet@sg.hanjin.com>>, Seung-Min PARK <sminpark@hanjin.com<mailto:sminpark@hanjin.com>>, Nam-Hoon BAIK <hunt72@hanjin.com<mailto:hunt72@hanjin.com>>, SH(SUK-HWAN) JUNG <ch021@hanjin.com<mailto:ch021@hanjin.com>>, Woojung Kim <wjkim@hanjin.com<mailto:wjkim@hanjin.com>>, Daisy(Ji-Kyong) BHANG <jkbhang@hanjin.com<mailto:jkbhang@hanjin.com>>, TH(Tae-Hoon) AN <than@hanjin.com<mailto:than@hanjin.com>>, Sang-Jin HAN <sjhan@hanjin.com<mailto:sjhan@hanjin.com>>, Yoo-Kyung KIM <kimyk@hanjin.com<mailto:kimyk@hanjin.com>>, Aram KIM <aram@hanjin.com<mailto:aram@hanjin.com>>, Lloyd(Woosik) Yang <shakin@hanjin.com<mailto:shakin@hanjin.com>>, Luth(Kyung-Won) CHOI <luthchoi@hanjin.com<mailto:luthchoi@hanjin.com>>
+Cc : Dong-Ok LEE <dolee@hanjin.com<mailto:dolee@hanjin.com>>, DH(Don-Ho) LEE <leedh@de.hanjin.com<mailto:leedh@de.hanjin.com>>, Kooks(Kook-Shin) KIM <kookskim@hanjin.com<mailto:kookskim@hanjin.com>>, KD(Kwang-Dae) KIM <kdkim@hanjin.com<mailto:kdkim@hanjin.com>>, Sang-Pil MOON <spmoon@hanjin.com<mailto:spmoon@hanjin.com>>, Chul-Heui KIM <chkim@hanjin.com<mailto:chkim@hanjin.com>>, Kuk-Jong Lee <kjlee@hanjin.com<mailto:kjlee@hanjin.com>>, Gi-Hyun KWON <khkwon@hanjin.com<mailto:khkwon@hanjin.com>>, SANG-GEON YUN <sgyun@hanjin.com<mailto:sgyun@hanjin.com>>, Alex(Tae-Soo) KIM <tskim@hanjin.com<mailto:tskim@hanjin.com>>, Jerry(Hee-Sung) SHIN <hshin@hanjin.com<mailto:hshin@hanjin.com>>, MD(Myung-Deok) CHO <mdcho@hanjin.com<mailto:mdcho@hanjin.com>>
+Subject : RFS / MV. ELAN Fixture & Request
+TO: COV, UOV
+CC: CTF, CTS, CTY, CCE, COL, UOG, USG
+FM: UCC
+
+Dear our colleagues,
+
+We would like to inform you that we had fixed subject vessel for replacing
+m/v Evolution to be repaired main engine.
+
+Please refer to below terms and conditions for your reference.
+
+1. M/V Elan  - Fixing Terms
+
+   1) Delivery & Redelivery : Elan to go on-hire at charterers first loadberth Hamburg
+      on commencement of cargo loading, and to be redelivered at charterers last
+      discharge-berth in Hamburg on completion of discharge.
+
+     Owners will duly instruct masters of Mv Elan not to commence loading until
+     mv Evolution has completed discharge except for Charterer's request and approval,
+     and the other way around.
+
+   2) Period: one or two roundtrips (or as long as mv Evolution can not resume service),
+      commencing 24.11 after  discharge of mv Evolution at Hamburg.
+
+   3) Hire : 6,150.- EURO
+
+   4) Bunker : B.O.D & B.O.R about same qtty terms (abt. 190 mt IFO 380 cst LS)
+
+   5) Off/On Hire for m/v Evolution;
+
+      Evolution to go off-hire at charterers last discharge-berth in Hamburg on completion of
+      discharge and to be delivered again in charterers service at charterer's first loadberth in
+      Hamburg on commencement of cargo loading.
+
+2. Reference & request
+
+  1) On/Off Hire Survey: to be only applied Bunker Q'ty by Master's figure. UOV Team have to
+     monitor bunker consumption strictly until redelivery.
+     In addition, Please arrange LSFO bunker  at the cheapest port to match the delivering bunker
+     , but not greater than BOD, if possible.
+  2) Relevant Documents, Certificates & frawing will be sent to COV & UOV soon.
+  3) Conatct details both shipowner and broker will the same as m/v Evolution.
+  4) All relevant parties should arrange berths to be on-hire/off-hire without fail.
+  5) should you have any question, please contact UCC & CTF at any time.
+
+
+Best Regards,
+
+
+D.O(Dong-Ok) Lee
+General Manager
+Hanjin Shipping, Hamburg(UCC)
+_________________________
+Phone: (49) 040 37 685 - 555
+Fax: (49) 040 37 685 - 560
+Mobile: (49) 0175-723 68 09
+E-Mail: dolee@hanjin.com<mailto:dolee@hanjin.com>
+
+
+--_000_9560940D892F9E42880DF880C657A4BC038145eow380ehanjincom_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 12 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Gulim;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Malgun gothic";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Gulim;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"\D48D\C120 \B3C4\C6C0\B9D0 \D14D\C2A4\D2B8 Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:Gulim;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.Char
+	{mso-style-name:"\D48D\C120 \B3C4\C6C0\B9D0 \D14D\C2A4\D2B8 Char";
+	mso-style-priority:99;
+	mso-style-link:"\D48D\C120 \B3C4\C6C0\B9D0 \D14D\C2A4\D2B8";
+	font-family:Gulim;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:85.05pt 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">TO: UCC<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">FM: UOV<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Pls be informed that it has been duly informed to surveyor, master of M/V ELAN &amp; HAMBBO.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Bunker survey will be held
+</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">while lying at 1st Loading Terminal&nbsp;(HHLA).<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">C/sked, HNEN &amp; OPRG<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="FR" style="font-size:10.0pt;font-family:&quot;Courier New&quot;">VoyNo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Port&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;ETA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;ETD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">--------------------------------------------------------------------------<br>
+HNEN0010S&nbsp;&nbsp; DEHAM D6&nbsp; 2013-11-24 09:00 2013-11-24 12:00 2013-11-24 20:00 discharge only<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">HNEN0010S&nbsp;&nbsp; DEHAM Y1&nbsp; 2013-11-24 20:30 2013-11-24 21:00 2013-11-25 06:00 discharge only<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;;color:red">OPRG0010S&nbsp;&nbsp; DEHAM D6&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2013-11-25 05:30 2013-11-25 12:00 *loading only<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">OPRG0010S&nbsp;&nbsp; DEHAM Y1&nbsp; 2013-11-25 12:30 2013-11-25 13:00 2013-11-25 19:00 &nbsp;loading only<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">OPRG0010S&nbsp;&nbsp; DEKEL &nbsp; &nbsp;&nbsp;2013-11-26 01:00 2013-11-26 02:00 2013-11-26 13:00<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">OPRG0010S&nbsp;&nbsp; RULED Y1&nbsp; 2013-11-29 03:30 2013-11-29 05:30 2013-11-29 17:30&nbsp; ON PF<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">OPRG0010S&nbsp;&nbsp; RULED TP&nbsp; 2013-11-29 22:00 2013-11-30 01:00 2013-11-30 12:00<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">OPRG0010S&nbsp;&nbsp; FIKTK &nbsp; &nbsp;&nbsp;2013-12-02 04:00 2013-12-02 06:00 2013-12-02 14:00<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">OPRG0010S&nbsp;&nbsp; DEKEL &nbsp; &nbsp;&nbsp;2013-12-04 17:00 2013-12-04 18:00 2013-12-05 01:00<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">* Loading OPRG will start on completion discharge HNEN only.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">D6: HAM HHLA<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">Y1: HAM EUROGATE<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">B.rgds/ UOV<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div style="border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Dong-Ok LEE
+<br>
+<b>Sent:</b> Tuesday, November 19, 2013 8:59 AM<br>
+<b>To:</b> Ralf BOTHE; Kwang-Kuk CHOI; Sang-Shik KIM; Holger VOSS; Daniel CARL; Julian Matzner; Christof HEUSER; Axel zum BROCK; Bernd FETTKENHAUER; Capt. J. BORCHERDING; Chull Hong KIM; Joern ULRICH; Jes Tom REGNER; Stefan PREISSNER; Frank SCHWASTA; Nigel
+ K.POTTER; Mark SCHENK; Seung Ah LEE; M. REUTHER; Leif KABELSTROEM; Wolf BOLINGER; Ara(A-RA) CHO; Tobias HEIFLER; B. S. PARK; Sven DERLIEN; Bernadett KAEPPLER; Tom Stern; DONG-IL HWANG; KA-Sung Kim; Jung -Woo LEE; BYEONG IL MO; Il-Sun Baek; SK(Seung-Kwon) Kim;
+ Jeremy(Jee-Young) YOO; Jin-Seon Kim; Kyu-Man KIM; Dong-Cheol Kim; Jung-Han YOON; Kwang-Hyun LEE; Young-Hwan CHOI; Sang-Won JEONG; Won CHO; Jae-Yun Lee; Jin-Gi Jeong; Jong-Wan Kim; Jeung-Uk Ryu; Hyun Joo Lee; JK(Jae-Kyeong) JEON; Daniel(Se-Chul) KIM; Ki-Hyuk
+ LEE; Mi-On KIM; Jae-Nam Byun; Nara Lee; Hyo-San KIM; Bo Hee Lee; Yongjin Cho; Young-Jun LIM; HH(Han-Hoe) KIM; Sung-Tae NA; Hae-Sung SHIN; Seon-Ju BAEK; Joon-Mo Shin; Jung-Min Lee; Philip(Kwang-Phil) LEE; Cheon-Won PACK; SH(Seung-Hun) OH; Sung-Hwan JUNG; C.
+ W. LEE; Seok-Won KIM; Young HONG; Yun-Jin Son; Won-Seok CHUNG; Su Leng SEET; Seung-Min PARK; Nam-Hoon BAIK; SUK-HWAN JUNG; Woojung Kim; Daisy(Ji-Kyong) BHANG; TH(Tae-Hoon) AN; Sang-Jin HAN; Yoo-Kyung KIM; Aram KIM; Lloyd(Woosik) Yang; Luth(Kyung-Won) CHOI;
+ Christian MEIERS; Nils SCHILLING<br>
+<b>Cc:</b> DH(Don-Ho) LEE; Kooks(Kook-Shin) KIM; KD(Kwang-Dae) KIM; Sang-Pil MOON; Chul-Heui KIM; Kuk-Jong Lee; Gi-Hyun KWON; SANG-GEON YUN; Alex(Tae-Soo) KIM; Jerry(Hee-Sung) SHIN; MD(Myung-Deok) CHO<br>
+<b>Subject:</b> RE: RFS / MV. ELAN Fixture &amp; Request<o:p></o:p></span></p>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<div id="ezFormProc_div">
+<div id="msgbody">
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">To: UOV<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">From: UCC<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Dear our colleageus,<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">We would like to inform you that both Owner and Charterer had already agreed with arraing bunker<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">survey for M/V Elan as follows;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">*.&nbsp;Surveyor Company: Kapitaen H.J. Moeller und Partner<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><br>
+&nbsp;&nbsp; - Cost: est. lump sum rate for bunker survey : 350.00 Euro<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (based on hourly rate of 97.85 Euro, see attachment)<br>
+&nbsp;&nbsp; - Person in charge : Mr. Dominik&nbsp; Schmidt<br>
+&nbsp;&nbsp; - Tel no: &#43;49 40 38 65 83 80<br>
+&nbsp;&nbsp; - E-mail no : <a href="mailto:office@moeller-expert.com" target="_blank">office@moeller-expert.com</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:dominik.schmidt@moeller-expert.com" target="_blank">
+dominik.schmidt@moeller-expert.com</a><br>
+&nbsp;&nbsp; - Address : Cuxhavener Str. 36, 21149 Hamburg<o:p></o:p></span></p>
+</div>
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">All expenses relating to on-off survey will be shared equally by both parties. Please arrange survey<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">while lying at 1st Loading Terminal&nbsp;(HALLA) as usual.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+</div>
+<div id="MailSignSent">
+<div id="kaoni_sign1">
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Best Regards,<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">D.O(Dong-Ok) Lee<br>
+General Manager<br>
+Hanjin Shipping, Hamburg(UCC)<br>
+_________________________<br>
+Phone: (49) 040 37 685 - 555<br>
+Fax: (49) 040 37 685 - 560<br>
+Mobile: (49) 0175-723 68 09<br>
+E-Mail: <a href="mailto:dolee@hanjin.com" target="_blank">dolee@hanjin.com</a><o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div>
+<div class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">
+<hr size="2" width="100%" align="center">
+</span></div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">From :
+</span></b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">&quot;Dong-Ok LEE&quot; &lt;<a href="mailto:dolee@hanjin.com">dolee@hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-15 16:35:59 ( &#43;01:00 )<br>
+<b>To : </b>Ralf BOTHE &lt;<a href="mailto:ralf.bothe@de.hanjin.com">ralf.bothe@de.hanjin.com</a>&gt;, Kwang-Kuk CHOI &lt;<a href="mailto:kkchoi@hanjin.com">kkchoi@hanjin.com</a>&gt;, Sang-Shik KIM &lt;<a href="mailto:sskim1@hanjin.com">sskim1@hanjin.com</a>&gt;, Holger VOSS
+ &lt;<a href="mailto:holger.voss@de.hanjin.com">holger.voss@de.hanjin.com</a>&gt;, Daniel CARL &lt;<a href="mailto:daniel.carl@de.hanjin.com">daniel.carl@de.hanjin.com</a>&gt;, Julian Matzner &lt;<a href="mailto:julian.matzner@de.hanjin.com">julian.matzner@de.hanjin.com</a>&gt;,
+ Christof HEUSER &lt;<a href="mailto:christof.heuser@de.hanjin.com">christof.heuser@de.hanjin.com</a>&gt;, Axel zum BROCK &lt;<a href="mailto:axel.zum.brock@de.hanjin.com">axel.zum.brock@de.hanjin.com</a>&gt;, Bernd FETTKENHAUER &lt;<a href="mailto:bernd.fettkenhauer@de.hanjin.com">bernd.fettkenhauer@de.hanjin.com</a>&gt;,
+ Capt. J. BORCHERDING &lt;<a href="mailto:joachim.borcherding@de.hanjin.com">joachim.borcherding@de.hanjin.com</a>&gt;, Chull Hong KIM &lt;<a href="mailto:chkim@de.hanjin.com">chkim@de.hanjin.com</a>&gt;, Joern ULRICH &lt;<a href="mailto:joern.ulrich@de.hanjin.com">joern.ulrich@de.hanjin.com</a>&gt;,
+ Jes Tom REGNER &lt;<a href="mailto:jes.regner@de.hanjin.com">jes.regner@de.hanjin.com</a>&gt;, Stefan PREISSNER &lt;<a href="mailto:stefan.preissner@de.hanjin.com">stefan.preissner@de.hanjin.com</a>&gt;, Frank SCHWASTA &lt;<a href="mailto:frank.schwasta@de.hanjin.com">frank.schwasta@de.hanjin.com</a>&gt;,
+ Nigel K.POTTER &lt;<a href="mailto:nigel.potter@de.hanjin.com">nigel.potter@de.hanjin.com</a>&gt;, Mark SCHENK &lt;<a href="mailto:mark.schenk@de.hanjin.com">mark.schenk@de.hanjin.com</a>&gt;, Seung Ah LEE &lt;<a href="mailto:seung-ah.lee@de.hanjin.com">seung-ah.lee@de.hanjin.com</a>&gt;,
+ M. REUTHER &lt;<a href="mailto:peter.michael.reuther@de.hanjin.com">peter.michael.reuther@de.hanjin.com</a>&gt;, Leif KABELSTROEM &lt;<a href="mailto:leif.kabelstroem@de.hanjin.com">leif.kabelstroem@de.hanjin.com</a>&gt;, Wolf BOLINGER &lt;<a href="mailto:wolf.bolinger@de.hanjin.com">wolf.bolinger@de.hanjin.com</a>&gt;,
+ Ara(A-RA) CHO &lt;<a href="mailto:archo@hanjin.com">archo@hanjin.com</a>&gt;, Tobias HEIFLER &lt;<a href="mailto:tobias.heifler@de.hanjin.com">tobias.heifler@de.hanjin.com</a>&gt;, B. S. PARK &lt;<a href="mailto:b.s.park@de.hanjin.com">b.s.park@de.hanjin.com</a>&gt;, Sven DERLIEN
+ &lt;<a href="mailto:sven.derlien@de.hanjin.com">sven.derlien@de.hanjin.com</a>&gt;, Bernadett KAEPPLER &lt;<a href="mailto:bernadett.kaeppler@de.hanjin.com">bernadett.kaeppler@de.hanjin.com</a>&gt;, Tom Stern &lt;<a href="mailto:tom.stern@de.hanjin.com">tom.stern@de.hanjin.com</a>&gt;,
+ DONG-IL HWANG &lt;<a href="mailto:dihwang@hanjin.com">dihwang@hanjin.com</a>&gt;, KA-Sung Kim &lt;<a href="mailto:kks@hanjin.com">kks@hanjin.com</a>&gt;, Jung -Woo LEE &lt;<a href="mailto:jwlee1@hanjin.com">jwlee1@hanjin.com</a>&gt;, BYEONG IL MO &lt;<a href="mailto:bimo@hanjin.com">bimo@hanjin.com</a>&gt;,
+ Il-Sun Baek &lt;<a href="mailto:isbaek@hanjin.com">isbaek@hanjin.com</a>&gt;, SK(Seung-Kwon) Kim &lt;<a href="mailto:skkim@hanjin.com">skkim@hanjin.com</a>&gt;, Jeremy(Jee-Young) YOO &lt;<a href="mailto:jyyoo1@hanjin.com">jyyoo1@hanjin.com</a>&gt;, Jin-Seon Kim &lt;<a href="mailto:jskim84@hanjin.com">jskim84@hanjin.com</a>&gt;,
+ Kyu-Man KIM &lt;<a href="mailto:kmkim@hanjin.com">kmkim@hanjin.com</a>&gt;, Dong-Cheol Kim &lt;<a href="mailto:dckim@hanjin.com">dckim@hanjin.com</a>&gt;, Jung-Han YOON &lt;<a href="mailto:jhyoon@hanjin.com">jhyoon@hanjin.com</a>&gt;, Kwang-Hyun LEE &lt;<a href="mailto:khlee@hanjin.com">khlee@hanjin.com</a>&gt;,
+ Young-Hwan CHOI &lt;<a href="mailto:yhchoi85@hanjin.com">yhchoi85@hanjin.com</a>&gt;, Sang-Won JEONG &lt;<a href="mailto:swjeong@hanjin.com">swjeong@hanjin.com</a>&gt;, Won CHO &lt;<a href="mailto:wcho@hanjin.com">wcho@hanjin.com</a>&gt;, Jae-Yun Lee &lt;<a href="mailto:yunlee@hanjin.com">yunlee@hanjin.com</a>&gt;,
+ Jin-Gi Jeong &lt;<a href="mailto:jeongjg@hanjin.com">jeongjg@hanjin.com</a>&gt;, Jong-Wan Kim &lt;<a href="mailto:kjw406@hanjin.com">kjw406@hanjin.com</a>&gt;, Jeung-Uk Ryu &lt;<a href="mailto:juryu@hanjin.com">juryu@hanjin.com</a>&gt;, Hyun Joo Lee &lt;<a href="mailto:lhjteen@hanjin.com">lhjteen@hanjin.com</a>&gt;,
+ JK(Jae-Kyeong) JEON &lt;<a href="mailto:jkjeon@hanjin.com">jkjeon@hanjin.com</a>&gt;, Daniel(Se-Chul) KIM &lt;<a href="mailto:bbk92@hanjin.com">bbk92@hanjin.com</a>&gt;, Ki-Hyuk LEE &lt;<a href="mailto:leekh@hanjin.com">leekh@hanjin.com</a>&gt;, Mi-On KIM &lt;<a href="mailto:meiwen@hanjin.com">meiwen@hanjin.com</a>&gt;,
+ Jae-Nam Byun &lt;<a href="mailto:jnbyun9@hanjin.com">jnbyun9@hanjin.com</a>&gt;, Nara Lee &lt;<a href="mailto:nrlee@hanjin.com">nrlee@hanjin.com</a>&gt;, Hyo-San KIM &lt;<a href="mailto:dream123@hanjin.com">dream123@hanjin.com</a>&gt;, Bo Hee Lee &lt;<a href="mailto:alicelbh@hanjin.com">alicelbh@hanjin.com</a>&gt;,
+ Yongjin Cho &lt;<a href="mailto:yjcho@hanjin.com">yjcho@hanjin.com</a>&gt;, Young-Jun LIM &lt;<a href="mailto:yjlim@hanjin.com">yjlim@hanjin.com</a>&gt;, HH(Han-Hoe) KIM &lt;<a href="mailto:hhkim@hanjin.com">hhkim@hanjin.com</a>&gt;, Sung-Tae NA &lt;<a href="mailto:stna@hanjin.com">stna@hanjin.com</a>&gt;,
+ Hae-Sung SHIN &lt;<a href="mailto:hsshin1@hanjin.com">hsshin1@hanjin.com</a>&gt;, Seon-Ju BAEK &lt;<a href="mailto:sjbaek@hanjin.com">sjbaek@hanjin.com</a>&gt;, Joon-Mo Shin &lt;<a href="mailto:jmshin@hanjin.com">jmshin@hanjin.com</a>&gt;, Jung-Min Lee &lt;<a href="mailto:jungminlee@hanjin.com">jungminlee@hanjin.com</a>&gt;,
+ Philip(Kwang-Phil) LEE &lt;<a href="mailto:philiplee@hanjin.com">philiplee@hanjin.com</a>&gt;, Cheon-Won PACK &lt;<a href="mailto:cwpark@hanjin.com">cwpark@hanjin.com</a>&gt;, SH(Seung-Hun) OH &lt;<a href="mailto:shoh@hanjin.com">shoh@hanjin.com</a>&gt;, Sung-Hwan JUNG &lt;<a href="mailto:jeongsh@hanjin.com">jeongsh@hanjin.com</a>&gt;,
+ C. W. LEE &lt;<a href="mailto:cwleea@hanjin.com">cwleea@hanjin.com</a>&gt;, Seok-Won KIM &lt;<a href="mailto:swkima@hanjin.com">swkima@hanjin.com</a>&gt;, Young HONG &lt;<a href="mailto:yhong@hanjin.com">yhong@hanjin.com</a>&gt;, Yun-Jin Son &lt;<a href="mailto:yjson@hanjin.com">yjson@hanjin.com</a>&gt;,
+ Won-Seok CHUNG &lt;<a href="mailto:wonchung@hanjin.com">wonchung@hanjin.com</a>&gt;, Su Leng SEET &lt;<a href="mailto:slseet@sg.hanjin.com">slseet@sg.hanjin.com</a>&gt;, Seung-Min PARK &lt;<a href="mailto:sminpark@hanjin.com">sminpark@hanjin.com</a>&gt;, Nam-Hoon BAIK &lt;<a href="mailto:hunt72@hanjin.com">hunt72@hanjin.com</a>&gt;,
+ SUK-HWAN JUNG &lt;<a href="mailto:ch021@hanjin.com">ch021@hanjin.com</a>&gt;, Woojung Kim &lt;<a href="mailto:wjkim@hanjin.com">wjkim@hanjin.com</a>&gt;, Daisy(Ji-Kyong) BHANG &lt;<a href="mailto:jkbhang@hanjin.com">jkbhang@hanjin.com</a>&gt;, TH(Tae-Hoon) AN &lt;<a href="mailto:than@hanjin.com">than@hanjin.com</a>&gt;,
+ Sang-Jin HAN &lt;<a href="mailto:sjhan@hanjin.com">sjhan@hanjin.com</a>&gt;, Yoo-Kyung KIM &lt;<a href="mailto:kimyk@hanjin.com">kimyk@hanjin.com</a>&gt;, Aram KIM &lt;<a href="mailto:aram@hanjin.com">aram@hanjin.com</a>&gt;, Lloyd(Woosik) Yang &lt;<a href="mailto:shakin@hanjin.com">shakin@hanjin.com</a>&gt;,
+ Luth(Kyung-Won) CHOI &lt;<a href="mailto:luthchoi@hanjin.com">luthchoi@hanjin.com</a>&gt;, Christian MEIERS &lt;<a href="mailto:Christian.Meiers@de.hanjin.com">Christian.Meiers@de.hanjin.com</a>&gt;, Nils SCHILLING &lt;<a href="mailto:nils.schilling@de.hanjin.com">nils.schilling@de.hanjin.com</a>&gt;<br>
+<b>Cc : </b>DH(Don-Ho) LEE &lt;<a href="mailto:leedh@de.hanjin.com">leedh@de.hanjin.com</a>&gt;, Kooks(Kook-Shin) KIM &lt;<a href="mailto:kookskim@hanjin.com">kookskim@hanjin.com</a>&gt;, KD(Kwang-Dae) KIM &lt;<a href="mailto:kdkim@hanjin.com">kdkim@hanjin.com</a>&gt;, Sang-Pil
+ MOON &lt;<a href="mailto:spmoon@hanjin.com">spmoon@hanjin.com</a>&gt;, Chul-Heui KIM &lt;<a href="mailto:chkim@hanjin.com">chkim@hanjin.com</a>&gt;, Kuk-Jong Lee &lt;<a href="mailto:kjlee@hanjin.com">kjlee@hanjin.com</a>&gt;, Gi-Hyun KWON &lt;<a href="mailto:khkwon@hanjin.com">khkwon@hanjin.com</a>&gt;,
+ SANG-GEON YUN &lt;<a href="mailto:sgyun@hanjin.com">sgyun@hanjin.com</a>&gt;, Alex(Tae-Soo) KIM &lt;<a href="mailto:tskim@hanjin.com">tskim@hanjin.com</a>&gt;, Jerry(Hee-Sung) SHIN &lt;<a href="mailto:hshin@hanjin.com">hshin@hanjin.com</a>&gt;, MD(Myung-Deok) CHO &lt;<a href="mailto:mdcho@hanjin.com">mdcho@hanjin.com</a>&gt;<br>
+<b>Subject : </b>RE: RFS / MV. ELAN Fixture &amp; Request<o:p></o:p></span></p>
+</div>
+<div id="ezFormProc_div">
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">To: UOV<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">From:UCC<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Further to below message, please investigate bunker survey company and estimated&nbsp;survey fees<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">for M/V Elan so as to decide on whether we will arrange survey or use master's figure.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Have a good day.<o:p></o:p></span></p>
+</div>
+<div id="MailSignSentSent">
+<div id="kaoni_sign1">
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Best Regards,<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">D.O(Dong-Ok) Lee<br>
+General Manager<br>
+Hanjin Shipping, Hamburg(UCC)<br>
+_________________________<br>
+Phone: (49) 040 37 685 - 555<br>
+Fax: (49) 040 37 685 - 560<br>
+Mobile: (49) 0175-723 68 09<br>
+E-Mail: <a href="mailto:dolee@hanjin.com" target="_blank">dolee@hanjin.com</a><o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div>
+<div class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">
+<hr size="2" width="100%" align="center">
+</span></div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">From :
+</span></b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">&quot;Dong-Ok LEE&quot; &lt;<a href="mailto:dolee@hanjin.com">dolee@hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-15 10:12:34 ( &#43;01:00 )<br>
+<b>To : </b>Ralf BOTHE &lt;<a href="mailto:ralf.bothe@de.hanjin.com">ralf.bothe@de.hanjin.com</a>&gt;, Kwang-Kuk CHOI &lt;<a href="mailto:kkchoi@hanjin.com">kkchoi@hanjin.com</a>&gt;, Sang-Shik KIM &lt;<a href="mailto:sskim1@hanjin.com">sskim1@hanjin.com</a>&gt;, Holger VOSS
+ &lt;<a href="mailto:holger.voss@de.hanjin.com">holger.voss@de.hanjin.com</a>&gt;, Daniel CARL &lt;<a href="mailto:daniel.carl@de.hanjin.com">daniel.carl@de.hanjin.com</a>&gt;, Julian Matzner &lt;<a href="mailto:julian.matzner@de.hanjin.com">julian.matzner@de.hanjin.com</a>&gt;,
+ Christof HEUSER &lt;<a href="mailto:christof.heuser@de.hanjin.com">christof.heuser@de.hanjin.com</a>&gt;, Axel zum BROCK &lt;<a href="mailto:axel.zum.brock@de.hanjin.com">axel.zum.brock@de.hanjin.com</a>&gt;, Bernd FETTKENHAUER &lt;<a href="mailto:bernd.fettkenhauer@de.hanjin.com">bernd.fettkenhauer@de.hanjin.com</a>&gt;,
+ Capt. J. BORCHERDING &lt;<a href="mailto:joachim.borcherding@de.hanjin.com">joachim.borcherding@de.hanjin.com</a>&gt;, Chull Hong KIM &lt;<a href="mailto:chkim@de.hanjin.com">chkim@de.hanjin.com</a>&gt;, Joern ULRICH &lt;<a href="mailto:joern.ulrich@de.hanjin.com">joern.ulrich@de.hanjin.com</a>&gt;,
+ Jes Tom REGNER &lt;<a href="mailto:jes.regner@de.hanjin.com">jes.regner@de.hanjin.com</a>&gt;, Stefan PREISSNER &lt;<a href="mailto:stefan.preissner@de.hanjin.com">stefan.preissner@de.hanjin.com</a>&gt;, Frank SCHWASTA &lt;<a href="mailto:frank.schwasta@de.hanjin.com">frank.schwasta@de.hanjin.com</a>&gt;,
+ Nigel K.POTTER &lt;<a href="mailto:nigel.potter@de.hanjin.com">nigel.potter@de.hanjin.com</a>&gt;, Mark SCHENK &lt;<a href="mailto:mark.schenk@de.hanjin.com">mark.schenk@de.hanjin.com</a>&gt;, Seung Ah LEE &lt;<a href="mailto:seung-ah.lee@de.hanjin.com">seung-ah.lee@de.hanjin.com</a>&gt;,
+ M. REUTHER &lt;<a href="mailto:peter.michael.reuther@de.hanjin.com">peter.michael.reuther@de.hanjin.com</a>&gt;, Leif KABELSTROEM &lt;<a href="mailto:leif.kabelstroem@de.hanjin.com">leif.kabelstroem@de.hanjin.com</a>&gt;, Wolf BOLINGER &lt;<a href="mailto:wolf.bolinger@de.hanjin.com">wolf.bolinger@de.hanjin.com</a>&gt;,
+ Ara(A-RA) CHO &lt;<a href="mailto:archo@hanjin.com">archo@hanjin.com</a>&gt;, Tobias HEIFLER &lt;<a href="mailto:tobias.heifler@de.hanjin.com">tobias.heifler@de.hanjin.com</a>&gt;, B. S. PARK &lt;<a href="mailto:b.s.park@de.hanjin.com">b.s.park@de.hanjin.com</a>&gt;, Sven DERLIEN
+ &lt;<a href="mailto:sven.derlien@de.hanjin.com">sven.derlien@de.hanjin.com</a>&gt;, Bernadett KAEPPLER &lt;<a href="mailto:bernadett.kaeppler@de.hanjin.com">bernadett.kaeppler@de.hanjin.com</a>&gt;, Tom Stern &lt;<a href="mailto:tom.stern@de.hanjin.com">tom.stern@de.hanjin.com</a>&gt;,
+ DONG-IL HWANG &lt;<a href="mailto:dihwang@hanjin.com">dihwang@hanjin.com</a>&gt;, KA-Sung Kim &lt;<a href="mailto:kks@hanjin.com">kks@hanjin.com</a>&gt;, Jung -Woo LEE &lt;<a href="mailto:jwlee1@hanjin.com">jwlee1@hanjin.com</a>&gt;, BYEONG IL MO &lt;<a href="mailto:bimo@hanjin.com">bimo@hanjin.com</a>&gt;,
+ Il-Sun Baek &lt;<a href="mailto:isbaek@hanjin.com">isbaek@hanjin.com</a>&gt;, SK(Seung-Kwon) Kim &lt;<a href="mailto:skkim@hanjin.com">skkim@hanjin.com</a>&gt;, Jeremy(Jee-Young) YOO &lt;<a href="mailto:jyyoo1@hanjin.com">jyyoo1@hanjin.com</a>&gt;, Jin-Seon Kim &lt;<a href="mailto:jskim84@hanjin.com">jskim84@hanjin.com</a>&gt;,
+ Kyu-Man KIM &lt;<a href="mailto:kmkim@hanjin.com">kmkim@hanjin.com</a>&gt;, Dong-Cheol Kim &lt;<a href="mailto:dckim@hanjin.com">dckim@hanjin.com</a>&gt;, Jung-Han YOON &lt;<a href="mailto:jhyoon@hanjin.com">jhyoon@hanjin.com</a>&gt;, Kwang-Hyun LEE &lt;<a href="mailto:khlee@hanjin.com">khlee@hanjin.com</a>&gt;,
+ Young-Hwan CHOI &lt;<a href="mailto:yhchoi85@hanjin.com">yhchoi85@hanjin.com</a>&gt;, Sang-Won JEONG &lt;<a href="mailto:swjeong@hanjin.com">swjeong@hanjin.com</a>&gt;, Won CHO &lt;<a href="mailto:wcho@hanjin.com">wcho@hanjin.com</a>&gt;, Jae-Yun Lee &lt;<a href="mailto:yunlee@hanjin.com">yunlee@hanjin.com</a>&gt;,
+ Jin-Gi Jeong &lt;<a href="mailto:jeongjg@hanjin.com">jeongjg@hanjin.com</a>&gt;, Jong-Wan Kim &lt;<a href="mailto:kjw406@hanjin.com">kjw406@hanjin.com</a>&gt;, Jeung-Uk Ryu &lt;<a href="mailto:juryu@hanjin.com">juryu@hanjin.com</a>&gt;, Hyun Joo Lee &lt;<a href="mailto:lhjteen@hanjin.com">lhjteen@hanjin.com</a>&gt;,
+ JK(Jae-Kyeong) JEON &lt;<a href="mailto:jkjeon@hanjin.com">jkjeon@hanjin.com</a>&gt;, Daniel(Se-Chul) KIM &lt;<a href="mailto:bbk92@hanjin.com">bbk92@hanjin.com</a>&gt;, Ki-Hyuk LEE &lt;<a href="mailto:leekh@hanjin.com">leekh@hanjin.com</a>&gt;, Mi-On KIM &lt;<a href="mailto:meiwen@hanjin.com">meiwen@hanjin.com</a>&gt;,
+ Jae-Nam Byun &lt;<a href="mailto:jnbyun9@hanjin.com">jnbyun9@hanjin.com</a>&gt;, Nara Lee &lt;<a href="mailto:nrlee@hanjin.com">nrlee@hanjin.com</a>&gt;, Hyo-San KIM &lt;<a href="mailto:dream123@hanjin.com">dream123@hanjin.com</a>&gt;, Bo Hee Lee &lt;<a href="mailto:alicelbh@hanjin.com">alicelbh@hanjin.com</a>&gt;,
+ Yongjin Cho &lt;<a href="mailto:yjcho@hanjin.com">yjcho@hanjin.com</a>&gt;, Young-Jun LIM &lt;<a href="mailto:yjlim@hanjin.com">yjlim@hanjin.com</a>&gt;, HH(Han-Hoe) KIM &lt;<a href="mailto:hhkim@hanjin.com">hhkim@hanjin.com</a>&gt;, Sung-Tae NA &lt;<a href="mailto:stna@hanjin.com">stna@hanjin.com</a>&gt;,
+ Hae-Sung SHIN &lt;<a href="mailto:hsshin1@hanjin.com">hsshin1@hanjin.com</a>&gt;, Seon-Ju BAEK &lt;<a href="mailto:sjbaek@hanjin.com">sjbaek@hanjin.com</a>&gt;, Joon-Mo Shin &lt;<a href="mailto:jmshin@hanjin.com">jmshin@hanjin.com</a>&gt;, Jung-Min Lee &lt;<a href="mailto:jungminlee@hanjin.com">jungminlee@hanjin.com</a>&gt;,
+ Philip(Kwang-Phil) LEE &lt;<a href="mailto:philiplee@hanjin.com">philiplee@hanjin.com</a>&gt;, Cheon-Won PACK &lt;<a href="mailto:cwpark@hanjin.com">cwpark@hanjin.com</a>&gt;, SH(Seung-Hun) OH &lt;<a href="mailto:shoh@hanjin.com">shoh@hanjin.com</a>&gt;, Sung-Hwan JUNG &lt;<a href="mailto:jeongsh@hanjin.com">jeongsh@hanjin.com</a>&gt;,
+ C. W. LEE &lt;<a href="mailto:cwleea@hanjin.com">cwleea@hanjin.com</a>&gt;, Seok-Won KIM &lt;<a href="mailto:swkima@hanjin.com">swkima@hanjin.com</a>&gt;, Young HONG &lt;<a href="mailto:yhong@hanjin.com">yhong@hanjin.com</a>&gt;, Yun-Jin Son &lt;<a href="mailto:yjson@hanjin.com">yjson@hanjin.com</a>&gt;,
+ Won-Seok CHUNG &lt;<a href="mailto:wonchung@hanjin.com">wonchung@hanjin.com</a>&gt;, Su Leng SEET &lt;<a href="mailto:slseet@sg.hanjin.com">slseet@sg.hanjin.com</a>&gt;, Seung-Min PARK &lt;<a href="mailto:sminpark@hanjin.com">sminpark@hanjin.com</a>&gt;, Nam-Hoon BAIK &lt;<a href="mailto:hunt72@hanjin.com">hunt72@hanjin.com</a>&gt;,
+ SH(SUK-HWAN) JUNG &lt;<a href="mailto:ch021@hanjin.com">ch021@hanjin.com</a>&gt;, Woojung Kim &lt;<a href="mailto:wjkim@hanjin.com">wjkim@hanjin.com</a>&gt;, Daisy(Ji-Kyong) BHANG &lt;<a href="mailto:jkbhang@hanjin.com">jkbhang@hanjin.com</a>&gt;, TH(Tae-Hoon) AN &lt;<a href="mailto:than@hanjin.com">than@hanjin.com</a>&gt;,
+ Sang-Jin HAN &lt;<a href="mailto:sjhan@hanjin.com">sjhan@hanjin.com</a>&gt;, Yoo-Kyung KIM &lt;<a href="mailto:kimyk@hanjin.com">kimyk@hanjin.com</a>&gt;, Aram KIM &lt;<a href="mailto:aram@hanjin.com">aram@hanjin.com</a>&gt;, Lloyd(Woosik) Yang &lt;<a href="mailto:shakin@hanjin.com">shakin@hanjin.com</a>&gt;,
+ Luth(Kyung-Won) CHOI &lt;<a href="mailto:luthchoi@hanjin.com">luthchoi@hanjin.com</a>&gt;, Christian MEIERS &lt;<a href="mailto:Christian.Meiers@de.hanjin.com">Christian.Meiers@de.hanjin.com</a>&gt;, Nils SCHILLING &lt;<a href="mailto:nils.schilling@de.hanjin.com">nils.schilling@de.hanjin.com</a>&gt;<br>
+<b>Cc : </b>DH(Don-Ho) LEE &lt;<a href="mailto:leedh@de.hanjin.com">leedh@de.hanjin.com</a>&gt;, Kooks(Kook-Shin) KIM &lt;<a href="mailto:kookskim@hanjin.com">kookskim@hanjin.com</a>&gt;, KD(Kwang-Dae) KIM &lt;<a href="mailto:kdkim@hanjin.com">kdkim@hanjin.com</a>&gt;, Sang-Pil
+ MOON &lt;<a href="mailto:spmoon@hanjin.com">spmoon@hanjin.com</a>&gt;, Chul-Heui KIM &lt;<a href="mailto:chkim@hanjin.com">chkim@hanjin.com</a>&gt;, Kuk-Jong Lee &lt;<a href="mailto:kjlee@hanjin.com">kjlee@hanjin.com</a>&gt;, Gi-Hyun KWON &lt;<a href="mailto:khkwon@hanjin.com">khkwon@hanjin.com</a>&gt;,
+ SANG-GEON YUN &lt;<a href="mailto:sgyun@hanjin.com">sgyun@hanjin.com</a>&gt;, Alex(Tae-Soo) KIM &lt;<a href="mailto:tskim@hanjin.com">tskim@hanjin.com</a>&gt;, Jerry(Hee-Sung) SHIN &lt;<a href="mailto:hshin@hanjin.com">hshin@hanjin.com</a>&gt;, MD(Myung-Deok) CHO &lt;<a href="mailto:mdcho@hanjin.com">mdcho@hanjin.com</a>&gt;<br>
+<b>Subject : </b>RE: RFS / MV. ELAN Fixture &amp; Request<o:p></o:p></span></p>
+</div>
+<div id="ezFormProc_div">
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Dear our collegaues,<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">M/V Evolution will be used by Master' figures with statement of fact for off-hire.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Regarding m/v Elan, we are also planning to use Master's figure so as to save survey fee because<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">we can monitor daily consumption clearly and charter period is very short.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Anyway,&nbsp;we will inform you &nbsp;of final decision next week after discussing with owners.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Have a good day.<o:p></o:p></span></p>
+</div>
+<div id="MailSignSentSentSent">
+<div id="kaoni_sign1">
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Best Regards<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">D.O(Dong-Ok) Lee<br>
+General Manager<br>
+Hanjin Shipping, Hamburg(UCC)<br>
+_________________________<br>
+Phone: (49) 040 37 685 - 555<br>
+Fax: (49) 040 37 685 - 560<br>
+Mobile: (49) 0175-723 68 09<br>
+E-Mail: <a href="mailto:dolee@hanjin.com" target="_blank">dolee@hanjin.com</a><o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div>
+<div class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">
+<hr size="2" width="100%" align="center">
+</span></div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">From :
+</span></b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">&quot;Ralf BOTHE&quot; &lt;<a href="mailto:ralf.bothe@de.hanjin.com">ralf.bothe@de.hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-15 09:33:25 ( &#43;01:00 )<br>
+<b>To : </b>Dong-Ok LEE &lt;<a href="mailto:dolee@hanjin.com">dolee@hanjin.com</a>&gt;, Kwang-Kuk CHOI &lt;<a href="mailto:kkchoi@hanjin.com">kkchoi@hanjin.com</a>&gt;, Sang-Shik KIM &lt;<a href="mailto:sskim1@hanjin.com">sskim1@hanjin.com</a>&gt;, Holger VOSS &lt;<a href="mailto:holger.voss@de.hanjin.com">holger.voss@de.hanjin.com</a>&gt;,
+ Daniel CARL &lt;<a href="mailto:daniel.carl@de.hanjin.com">daniel.carl@de.hanjin.com</a>&gt;, Julian Matzner &lt;<a href="mailto:julian.matzner@de.hanjin.com">julian.matzner@de.hanjin.com</a>&gt;, Christof HEUSER &lt;<a href="mailto:christof.heuser@de.hanjin.com">christof.heuser@de.hanjin.com</a>&gt;,
+ Axel zum BROCK &lt;<a href="mailto:axel.zum.brock@de.hanjin.com">axel.zum.brock@de.hanjin.com</a>&gt;, Bernd FETTKENHAUER &lt;<a href="mailto:bernd.fettkenhauer@de.hanjin.com">bernd.fettkenhauer@de.hanjin.com</a>&gt;, Capt. J. BORCHERDING &lt;<a href="mailto:joachim.borcherding@de.hanjin.com">joachim.borcherding@de.hanjin.com</a>&gt;,
+ Chull Hong KIM &lt;<a href="mailto:chkim@de.hanjin.com">chkim@de.hanjin.com</a>&gt;, Joern ULRICH &lt;<a href="mailto:joern.ulrich@de.hanjin.com">joern.ulrich@de.hanjin.com</a>&gt;, Jes Tom REGNER &lt;<a href="mailto:jes.regner@de.hanjin.com">jes.regner@de.hanjin.com</a>&gt;,
+ Stefan PREISSNER &lt;<a href="mailto:stefan.preissner@de.hanjin.com">stefan.preissner@de.hanjin.com</a>&gt;, Frank SCHWASTA &lt;<a href="mailto:frank.schwasta@de.hanjin.com">frank.schwasta@de.hanjin.com</a>&gt;, Nigel K.POTTER &lt;<a href="mailto:nigel.potter@de.hanjin.com">nigel.potter@de.hanjin.com</a>&gt;,
+ Mark SCHENK &lt;<a href="mailto:mark.schenk@de.hanjin.com">mark.schenk@de.hanjin.com</a>&gt;, Seung Ah LEE &lt;<a href="mailto:seung-ah.lee@de.hanjin.com">seung-ah.lee@de.hanjin.com</a>&gt;, M. REUTHER &lt;<a href="mailto:peter.michael.reuther@de.hanjin.com">peter.michael.reuther@de.hanjin.com</a>&gt;,
+ Leif KABELSTROEM &lt;<a href="mailto:leif.kabelstroem@de.hanjin.com">leif.kabelstroem@de.hanjin.com</a>&gt;, Wolf BOLINGER &lt;<a href="mailto:wolf.bolinger@de.hanjin.com">wolf.bolinger@de.hanjin.com</a>&gt;, Ara(A-RA) CHO &lt;<a href="mailto:archo@hanjin.com">archo@hanjin.com</a>&gt;,
+ Tobias HEIFLER &lt;<a href="mailto:tobias.heifler@de.hanjin.com">tobias.heifler@de.hanjin.com</a>&gt;, B. S. PARK &lt;<a href="mailto:b.s.park@de.hanjin.com">b.s.park@de.hanjin.com</a>&gt;, Sven DERLIEN &lt;<a href="mailto:sven.derlien@de.hanjin.com">sven.derlien@de.hanjin.com</a>&gt;,
+ Bernadett KAEPPLER &lt;<a href="mailto:bernadett.kaeppler@de.hanjin.com">bernadett.kaeppler@de.hanjin.com</a>&gt;, Tom Stern &lt;<a href="mailto:tom.stern@de.hanjin.com">tom.stern@de.hanjin.com</a>&gt;, DONG-IL HWANG &lt;<a href="mailto:dihwang@hanjin.com">dihwang@hanjin.com</a>&gt;,
+ KA-Sung Kim &lt;<a href="mailto:kks@hanjin.com">kks@hanjin.com</a>&gt;, Jung -Woo LEE &lt;<a href="mailto:jwlee1@hanjin.com">jwlee1@hanjin.com</a>&gt;, BYEONG IL MO &lt;<a href="mailto:bimo@hanjin.com">bimo@hanjin.com</a>&gt;, Il-Sun Baek &lt;<a href="mailto:isbaek@hanjin.com">isbaek@hanjin.com</a>&gt;,
+ SK(Seung-Kwon) Kim &lt;<a href="mailto:skkim@hanjin.com">skkim@hanjin.com</a>&gt;, Jeremy(Jee-Young) YOO &lt;<a href="mailto:jyyoo1@hanjin.com">jyyoo1@hanjin.com</a>&gt;, Jin-Seon Kim &lt;<a href="mailto:jskim84@hanjin.com">jskim84@hanjin.com</a>&gt;, Kyu-Man KIM &lt;<a href="mailto:kmkim@hanjin.com">kmkim@hanjin.com</a>&gt;,
+ Dong-Cheol Kim &lt;<a href="mailto:dckim@hanjin.com">dckim@hanjin.com</a>&gt;, Jung-Han YOON &lt;<a href="mailto:jhyoon@hanjin.com">jhyoon@hanjin.com</a>&gt;, Kwang-Hyun LEE &lt;<a href="mailto:khlee@hanjin.com">khlee@hanjin.com</a>&gt;, Young-Hwan CHOI &lt;<a href="mailto:yhchoi85@hanjin.com">yhchoi85@hanjin.com</a>&gt;,
+ Sang-Won JEONG &lt;<a href="mailto:swjeong@hanjin.com">swjeong@hanjin.com</a>&gt;, Won CHO &lt;<a href="mailto:wcho@hanjin.com">wcho@hanjin.com</a>&gt;, Jae-Yun Lee &lt;<a href="mailto:yunlee@hanjin.com">yunlee@hanjin.com</a>&gt;, Jin-Gi Jeong &lt;<a href="mailto:jeongjg@hanjin.com">jeongjg@hanjin.com</a>&gt;,
+ Jong-Wan Kim &lt;<a href="mailto:kjw406@hanjin.com">kjw406@hanjin.com</a>&gt;, Jeung-Uk Ryu &lt;<a href="mailto:juryu@hanjin.com">juryu@hanjin.com</a>&gt;, Hyun Joo Lee &lt;<a href="mailto:lhjteen@hanjin.com">lhjteen@hanjin.com</a>&gt;, JK(Jae-Kyeong) JEON &lt;<a href="mailto:jkjeon@hanjin.com">jkjeon@hanjin.com</a>&gt;,
+ Daniel(Se-Chul) KIM &lt;<a href="mailto:bbk92@hanjin.com">bbk92@hanjin.com</a>&gt;, Ki-Hyuk LEE &lt;<a href="mailto:leekh@hanjin.com">leekh@hanjin.com</a>&gt;, Mi-On KIM &lt;<a href="mailto:meiwen@hanjin.com">meiwen@hanjin.com</a>&gt;, Jae-Nam Byun &lt;<a href="mailto:jnbyun9@hanjin.com">jnbyun9@hanjin.com</a>&gt;,
+ Nara Lee &lt;<a href="mailto:nrlee@hanjin.com">nrlee@hanjin.com</a>&gt;, Hyo-San KIM &lt;<a href="mailto:dream123@hanjin.com">dream123@hanjin.com</a>&gt;, Bo Hee Lee &lt;<a href="mailto:alicelbh@hanjin.com">alicelbh@hanjin.com</a>&gt;, Yongjin Cho &lt;<a href="mailto:yjcho@hanjin.com">yjcho@hanjin.com</a>&gt;,
+ Young-Jun LIM &lt;<a href="mailto:yjlim@hanjin.com">yjlim@hanjin.com</a>&gt;, HH(Han-Hoe) KIM &lt;<a href="mailto:hhkim@hanjin.com">hhkim@hanjin.com</a>&gt;, Sung-Tae NA &lt;<a href="mailto:stna@hanjin.com">stna@hanjin.com</a>&gt;, Hae-Sung SHIN &lt;<a href="mailto:hsshin1@hanjin.com">hsshin1@hanjin.com</a>&gt;,
+ Seon-Ju BAEK &lt;<a href="mailto:sjbaek@hanjin.com">sjbaek@hanjin.com</a>&gt;, Joon-Mo Shin &lt;<a href="mailto:jmshin@hanjin.com">jmshin@hanjin.com</a>&gt;, Jung-Min Lee &lt;<a href="mailto:jungminlee@hanjin.com">jungminlee@hanjin.com</a>&gt;, Philip(Kwang-Phil) LEE &lt;<a href="mailto:philiplee@hanjin.com">philiplee@hanjin.com</a>&gt;,
+ Cheon-Won PACK &lt;<a href="mailto:cwpark@hanjin.com">cwpark@hanjin.com</a>&gt;, SH(Seung-Hun) OH &lt;<a href="mailto:shoh@hanjin.com">shoh@hanjin.com</a>&gt;, Sung-Hwan JUNG &lt;<a href="mailto:jeongsh@hanjin.com">jeongsh@hanjin.com</a>&gt;, C. W. LEE &lt;<a href="mailto:cwleea@hanjin.com">cwleea@hanjin.com</a>&gt;,
+ Seok-Won KIM &lt;<a href="mailto:swkima@hanjin.com">swkima@hanjin.com</a>&gt;, Young HONG &lt;<a href="mailto:yhong@hanjin.com">yhong@hanjin.com</a>&gt;, Yun-Jin Son &lt;<a href="mailto:yjson@hanjin.com">yjson@hanjin.com</a>&gt;, Won-Seok CHUNG &lt;<a href="mailto:wonchung@hanjin.com">wonchung@hanjin.com</a>&gt;,
+ Su Leng SEET &lt;<a href="mailto:slseet@sg.hanjin.com">slseet@sg.hanjin.com</a>&gt;, Seung-Min PARK &lt;<a href="mailto:sminpark@hanjin.com">sminpark@hanjin.com</a>&gt;, Nam-Hoon BAIK &lt;<a href="mailto:hunt72@hanjin.com">hunt72@hanjin.com</a>&gt;, SH(SUK-HWAN) JUNG &lt;<a href="mailto:ch021@hanjin.com">ch021@hanjin.com</a>&gt;,
+ Woojung Kim &lt;<a href="mailto:wjkim@hanjin.com">wjkim@hanjin.com</a>&gt;, Daisy(Ji-Kyong) BHANG &lt;<a href="mailto:jkbhang@hanjin.com">jkbhang@hanjin.com</a>&gt;, TH(Tae-Hoon) AN &lt;<a href="mailto:than@hanjin.com">than@hanjin.com</a>&gt;, Sang-Jin HAN &lt;<a href="mailto:sjhan@hanjin.com">sjhan@hanjin.com</a>&gt;,
+ Yoo-Kyung KIM &lt;<a href="mailto:kimyk@hanjin.com">kimyk@hanjin.com</a>&gt;, Aram KIM &lt;<a href="mailto:aram@hanjin.com">aram@hanjin.com</a>&gt;, Lloyd(Woosik) Yang &lt;<a href="mailto:shakin@hanjin.com">shakin@hanjin.com</a>&gt;, Luth(Kyung-Won) CHOI &lt;<a href="mailto:luthchoi@hanjin.com">luthchoi@hanjin.com</a>&gt;,
+ Christian MEIERS &lt;<a href="mailto:Christian.Meiers@de.hanjin.com">Christian.Meiers@de.hanjin.com</a>&gt;, Nils SCHILLING &lt;<a href="mailto:nils.schilling@de.hanjin.com">nils.schilling@de.hanjin.com</a>&gt;<br>
+<b>Cc : </b>DH(Don-Ho) LEE &lt;<a href="mailto:leedh@de.hanjin.com">leedh@de.hanjin.com</a>&gt;, Kooks(Kook-Shin) KIM &lt;<a href="mailto:kookskim@hanjin.com">kookskim@hanjin.com</a>&gt;, KD(Kwang-Dae) KIM &lt;<a href="mailto:kdkim@hanjin.com">kdkim@hanjin.com</a>&gt;, Sang-Pil
+ MOON &lt;<a href="mailto:spmoon@hanjin.com">spmoon@hanjin.com</a>&gt;, Chul-Heui KIM &lt;<a href="mailto:chkim@hanjin.com">chkim@hanjin.com</a>&gt;, Kuk-Jong Lee &lt;<a href="mailto:kjlee@hanjin.com">kjlee@hanjin.com</a>&gt;, Gi-Hyun KWON &lt;<a href="mailto:khkwon@hanjin.com">khkwon@hanjin.com</a>&gt;,
+ SANG-GEON YUN &lt;<a href="mailto:sgyun@hanjin.com">sgyun@hanjin.com</a>&gt;, Alex(Tae-Soo) KIM &lt;<a href="mailto:tskim@hanjin.com">tskim@hanjin.com</a>&gt;, Jerry(Hee-Sung) SHIN &lt;<a href="mailto:hshin@hanjin.com">hshin@hanjin.com</a>&gt;, MD(Myung-Deok) CHO &lt;<a href="mailto:mdcho@hanjin.com">mdcho@hanjin.com</a>&gt;<br>
+<b>Subject : </b>RE: RFS / MV. ELAN Fixture &amp; Request<o:p></o:p></span></p>
+</div>
+<div id="ezFormProc_div">
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">Good morning,<o:p></o:p></span></p>
+</div>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">we understand that Master of Elan and Evolution will advise bunker quantity for on/off hire.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">Please advise if any further on/off-hire inspection by surveyor shall be arranged or not.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">Many thanks!<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">BRGDS,<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">Ralf Bothe<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><span style="font-family:&quot;Malgun Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div id="ORGMAIL_CONTENT">
+<div>
+<div class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">
+<hr size="2" width="100%" align="center">
+</span></div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">From :
+</span></b><span style="font-family:&quot;Malgun gothic&quot;,&quot;serif&quot;">&quot;Dong-Ok LEE&quot; &lt;<a href="mailto:dolee@hanjin.com">dolee@hanjin.com</a>&gt;<br>
+<b>Sent : </b>2013-11-14 19:50:25 ( &#43;09:00 )<br>
+<b>To : </b>Kwang-Kuk CHOI &lt;<a href="mailto:kkchoi@hanjin.com">kkchoi@hanjin.com</a>&gt;, Sang-Shik KIM &lt;<a href="mailto:sskim1@hanjin.com">sskim1@hanjin.com</a>&gt;, Holger VOSS &lt;<a href="mailto:holger.voss@de.hanjin.com">holger.voss@de.hanjin.com</a>&gt;, Daniel CARL
+ &lt;<a href="mailto:daniel.carl@de.hanjin.com">daniel.carl@de.hanjin.com</a>&gt;, Julian Matzner &lt;<a href="mailto:julian.matzner@de.hanjin.com">julian.matzner@de.hanjin.com</a>&gt;, Christof HEUSER &lt;<a href="mailto:christof.heuser@de.hanjin.com">christof.heuser@de.hanjin.com</a>&gt;,
+ Axel zum BROCK &lt;<a href="mailto:axel.zum.brock@de.hanjin.com">axel.zum.brock@de.hanjin.com</a>&gt;, Bernd FETTKENHAUER &lt;<a href="mailto:bernd.fettkenhauer@de.hanjin.com">bernd.fettkenhauer@de.hanjin.com</a>&gt;, Capt. J. BORCHERDING &lt;<a href="mailto:joachim.borcherding@de.hanjin.com">joachim.borcherding@de.hanjin.com</a>&gt;,
+ Chull Hong KIM &lt;<a href="mailto:chkim@de.hanjin.com">chkim@de.hanjin.com</a>&gt;, Joern ULRICH &lt;<a href="mailto:joern.ulrich@de.hanjin.com">joern.ulrich@de.hanjin.com</a>&gt;, Jes Tom REGNER &lt;<a href="mailto:jes.regner@de.hanjin.com">jes.regner@de.hanjin.com</a>&gt;,
+ Stefan PREISSNER &lt;<a href="mailto:stefan.preissner@de.hanjin.com">stefan.preissner@de.hanjin.com</a>&gt;, Frank SCHWASTA &lt;<a href="mailto:frank.schwasta@de.hanjin.com">frank.schwasta@de.hanjin.com</a>&gt;, Ralf BOTHE &lt;<a href="mailto:ralf.bothe@de.hanjin.com">ralf.bothe@de.hanjin.com</a>&gt;,
+ Nigel K.POTTER &lt;<a href="mailto:nigel.potter@de.hanjin.com">nigel.potter@de.hanjin.com</a>&gt;, Mark SCHENK &lt;<a href="mailto:mark.schenk@de.hanjin.com">mark.schenk@de.hanjin.com</a>&gt;, Seung Ah LEE &lt;<a href="mailto:seung-ah.lee@de.hanjin.com">seung-ah.lee@de.hanjin.com</a>&gt;,
+ M. REUTHER &lt;<a href="mailto:peter.michael.reuther@de.hanjin.com">peter.michael.reuther@de.hanjin.com</a>&gt;, Leif KABELSTROEM &lt;<a href="mailto:leif.kabelstroem@de.hanjin.com">leif.kabelstroem@de.hanjin.com</a>&gt;, Wolf BOLINGER &lt;<a href="mailto:wolf.bolinger@de.hanjin.com">wolf.bolinger@de.hanjin.com</a>&gt;,
+ Ara(A-RA) CHO &lt;<a href="mailto:archo@hanjin.com">archo@hanjin.com</a>&gt;, Tobias HEIFLER &lt;<a href="mailto:tobias.heifler@de.hanjin.com">tobias.heifler@de.hanjin.com</a>&gt;, B. S. PARK &lt;<a href="mailto:b.s.park@de.hanjin.com">b.s.park@de.hanjin.com</a>&gt;, Sven DERLIEN
+ &lt;<a href="mailto:sven.derlien@de.hanjin.com">sven.derlien@de.hanjin.com</a>&gt;, Bernadett KAEPPLER &lt;<a href="mailto:bernadett.kaeppler@de.hanjin.com">bernadett.kaeppler@de.hanjin.com</a>&gt;, Tom Stern &lt;<a href="mailto:tom.stern@de.hanjin.com">tom.stern@de.hanjin.com</a>&gt;,
+ DONG-IL HWANG &lt;<a href="mailto:dihwang@hanjin.com">dihwang@hanjin.com</a>&gt;, KA-Sung Kim &lt;<a href="mailto:kks@hanjin.com">kks@hanjin.com</a>&gt;, Jung -Woo LEE &lt;<a href="mailto:jwlee1@hanjin.com">jwlee1@hanjin.com</a>&gt;, BYEONG IL MO &lt;<a href="mailto:bimo@hanjin.com">bimo@hanjin.com</a>&gt;,
+ Il-Sun Baek &lt;<a href="mailto:isbaek@hanjin.com">isbaek@hanjin.com</a>&gt;, SK(Seung-Kwon) Kim &lt;<a href="mailto:skkim@hanjin.com">skkim@hanjin.com</a>&gt;, Jeremy(Jee-Young) YOO &lt;<a href="mailto:jyyoo1@hanjin.com">jyyoo1@hanjin.com</a>&gt;, Jin-Seon Kim &lt;<a href="mailto:jskim84@hanjin.com">jskim84@hanjin.com</a>&gt;,
+ Kyu-Man KIM &lt;<a href="mailto:kmkim@hanjin.com">kmkim@hanjin.com</a>&gt;, Dong-Cheol Kim &lt;<a href="mailto:dckim@hanjin.com">dckim@hanjin.com</a>&gt;, Jung-Han YOON &lt;<a href="mailto:jhyoon@hanjin.com">jhyoon@hanjin.com</a>&gt;, Kwang-Hyun LEE &lt;<a href="mailto:khlee@hanjin.com">khlee@hanjin.com</a>&gt;,
+ Young-Hwan CHOI &lt;<a href="mailto:yhchoi85@hanjin.com">yhchoi85@hanjin.com</a>&gt;, Sang-Won JEONG &lt;<a href="mailto:swjeong@hanjin.com">swjeong@hanjin.com</a>&gt;, Won CHO &lt;<a href="mailto:wcho@hanjin.com">wcho@hanjin.com</a>&gt;, Jae-Yun Lee &lt;<a href="mailto:yunlee@hanjin.com">yunlee@hanjin.com</a>&gt;,
+ Jin-Gi Jeong &lt;<a href="mailto:jeongjg@hanjin.com">jeongjg@hanjin.com</a>&gt;, Jong-Wan Kim &lt;<a href="mailto:kjw406@hanjin.com">kjw406@hanjin.com</a>&gt;, Jeung-Uk Ryu &lt;<a href="mailto:juryu@hanjin.com">juryu@hanjin.com</a>&gt;, Hyun Joo Lee &lt;<a href="mailto:lhjteen@hanjin.com">lhjteen@hanjin.com</a>&gt;,
+ JK(Jae-Kyeong) JEON &lt;<a href="mailto:jkjeon@hanjin.com">jkjeon@hanjin.com</a>&gt;, Daniel(Se-Chul) KIM &lt;<a href="mailto:bbk92@hanjin.com">bbk92@hanjin.com</a>&gt;, Ki-Hyuk LEE &lt;<a href="mailto:leekh@hanjin.com">leekh@hanjin.com</a>&gt;, Mi-On KIM &lt;<a href="mailto:meiwen@hanjin.com">meiwen@hanjin.com</a>&gt;,
+ Jae-Nam Byun &lt;<a href="mailto:jnbyun9@hanjin.com">jnbyun9@hanjin.com</a>&gt;, Nara Lee &lt;<a href="mailto:nrlee@hanjin.com">nrlee@hanjin.com</a>&gt;, Hyo-San KIM &lt;<a href="mailto:dream123@hanjin.com">dream123@hanjin.com</a>&gt;, Bo Hee Lee &lt;<a href="mailto:alicelbh@hanjin.com">alicelbh@hanjin.com</a>&gt;,
+ Yongjin Cho &lt;<a href="mailto:yjcho@hanjin.com">yjcho@hanjin.com</a>&gt;, Young-Jun LIM &lt;<a href="mailto:yjlim@hanjin.com">yjlim@hanjin.com</a>&gt;, HH(Han-Hoe) KIM &lt;<a href="mailto:hhkim@hanjin.com">hhkim@hanjin.com</a>&gt;, Sung-Tae NA &lt;<a href="mailto:stna@hanjin.com">stna@hanjin.com</a>&gt;,
+ Hae-Sung SHIN &lt;<a href="mailto:hsshin1@hanjin.com">hsshin1@hanjin.com</a>&gt;, Seon-Ju BAEK &lt;<a href="mailto:sjbaek@hanjin.com">sjbaek@hanjin.com</a>&gt;, Joon-Mo Shin &lt;<a href="mailto:jmshin@hanjin.com">jmshin@hanjin.com</a>&gt;, Jung-Min Lee &lt;<a href="mailto:jungminlee@hanjin.com">jungminlee@hanjin.com</a>&gt;,
+ Philip(Kwang-Phil) LEE &lt;<a href="mailto:philiplee@hanjin.com">philiplee@hanjin.com</a>&gt;, Cheon-Won PACK &lt;<a href="mailto:cwpark@hanjin.com">cwpark@hanjin.com</a>&gt;, SH(Seung-Hun) OH &lt;<a href="mailto:shoh@hanjin.com">shoh@hanjin.com</a>&gt;, Sung-Hwan JUNG &lt;<a href="mailto:jeongsh@hanjin.com">jeongsh@hanjin.com</a>&gt;,
+ C. W. LEE &lt;<a href="mailto:cwleea@hanjin.com">cwleea@hanjin.com</a>&gt;, Seok-Won KIM &lt;<a href="mailto:swkima@hanjin.com">swkima@hanjin.com</a>&gt;, Young HONG &lt;<a href="mailto:yhong@hanjin.com">yhong@hanjin.com</a>&gt;, Yun-Jin Son &lt;<a href="mailto:yjson@hanjin.com">yjson@hanjin.com</a>&gt;,
+ Won-Seok CHUNG &lt;<a href="mailto:wonchung@hanjin.com">wonchung@hanjin.com</a>&gt;, Su Leng SEET &lt;<a href="mailto:slseet@sg.hanjin.com">slseet@sg.hanjin.com</a>&gt;, Seung-Min PARK &lt;<a href="mailto:sminpark@hanjin.com">sminpark@hanjin.com</a>&gt;, Nam-Hoon BAIK &lt;<a href="mailto:hunt72@hanjin.com">hunt72@hanjin.com</a>&gt;,
+ SH(SUK-HWAN) JUNG &lt;<a href="mailto:ch021@hanjin.com">ch021@hanjin.com</a>&gt;, Woojung Kim &lt;<a href="mailto:wjkim@hanjin.com">wjkim@hanjin.com</a>&gt;, Daisy(Ji-Kyong) BHANG &lt;<a href="mailto:jkbhang@hanjin.com">jkbhang@hanjin.com</a>&gt;, TH(Tae-Hoon) AN &lt;<a href="mailto:than@hanjin.com">than@hanjin.com</a>&gt;,
+ Sang-Jin HAN &lt;<a href="mailto:sjhan@hanjin.com">sjhan@hanjin.com</a>&gt;, Yoo-Kyung KIM &lt;<a href="mailto:kimyk@hanjin.com">kimyk@hanjin.com</a>&gt;, Aram KIM &lt;<a href="mailto:aram@hanjin.com">aram@hanjin.com</a>&gt;, Lloyd(Woosik) Yang &lt;<a href="mailto:shakin@hanjin.com">shakin@hanjin.com</a>&gt;,
+ Luth(Kyung-Won) CHOI &lt;<a href="mailto:luthchoi@hanjin.com">luthchoi@hanjin.com</a>&gt;<br>
+<b>Cc : </b>Dong-Ok LEE &lt;<a href="mailto:dolee@hanjin.com">dolee@hanjin.com</a>&gt;, DH(Don-Ho) LEE &lt;<a href="mailto:leedh@de.hanjin.com">leedh@de.hanjin.com</a>&gt;, Kooks(Kook-Shin) KIM &lt;<a href="mailto:kookskim@hanjin.com">kookskim@hanjin.com</a>&gt;, KD(Kwang-Dae)
+ KIM &lt;<a href="mailto:kdkim@hanjin.com">kdkim@hanjin.com</a>&gt;, Sang-Pil MOON &lt;<a href="mailto:spmoon@hanjin.com">spmoon@hanjin.com</a>&gt;, Chul-Heui KIM &lt;<a href="mailto:chkim@hanjin.com">chkim@hanjin.com</a>&gt;, Kuk-Jong Lee &lt;<a href="mailto:kjlee@hanjin.com">kjlee@hanjin.com</a>&gt;,
+ Gi-Hyun KWON &lt;<a href="mailto:khkwon@hanjin.com">khkwon@hanjin.com</a>&gt;, SANG-GEON YUN &lt;<a href="mailto:sgyun@hanjin.com">sgyun@hanjin.com</a>&gt;, Alex(Tae-Soo) KIM &lt;<a href="mailto:tskim@hanjin.com">tskim@hanjin.com</a>&gt;, Jerry(Hee-Sung) SHIN &lt;<a href="mailto:hshin@hanjin.com">hshin@hanjin.com</a>&gt;,
+ MD(Myung-Deok) CHO &lt;<a href="mailto:mdcho@hanjin.com">mdcho@hanjin.com</a>&gt;<br>
+<b>Subject : </b>RFS / MV. ELAN Fixture &amp; Request<o:p></o:p></span></p>
+</div>
+<div id="ezFormProc_div">
+<div>
+<div>
+<div id="ezFormProc_div">
+<div>
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">TO: COV, UOV</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">CC: CTF, CTS, CTY, CCE, COL,&nbsp;UOG, USG</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">FM: UCC</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-size:13.5pt;font-family:&quot;Malgun Gothic&quot;">Dear our colleagues,</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-size:13.5pt;font-family:&quot;Malgun Gothic&quot;">We would like to inform you that&nbsp;we had fixed subject vessel for replacing</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-size:13.5pt;font-family:&quot;Malgun Gothic&quot;">m/v Evolution to be repaired main&nbsp;engine.</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-size:13.5pt;font-family:&quot;Malgun Gothic&quot;">Please refer to below terms and conditions for your reference.</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">1. M/V Elan&nbsp;&nbsp;- Fixing Terms</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp; 1) Delivery &amp; Redelivery&nbsp;:&nbsp;Elan to go on-hire&nbsp;at charterers first&nbsp;loadberth Hamburg</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;on commencement&nbsp;of cargo loading, and to be redelivered at charterers last</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;discharge-berth in Hamburg on completion of discharge.</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Owners will duly instruct masters of Mv Elan not&nbsp;to commence loading&nbsp;until<o:p></o:p></span></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; &nbsp;mv Evolution has completed discharge except for Charterer's request and approval,<o:p></o:p></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; &nbsp;and the other way around. <o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp; 2) Period:&nbsp;one or two roundtrips (or as long&nbsp;as&nbsp;mv Evolution can not resume service),</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; commencing 24.11 after&nbsp; discharge of mv&nbsp;Evolution at Hamburg.</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp; &nbsp;3) Hire : 6,150.- EURO</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;4) Bunker : B.O.D &amp; B.O.R about same qtty terms (abt. 190 mt IFO 380 cst LS)</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp; 5) Off/On Hire for m/v Evolution;</span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evolution to go off-hire at charterers last discharge-berth in Hamburg on completion of</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discharge and to be delivered again in charterers service&nbsp;at charterer's first loadberth in</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hamburg on commencement of cargo loading.</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormal">2. Reference &amp; request<o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal">&nbsp; 1) On/Off Hire Survey: to be only applied Bunker Q'ty by Master's figure.&nbsp;UOV&nbsp;Team have to<o:p></o:p></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; monitor bunker consumption strictly until redelivery.<o:p></o:p></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; In addition, Please arrange LSFO bunker&nbsp; at the cheapest port to match the delivering&nbsp;bunker<o:p></o:p></p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; &nbsp;, but not greater than BOD, if possible.<o:p></o:p></p>
+<p class="MsoNormal">&nbsp; 2) Relevant Documents, Certificates &amp; frawing will be sent to COV &amp; UOV soon.<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp; 3) Conatct details both shipowner and broker will the same as m/v Evolution.</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp; 4) All relevant parties should arrange berths&nbsp;to be on-hire/off-hire without fail.</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp;5) should you have any question, please contact UCC &amp; CTF&nbsp;at any time.</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Malgun Gothic&quot;">&nbsp;&nbsp; </span><o:p></o:p></p>
+<p class="MsoNormal">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Best Regards,</span><o:p></o:p></p>
+</div>
+<div id="MailSignSentSentSentSentSent">
+<div id="kaoni_sign1">
+<div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">D.O(Dong-Ok) Lee<br>
+General Manager<br>
+Hanjin Shipping, Hamburg(UCC)<br>
+_________________________<br>
+Phone: (49) 040 37 685 - 555<br>
+Fax: (49) 040 37 685 - 560<br>
+Mobile: (49) 0175-723 68 09<br>
+E-Mail: <a href="mailto:dolee@hanjin.com" target="_blank">dolee@hanjin.com</a><o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_9560940D892F9E42880DF880C657A4BC038145eow380ehanjincom_--

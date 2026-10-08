@@ -1,0 +1,163 @@
+! function() {
+    var t, e, n, r;
+    t = window, e = t, n = t.document, e = window, n = document, r = function() {
+        var t = e.__aip = e.__aip || {},
+            r = n.getElementsByTagName("SCRIPT"),
+            i = /ip(hone|ad|od)/i.test(e.navigator.userAgent) ? parseFloat((/ip(?:hone|ad)(?:.*os\s([\w]+)\slike\smac|;\sopera)/i.exec(e.navigator.userAgent) || ["", ""])[1].replace(/_/g, ".")) : 99,
+            a = function() {
+                try {
+                    return e.top !== e.self
+                } catch (t) {
+                    return !1
+                }
+            }(),
+            o = r[r.length - 1],
+            c = '<!DOCTYPE html>\n\t\t\t<html lang="ko">\n\t\t\t<head>\n\t\t\t<meta charset="utf-8" />\n\t\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge">\n\t\t\t<meta name="viewport" content="width=device-width, initial-scale=1">\n\t\t\t</head>\n\t\t\t<body>\n\t\t\t<script src="//tm.interworksmedia.co.kr/ads.js/%%SlotID%%?pgURL=%%pgURL%%%%RM_EXCLUDE%%&r=' + +new Date + '"><\/script>\n\t\t\t</body>\n\t\t\t</html>',
+            d = 'div[class*="iwm_aip"][data-ad]',
+            l = b().id,
+            s = b().selector,
+            u = function() {
+                var t;
+                try {
+                    JSON.parse(_("pass").replace(/\'/g, '"')), t = !0
+                } catch (e) {
+                    t = !1
+                }
+                return t
+            }(),
+            p = u ? "" : "&excludes=autoplay",
+            h = x("url"),
+            m = x("type");
+        h && m && (e._iwm_ad = {
+            cb: h,
+            cbt: "JX" === m ? 0 : 1,
+            w: 300,
+            h: 250
+        });
+        var f = t.guid || +new Date,
+            g = function(t, e) {
+                return {}.hasOwnProperty.call(t, e)
+            },
+            v = function(t, e) {
+                var r = t.split(/[.#]/g),
+                    i = n.createElement(r[0]),
+                    a = [r[1], f, "__"].join("");
+                for (var o in t.indexOf("#") >= 0 ? i.id = a : i.className = a, e) g(e, o) && (i[o] = e[o]);
+                return i
+            },
+            y = function(t) {
+                t && t.parentNode && t.parentNode.removeChild(t)
+            },
+            w = function(t, e) {
+                e && e.parentNode.insertBefore(t, e.nextSibling)
+            };
+
+        function _(t, e) {
+            void 0 === e && (e = !1);
+            var n = document.querySelector(d);
+            return n[(e ? "remove" : "get") + "Attribute"]("data-" + t)
+        }
+
+        function b() {
+            return JSON.parse(_("ad").replace(/\'/g, '"'))
+        }
+
+        function x(t, e) {
+            void 0 === e && (e = !1);
+            var n = document.querySelector(d);
+            return n[(e ? "remove" : "get") + "Attribute"]("pb" + t)
+        }! function(t) {
+            if (i < 10) return t(!1);
+            var e = v("VIDEO", {
+                src: "//cdn.interworksmedia.co.kr/assets/autoplay.mp4",
+                muted: !0,
+                autoplay: !1
+            });
+            e.setAttribute("style", "width:0;height:0;display:none"), e.setAttribute("playsinline", ""), e.setAttribute("webkit-playsinline", ""), (n.body || n.getElementsByTagName("BODY")[0]).appendChild(e);
+            var r = e.play();
+            r ? r.then(function() {
+                return e.pause(), e.src = "", !0
+            }).catch(function() {
+                return !1
+            }).then(function(n) {
+                y(e), t(n)
+            }) : (y(e), t(!1))
+        }(function(r) {
+            r ? (p = "", n.querySelector(d).setAttribute("data-ad-status", "3")) : ("" !== p && (p = "&excludes=autoplay"), n.querySelector(d).setAttribute("data-ad-status", "2"));
+            var i = v("DIV.__ix__wrap__"),
+                u = v("DIV.__ix__cont__"),
+                h = v("IFRAME.__ix__main__", {
+                    width: "100%",
+                    height: "100%",
+                    frameBorder: "0",
+                    marginWidth: "0",
+                    marginHeight: "0",
+                    scrolling: "no"
+                });
+            u.appendChild(h), i.appendChild(u), s && (n.querySelector(d).style.display = "none", _("ad", !0), d = s);
+            var m, g = function(t) {
+                var e, n, r, i = v("A", {
+                        href: o.src
+                    }).search.substring(1).split("&"),
+                    a = {};
+                if ("" === i[0]) return a;
+                for (var c = -1, d = i.length; ++c < d;) e = i[c].split("="), n = decodeURIComponent(e[0]), r = decodeURIComponent(e[1]), a[n] ? "string" == typeof a[n] ? a[n] = [a[n], r] : a[n].push(r) : a[n] = r;
+                return a
+            }();
+            if ("" !== d && "idx" in g) m = n.querySelectorAll(d), w(i, g.idx < 0 ? m[g.idx + m.length] : m[g.idx]);
+            else {
+                if (m = n.querySelector(d), "" != s) {
+                    var y = n.querySelectorAll("#article > br");
+                    var articlelen = y.length <= 12 ? y.length - 1 : 12
+                    m = y[articlelen]
+                }
+                m && w(i, m)
+            }
+            var b, x, A, E = i;
+            i.setAttribute("style", "width:100%!important;text-align:center;padding:5px 0;"), u.setAttribute("style", [r ? "width:100%!important;" : "width:300px!important;height:250px!important;", "display:inline-block!important;margin:0 auto;"].join("")), r && (u.style.height = Math.floor(u.offsetWidth / 6 * 5) + "px"), b = a ? e.top : e, x = "scroll", A = function(t, e) {
+                e = e || 33;
+                var n = +new Date;
+                return function() {
+                    var r = [].slice.call(arguments),
+                        i = +new Date;
+                    n + e - i < 0 && (n = +new Date, t.apply(this, r))
+                }
+            }(function() {
+                var t, n;
+                ! function(t, e, n) {
+                    t && t.postMessage(e, n)
+                }(h.contentWindow, function(t, n) {
+                    n = n || .45;
+                    var r = t.getBoundingClientRect().top,
+                        i = r + t.clientHeight,
+                        o = Math.floor(t.clientHeight * n);
+                    return r + o > 0 && i - o <= (a ? e.top : e).innerHeight ? "play" : "pause"
+                }(E), (n = v("A", {
+                    href: t = t || e.location.href
+                }), [n.protocol, "//", n.host].join("")))
+            }, 50), b.addEventListener ? b.addEventListener(x, A, !1) : b.attachEvent ? b.attachEvent("on" + x, A) : b["on" + x] = A;
+            var D = function() {
+                var t = h.contentWindow.document;
+                t && (t.open(), t.write(c.replace("%%SlotID%%", l).replace("%%pgURL%%", escape(function() {
+                    var t, e = window,
+                        n = "",
+                        r = "";
+                    do {
+                        t = e;
+                        try {
+                            n = t.location.href, r = t.document && t.document.referrer || "", e = t.parent
+                        } catch (t) {
+                            n = "", e = null
+                        }
+                    } while (e && t != e);
+                    return n || r
+                }())).replace("%%RM_EXCLUDE%%", p)), t.close())
+            };
+            try {
+                D(), _("ad", !0)
+            } catch (e) {
+                t[f] = D, h.src = ["javascript:(function(){document.write('<script>try{document.domain=\"", n.domain, '";parent.window.__aip["', f, "\"]();}catch(e){}<\/script>')})()"].join("")
+            }
+        })
+    }, "loading" !== n.readyState ? r() : n.addEventListener("DOMContentLoaded", r)
+}();

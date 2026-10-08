@@ -1,0 +1,212 @@
+var mobStorage = {
+    load: function (key) {
+        return window.localStorage.getItem(key);
+    },
+    save: function (key, value) {
+        window.localStorage.setItem(key, value);
+    },
+    clear: function () {
+        window.localStorage.clear();
+    }
+}
+var iBot_ref_url = document.referrer;
+
+var mobCookie = {
+    load: function (cName) {
+        cName = cName + '=';
+        var cookieData = document.cookie;
+        var start = cookieData.indexOf(cName);
+        var cValue = '';
+        if (start != -1) {
+            start += cName.length;
+            var end = cookieData.indexOf(';', start);
+            if (end == -1)
+                end = cookieData.length;
+            cValue = cookieData.substring(start, end);
+        }
+        return unescape(cValue).replaceAll("\"","");
+    },
+    save: function (c_name, c_value, exdays) {
+        var exdate = new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value = escape(c_value)
+            + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+        document.cookie = c_name + "=" + c_value
+            + '; domain=.mediacategory.com; path=/ ; secure; samesite;';
+    },
+    remove: function (cName) {
+        mobCookie.save(cName, "", -1);
+    }
+}
+
+function isActive(typeArr, value) {
+    for (var i = 0; typeArr.length > i; i++) {
+        if (value.indexOf(typeArr[i]) != -1)
+            return true;
+    }
+    return false;
+}
+
+function isNotEmpty(value) {
+    if (value == null || value == "" || value == "null"
+        || typeof value == "undefined" || value == "undefined"
+        || value == undefined)
+        return false;
+    else
+        return true;
+}
+(function (window) {
+    'use strict';
+    var debug = false,
+        baseName = 'MobonStorage',
+        makeMethod = 'run',
+        MobonStorage = function () {
+            if(this._isSafari()){
+                this._init();
+                this._construct();
+            }
+        };
+    MobonStorage.prototype = {
+        _init: function () {
+            this.targetID = "au_id";
+            this.targetIP = "IP_info";
+        },
+        _construct: function () {
+            var mobStorageUseYN = true; //추후 프로퍼티로 ON/OFF 제어
+            if (mobStorageUseYN) {
+                this.cookieSdkYn = mobCookie.load("sdk_yn");
+                var jsonProtoType = JSON.parse(mobStorage.load("mob_protoType"));
+                if (jsonProtoType != null) {
+                    this.lSAuid = jsonProtoType.au_id;
+                    this.lSIpinfo = jsonProtoType.IP_info;
+                }else{
+                    this.lSAuid = "";
+                    this.lSIpinfo = "";
+                }
+                this.cookieAuid = mobCookie.load(this.targetID);
+                this.cookieIpinfo = mobCookie.load(this.targetIP);
+
+                this._register(this.lSAuid, this.lSIpinfo, this.cookieAuid, this.cookieIpinfo, this.cookieSdkYn);
+            } else {
+                // this.clear();
+            }
+        },
+        _register: function (lSAuid, lSIpinfo, cookieAuid, cookieIpinfo, cookieSdkYn) {
+            // sdk 예외처리
+            if (isNotEmpty(cookieSdkYn)) {
+                mobStorage.save(this.targetID, cookieAuid);
+                mobCookie.remove('sdk_yn');
+            } else {
+                if (isNotEmpty(cookieAuid)) {
+                    if (isNotEmpty(lSAuid)) {
+                        if (lSAuid != cookieAuid) {
+                            mobCookie.save(this.targetID, lSAuid, 60 * 20);
+                            mobCookie.save(this.targetIP, lSIpinfo, 60 * 20);
+                            mobCookie.save("_atVm", "Y", 60 * 20);
+                        }
+                    } else {
+                        var jsonData = {
+                            au_id: cookieAuid,
+                            IP_info: cookieIpinfo,
+                            timestamp : new Date().getTime()
+                        };
+                        mobStorage.save('mob_protoType', JSON.stringify(jsonData));
+                    }
+                } else if(isNotEmpty(lSAuid)){
+                    if (isNotEmpty(lSAuid)) {
+                        mobCookie.save(this.targetID, lSAuid, 60 * 20);
+                        mobCookie.save(this.targetIP, lSIpinfo, 60 * 20);
+                        mobCookie.save("_atVm", "Y", 60 * 20);
+                    }
+                }
+            }
+        },
+        _clear: function () {
+            mobStorage.clear();
+        },
+        _isChromeSSL: function () {
+            try {
+                var userAgent = navigator.userAgent.toLowerCase();
+                var protocol = document.location.protocol;
+
+                if (userAgent == null
+                    || userAgent.indexOf("samsungbrowser") != -1
+                    || userAgent.indexOf("msie") != -1
+                    || userAgent.indexOf("edge/") != -1
+                    || userAgent.indexOf("firefox") != -1
+                    || userAgent.indexOf("naver") != -1
+                    || userAgent.indexOf("whale") != -1
+                    || userAgent.indexOf("swing") != -1
+                    || userAgent.indexOf("trident") != -1
+                    || userAgent.indexOf("opera") != -1) {
+                    return true;
+                } else {
+                    var version = userAgent.substring(userAgent.indexOf('chrome')).split(/\s/)[0];
+                    if (userAgent.indexOf("iPhone") > -1) {
+                        version = userAgent.substring(userAgent.indexOf('crios')).split(/\s/)[0];
+                    }
+                    version = version.split('/')[1].split('.')[0];
+                    // 프로토콜 체크 && 버전
+                    if (protocol == 'http:' && version > 79) { // http인 경우만 처리 한다.
+                        return false;
+                    }
+                }
+            } catch (e) {
+                // 오류가 나는 경우 기존 로직을 태운다.
+                return true;
+            }
+            // 기존 로직
+            return true;
+        },
+        _isSafari : function () {
+            let is_safari = false;
+            /**
+             * 먼저 Apple공급 업체 를 감지 한 다음 Chrome 및 Firefox (iOS 용), opera, edge, ie 제외
+             * else 인 경우 Vesion Safari 감지
+             */
+            if (
+                navigator.vendor.match(/apple/i)
+                && !navigator.userAgent.match(/crios/i)
+                && !navigator.userAgent.match(/fxios/i)
+                && !(typeof window['opr'] !== "undefined")
+                && !navigator.userAgent.match(/Edg/i)
+                && !(/Trident/.test(navigator.userAgent))
+                && !navigator.userAgent.match(/naver/i)
+                && !navigator.userAgent.match(/whale/i)
+                && /.*Version.*Safari.*/.test(navigator.userAgent)
+            ) {
+                is_safari = true;
+            }
+            return is_safari;
+        }
+    };
+    MobonStorage[makeMethod] = function () {
+        return new this;
+    };
+    window[baseName] = MobonStorage;
+})(this);
+
+
+var addMobEvent = (function (window) {
+    if (window.addEventListener) {
+        return function (element, eventName, cb, isCapture) {
+            element.addEventListener(eventName, cb, isCapture);
+        };
+    } else if (window.attachEvent) {
+        return function (element, eventName, cb) {
+            element.attachEvent("on" + eventName, cb);
+        };
+    } else {
+        return function (element, eventName, cb) {
+            element["on" + eventName] = cb;
+        };
+    }
+}(window));
+if(window.localStorage){
+    if(document.referrer.indexOf("mediacategory.com") == -1) mobStorage.save("iBot_ref_url", document.referrer);
+    iBot_ref_url = mobStorage.load('iBot_ref_url');
+    addMobEvent(document, "load", MobonStorage.run(), '');
+}
+
+
+

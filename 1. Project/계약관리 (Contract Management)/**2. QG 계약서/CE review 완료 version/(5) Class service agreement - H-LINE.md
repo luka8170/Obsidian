@@ -1,0 +1,304 @@
+# CLASSIFICATION SERVICES AGREEMENT
+
+This Classification Service Agreement (the “**AGREEMENT**”) has been made on to be updated.
+
+**BETWEEN**
+
+**BUREAU VERITAS SA BRANCH OFFICE KOREA,** existing and organised under the laws of Republic of Korea, having its registered office at 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan, Korea (hereinafter referred to as the “**BV**”)
+
+Of the one part
+
+**AND**
+
+**H-LINE SHIPPING CO., LTD.** a company registered under the laws of Republic of Korea having its registered office at 8F, CJ Korea Express Bldg, 119, Daegyo-ro, Jung-gu, Busan, 48943, KOREA (hereinafter referred to as the “**CLIENT**”)
+
+Of the other part Individually hereinafter referred to as “PARTY” and together hereinafter referred to as the “PARTIES”.
+
+**WHEREAS**
+
+**WHEREAS**, BV is an international classification society member of the International Association of Class Societies (“IACS”).
+
+**WHEREAS**, is a reputable company engaged in ship trading activities and is soliciting BV services for classification and statutory certification of New Construction projects.
+
+**NOW, THEREFORE**, in consideration of the mutual covenants and agreements contained herein, and other good and valuable consideration, CLIENT and BV agree as follows.
+
+The PARTIES agree that the BV shall provide the SERVICES in accordance with the terms and conditions of this Service Agreement (hereinafter referred to as the “**AGREEMENT**”).
+
+**NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:**
+
+**ARTICLE 1 – APPENDIX AND CONTROLLING DOCUMENTS**
+
+- 1. This document and the attached Appendix shall form an integral part of thisAGREEMENT.
+    2. The documents listed below form the AGREEMENT and are to be taken as mutually explanatory. If there is any conflict or ambiguity, the following order of precedence applies:
+        - this AGREEMENT;
+        - APPENDIX 1: Bureau Veritas Marine & Offshore General Conditions.
+        - APPENDIX 2: Scope of work & Pricing Table
+        - APPENDIX 3: Additional commercial terms
+
+1
+
+In the event of any discrepancy, ambiguity or conflict between the provisions of the main body of this AGREEMENT and any Appendix hereto, the provisions of the AGREEMENT shall prevail.
+
+**ARTICLE 2 – SCOPE OF SERVICES**
+
+- 1. The CLIENT hereby engages the SERVICES of BV, and BV accepts the engagement to carry out the SERVICES as defined in the APPENDIX 2 of the AGREEMENT.
+    2. BV shall perform the SERVICES in a professional manner, exercising all reasonable skill, care, diligence and good judgment in the performance thereof and shall complete the SERVICES in accordance with the best operational standards and practices in accordance with the APPENDIX 1 of the present AGREEMENT.
+    3. BV shall use its best efforts to meet the requirements described in APPENDIX 2 of the AGREEMENT.
+
+**ARTICLE 3 – DURATION OF THE CONTRACT**
+
+- 1. The performance of SERVICES under this AGREEMENT shall begin upon its signature by both PARTIES (the “**Effective Date**”).
+    2. The Agreement shall commence on the Effective Date and remain in force until the entire discounted amount set forth in Appendix II has been expended (hereinafter: the “**Term**”) unless terminated earlier according to the relevant provision in APPENDIX 1.
+
+**ARTICLE 4 – PRICE, INVOICING AND PAYMENT**
+
+- 1. In consideration for the Services, the CLIENT shall pay BV the remuneration (the “**PRICE**”) as per APPENDIX 2. In addition to the PRICE the CLIENT shall benefit from the discount system described in in the Appendix 2 of the present Agreement.
+    2. BV shall provide the CLIENT with an original invoice within 30 days (inclusive) of the end of each month in respect of the Services supplied in that month.
+    3. All sums due to BV under this AGREEMENT shall be paid by the CLIENT within thirty (30) days of receipt of an invoice (with such supporting documentation as reasonably required by the CLIENT) from BV. BV’ invoices shall comply with all applicable tax, accounting and legal requirements.
+    4. The PRICE payable by the CLIENT to BV shall be paid in [**USD**] into the bank account nominated by BV for this purpose.
+    5. Each PARTY shall be responsible for, and shall pay directly, any and all corporate income taxes and individual taxes and other social contributions (labour law taxes) imposed on each Party and their respective employees by the respective legislation of the country of incorporation of each PARTY.
+
+**ARTICLE 5 – COMMUNICATION**
+
+- 1. All communications and correspondences to be given or supplied under this AGREEMENT (including, but not limited to, acknowledgements, approvals, authorizations, instructions and reports) shall be in writing.
+    2. All communications and correspondences to be given or supplied under this AGREEMENT shall be deemed to have been duly given or supplied if sent by registered mail (return receipt requested), reputable overnight courier, fax, e-mail or personal delivery to the applicable PARTY’s contact(s) at the designated addresses:
+
+**BUREAU VERITAS SA BRANCH OFFICE KOREA:**
+
+Address : 24th Floor, (MDM Tower) 639, Jungang-daero, Busanjin-gu, Busan, Korea Contact : Drago Pinteric/ Country Chief Executive
+
+Tel +82-51-640-2700 / Mobile +82-10-4822-2700
+
+**H-LINE SHIPPING CO. LTD:**
+
+Address : 8F, CJ Korea Express Bldg, 119, Daegyo-ro, Jung-gu, Busan, 48943, KOREA
+
+Contact : SangHoon Jung/ Vice President  
+Tel +82-51-793-1951 / Mobile +82-10-6346-0744
+
+- 1. All communications and correspondences to be given or supplied under this AGREEMENT shall be (written) in English, and this Agreement shall be construed and interpreted in accordance with that language. If any of the correspondence or communications are prepared in any language other than English, the English translation of such documents, correspondence or communications shall prevail in matters of interpretation.
+    2. Any PARTY may change its designed address detail by duly giving the other PARTY fourteen
+
+(14) days prior written notice of such change.
+
+**ARTICLE 6 – SEVERABILITY**
+
+6.1 If any provision of the AGREEMENT (or part of any provision) is found by any court or other authority of competent jurisdiction to be invalid, illegal or unenforceable, that provision or part-provision shall, to the extent required, be deemed not to form part of the AGREEMENT, and the validity and enforceability of the other provisions of the AGREEMENT shall not be affected. If a provision of the Agreement (or part of any provision) is found illegal, invalid or unenforceable, the provision shall apply with the minimum modification necessary to make it legal, valid and enforceable
+
+**ARTICLE 7 – ENTIRE AGREEMENT**
+
+7.1 The AGREEMENT constitutes the whole agreement between the PARTIES and supersedes all previous agreements and communications between the PARTIES relating to the performance of the Services by BV.
+
+**ARTICLE 8 – AMENDMENTS**
+
+8.1 No amendment of this AGREEMENT shall be effective unless in writing and signed by both duly authorised representatives of the Parties.
+
+**ARTICLE 9 – NO PARTNERSHIP OR AGENCY**
+
+9.1 Nothing in the Agreement is intended to, or shall be deemed to, constitute a partnership, joint venture, trust or association of any kind between the Parties, nor constitute any Party the agent of the other Party for any purpose. No Party shall have authority to act as agent for, or to bind, the other Party in any way.
+
+**ARTICLE 10 – WAIVER**
+
+10.1 A waiver of any right under the AGREEMENT is only effective if it is in writing and it applies only to the circumstances for which it is given. No failure or delay by a Party in exercising any right or remedy under the AGREEMENT or by law shall constitute a waiver of that (or any other) right or remedy, nor preclude or restrict its further exercise. No single or partial exercise of such right or remedy shall preclude or restrict the further exercise of that (or any other) right or remedy.
+
+**ARTICLE 11 – GOVERNING LAW AND JURISDICTION**
+
+- 1. The AGREEMENT and any dispute or claim arising out of or in connection with it or its subject matter, shall be governed by, and construed in accordance with the laws of England and Wales, notwithstanding any conflicts of laws rules that could require the application of any otherlaw.
+    2. The Parties shall make every effort to settle any dispute amicably and in good faith by way of negotiation within thirty (30) days from the date of receipt by either one of the Parties of a written notice of such a dispute.
+    3. Failing that, the dispute shall finally be settled by arbitration under the LCIA rules, which rules are deemed to be incorporated by reference into this clause. The number of arbitrators shall be three (3). The place of arbitration shall be London (UK).
+
+**IN WITNESS WHEREOF**, the duly authorized signatories of the PARTIES have hereto executed this AGREEMENT on
+
+**For BV For the CLIENT**
+
+Name: Drago Pinteric Name: SangHoon Jung
+
+Title: Country Chief Executive Title : Vice President
+
+Signature: Signature:
+
+**APPENDIX 1: Bureau Veritas Marine & Offshore General Conditions  
+– Edition January 2023**
+
+1. **INDEPENDENCE OF THE SOCIETY AND APPLICABLE TERMS**
+    1. The Society shall remain at all times an independent contractor and neither the Society nor any of its officers, employees, servants, agents or subcontractors shall be or act as an employee, servant or agent of any other party hereto in the performance of the Services.
+    2. The operations of the Society in providing its Services are exclusively conducted by way of random inspections and do not, in any circumstances, involve monitoring or exhaustive verification.
+    3. The Society acts as a services provider. This cannot be construed as an obligation bearing on the Society to obtain a result or as a warranty. The Society is not and may not be considered as an underwriter, broker in Unit’s sale or chartering, expert in Unit’s valuation, consulting engineer, controller, naval architect, designer, manufacturer, shipbuilder, repair or conversion yard, charterer or shipowner; none of the above listed being relieved f rom any of their expressed or implied obligations as a result of the interventions of the Society.
+    4. Only the Society is qualified to apply and interpret its Rules.
+    5. The Client acknowledges the latest versions of the Conditions and of the applicable Rules applying to the Services’ performance.
+    6. Unless an express written agreement is made between the Parties on the applicable Rules, the applicable Rules shall be the Rules applicable at the time of entering into the relevant contract for the performance of the Services.
+    7. The Services’ performance is solely based on the Conditions. No other terms shall apply whether express or implied.
+
+# DEFINITIONS
+
+- 1. **“Certificate(s)”** means classification, statutory or Marine Equipment certificates, attestations and reports following the Society’s intervention.
+    2. **“Certification”** means the activity of certification in application of national and international regulations or standards (“Applicable Referential”), in particular by delegation f rom different governments that can result in the issuance of a Certificate.
+    3. **“Classification”** means the classification of a Unit that can result or not in the issuance of a classification Certificate with reference to the Rules. Classification (or Certification as defined in clause 2.2) is an appraisement given by the Society to the Client, at a certain date, following surveys by its surveyors on the level of compliance of the Unit to the Society’s Rules and/or to the Applicable Referential for the Services provided. They cannot be construed as an implied or express warranty of safety, f itness for the purpose, seaworthiness of the Unit or of its value for sale, insurance or chartering.
+    4. **“Client”** means the Party, its affiliates, agents, subcontractors, consultants, employees, and/or its representative requesting the Services.
+    5. **“Conditions”** means the terms and conditions set out in the present document.
+    6. **“Industry Practice”** means international maritime and/or offshore industry practices.
+    7. **“Intellectual Property”** means all patents, rights to inventions, utility models, copyright and related rights, trade marks, logos, service marks, trade dress, business and domain names, rights in trade dress or get-up, rights in goodwill or to sue for passing off, unfair competition rights, rights in designs, rights in computer software, database rights, topography rights, moral rights, rights in confidential information (including know-how and trade secrets), methods and protocols for Services, and any other intellectual property rights, in each case whether capable of registration, registered or unregistered and including all applications for and renewals, reversions or extensions of such rights, and all similar or equivalent rights or forms of protection in any part of the world.
+    8. **“Marine Equipment”** means equipment, material or product placed of to be placed on board a Unit falling within the scope of Certification or Classification and by extension corresponding manufacturer recognition Certification.
+    9. **“Parties”** means the Society and Client together.
+    10. **“Party”** means the Society or the Client.
+    11. **“Register”** means the public electronic register of ships updated regularly by the Society.
+    12. **“Rules”** means the Society’s classification rules (available online on veristar.com), guidance notes and other documents. The Society’s Rules take into account at the date of their preparation the state of currently available and proven technical minimum requirements but are not a standard or a code of construction neither a guide for maintenance, a safety handbook or a guide of professional practices, all of which are assumed to be known in detail and carefully followed at all times by the Client.
+    13. **“Services”** means the services set out in clauses 2.2 and 2.3 but also other services related to Classification and Certification such as, but not limited to: ship and company safety management certification, ship and port security certification, maritime labour certification, Marine Equipment certification, training activities, all activities and duties incidental thereto such as documentation on any supporting means, software, instrumentation, measurements, tests and trials on board. The Services are carried out by the Society according to the Rules and/or the Applicable Referential and to the Bureau Veritas’ Code of Ethics. The Society shall perform the Services according to the applicable national and international standards and Industry Practice and always on the assumption that the Client is aware of such standards and Industry Practice.
+    14. **“Society”** means the classification society **‘Bureau Veritas Marine & Offshore SAS’**, a company organized and existing under the laws of France, registered in Nanterre under number 821 131 844, or any other legal entity of Bureau Veritas Group as may be specified in the relevant contract, and whose main activities are Classification and Certification of ships or offshore units.
+    15. “**Taxes**” means any and all taxes imposed by any taxing authority including, without limitation, income tax on nationals and on foreigners, all corporate taxes, imports, duties, levies, stamp duties, charges and other assessments and payments in the nature of taxes, wherever payable, including withholding taxes and VAT.
+    16. **“Unit”** means any ship or vessel or offshore unit or structure of any type or part of it or system whether linked to shore, river bed or sea bed or not, whether operated or located at sea or in inland waters or partly on land, including submarines, hovercrafts, d rilling rigs, offshore installations of any type and of any purpose, their related and ancillary equipment, subsea or not, such as well head and pipelines, mooring legs and mooring points or otherwise as decided by the Society.
+
+# SCOPE AND PERFORMANCE
+
+- 1. Subject to the Services requested and always by reference to the Rules, and/or to the Applicable Referential, the Society shall:
+        - review the construction arrangements of the Unit as shown on the documents provided by the
+
+Client;
+
+- - - conduct the Unit surveys at the place of the Unit construction;
+        - class the Unit and enter the Unit’s class in the Society’s Register;
+        - survey the Unit periodically in service to note whether the requirements for the maintenance of class are met. The Client shall inform the Society without delay of any circumstances which may cause any changes on the conducted surveys or Services;
+        - perform design assessments, surveys and audits related to Marine Equipment;
+        - witness tests at manufacturer’s premises.
+    
+    1. The Society will not:
+        - declare the acceptance or commissioning of a Unit, nor its construction in conformity with its design, such activities remaining under the exclusive responsibility of the Unit’s owner or builder;
+        - engage in any work relating to the design, construction, production or repair checks, neither in the operation of the Unit or the Unit’s trade, neither in any advisory services, and cannot be held liable on those accounts;
+        - be liable for any delay or costs, charges or losses sustained or incurred by the Client in the event where the Society’s performance of the Services is prevented or delayed directly or indirectly by any act, omission, missing information, default or neglig ence of the Client.
+
+# RESERVATION CLAUSE
+
+- 1. The Client shall always: (i) maintain the Unit in good condition after surveys; (ii) present the Unit for surveys; and (iii) inform the Society in due time of any circumstances that may affect the given appraisement of the Unit or its Marine Equipment or cause to modify the scope of the Services.
+    2. Certificates are only valid if issued by the Society.
+    3. The Society has entire control over the Certificates issued and may at any time withdraw a Certificate at its entire discretion including, but not limited to, in the following situations: where the Client fails to comply in due time with instructions of the Society or where the Client fails to pay in accordance with clause 6.2 hereunder.
+    4. The Society may at times and at its sole discretion give an opinion on a design or any technical element that would ‘in principle’ be acceptable to the Society. This opinion shall not presume on the f inal issuance of any Certificate nor on its content in the event of the actual issuance of a Certificate. This opinion shall only be an appraisement made by the Society which shall not be held liable for it.
+    5. The Client shall provide sufficient, timely, accurate, complete and up -to-date information and documents to the Society to enable the Society to perform the Services.
+
+# ACCESS AND SAFETY
+
+- 1. The Client shall give to the Society all access and information necessary for the efficient performance of the requested Services. The Client shall be the sole responsible for the conditions of presentation of the Unit for tests, trials and surveys and the conditions under which tests and trials are carried out. Any information, drawing, etc. required for the performance of the Services must be made available in due time.
+    2. The Client shall notify the Society of any relevant safety issue and shall take all necessary safety- related measures to ensure a safe work environment (including safe transportation to site and accompaniment on site) for the Society or any of its officers, employees, servants, agents or subcontractors and shall comply with all applicable safety regulations.
+
+# PAYMENT OF INVOICES
+
+- 1. The provision of the Services by the Society, whether complete or not, involves, for the part carried out, the payment of fees thirty (30) days upon issuance of the invoice.
+    2. The fees are exclusive of all applicable Taxes. In the event that Taxes are applicable in respect of the Services, Taxes shall be payable by the Client in addition to the fees. For the avoidance of doubt, in the event tax is required by law to be withheld f rom the fees, the Society may gross up the invoice sufficiently such that after the deduction of withholding tax the original fees is received by the Society. In the event that any withholding taxes are paid by the Client, the Client shall provide to the Society a valid withholding tax receipt in the Society’s name within thirty (30) days following the payment. The Society shall provide to the Client within thirty (30) days following request f rom the Client reasonable documentation, such as certificates of residence, required to enable the Client to apply any reduced rates of withholding tax given by a double tax treaty, if applicable.
+    3. Without prejudice to any other rights hereunder, in case of Client’s payment default, the Society shall be entitled to charge, in addition to the amount not properly paid, (i) interest equal to the ECB reference rate plus three per-cent (3%) per month late as of due date or at the maximum rate allowed by law if said maximum is less, and (ii) the recovery costs. The Society shall also have the right to withhold Certificates and other documents and/or to suspend or revoke the validity of Certificates.
+    4. In case of dispute on the invoice amount, the undisputed portion of the invoice shall be paid and an explanation on the dispute shall accompany payment so that action can be taken to resolve the dispute.
+    5. Unless otherwise agreed in writing by the Society, both the party on whose behalf the Services are requested and its representative requesting the Services, as Client, are jointly and severally liable to pay to the Society any sum due in respect of the Services. In addition, where any Unit is surveyed in the names or on behalf of more persons than one, such persons shall be jointly and severally liable to pay all fees, expenses and other sums due to the Society in respect of such Unit. The receipt by any
+
+such person of any payment by the Society shall discharge the others up to the amount received by the Society.
+
+- 1. The Society shall be entitled to require a payment on account payable upon receipt of the corresponding invoice. In this case, The Society's duty to provide the Services will not arise before payment is received in the Society's account.
+    2. The Society shall have a lien on a Unit for all sums due in respect of that Unit, notwithstanding that the class of the Unit may have ceased or been terminated or cancelled. Such lien shall extend to any and all other Units (or formerly classed Units) which are part of the same f leet as that Unit and shall be in addition to, and in no way construed as a waiver or amendment of, any other contractual or maritime lien which the Society may expressly or impliedly possess in resp ect of such Unit or Units.
+
+# LIABILITY
+
+- 1. The Society bears no liability for consequential loss. For the purpose of this clause consequential loss shall include, without limitation:
+        - Indirect or consequential loss;
+        - Any loss and/or deferral of production, loss of product, loss of use, loss of bargain, loss of revenue, loss of profit or anticipated profit, loss of business and business interruption, in each case whether direct or indirect.
+
+The Client shall defend, release, save, indemnify, defend and hold harmless the Society f rom the Client’s own consequential loss regardless of cause.
+
+- 1. Except in case of wilful misconduct of the Society, death or bodily injury caused by the Society’s negligence and any other liability that could not be, by law, limited , the Society’s maximum liability towards the Client is limited to one hundred and f if ty per-cent (150%) of the price paid by the Client to the Society for the Services having caused the damage. This limit applies to any liability of whatsoever nature and howsoever arising, including fault by the Society, breach of contract, breach of warranty, tort, strict liability, breach of statute.
+    2. All claims shall be presented to the Society in writing within three (3) months of the completion of Services’ performance or (if later) the date when the events which are relied on were f irst discovered by the Client. Any claim not so presented as defined above shall be deemed waived and absolutely time barred.
+
+# INDEMNITY CLAUSE
+
+- 1. The Client shall defend, release, save, indemnify and hold harmless the Society f rom and against any and all claims, demands, lawsuits or actions for damages, including legal fees, for harm or loss to persons and/or property tangible, intangible or otherwise which may be brought against the Soc iety, incidental to, arising out of or in connection with the performance of the Services (including for damages arising out of or in connection with opinions delivered according to clause 4.4 above) except for those claims caused solely and completely by the gross negligence of the Society, its officers, employees, servants, agents or subcontractors.
+
+# TERMINATION
+
+- 1. The Parties shall have the right to terminate the Services (and the relevant contract) for convenience after giving the other Party thirty (30) days’ written notice, and without prejudice to clause 6 above.
+    2. The Services shall be automatically and immediately terminated in the event the Client can no longer establish any form of interest in the Unit (e.g. sale, scrapping…).
+    3. The Classification granted to the concerned Unit and the previously issued Certificates shall remain
+
+valid until the date of effect of the termination notice issued, or immediately in the event of termination under clause 9.2, subject to compliance with clause 4.1 and 6 above.
+
+- 1. In the event where, in the reasonable opinion of the Society, the Client is in breach, or is suspected to be in breach of clause 16 of the Conditions, the Society shall have the right to terminate the Services (and the relevant contracts associated) with immediate effect.
+
+# FORCE MAJEURE
+
+- 1. Neither Party shall be responsible or liable for any failure to fulf il any term or provision of the Conditions if and to the extent that fulf ilment has been delayed or temporarily prevented by a force majeure occurrence without the fault or negligence of the Party affected and which, by the exercise of reasonable diligence, the said Party is unable to provide against.
+    2. For the purpose of this clause, force majeure shall mean any circumstance not being within a Party’s reasonable control including, but not limited to: acts of God, natural disasters, epidemics or pandemics, wars, terrorist attacks, riots, sabotages, impositions of sanctions, embargoes, nuclear, chemical or biological contaminations, laws or action taken by a government or public authority, quotas or prohibition, expropriations, destructions of the worksite, explosions, f ires, accidents, any labour or trade disputes, strikes or lockouts.
+
+# CONFIDENTIALITY
+
+- 1. The documents and data provided to or prepared by the Society in performing the Services, and the information made available to the Society, will be treated as confidential except where the information:
+        - is properly and lawfully in the possession of the Society;
+        - is already in possession of the public or has entered the public domain, other than through a breach of this obligation;
+        - is acquired or received independently f rom a third party that has the right to disseminate such information;
+        - is required to be disclosed under applicable law or by a governmental order, decree, regulation or rule or by a stock exchange authority (provided that the receiving Party shall make all reasonable efforts to give prompt written notice to the disclosing Party prior to such disclosure).
+    2. The Parties shall use the confidential information exclusively within the f ramework of their activity underlying these Conditions.
+    3. Confidential information shall only be provided to third parties with the prior written consent of the other Party. However, such prior consent shall not be required when the Society provides the confidential information to a subsidiary.
+    4. Without prejudice to sub-clause 11.1, the Society shall have the right to disclose the confidential information if required to do so under regulations of the International Association of Classifications Societies (IACS) or any statutory obligations.
+    5. The Client shall not without written approval f rom the Society make public announcement or press release, press conference, presentation or any public disclosure mentioning the Society, its trademark, trade name or logo, its employees. The Client acknowledges and agrees that damages alone might not be an adequate remedy for any breach of this clause and the Society shall be entitled to seek the remedies of injunction, specific performance and other equitable relief for any threatened or actual breach and no proof of special damage shall be necessary for the enforcement of the present clause and the undertakings under it.
+
+# INTELLECTUAL PROPERTY
+
+- 1. Each Party exclusively owns all rights to its Intellectual Property created before or after the commencement date of the Conditions and whether or not associated with any contract between the Parties.
+    2. The Intellectual Property developed by the Society for the performance of the Services including, but not limited to drawings, calculations, and reports shall remain the exclusive property of the Society.
+
+# ASSIGNMENT
+
+- 1. The contract resulting f rom to these Conditions cannot be assigned or transferred by any means by a Party to any third party without the prior written consent of the other Party.
+    2. The Society shall however have the right to assign or transfer by any means the said contract to a subsidiary of the Bureau Veritas Group.
+
+# SEVERABILITY
+
+- 1. Invalidity of one or more provisions does not affect the remaining provisions.
+    2. Definitions herein take precedence over other definitions which may appear in other documents issued by the Society.
+    3. In case of doubt as to the interpretation of the Conditions, the English text shall prevail.
+
+# GOVERNING LAW AND DISPUTE RESOLUTION
+
+- 1. These Conditions shall be construed in accordance with and governed by the laws of England and Wales.
+    2. Any dispute shall be f inally settled under the Rules of Arbitration of the Maritime Arbitration Chamber of Paris (“CAMP”), which rules are deemed to be incorporated by reference into this clause. The number of arbitrators shall be three (3). The place of arbitration shall be Paris (France). The Parties agree to keep the arbitration proceedings confidential.
+    3. Notwithstanding clause 15.2, disputes relating to the payment of the Society’s invoices may be submitted by the Society to the _Tribunal de Commerce de Nanterre_, France, or to any other competent local Court, at the Society’s entire discretion.
+
+# ETHICS
+
+- 1. Each Party shall conduct all activities in compliance with all laws, statutes, rules, export control, economic and trade sanctions (including but not limited to US, UK and EU sanctions) and regulations applicable to such Party including but not limited to: child labour, forced labour, collective bargaining, discrimination, abuse, working hours and minimum wages, anti-bribery, anti-corruption, antitrust, copyright and trademark protection, personal data protection [(https://personaldataprotection.bureauveritas.com/privacypolicy](https://personaldataprotection.bureauveritas.com/privacypolicy)). Each of the Parties warrants that neither it, nor its affiliates, has made or will make, with respect to the matters provided for hereunder, any offer, payment, gift or authorization of the payment of any money directly or indirectly, to or for the use or benefit of any official or employee of the government, political party, official, or candidate.
+    2. In addition, the Client shall act consistently with the Bureau Veritas’ Code of Ethics and, when applicable, Business Partner Code of Conduct both available at [https://group.bureauveritas.com/group/corporate-social-responsibility/operational-excellence](https://group.bureauveritas.com/group/corporate-social-responsibility/operational-excellence).
+
+# APPENDIX 2: SCOPE OF WORK & PRICING TABLE
+
+The following Additional Commercial Terms (hereinafter the « **Additional Terms** ») apply to the present **AGREEMENT** entered between H-Line SHIPPING CO. LTD (hereinafter “**Client**”) and BUREAU VERITAS MARINE & OFFSHORE SAS BRANCH OFFICE KOREA (hereinafter “**BV**”).
+
+- - 1. **Discount on services**
+    
+    1. BV agrees to provide to the Client discounts on the Services provided and the Prices presented under this APPENDIX in a form of a global discount amount to be used in a discretionary manner by the Client (the “Discount Amount”). Such discount amount shall be reduced each time the Client decides to request a service to be provided by BV under this AGREEMENT as per this APPENDIX and such reduction shall be equal to the price for the Services requested.
+    2. The Discount Amount shall be equal to the following:
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|Charterer|Shipyard|Nos. of ship|Discounted amount (per ship)|Discounted amount (Total)|Hull No.|
+|Qatar Gas|DSME|2|$269,300|$538,600|2546, 2549|
+
+- 1. BV shall issue a discount situation report to the Client each time the Client is requesting application of the Discount Amount for Services in order to allow effective reporting of the evolution of the Discount Amount.
+    2. For the avoidance of doubt the Client shall have the right to use the Discount Amount for advisory related services with Bureau Veritas Solutions Marine & Offshore Limited (Korea Branch) under the Framework Agreement signed on [DATE] (the “**Advisory Services Agreement**”). However any use of the Discount Amount under the Advisory Services Agreement shall be have the same effect as a used described under article 1.1 of this APPENDIX meaning a reduction of the Discount Amount equal to the value of the services requested under the Advisory Services Agreement.
+    3. The Client shall inform BV in case of use of the Discount Amount under the Advisory Services Agreement in order to trace the evolution of the Discount Amount.
+    4. In the situation where the Client used all the Discount Amount available BV shall charge the Client full prices as per articles 2 to 4 of this APPPENDIX for any Services requested by the Client.
+        1. **Other service rates**
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|**1. New Building Technical Support**|   |   ||   |
+|- 1. **After Construction**|   |   |**Team in charge**|**E-mail**|
+|Ship Emergency Response Service|A team of specialists at your service 24 ha day throughout the year Free of charge (including both registration and annual subscription fees)|   |ERS|bv.ers@burea uveritas.com|
+|**2. Class & Environmental related Proposal**|   |   |   |   |
+|**2.1. Proposal related to GHG regulations**|   |   |   |   |
+|2.1.1<br><br>EEXI: Availability for other ships than Qatar Project<br><br>=> Applicable to all BV class ships|EEXI Technical Plan(file) approval & OMM (by drawing approval department)|Document Approval for EEXI Technical Plan & OMM (by drawing approval department)<br><br>- in case of EEXI(A) <= EEXI(R): EEXI TF review 1500USD/ship for post-EEDI<br>- in case of EEXI(A) <= EEXI (R): EEXI TF review 2500USD / ship for pre-EEDI<br>- in case of EEXI(A) > EEXI(R) with EPL(Engine Power Limitation) or ShaPoLi(Shaft Power Limitation): EEXI+OMM review 3500 USD<br><br>/ ship (if the EEXI standard are not met)<br><br>-. If the shaft power limitation is applied to the vessel, the ship owner submits the EEXI TF and OMM, reviews them at the Plan approval center, and if the EEXI value is satisfied, the EEXI attestation is issued. -. And through the EEXI attestation and ship inspection, the inspector will issue a new IEEC.|KPO|bvkpo.mail@b ureauveritas.c om|
+|Free issuance of EEXI Certificate. If an on-board survey is required, different inspection fees may be incurred depending on the inspection scope & location. (Can be discussed later.) (by NS Department)⇒ the fee for issuance of IEEE is 0 USD and Flag Administration Fee(if applicable, eg 75 USD for Panama Flag).|   |NS|KOR_NS@bur eauveritas.co m|
+|Related to EEXI, the same price and service are applied to other ships than the Qatar Project (with BV class ships).|   |KPO, NS|KOR_NS@bur eauveritas.co m, bvkpo.mail@b ureauveritas.c om|
+|2.1.2. EU MRV service|EU & UK MRV<br><br>verification service|1. MRV Monitoring Plan assessment 1st vessel: 3000 USD 2nd ~ 10th vessel: 2000 USD<br><br>10th ~ 15th vessel: 1500 USD<br><br>1. MRV yearly Monitoring Report Verification : 4200 USD/each vessel|NS|KOR_NS@bur eauveritas.co m|
+|2.1.3 SEEMP Part III approval service|   |1st vessel: 890 USD<br><br>2nd to 10th vessel: 630 USD 10th to 15th vessel: 450 USD|NS|KOR_NS@bur eauveritas.co m|
+|2.1.4 IMO DCS review and verification|   |-. Annual verification: USD 950 / ship<br><br>-. SEEMP Part2 Review: 1st vessel: 950 USD / ship,<br><br>2nd ~ 4th vessel: 665 USD / ship|NS|KOR_NS@bur eauveritas.co m|
+|2.1.5. 'ERS-S|ERS-S establishment phase fee : 4500 EUR, ERS-S annual subscription fee : 900 EUR<br><br>100% discount (18,000 EUR discount) *18,000 EUR (during 15 years): 4500 EUR + 15x900 EUR)<br><br>=> Free registration (establishment phase fee) and Service cost (annual subscription fee) provided free of charge during Qatar Gas charter period (15 years).|   |Manageme nt: NS<br><br>DB<br><br>creation: DA_ERS|KOR_NS@bur eauveritas.co m, daers@bureau veritas.com|
+|**2.2. PSC**|   |   |   |   |
+|2.2.1 PSC|PSC Ready digital tool. FREE OF CHARGE|   |NS|KOR_NS@bur eauveritas.co m|
+|**2.3. Cyber Security Notation or equivalent statement**|   |   |   |   |
+
+|   |   |   |   |
+|---|---|---|---|
+|2.3.1 Owner scope evaluation & support: **CYBER MANAGED**|CYBER MANAGED When receiving a CYBER MANAGED PREPARED vessel, it is logical that Owner requests a CYBER MANAGED notation for the vessel now in service.<br><br>CYBER MANAGED will essentially focus on human organization (owner cyber rules, procedures, crew training…).<br><br>Doc to be provided:<br><br>- Risk Assessment (phase 2 of Risk Analysis, taking owner environment into consideration)<br>- Policy (cyber rules, roles and responsibilities valid for the whole fleet)<br>- Crew training (cyber trained the crew on board)<br>- Possible Handbook update if Owner has added new critical CBS equipment Fees for additional Class Notation « CYBER MANAGED » are 3 000€.<br><br>Fees for 1 day of NS local surveyor are 1600 USD.<br><br>-. Cyber Managed risk assessment: 30,000 Euro|Cyber Security Operations Manager|philippe.vaque r@bureauverit as.com|

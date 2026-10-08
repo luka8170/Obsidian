@@ -1,0 +1,1999 @@
+OR/MS
+
+계량분석기법
+
+구급대 채문제 교수 계량분석 〉 OR/MS (Operations Research
+
+/Management Sciences)
+
+확정적(Deterministi 데이터 확률적(Probabilistic
+
+데이터
+
+가리이 :. 수리모델링
+
+알고리듬
+
+시뮬레이션 최적화 등등...
+
+Decision Supporting
+
+OR is the discipline of applying advanced analytical methods to
+
+help make better decisions
+
+OR/MS의 문제를 해결하는 절차
+
+1. 문제정의와 Data 수집
+
+2. 수리모델 구성
+
+3. 모델로 부터 해 도출
+
+4. 모델 검증
+
+5. 모델 적용 준비
+
+6. 모델 구체화
+
+•문제정의와 Data 수집
+
+• 문제에 대한 명확한 정의 필요
+
+• 목적이 무엇인지 • 최대화할것인지 최소화 할 것인지 • Data 수집에 시간투자
+
+• Data mining 기술 이용
+
+•수리모델 구성
+
+• 목적함수 • 의사결정변수 • 제약식 • 파라메터
+
+•모델로 부터 해를 도출
+
+• 여러가지 도구의 이용 (Excel, LINDO, CPLEX..) • Optimal Solution vs Best Solution
+
+•최적해를 구할기 어려울때
+
+• Heuristic Algorithm(발견적 기법)
+
+• Meta-heuristic 이게 최선입니까 ? 확실해요?
+
+• 모델 검증
+
+• Retrospective test • 과거의 데이터를 모델에 투여해서 모델이 과거의 데이터를 기 준했을때 여러 현상들을 재현할 수 있다면 Valid하다고 판다.
+
+• 과거 데이터 기준으로 검증된 모델이 미래에도 같은 형태로 Solution을 줄 수 있는가?
+
+• 모델적용 준비
+
+• 모델의 실 사용을 위해 시스템화 하기
+
+• 데이터베이스와 MIS(Management Information System)에 적용 하여 결과를 바로 사용가능하게 하기.
+
+• Decision Support System
+
+• 모델 구체화
+
+• 검증된 모델로 전사적으로 사용 가능한 형태로 구축함.
+
+• 왜, 어느때, 어떻게 사용한다는 구체적 지침과 더불어 효과에 대 한 인식 인지.
+
+선형계획법(LP : Linear Programming)
+
+• 1947년 George B. Dantzig가 미국 공군의 배치계획 문제를 선 형부등식으로 구축하여 “programming in a linear structure”라 고 명명한데 기원
+
+•”programming”이란 용어 때문에 컴퓨터 코딩 작업으로 오해하 기도 하나 “planning”의 의미
+
+•초기에는 주로 군사문제의 해결에 활용
+
+• 많은 학자들에 의해 응용범위가 확대되어 기업경영 뿐만 아니 라 의사결정을 필요로하는 모든 관리분야에서 활용
+
+최대 vs 최소 문제
+
+Mar Z=chitC222+C3rs tootCntn
+
+s.t. 411t,+0282+0135s t+ant,Sb.
+
+4217,+02282+02383 +:+02ntn≤b2
+
+:
+
+4m*,+am252+0m353++Ont,Sbm
+
+3, 20, 01j
+
+Min Z=Cx+C222+C383 tooo+Cnan
+
+s.t. 01*,+0252+01383++0n8,26
+
+0212,+02282+02383+10+0208,262
+
+:
+
+3, 20, 5j
+
+선형계획모형의 가정
+
+• 가산성(11: additivity)
+
+• 분성(31보; divisibility)
+
+• 확실성(제보; certainty)
+
+• 비례성(Proportionality)
+
+모형의 구축 절차
+
+문제의 인식
+
+결정변수정의
+
+목적함수도출
+
+제약조건구성
+
+resourcee15u⅓ ~ 가득하공간 모형의 유형결정
+
+• 모형의 유형은 의사결정의 목표에 의해 결정
+
+• 의사결정의 목표가 이익이나 매출등 많으면 많을수록 유리한 것에 관한 사항이라면 최대화문제
+
+• 비용이나 투입하는 자원등 적으면 적을수록 유리한 것에 관한 사항이라면 최소화 문제
+
+• 일반적으로 의사결정의 목표가 “투입”이나 “과정”에 영향을 미 치는 요인의 량을 결정하는 사항이라면 최소화문제가 되고, 산 출에 영향을 미치는 사항이라면 최대화문제가 됨
+
+결정변수의 정의
+
+• 결정변수는 문제의 상황을 모형화하여 무엇을 얻고자 하는가와 직접적인 연관이 있음
+
+•즉 모형의 해답이 결정변수의 값
+
+• 따라서 결정변수는 목적함수와 제약조건의 구축에 미치는 영향 이 크므로 이를 정의 하는 데 단위나 계획기간 등을 명확하게 기술하여야 함
+
+목적함수의 도출
+
+• 목적함수는 결정변수와 그에 상응하는 기여계수와의 곱위 합 •물제의 유형이, 적절, 결절별 수에 상용하는 기여계수
+
+제약조건의 도출
+
+• 선형계획모형을 구축하는 데 있어서 가장 어려운
+
+• 의사결정에 영향을 미치는 요인을 수리적으로 표현하는 데는 수리에 관한 감각 필요
+
+• 실제 문제의 모형은 문제의 유형에 따른 일반식의 모양과 같게 나타나지 않을 수 있음
+
+비음조건(Non-negativity)
+
+• 비음조건은, 선형계획모형의 유형에 관계없이 모든 결정변수의 값이 음수가 될 수 없다는 선형계획법의 요구조건임
+
+• 선형계획법의 해법은 비음조건에 기초를 두고 있으므로 이를 기술하여야 완전한 선형계획모형이 됨
+
+Vessel Cascading 문제
+
+• Data
+
+• 》 단순화하기 W4600 W5500 129,023
+
+4622X3
+
+/ sSwx7 W4600
+
+196,354
+
+<daily>
+
+27,400 ₩5500
+
+196.354
+
+Ws500 27.275 Bunker
+
+W4600 183.252 W5500 273,575
+
+Port Charge
+
+W4600 252.175 311.785
+
+Hire Charge
+
+W4600 27,400 W5500
+
+27.275 W4600 71,364 W5500
+
+106,396
+
+W4600 210.547 WS500 254,811
+
+W4600 27,400 W5500 27.275
+
+PHN WLX AUS
+
+46 x310,0321) 462,827 309,311
+
+55 xx352,652 x4623,635 x(388,482
+
+6 3 3
+
+7.
+
+• 제약조건
+
+1. X1+ X2 = 6
+
+2. X3 + X4 = 3
+
+3. X5 • X6 m 1
+
+4. X1 + X3 + X5 = 3
+
+5. X2 * X4 + X6 = 7 내용
+
+PNH에 총 6vessel 투입
+
+WLX에 총 3vessel 투입
+
+AUSOT 총 1vessel 투입
+
+4600W 총 3vessel
+
+5500W 송 7vessel
+
+• Lingo Modeling...
+
+예. 사료배합문제
+
+• 사료 A와 B는 각각 필요 영양소의 함유량이 다를 때 1일 필요 영양분을 만족하면서 사료의 구입을 최소로 할 수 있는 모델.
+
+사료 영양분
+
+1
+
+2
+
+3
+
+kg당 구입비용 kg당 영양분함유량
+
+A B
+
+0.2 0.4
+
+0.3 0.1
+
+0.3
+
+5천원 7천원 최소 필요량
+
+(1일당)
+
+30
+
+50
+
+20 의사결정변수
+
+X, : 사료 A 구입량
+
+x2 : 사료 B 구입량
+
+목적함수
+
+min Z=S000x+7000½2
+
+• 수학모델
+
+min Z=50003,+700052
+
+s.t. 0.23,+ 0.432≥30
+
+0.3x, +0.132≥50
+
+0.3x2≥20
+
+12120,22≥0
+
+수송계획법(Transportation Problem)
+
+• 선형계획법의 특수한 형태로 공급지로부터 목적지까지의 총 수 송비용을 최소화 하기 위한 모델
+
+•여러 분야에 변형하여 사용 가능
+
+• 형태의 변형으로 할당문제(Assignment Problem), 환적 문제 (Transshipment Problem)등 이 있다.
+
+공장 중간창고 대리점 수요량
+
+200 생산량 80① 200
+
+350 50 (⑥)
+
+400 150
+
+400
+
+250 150\
+
+350
+
+300
+
+Transportation table
+
+Suppl 1
+
+2
+
+3 1
+
+464
+
+352
+
+995
+
+80 Shipping Cost
+
+Destination
+
+2
+
+513
+
+416
+
+682
+
+65 3
+
+654
+
+690
+
+388\
+
+70 4
+
+867
+
+791
+
+685
+
+85 75
+
+125
+
+100
+
+2
+
+3
+
+수송모델
+
+Min z=2008
+
+S.t. for i=1,2,...m
+
+j=1
+
+Z5=d,
+
+x;20,vi,j for j=1,2,...n
+
+• Balanced transportation Problem의 조건
+
+• 수요량의 합 = 공급량의 합
+
+•의사결정 변수의 정의
+
+• 목적함수의 구성
+
+Min z=Z008
+
+• 제약조건의 정리
+
+• 파라메터 정리
+
+•수송파라메터테이블 수리모형화
+
+• Vessel Cascading 수송모형화
+
+• 수송계획법 풀이
+
+31 58 31
+
+PHN WLX AUS
+
+310032 462827 309311 3
+
+46 1 0
+
+4 2
+
+352652 623635 388482 7
+
+55
+
+4 3
+
+6 3 1
+
+0
+
+4
+
+0
+
+16 46
+
+46
+
+55 31
+
+PHN
+
+310032
+
+352652 2
+
+4 58
+
+WLX
+
+462827
+
+623635 (-12)
+
+3
+
+6 3
+
+19 46
+
+WLX
+
+462827 310032
+
+352652 (+12)
+
+6 623635 2
+
+1
+
+6 3 31
+
+AUS
+
+309311
+
+388482 1
+
+(+4)
+
+1
+
+31
+
+309311
+
+388482 1
+
+(-8)
+
+1 3
+
+7
+
+3
+
+7
+
+19
+
+PH 46
+
+WLX 31
+
+AUS
+
+46 0
+
+16 310032
+
++
+
+352652 462827 309311 3
+
+3 0
+
+55 623635
+
+6 + 388482 7
+
+1
+
+6 3 1
+
+할당문제(Assignment Probiem)
+
+•술 학문제의 복속차 형태로 날은, 공급지에서의 물량을 분할
+
+Min 2=50089
+
+i=1
+
+s.t. Z% =1 fori=1,,;.. j=1
+
+55=1 forj=123. i=1
+
+5, 20,vii
+
+• Ex)_n명의 사원에게 n가지 직무를 맡길 때 효과 최적화를 위한
+
+• Hungarian Method
+
+사람
+
+1
+
+2
+
+3 2
+
+15
+
+5
+
+0 5
+
+M
+
+7
+
+0 3
+
+1
+
+13
+
+10
+
+0 0
+
+20
+
+6
+
+0
+
+환적문제(Transshipment Problem)
+
+• Memphis와 Denver Supply 지점 (150, 200)
+
+•N.Y& Chicago > 환적지점
+
+• LA. & Boston > Demand 지점(130,130)
+
+Shipping Costs for Transshipments
+
+From
+
+Memphis
+
+Denver
+
+N.Y.
+
+Chicago
+
+L.A.
+
+Boston Memphis
+
+0 To (S)
+
+Denver
+
+0
+
+_ NY.
+
+8 15
+
+0
+
+6 Chicago
+
+13
+
+12
+
+6
+
+0
+
+- L.A.
+
+25
+
+26
+
+16 14
+
+0 Boston
+
+28
+
+17
+
+0
+
+det
+
+• 가능한 경로
+
+Memphis New York
+
+Denver Chcago
+
+7(0t
+
+• 수송계획법으로 정형화 하기
+
+N.Y. Chicago
+
+13
+
+Memphis 130
+
+15 12
+
+Denver
+
+0 6
+
+220 N.Y.
+
+6 0
+
+Chicago 350
+
+350 350 25
+
+26
+
+16
+
+14 Baston 28
+
+/ 25
+
+130
+
+117
+
+16
+
+130 Memphis
+
+Denver 130
+
+130
+
+New York
+
+Chicago
+
+130 130
+
+130 Los
+
+Angeles
+
+Boston
+
+Durimy
+
+20
+
+0
+
+70
+
+0 150
+
+200
+
+350
+
+350
+
+90
+
+Los
+
+Angcles
+
+Boston
+
+Network Model
+
+네트워크의 종류 단방향 네트워크(directed network), 양방향 네트워크(undirected network) 경로(path, route) : 위 그림의 -③-②-④ 와 같은 연속되는 가지 고리(10op, cycle): ①-③-②-①과 같이 처음으로 되돌아오는 경로 나무(tree) 네트워크 : 고리가 없는 네트워크
+
+대표적인 3가지 네트워크 모형 • 최단경로문제(shortest route problem) : 두 지점 사이의 최단경로(가장 작은 비용 또는 가장 짧은 거리나 시간에 도착할 수 있는 경로)를 찾는 문제(외판원 문제) • 최소걸침나무문제(minimum spanning tree problem) : 네트워크상의 모든 연결하는 방법 중에서 가장 작은 비용 또는 시간으로 연결할 수 있는 방법을 찾는 문제(설비배치문제, 네트워크 설계문제) •최대흐름문제(maximal flow problem) : 네트워크상의 한 지점에서 다른 지점으로 보낼 수 있는 최대의 유통량을 찾는 문제(교통흐름 분석문제,
+
+송유관 설계문제)
+
+최단경로문제(Shortest path problem)
+
+• 출발지에서 목적지로 이동할 때 가장 빠른(효과적인)경로를 찾 는것
+
+• Ex)선박의 연료효율을 높이는 동적 경로 찾기.
+
+7 2 5 2
+
+4
+
+5 7
+
+1 4 3
+
+E
+
+4 OABEDT
+
+OABDT
+
+• Ex)
+
+1 403 162(39
+
+선박을 이용한 부산- 로테르 남사이의 주요 경로
+
+출발 운송 비용 지 경유지1 수단 간
+
+부산 육삼 700 인천
+
+부산 육상 700 인천
+
+부산 선박 300 96 홍콩
+
+부산 선박 2900 384 뉴욕
+
+부산 선박 1790 576 로테르당 부산에서 로테르단까
+
+운송 비용 시간 경우 수단
+
+항공
+
+항공
+
+항공
+
+항공 35800
+
+32170
+
+32100
+
+20700 12
+
+10
+
+14
+
+10 로테르담
+
+모스코바
+
+로테르담
+
+로테르담 철도 500 72 로테르담 36.500
+
+33,370
+
+32,400
+
+23.600
+
+1.790 20
+
+90
+
+100
+
+394
+
+576
+
+• 출발지와 도착지가 같은 경우 - 외판원 문제(TSP: Traveling
+
+Salesman Problem)
+
+• 수리모델
+
+Minimise:
+
+subject to: e8.
+
+25=1 al 232+ 526+563
+
++½3+32+256≤2
+
+• From-to matrix(거리, 비용 등등)
+
+0 14 4 10 20] ½)
+
+14 0 7 8 7 10 /!?
+
+4 5 0 7 16
+
+11 7 9 0 2 ¼ “
+
+18 7 17 4 0
+
+vs
+
+• 이질적으로 박용이 초이만 전 제투율, 문제의 난이도로 인 • 발견적기법(Heuristic Algorithm)을 많이 사용함.
+
+• NN(Nearest Neighbor) vs Optimal
+
+TSP ex)
+
+대 속 대 평
+
+82
+
+41
+
+111 48 58
+
+37 29
+
+39
+
+72 86
+
+83
+
+58
+
+39 53
+
+132
+
+172
+
+98
+
+143
+
+45 82
+
+46
+
+42
+
+43
+
+133월 85 92
+
+22 91
+
+758
+
+76
+
+32
+
+20 132 52
+
+11588
+
+최소걸침나무문제
+
+(Minimum Spanning Tree Problem)
+
+• Undirected Network을 이용
+
+• 파이프라인 연결 디자인, 통신네트워크등에 이용
+
+7 2
+
+4 5 2
+
+4
+
+5 7
+
+1
+
+3
+
+E
+
+4
+
+최대흐름문제(Maximum Flow Probiem)
+
+• 네트워크상에서 각 가지에 흐를 수 있는 용량이 한정되어 있을 때 흘려 보낼 수 있는 최대의 유통량을 구하는 문제(원유, 식수, 가스 등의 유동체나 교통량, 정보량, 통신량 등)
+
+3
+
+0 0
+
+0
+
+5
+
+7
+
+4 0
+
+2 B 4
+
+5 0
+
+0 0 0
+
+0 9
+
+0
+
+1
+
+4 0 6
+
+• Augmenting Path Algorithm
+
+•보낼수 있는 최대량은?
+
+3
+
+0
+
+5 0
+
+7 © 0
+
+2 4
+
+B
+
+3
+
+0
+
+5 0
+
+2
+
+4 5
+
+2 B 4
+
+0
+
+4
+
+5 6
+
+0 9
+
+0
+
+1 E 5
+
+3
+
+2
+
+4
+
+11 0
+
+4
+
+0
+
+4 0
+
+B
+
+2
+
+1
+
+7
+
+2 B 4
+
+1
+
+0 3
+
+3
+
+0
+
+5
+
+6
+
+3 3
+
+3
+
+1
+
+0 1 E 5
+
+5
+
+숨은 Flow 찾기.
+
+4 0
+
+U
+
+1
+
+2
+
+2
+
+13 7
+
+2. 1
+
+B 1
+
+0 프?
+
+3 2
+
+3 D
+
+5
+
+2 7
+
+6
+
+Minimum Cost Flow Problem
+
+• Directed, Connected network
+
+• 적어도 하나의 노드는 공급지(Supply node)
+
+• 적어도 하나의 다른 노드는 수요지(Demand node)
+
+• 다른 노드들은 환적 가능한 노드
+
+적용
+
+유통 네트워크 운영
+
+쓰레기처리
+
+공급 네트워크 운영
+
+공장의 생산계획
+
+현금 흐름관리 Supply Node
+
+제품 출발점
+
+쓰레기 발생지점
+
+Venders
+
+공장
+
+특정시간의 자금 Transshipment
+
+중간창고
+
+처리정
+
+중간창고
+
+특정제품의생산
+
+단기 투자 옵션 Demand
+
+소비자
+
+매립지
+
+Processing 시설
+
+특정 제품의 Market
+
+특정시간의 현금수요
+
+• %;;= ij 로 흐르는 양
+
+•Cu = ij로 가기 위한 단위 비용
+
+•u, = ij 로 가는 arc의 가용량
+
+•b=i 노드에서 생기는 흐름 량.
+
+Min Z= 5C089 i=1
+
+S.t. 28-551-6. for each node i
+
+O≤%;≤u; for each arc i-> j
+
+• 최종 목적지는 4와 5이고 특정 물량을 수송해야함(30, 60 unit)
+
+• 1, 2는 출발지(50, 40 unit)
+
+900/unit
+
+400/unit
+
+최대 10 unit 200/unit 3 200/unit
+
+300/unit 100/unit 최대 80 unit 300/unit
+
+Min Z=2,52+433+9314+3223+235+3245+2854
+
+S.t. 22+213+214 =50
+
+- 212 + X23월 = 40
+
+-×13 - 223 + 235 =0
+
+- 2514 + 245- 254=-30
+
+- 235- 245+ 254=-60
+
+2i2 S10, x3s≤80,
+
+2, 20, V9
+
+Excel Vs LiNGO
+
+재고모형(Inventory Model)
+
+• 재고관리에 있어서 최소비용으로 최대의 효과를 달성 하기 위한 수리적 분석법
+
+• 확정적 재고모형과 확률적 재고모형으로 분리 가능.
+
+• 확정적 재고모형 • 경제적 주문량(EOQ: Economic Order Quantity)
+
+• 경제적 생산량(EPQ: Economic Production Quantity)
+
+• 확률적 재고모형 • 정기발주모형(P)
+
+• 정량발주모형(Q)
+
+재고의 개념
+
+• 재고의 정의
+
+•재무/회계 관점: 일종의 투자 • 재화의 저장품 (원자재/재공품/완제품)
+
+• 생산과 유통과정의 각 단계간의 불일치를 해소하기 위한 윤활유.
+
+• 재고는 악의 근원 (?)
+
+• 재고를 유지하는 이유
+
+• 기본적: • 정확히 필요한 시간대에 정확한 양의 취득이 불가능함 • 정확히 필요한 시간대에 정확한 양의 취득이 비경제적임 • 이차적: •투자에 대한 만족할 만한 수익 • 불확실성을 줄이기 위한 완충효과 • 유연한 생산
+
+• 자재 취급비용의 감소 • 부품 패밀리의 생산의 허용 • 가격의 변화
+
+• 대량구입
+
+• 고객에 대한 전시
+
+재고의 개념 (계속)
+
+• 재고의 종류 • Raw Material
+
+• WIP(Work-in-process)
+
+• Final goods
+
+• 재고정책
+
+• 재고정책의 결정사항 : ✓ • 언제 : 재주문시점 • Re-order point
+
+얼마만큼 : 주문량
+
+• Order Quantity
+
+재고비용
+
+•물품가격 • 단위비용이 주문량에 따라 달라지는 경우 재고비용에 포함
+
+•획득비용 (주문비용) • 주문이 발생하는 빈도에 따라 추가로 발생하는 부대비용
+
+•재고유지비용 신롱 220-30%
+
+• 보험, 창고대여, 보온, 조명, 세금, 손실, 훼손 등에 대한 비용
+
+재고비용 (계속)
+
+•재고고갈비용 • 재고의 부족으로 고객이 요구를 만족시킬 수 없는 경우
+
+• 판매손실비용
+
+• 추후납품비용
+
+•정보처리시스템 운영비 • 재고 기록의 유지, 관리, 수집에 소요되는 비용 •재고유지비용에 포함되거나,
+
+• 고려하지 않는다.
+
+• 비용의 절충 • 재고관리의 목적은 재고와 관련된 총비용의 최소화! • 총비용 = 물품비용 + 획득비용 + 재고유지비용 + 고갈비용
+
+재고 모형 (Q/R 시스템)
+
+•경제적 주문량
+
+(EOQ : Economic Order Quantity)
+
+• 경제적 생산량
+
+(EPQ : Economic Production Quantity)
+
+•위 두 모델의 차이는 재고 보충을 위해 물품의 입 고를 결정했을 때, 입고되는 방법의 차이 • EOQ에서는 한 번에 전 주문량이 모두 입고 • EPQ에서는 주문량이 일정한 비율로 계속 입고 • 입고되는 중에도 소비가 된다. 순차리)
+
+경제적 주문 모형(EOQ)
+
+• Economic Order Quantity 모형
+
+• Harris, “ How Many Parts to Make at Once.”, “, 1913. • 주문비용(Setup Cost)과 재고유지비용(Holding Cost)의 균형 • 생산시스템에 대한 가정
+
+1. 순간적인 생산 • 전 로트를 동시에 생산하는 데 용량의 제한이 없음
+
+2. 즉시 배달 • 생산과 주문은 시간지연(time lag) 없이 즉시 만족된다. 3. 확정적 수요 4. 시간에 따라 균등하게 배분된 수요 5. 한 번의 생산에는 한 번의 준비비가 필요. • 준비비는 로트의 크기나 공장의 상태와 무관하게 일정하다.
+
+6. 단일 제품
+
+• EOQ 모형의 유도 Dememd • D : 수요율(연간 수요 단위), ••: 단위 생산 비용(단위당 비용, 준비비와 재고 비용은 제외) • A : 한 로트의 생산(구매)에 드는 고정 준비비(주문비)
+
+• h: 유지비(단위당 년간 비용) • 재고에 묶인 자금에 대한 이자가 유지비를 구성한다고 하고, 연 이자율이 라고 하 면, 유지비 h= ic가 된다. : 로트 크기☆~~h
+
+재고유지비용
+
+• 년간 재고비용 =h= 1*c
+
+•:재고로 인한 연 이자율 6C: 단위 재고가 갖는 경제적 가치 •Ex) 만약 단위 상품의 가치가 180만원 상당 이고 재 고로 인해 부여되는 연 이자율이 0.37 이라고 할 때 5년 동안에 300개 분량의 재고에 대한 비용은? • (5)(300)(0.37)(180) = 99,900 만원
+
+주문비용(Order-Cost)
+
+0 if x= 0 C(x) = K(or A)+cr ifx>0
+
+• C(x) : x 를 주문하기 위한 비용
+
+• Kor A: 고정비용
+
+siope = C
+
+K
+
+주문량=Q
+
+재 고량 Y(으)
+
+1Q 2Q/D 3 Q/D 평균재고수준 = Q/2
+
+년간 주문 횟수= D/Q
+
+4Q/D ? 시간 Ne+e 2D
+
+년간 총비용 = D·Y(Q)= 12+ 1D 2 -+CD 0
+
+Y(e)를 최소화하는 9*의 결정
+
+dr(9)
+
+d! 2D 2AD =0 - 0= 주문량
+
+EOQ Model Ex.
+
+•A제품의 가격: 20만원
+
+• 재고유지를 위한 이율: 25%
+
+• 초기 주문비용 : 50만원
+
+• 연간수요 = 60*52(주/년) = 3,120
+
+•재고유지비용 = 0.25*20 = 5
+
+•Q* = 250 -> 준비기간이 일하니다
+
+경제적 생산량 모형(EPQ)
+
+• Economic Production Quantity 모형
+
+• Taft, 1913. • Harris의 EOQ 모형을 확장 • 재고 보충이 순간적이지 않은, 유한하고 고정된 생산률(P)을
+
+• P> D: 공장은 수요를 충분히 만족시킬 수 있는 생산 능력을 가짐.
+
+(P-D)QIP 한번에 Q만큼을 생산
+
+P-D
+
+OP IQ/D 20D 평균재고수준= 1-음)을
+
+년간 가동 횟수= D/Q
+
+시간
+
+년간 총비용 72=k 1-음)을 +쓸+DC 최적 생산량 Q*의 유도
+
+200- 10) 0-0 - 0- 2AD
+
+Vh•(1-D/P)
+
+P>>∞로 할 경우, EOQ 모형과 동일해짐.
+
+확정적 재고모형- 가격할인
+
+• 주문량에 따라 제품의 가격이 달라지는 경우 적용
+
+총비용
+
+q1 92 주문수량
+
+•All Units Discounts: 어떤가건을 넘는)~ •모든 유닛에 할인이 적용됨
+
+• 최적이 그래프곡선의 바닥이나 또는 변환점에서 이 루어진다.
+
+•Incremental Discounts:
+
+✓ •언떤 특정수량을 초과할 때 해당 수량부터 할인이 되 는 경우
+
+All-Units Discount
+
+Order Cost Function
+
+1
+
+C1 =.29 co = .30 20201
+
+500 1,000 Q -
+
+출처: Production and Operations Analysis (S. Nahmias, 2005)
+
+All-Units Discount Average
+
+Annual Cost Function
+
+총비용
+
+g1 q2 주문수량
+
+Incremental Discount
+
+Order Cost Function
+
+Cost 모델
+
+(0.30g for 0≤오≤500,
+
+C(Q)=<150+0.29(2-500)=5+0.290 for 500≤9s1000,
+
+295+0.28(0-1000)=15+0.289 for 1000≤0
+
+C(9)= 150+ (500)(0.29)= 295
+
+1000개 이상 구매할 경우 500개 까지는
+
+개당 30cents, 500~1000개까지는 개당
+
+29cents를 적용.
+
+C(Q)= (500)(0.30)= 150
+
+500개 이상 구매할 경우 500개 까지는
+
+개당 30cents를 적용 5-.28
+
+295
+
+150 6,4.39 C, =.29
+
+500 1,000
+
+Average Annual Cost Function for Incremental Discount Schedule
+
+GQ 1. 2220
+
+219 218 2!7
+
+211 210 209 208 207
+
+206 205 204 203 202
+
+20000 200 300 400 500 600 700 800 900 1000 1. 100 1.200 1Q-
+
+출처: Production and Operations Analysis (S. Nahmias, 2005)
+
+확률적 재고 모형
+
+• 변하는 수요 : 과거 자료를 기반으로 미래 수요 예측
+
+• 평균
+
+• 표준편차
+
+• 인도기간
+
+• 평균
+
+• 표준편차
+
+• 인도기간 중의 수요
+
+• 재주문점 결정
+
+재고수준
+
+ROP
+
+ss 실제수요< 평균수요 평균수요• 실제수요+광고수요458 7 Suffer tfouk ~ 시간 4평균수요+SS 실제수요- 겸품발생 조문기간
+
+서비스율 결픔을
+
+ㅆ
+
+“1
+
+평균수요량 안전재고당 수요량, 재고수준
+
+정량주문시스템
+
+주문점
+
+-: 안전 재고량
+
+시간 입
+
+고 발 잎 발잎
+
+재주문점 R의 결정 서비스수준: 재고로부터 충족되는 고객수요의 백분율 (품절확률=1-서비스수준)
+
+재주문점 (조달기간 동안의 수요~N(y:03) R=H+9.
+
+= 2Q 안전재고 (z=특정서비스 수준을 유지하기 위한 표준편차의 배수) 조달기간(lead time) 동안 발생한 수요가 재고로부터 바로 충족되는 확률
+
+• d = 리드타임 동안의 수요
+
+• SL = 요구되느 서비스레벨
+
+P(dSR)= SL
+
+• Ex) sL= 0.9 이면 2=1.282
+
+9,=1.2820 서비스 수준
+
+50 75
+
+80
+
+85 90 z
+
+0.0 0.67 0.84
+
+1.04 1.28 서비스 수준
+
+95
+
+96
+
+97 98
+
+99 1.65 1.75 1.88
+
+2.05
+
+2.33
+
+• 장점
+
+- 낮은 안전재고
+
+- 고정된 발주량, 발주업무 단순 :
+
+수송능력 및 생산능력 고려 가능,
+
+가격할인 적용 가능
+
+- 최신 재고현황 유지 : 입출고 기록
+
+신속, 정확
+
+단점
+
+- 재고수준의 지속적 감시, 기록 : 자동화
+
+로 극복 • 적용
+
+- 계속적 재고수준 기록, 감시가 필
+
+요한 품목에 적합
+
+예) 고가품, 필수품, 불규칙적인 수
+
+요품목
+
+- 판매시점재고관리
+
+• POS(point of sales)
+
+• 재고기록, 자동 발주
+
+• 바코딩, 스캐닝 이용
+
+정기주문 시스템
+
+M 재고 보충수준
+
+주문량 주문량 주문량
+
+안전 재고량
+
+1
+
+잎 ₩잎
+
+M=오, +a(T+5)
+
+9= 11-1 발 잎
+
+0,=200T+L 시간
+
+a : 평균일일수요
+
+0a:일일수요의 표준편차
+
+1 :현재재고수준
+
+• 장점
+
+•정기적 발주시점만 재고수준 파
+
+악
+
+• 다품목 일괄발주 : 발주비, 수송 비 절감, 일괄 발주이익
+
+• 편리한 시스템 운영, 관리
+
+• 단점
+
+• 많은 안전재고가 필요함
+
+• 다음 발주시점까지 재고보충 능 • 적용
+
+•한 공급자로부터 여러 종류의 품
+
+목을 구입하는 경우
+
+• 다량 품목 취급하는 소매, 계속
+
+적 재고 파악이 어려운 경우
+
+• 대량 사용되는 저가품
+
+• 정기적으로 주문, 배달하는 공 급자
+
+• 단일기간 재고모형(Christmas Tree Problem or Newsboy
+
+Problem)
+
+• 이 대에 특정 싶은 수용 조시일 본 신문은 509 여 10ENE 에 사서 30cent에 판다면 몇 부를 주문해야 하는가? (가정: 1. 팔고 남 은 신문은 버려야 할 경우, 2. 5cents 를 받고 산 곳에 다시 넘길 수 있 을 경우) • 정규분포의 특성을 이용해 확률적으로 가장 많은 이익이 되는 수량을 찾는것.
+
+5C에 리벨라는 경우 52번:
+
+• 1번 : 팔고남은 신문은 버릴경우
+
+• 번째 신문의 기대이익(p는 1번째 신문을 팔 확률)
+
+E(profit,)=20p-10(1-p) Newsboy Problem Marginal Profit
+
+• 기대값이 0때가 분기점.
+
+• Normal Dist’n 이용
+
+• Breakeven point 이용
+
+• P=1/3 일때 even point. 300 400 500 700 800
+
+papers ordered • Normal table 에서
+
+찾으면 0.431
+
+431=(x°-A)/a=(x*-500)/100
+
+X= 43.1+ 500 =543
+
+사혀날것
+
+Queueing Model(대기행렬모형)
+
+• Waiting line 모델
+
+•대의 불에 도에 대한 , 확률적 석을 사하게 함, 1의 프로세스들에 대한 수학
+
+• 시스템의..평균 대기시간, 대기행렬의 중정, 서비스의 예측 등을 현재 상태를 기반으로 한 시스템의 확률을 기반으로 하여 성능
+
+을 측정하는 유용한 도구. YEQT-VI • 대기행렬? •고객의 불규칙한 도착과 서비스 시간의 불균형으로 인하여 기다리는 상태를 초래 Analytic Methods
+
+7MAl WFoueuang Systema
+
+• 기다림의 가치와 수학적 효용의 만남.
+
+• Customer service (e.g., tech support help desks or telemarketing call centers)
+
+• Transportation
+
+• inventory control
+
+• Best of es eyoue theaters, banks, gas stations, supermakets,
+
+• Machine servicing
+
+• Salesforce management
+
+• Traffic flow engineering and management (e.g., traffic lights, toll booths, etc.)
+
+• Computer networks/data communication
+
+• Medical emergency rooms
+
+• Production systems
+
+• Economics
+
+Queueing Theory란?
+
+•Mathematical analysis of queues and waiting times in stochastic systems. • Used extensively to analyze production and service processes exhibiting random varability in market
+
+demand (arrival times) and service times.
+
+•Queues arise when the short term demand for service exceeds the capacity
+
+• Most often caused by random variation in service
+
+times and the times between customer arrivais.
+
+•lf long term demand for service > capacity the queue will explode!
+
+대기행렬의 분석법
+
+(1) 물리적 관찰을 통한 결과 분석법 • 비용이 많이 들지만 가장 보편적으로 이용되는 방법
+
+(2) 시뮬레이션을 이용한 분석법 • 현실적 모형을 만들어서 실험 및 결과 예측에 이용
+
+• 복잡한 문제의 분석에 자주 이용되는 방법
+
+(3) 대기행렬의 수학적 분석법
+
+• Queuing Theory
+
+• A.K Erlang의 전화시설 연구로부터 시작
+
+• 확률이론과 수리적 모델을 이용한 분석법
+
+Queueing Process
+
+Input Source
+
+Calling
+
+Population Jobs The Queuing System
+
+( 2사기장소의미
+
+Queue Service Mechanism Served Jobs
+
+leave the system
+
+Arrival
+
+Process Queue
+
+Discipline “ 기다리는 Service
+
+Process
+
+The components
+
+• The calling population • The population from which customers/jobs originate • The size can be finite or infinite (the latter is most common) • Can be homogeneous (only one type of customers/ jobs) or heterogeneous (several different kinds of customers/jobs)
+
+• The Arrival Process
+
+• Determines how, when and where customer/jobs arrive to the
+
+System •Important characteristic is the customers’/jobs’ inter-arrival
+
+times
+
+• To correctly specify the arrival process requires data collection of inter-arrival times and statistical analysis.
+
+The components
+
+• The queue configuration
+
+• Specifies the number of queues
+
+• Single or multiple lines to a number of service stations
+
+• Their location
+
+• Their effect on customer behavior
+
+• Balking and reneging - next slide
+
+• Their maximum size (# of jobs the queue can hold)
+
+• Distinction between infinite and finite Capacity
+
+고객의 비정상 행위
+
+• 회피현상(미로 포; balking): 대기행렬이 길어 고객이 대기행렬시스 템에 진입하는 것을 포기하는 행위
+
+• 이탈현상(화) Rt 포; reneging): 대기행렬에서 기다리다가 서비스받는 것을 포기하고 대기행렬시스템을 떠나는 행위
+
+• 이동현상(13표) 포%: jockeying): 대기행렬이 둘 이상일 때 대기행렬의
+
+길이에 따라 대기행렬을 옮겨 다니는 행위
+
+• 이합집산현상(슴; combining and dividing): 이 현상은 고 객 스스로 일으키는 행위가 아니라 고객이 기다리는 중에 서비스설비
+
+의 증가나 감소에 에 따라 대기행렬의 수가 변하여 기존의 대기행렬에
+
+서 다른 대기행렬로 옮겨 가는 현상
+
+• 순환현상(1퍼팅: cycling): 고객이 서비스를 제공받은 후 즉시 다시
+
+대기행렬에 다시 참가하는 행위
+
+• 대기장소 (queue, 또는 waiting line) • 서비스를 받기 전에 고객이 기다리는 장소 • 규모 : 대기 장소에 기다릴 수 있는 고객의 최대 인원 수
+
+- 무한 (infinite), 유한(Finite)
+
+Channel (대기 줄의 수): Number of waiting ines
+
+• 대기원칙 (queue discipline • 대기중인 고객에 대한 서비스 순서 (서비스 규칙)
+
+• 종류 : 선입선출 (FCFS : Fisrt Come First Served 후입선출 (LCFS : Last Come First Served) 우선순위 부여 (Priority)
+
+최단서비스시간순(shortest service time)
+
+최단여유시간순(shortest slack time)
+
+무작위(service in random order)
+
+• The Service Mechanism
+
+• Can involve one or several service facilities with.one.or several parallel service channels (servers) - Specification is required
+
+• The service provided by a server is characterized by its servIce time
+
+• Specification is required and typically involves data
+
+qathering and statistical analysis.
+
+• Most analytical queuing models are based on the assumption of exponentially distributed service times, with some generalizations.
+
+• Phase (서비스 단계): Number of steps in service
+
+서비스 제공자의 비 정상행위
+
+• 고장 및 사고: 서비스제공자가 기계이거나 사람이 기계를 이용해
+
+서 제공할 경우 기계의 장애나 고장이 발생할 수도 있고, 사람일
+
+경우 사고가 발생할 수도 있다.
+
+• 서비스율의 변화: 대기행렬의 길이에 따라 서비스제공자가 스스로
+
+일처리 속도를 조절하여 서비스율의 변화가 발생할 수도 있다 -
+
+자동 시스템에서는 수월치 않음.
+
+• 집단처리: 서비스제공자가 여러 고객을 동시에 처리하는 행위로서
+
+스키장의 리프트나 놀이기구 사용 등에 나타난다.
+
+Kendall 기호
+
+• (1/2/3):(4/5/6) • 1, 2 : 고객 도착 및 서비스 형태 • M: 지수분포 • D: 일정시간간격을 두고 발생
+
+• E: Erlang 분포 • G: 일반 분포 • 3: 종사자의 수 • 4: 서비스 규칙
+
+• FCFS, LCFS, SIRO(Service In Random Order), GD
+
+• 5: 대기행렬 용량
+
+• 6: calling source
+
+예) (M/M/1):(FCFS/∞/∞)
+
+Queueing System
+
+단일채널 단일단계
+
+단일채널 다수단계 •• .
+
+... 구 •--
+
+다수채널 0•• 단일단계
+
+다수채널 ••. 다수단계 •.
+
+Arrival Characteristics
+
+Input Source
+
+(Population)
+
+Size Arrival
+
+Pattern Behavior
+
+Infinite Finite Random Non- Random Patient Impatient
+
+Poisson Other Balk Renege
+
+Waiting Line Characteristics
+
+Waiting Line
+
+Length
+
+Unlimited Limited FIFO
+
+(FCFS)
+
+신인사를 Random Queue
+
+Discipline
+
+Priority
+
+Poisson Distribution sed countable.
+
+2 = 0.5 일정 시간 간격동안 어떤 사건 이 일어난 수에 대한 분포
+
+• 예) 1시간 동안 교통사고가 일어나는 수에 대한 분포, 0번: Po 1번: P 2번 : P • N번: Pv. ... • 평균 도착율 = x (예, 5/hr) ® 확률: P(X)
+
+6
+
+3
+
+.0
+
+0 1 2 3 4 5 ×
+
+, P(X) 2= 6.0
+
+.0
+
+0 22 4 6 8 1X
+
+10
+
+Exponential Distribution
+
+• 서비스 시간 분포
+
+• 예) 서비스 시간이 10분 일 확률
+
+• 평균서비스율 (µ)
+
+• e.g., customers/hr. • 평균 서비스 시간 = 1/µ • 확률: P(62x)=2708 - 4=1
+
+- H=2
+
+1 H=4
+
+대기 라인 성능 평가치
+
+• 평균 대기시간: Average queue time, W, • 평균 대기 고객수: Average queue length, la
+
+• 평균 시스템에 있는 시간: Average time in system, W,
+
+• 평균 시스템에 있는 고객수:
+
+Average number in system, L,
+
+• 서버의 유휴율:
+
+Probability of idle service facility, Po
+
+• 서버의 가동률: System utilization,
+
+•시스템에 k명 있을 확률:
+
+Probability of k units in system, P n=k
+
+Little’s Law
+
+• Relationship between L W, Lay and Wa
+
+L,= 3Ws (Little의 공식)
+
+착하는 Ao in addition,
+
+Lg = 2Wa
+
+and
+
+W,= Wa+ ¼/
+
+(M/M/1):(FCFS/ ∞/ ∞) 모형
+
+안정상태 확률 및 성능척도
+
+Average number of L5 =
+
+“ units in queue
+
+Average time in W, =
+
+system
+
+Average number of Lg=
+
+units in queue
+
+Average time in queue W,= : -2
+
+-2
+
+2 7
+
+-2)
+
+System utilization
+
+서버가 쉬고 있을 확률:(유휴율) PO=1-p=1-2
+
+시스템 안에 K명 이상 있을 확률 Pak: (주)”
+
+Where n is the number of units in the system
+
+M/M/s Equations
+
+시스템에 고객이 한명도 없을 확률
+
+시스템 내의 평균 고객수
+
+고객이 시스템 내에 평균 머무르는 시간
+
+M/M/s Equations (Little’s law 적용)
+
+평균 대기 고객수 5g=4-/
+
+고객의 평균 대기 시간
+
+시뮬레이션(Simulation)
+
+• the imitation of the operation of a real-world process or system over time(wiki)
+
+• 실제로 시스템 구성을 하기에 어려운 경우(,비용, 상황등), 컴퓨 터 안에서 구현해 보고 의사결정을 할 수 있도록 하는 것
+
+• 이론과 더불어 코딩 기술, 그리고 분석기술이 필요.
+
+• Discrete-event simulation vs continuous simulation
+
+• 예) 동전 시뮬레이션
+
+• 동전의 앞면 또는 뒷면이 세 번 연속해서 나오면 win
+
+• 한번 던질 때 1불씩 내고 한번 이길 때 8불 받음.
+
+• 중간에 그만둘 수 없음
+
+•게임을 하는 게 이익일까?
+
+ficrosoft. Exc 7-2003 워크시.
