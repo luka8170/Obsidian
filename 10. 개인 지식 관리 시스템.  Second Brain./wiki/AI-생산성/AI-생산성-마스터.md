@@ -1,8 +1,8 @@
 ---
-updated: 2026-08-31
+updated: 2026-10-21
 tags: [AI, 생산성, 워크플로, 지식관리, 세컨드브레인, K-AI, 플랫폼]
 related: [[나-자신-마스터]], [[커리어-전환-마스터]], [[인생2막-마스터플랜]]
-source: 통합 마스터 (workflow-stack, second-brain-setup, LLM위키-패턴, PARA-세컨드브레인, 초효율-돈버는체질, 플랫폼-비즈니스-원리, K-AI-생태계-2026) — 2026-08-31 raw/Others 추가: PARA 노트정리법(재확인), 클로드 AI 마스터클래스②, B2B AI 전쟁
+source: 통합 마스터 (workflow-stack, second-brain-setup, LLM위키-패턴, PARA-세컨드브레인, 초효율-돈버는체질, 플랫폼-비즈니스-원리, K-AI-생태계-2026) — 2026-08-31 raw/Others 추가: PARA 노트정리법(재확인), 클로드 AI 마스터클래스②, B2B AI 전쟁 — 2026-10-21 raw 추가: 옵시디언 클로드 하네스 개선 기록
 ---
 
 # AI & 생산성 — 통합 마스터
@@ -248,8 +248,25 @@ Claude가 읽고 Wiki 기준에 맞는지 판단
 
 ---
 
+## 8. 옵시디언 Claude Code 하네스 개선 (2026-10-21)
+> 출처: T9 『클로드 에이전트 협업의 기술』(조쉬·김승권, 한빛미디어 2026) 위키 정리본을 참고해 이 Second Brain·WorkBrain 볼트의 하네스를 직접 개선
+
+### 한 일
+- WorkBrain/Second Brain 두 `CLAUDE.md`가 라우팅표·lint 루틴을 각자 중복 보유하던 걸 `.claude/rules/routing.md`, `.claude/rules/lint-routine.md` 참조로 단일화
+- `.claude/agents/raw-classifier.md`(Haiku, 분류 전담) · `.claude/agents/wiki-reviewer.md`(검증 전담, 형식/내용/완성도 3단계 채점) 서브에이전트 신규 — ingest 파이프라인 앞뒤에 연결
+- `/lint`에 "마스터 파일 검증" 단계 추가, `/lint`·`/query`에 남아있던 옛 템플릿 폴더명(`01~04 영역` 등) 정리
+- 루트 정크 파일(중복 설정 파일, 빈 무제 파일) 삭제
+
+### 배운 것 / 인사이트
+- 공통 규칙을 CLAUDE.md와 `.claude/rules/`에 중복 보관하면 금방 미묘하게 갈라진다 — 책 10장이 지적한 "여러 CLAUDE.md/rules 간 모순 방치"가 이 볼트에서도 실제로 일어나고 있었음. 공통 규칙은 한 곳에만 쓰고 나머지는 참조만.
+- 서브에이전트를 역할 하나당 하나(분류 전담/검증 전담)로 쪼개는 건 기존 ingest 흐름에 몇 줄만 추가하면 바로 적용 가능할 만큼 쉬웠다.
+- CLAUDE.md뿐 아니라 슬래시 커맨드(`/lint`, `/query`)도 시간이 지나며 실제 폴더 구조와 어긋난 옛 템플릿 문구를 남긴 채 방치될 수 있다 — 주기적 점검 대상에 포함해야 함.
+
+> 관련: [[second-brain-setup]] (이 Second Brain·ingest 체계를 처음 세팅한 기록)
+
 ## 미해결 질문
 
 - 해운 전문 지식 중 디지털 상품화 가능한 주제 3가지는?
 - 자율운항(아비커스)과 해운 도메인의 접점을 구체적으로 어떻게 탐색할 것인가?
 - Claude + Obsidian 루틴을 언제 완전히 자동화할 것인가?
+- `.claude/agents/`(raw-classifier, wiki-reviewer)를 몇 주 운영해보고 실제로 분류·채점 품질이 좋아졌는지 확인 필요
