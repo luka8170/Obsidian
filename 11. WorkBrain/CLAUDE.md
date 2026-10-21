@@ -17,24 +17,10 @@ BV Korea 영업 전략, 고객사 인텔리전스, 업무 관리를 AI가 유지
     └── 업무-관리/     ← Weekly 노트, 일정 관리
 ```
 
-## Raw 라우팅 판단 트리
+## Raw 라우팅 판단
 
-새 파일이 들어오면 ingest 전에 **이 vault 소속인지 먼저 판단**한다.
-
-| 내용 유형 | 소속 | 예시 |
-|-----------|------|------|
-| 해운 업계 동향, 시장 분석 | ✅ WorkBrain | VLCC 운임, Sinokor 동향 |
-| 고객사 인텔리전스, BV 영업 | ✅ WorkBrain | 미팅 메모, 고객 관계 |
-| 선박금융, 신조 발주 뉴스 | ✅ WorkBrain | 중국 리스, Pan Ocean |
-| 독서, 마인드셋, 자기계발 | ❌ Second Brain | 습관, 몰입, 투자 서적 |
-| AI 도구 학습 (개인 목적) | ❌ Second Brain | Claude 활용법 |
-| AI를 업무에 적용하는 방법 | **브리지** → 둘 다 | AI로 고객 리서치 자동화 |
-
-**브리지 인사이트 처리**: 두 vault에 모두 해당하는 내용은 각 vault에 요약하고 상호 참조 메모를 남긴다.
-- WorkBrain 쪽: `> 🔗 Second Brain 연결: [[페이지명]] 참조`
-- Second Brain 쪽: `> 🔗 WorkBrain 연결: [[페이지명]] 참조`
-
-**판단이 모호할 때**: "이 내용이 BV 영업에 직접 쓰이는가?" → Yes면 WorkBrain, No면 Second Brain.
+새 파일이 들어오면 ingest 전에 **이 vault 소속인지 먼저 판단**한다. 판단 기준·예시·브리지 처리 방법은
+`.claude/rules/routing.md`를 따른다 (두 vault 공통 규칙, 여기서 중복 유지하지 않음).
 
 ## 핵심 규칙
 - **raw/** 폴더는 불변. Claude는 읽기만 하고 절대 수정하지 않는다.
@@ -54,11 +40,4 @@ BV Korea 영업 전략, 고객사 인텔리전스, 업무 관리를 AI가 유지
 - `sync-calendar` — Google Calendar → Weekly 노트 동기화
 
 ## lint 루틴
-
-**실행 시점 (둘 중 하나)**
-1. Weekly 노트 생성 시 → 노트 작성 후 자동으로 lint 실행
-2. ingest 3회 누적 후 → "raw 파일 N개 처리 완료" 보고 시 lint 권장 알림
-
-**lint 트리거 조건** (자동 감지):
-- 마지막 lint 날짜가 7일 이상 경과한 상태에서 ingest가 실행될 경우
-  → ingest 완료 후 "⚠️ 마지막 lint: N일 전 — lint 실행을 권장합니다" 안내
+실행 시점·트리거 조건은 `.claude/rules/lint-routine.md` 참조.

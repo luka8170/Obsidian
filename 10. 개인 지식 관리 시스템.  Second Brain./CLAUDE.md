@@ -23,25 +23,10 @@
     └── 업무-관리/
 ```
 
-## Raw 라우팅 판단 트리
+## Raw 라우팅 판단
 
-새 파일이 들어오면 ingest 전에 **어느 vault 소속인지 먼저 판단**한다.
-
-| 내용 유형 | 소속 vault | 예시 |
-|-----------|-----------|------|
-| 독서, 자기계발, 마인드셋 | ✅ Second Brain | 습관, 몰입, 인간관계 |
-| AI 도구 학습, 워크플로 실험 | ✅ Second Brain | Claude 활용법, Obsidian 설정 |
-| 커리어 전환, 투자, 창업 준비 | ✅ Second Brain | 관세사, 포워더 창업, ETF |
-| 아들 교육, 가족 건강 | ✅ Second Brain | 수학 학습법, 영양 정보 |
-| 해운 업계 동향, 고객사 분석 | ❌ WorkBrain | Sinokor, VLCC, 선박금융 |
-| BV Korea 업무, 영업 전략 | ❌ WorkBrain | 미팅 기록, 고객 관계 |
-| 해운 영업에 AI 도구 적용 | **브리지** → 둘 다 | AI로 고객 리서치 자동화 |
-
-**브리지 인사이트 처리**: 두 vault에 모두 해당하는 내용은 각 vault에 요약하고 상호 참조 메모를 남긴다.
-- Second Brain 쪽: `> 🔗 WorkBrain 연결: [[페이지명]] 참조`
-- WorkBrain 쪽: `> 🔗 Second Brain 연결: [[페이지명]] 참조`
-
-**판단이 모호할 때**: "이 인사이트가 BV 업무 외에서도 쓰이는가?" → Yes면 Second Brain, No면 WorkBrain.
+새 파일이 들어오면 ingest 전에 **어느 vault 소속인지 먼저 판단**한다. 판단 기준·예시·브리지 처리 방법은
+`.claude/rules/routing.md`를 따른다 (두 vault 공통 규칙, 여기서 중복 유지하지 않음).
 
 ## 핵심 규칙
 - **raw/** 폴더는 불변. Claude는 읽기만 하고 절대 수정하지 않는다.
@@ -97,14 +82,7 @@ related: [[관련페이지1]], [[관련페이지2]]
 ```
 
 ## lint 루틴
-
-**실행 시점 (둘 중 하나)**
-1. 매주 월요일 새 대화 시작 시 → "lint 해줘"로 시작
-2. ingest 3회 누적 후 → ingest 완료 보고 시 lint 권장 알림 포함
-
-**lint 트리거 조건** (자동 감지):
-- 마지막 lint 날짜가 7일 이상 경과한 상태에서 ingest가 실행될 경우
-  → ingest 완료 후 "⚠️ 마지막 lint: N일 전 — lint 실행을 권장합니다" 안내
+실행 시점·트리거 조건은 `.claude/rules/lint-routine.md` 참조.
 
 ## 작업 시작 방법
 새 대화에서 Claude Code를 통해:
