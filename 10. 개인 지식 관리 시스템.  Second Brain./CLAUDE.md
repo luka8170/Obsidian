@@ -84,6 +84,9 @@ related: [[관련페이지1]], [[관련페이지2]]
 ## lint 루틴
 실행 시점·트리거 조건은 `.claude/rules/lint-routine.md` 참조.
 
+## 변경 로그
+- 2026-10-21: 라우팅표·lint 루틴을 `.claude/rules/`로 통일(중복 제거). `raw-classifier`(분류)·`wiki-reviewer`(검증) 서브에이전트를 ingest 파이프라인에 연결. `/lint`에 마스터 파일 검증 단계 추가.
+
 ## 작업 시작 방법
 새 대화에서 Claude Code를 통해:
 - `ingest` — raw/에 새 파일 추가 후 실행
