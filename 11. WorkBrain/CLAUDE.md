@@ -44,3 +44,4 @@ BV Korea 영업 전략, 고객사 인텔리전스, 업무 관리를 AI가 유지
 
 ## 변경 로그
 - 2026-10-21: 라우팅표·lint 루틴을 `.claude/rules/`로 통일(중복 제거). `raw-classifier`(분류)·`wiki-reviewer`(검증) 서브에이전트를 ingest 파이프라인에 연결.
+- 2026-10-22: `wiki-writer`(작성 전담) 서브에이전트 추가 — ingest가 판단(raw-classifier)·작성(wiki-writer)·검증(wiki-reviewer) 3단계로 완전 분리됨.
