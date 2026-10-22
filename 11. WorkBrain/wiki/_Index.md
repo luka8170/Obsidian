@@ -91,7 +91,7 @@ tags: [index, workbrain]
 | `raw/Sinokor poised to cash in...1.md` | ❌ 거부 | 중복 파일 |
 | `raw/해운-업무/HMM Tenglong 컨테이너선 2척 BV 선급 등록.md` | ✅ 완료 | [[hmm-bv-첫진입]], [[key-clients]] |
 | `raw/해운-업무/Sinokor tipped to add VLCC to the world's largest oil tanker fleet.md` | ✅ 완료 (2026-10-22) | [[sinokor-vlcc-동향]] |
-| `raw/해운-업무/Sinokor breaks into Middle East Gulf as litany of vessels finds post-war work.md` | ✅ 완료 (2026-10-22) ⚠️ raw 본문에 과거 세션이 추가한 것으로 보이는 분석 섹션 혼입 — 점검 필요 | [[sinokor-vlcc-동향]] |
+| `raw/해운-업무/Sinokor breaks into Middle East Gulf as litany of vessels finds post-war work.md` | ✅ 완료 (2026-10-22) — raw 본문에 과거 세션이 섞어둔 분석 섹션은 sinokor-vlcc-동향.md 반영 확인 후 raw에서 제거, 원본 클리핑만 보존 | [[sinokor-vlcc-동향]] |
 | `raw/해운-업무/UK targets ships sold into Russian shadow fleet in new sanctions package.md` | ✅ 완료 (2026-10-22) | [[shadow-fleet-enforcement]] |
 | `raw/해운-업무/US-Iran deal signed, confirms Hormuz opening within 30 days, 'no tolls' for 60.md` | ✅ 완료 (2026-10-22) | [[sinokor-hormuz-positioning]] |
 | `raw/미팅 결과 기록/4 x 210K Ore Carrier in Qingtao Bei Hai S.Y Bulk Carrier & Future BV Opportunities_2026. 7. 30.md` | ✅ 완료 (2026-10-22) | [[polaris-vloc-vlec-신조-미팅]], [[key-clients]] |
