@@ -1,4 +1,5 @@
 ---
+source: "Luka와의 대화로 직접 작성 (원본 raw 파일 없음, 현재 쓰는 도구 스택 자체가 소스)"
 updated: 2026-04-19
 tags: [AI, 생산성, 워크플로, Claude, Obsidian]
 related: [[AI-생산성/second-brain-setup]], [[나-자신/luka-identity]]

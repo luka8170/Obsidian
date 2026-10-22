@@ -1,4 +1,5 @@
 ---
+source: "Luka와의 대화로 직접 작성 (원본 raw 파일 없음, 본인 커리어 히스토리 구술)"
 updated: 2026-04-19
 tags: [나-자신, 커리어, 한진해운, BV]
 related: [[나-자신/luka-identity]], [[해운-영업/key-clients]]

@@ -8,6 +8,9 @@ created: 2026-06-18
 description: "Insurers, tankers and LNG carriers among vessels designated in the latest listings"
 tags:
   - "clippings"
+ingested: true
+ingested_date: 2026-10-22
+wiki_pages: [해운-영업/shadow-fleet-enforcement.md]
 ---
 ![Ukrainian President Volodymyr Zelenskyy, left, and US President Donald Trump talk at the G7 meeting in France.](https://image.dngroup.com/global/nhst/binary/3c1f9db6f6073e976c42b569171fcbc9?crop=960%2C640%2Cx0%2Cy492%2Csafe&width=980&format=auto&quality=80)
 

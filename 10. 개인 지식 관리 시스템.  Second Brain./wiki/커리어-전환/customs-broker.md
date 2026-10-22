@@ -1,4 +1,5 @@
 ---
+source: "Luka와의 대화로 직접 작성 (원본 raw 파일 없음, 2nd career 전략 구술)"
 updated: 2026-04-19
 tags: [커리어, 관세사, 2nd-career, 자격증]
 related: [[나-자신/luka-identity]], [[나-자신/career-history]]

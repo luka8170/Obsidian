@@ -1,8 +1,8 @@
 ---
-updated: 2026-10-21
-tags: [AI, 생산성, 워크플로, 지식관리, 세컨드브레인, K-AI, 플랫폼]
+updated: 2026-10-22
+tags: [AI, 생산성, 워크플로, 지식관리, 세컨드브레인, K-AI, 플랫폼, git]
 related: [[나-자신-마스터]], [[커리어-전환-마스터]], [[인생2막-마스터플랜]]
-source: 통합 마스터 (workflow-stack, second-brain-setup, LLM위키-패턴, PARA-세컨드브레인, 초효율-돈버는체질, 플랫폼-비즈니스-원리, K-AI-생태계-2026) — 2026-08-31 raw/Others 추가: PARA 노트정리법(재확인), 클로드 AI 마스터클래스②, B2B AI 전쟁 — 2026-10-21 raw 추가: 옵시디언 클로드 하네스 개선 기록
+source: 통합 마스터 (workflow-stack, second-brain-setup, LLM위키-패턴, PARA-세컨드브레인, 초효율-돈버는체질, 플랫폼-비즈니스-원리, K-AI-생태계-2026) — 2026-08-31 raw/Others 추가: PARA 노트정리법(재확인), 클로드 AI 마스터클래스②, B2B AI 전쟁 — 2026-10-21 raw 추가: 옵시디언 클로드 하네스 개선 기록 — 2026-10-22 raw 추가: git 히스토리 정리(대용량 파일 제거)
 ---
 
 # AI & 생산성 — 통합 마스터
@@ -263,6 +263,26 @@ Claude가 읽고 Wiki 기준에 맞는지 판단
 - CLAUDE.md뿐 아니라 슬래시 커맨드(`/lint`, `/query`)도 시간이 지나며 실제 폴더 구조와 어긋난 옛 템플릿 문구를 남긴 채 방치될 수 있다 — 주기적 점검 대상에 포함해야 함.
 
 > 관련: [[second-brain-setup]] (이 Second Brain·ingest 체계를 처음 세팅한 기록)
+
+---
+
+## 9. git 히스토리 정리 — 대용량 파일 제거 (2026-10-22)
+> 위 §8 하네스 개선 작업 직후 같은 세션에서 발생한 push 실패를 해결한 후속 기록. ingest 체계 자체의 배경은 [[second-brain-setup]] 참조
+
+### 문제
+- 커밋 `d6a3cf5`에 OneDrive 백업 폴더(1804개 파일, 4.4GB)와 개인 xmind/OneNote 파일(약 600MB)이 통째로 들어가 `git push`가 HTTP 500으로 계속 실패
+- 근본 원인은 `.gitignore`에 해당 확장자(`.xmind`, `.one`)와 백업 폴더 경로가 애초에 빠져 있었던 것
+
+### 한 일 / 해법
+- 안전 백업 브랜치를 먼저 만든 뒤, 전체 `git clone --bare` + filter-repo 대신 **plumbing 명령(`read-tree`/`update-index --force-remove`/`write-tree`/`commit-tree`)으로 문제의 5개 커밋만 직접 재구성** — author/날짜/메시지 보존한 채 대용량 경로만 제거
+- `update-ref`로 브랜치 포인터만 이동(`checkout`/`reset --hard` 미사용) + `update-index --force-remove`로 인덱스만 동기화 → working tree 파일은 전혀 건드리지 않음
+- `.gitignore`에 백업 폴더 경로 + `*.xmind`/`*.one`/`*.onetoc2` 추가해 재발 방지
+- 결과: push 용량 4.5GB → 602MB, 정상 push 성공
+
+### 배운 것 / 인사이트
+- **iCloud Drive 위의 `.git`은 대량 오브젝트 작업(clone/filter-repo)에 치명적으로 느릴 수 있다** — 파일 단위 I/O 지연 때문에 전체 재작성보다 "건드릴 커밋만 plumbing으로 재구성"이 훨씬 빠르고 안전
+- **디스크 파일을 보존해야 할 때는 `checkout`/`reset --hard`를 쓰지 말 것** — `update-ref` + `update-index --force-remove` 조합이면 히스토리만 고치고 working tree는 무사함
+- **대용량 파일 사고는 대개 `.gitignore` 확장자 누락에서 시작** — OneDrive/네이버 백업·OneNote·xmind처럼 비-텍스트 포맷이 섞이는 PARA 볼트 구조라면 사후 정리보다 확장자 기반 규칙을 사전에 넉넉히 깔아두는 게 낫다
 
 ## 미해결 질문
 

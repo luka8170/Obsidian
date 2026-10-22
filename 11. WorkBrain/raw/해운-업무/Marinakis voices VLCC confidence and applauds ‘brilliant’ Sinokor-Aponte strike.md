@@ -8,6 +8,9 @@ created: 2026-06-04
 description: "Greek owner explains his constructive view of big tankers as he runs the rule over new player's power move"
 tags:
   - "clippings"
+ingested: true
+ingested_date: 2026-10-22
+wiki_pages: [해운-영업/sinokor-vlcc-동향.md]
 ---
 Greek owner explains his constructive view of big tankers as he runs the rule over new player's power move
 

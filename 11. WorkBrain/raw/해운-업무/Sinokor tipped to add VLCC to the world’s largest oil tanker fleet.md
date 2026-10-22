@@ -8,6 +8,9 @@ created: 2026-08-20
 description: "South Korean giant may have saved millions versus current prices"
 tags:
   - "clippings"
+ingested: true
+ingested_date: 2026-10-22
+wiki_pages: [해운-영업/sinokor-vlcc-동향.md]
 ---
 ![Sinokor has acquired dozens of VLCCs since the winter.](https://image.dngroup.com/global/nhst/binary/a553e774ac87575f0e375aa349706b92?crop=2048%2C1366%2Cx0%2Cy170%2Csafe&width=1040&format=auto&quality=80)
 

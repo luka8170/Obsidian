@@ -8,6 +8,9 @@ created: 2026-07-06
 description: "Shuttle service is crystallising, while other VLCCs head north towards Iraq"
 tags:
   - "clippings"
+ingested: true
+ingested_date: 2026-10-22
+wiki_pages: [해운-영업/sinokor-vlcc-동향.md]
 ---
 ![Some Sinokor tankers appear to be heading for Basrah Oil Terminal in Iraq.](https://image.dngroup.com/global/nhst/binary/84eee9b62c0e6c85f30e74140aa980f2?crop=1206%2C804%2Cx0%2Cy1%2Csafe&width=1300&format=auto&quality=80)
 

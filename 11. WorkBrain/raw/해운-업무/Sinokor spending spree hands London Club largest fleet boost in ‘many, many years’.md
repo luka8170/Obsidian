@@ -8,6 +8,9 @@ created: 2026-03-12
 description: "Senior executive says the International Group member had an increase in tonnage across shipping sectors"
 tags:
   - "clippings"
+ingested: true
+ingested_date: 2026-10-22
+wiki_pages: [해운-영업/sinokor-vlcc-동향.md]
 ---
 Senior executive says the International Group member had an increase in tonnage across shipping sectors
 

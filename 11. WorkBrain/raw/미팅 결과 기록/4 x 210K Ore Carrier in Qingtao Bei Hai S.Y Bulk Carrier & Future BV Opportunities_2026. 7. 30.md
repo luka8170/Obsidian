@@ -1,3 +1,8 @@
+---
+ingested: true
+ingested_date: 2026-10-22
+wiki_pages: ["업무-관리/polaris-vloc-vlec-신조-미팅", "해운-영업/key-clients", "업무-관리/업무-관리-마스터"]
+---
 
 Subject
 

@@ -8,6 +8,9 @@ created: 2026-06-18
 description: "Interim peace deal fudges the question of tolls and grants waivers to Tehran to sell its oil until a final accord"
 tags:
   - "clippings"
+ingested: true
+ingested_date: 2026-10-22
+wiki_pages: [해운-영업/sinokor-hormuz-positioning.md]
 ---
 Interim peace deal fudges the question of tolls and grants waivers to Tehran to sell its oil until a final accord
 

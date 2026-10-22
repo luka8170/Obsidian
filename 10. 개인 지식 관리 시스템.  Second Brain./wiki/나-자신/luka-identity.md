@@ -1,4 +1,5 @@
 ---
+source: "Luka와의 대화로 직접 작성 (원본 raw 파일 없음, 본인 정체성·가치관 구술)"
 updated: 2026-06-16
 tags: [나-자신, 정체성, 가치관, 자서전]
 related: [[나-자신/career-history]], [[커리어-전환/customs-broker]], [[AI-생산성/workflow-stack]]

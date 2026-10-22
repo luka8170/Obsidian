@@ -44,14 +44,14 @@ tags: [weekly, 업무관리]
 
 ---
 
-## 📆 일별 링크
-- [[Users/Others/2026-04-19]] 일 (오늘)
-- [[Users/Others/2026-04-20]] 월
-- [[Users/Others/2026-04-21]] 화
-- [[Users/Others/2026-04-22]] 수 — Monthly Tanker Tribunal 16:00
-- [[2026-04-23]] 목
-- [[2026-04-24]] 금 — MMS Project Update Meeting 11:00
-- [[2026-04-25]] 토
+## 📆 일별 일정
+- 2026-04-19 일
+- 2026-04-20 월
+- 2026-04-21 화
+- 2026-04-22 수 — Monthly Tanker Tribunal 16:00
+- 2026-04-23 목
+- 2026-04-24 금 — MMS Project Update Meeting 11:00
+- 2026-04-25 토
 
 ---
 

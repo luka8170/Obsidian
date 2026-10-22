@@ -1,5 +1,5 @@
 ---
-updated: 2026-04-19
+updated: 2026-10-22
 tags: [해운, 영업, 고객, 선주사]
 related: [[해운-영업/bv-internal]], [[나-자신/career-history]]
 ---
@@ -23,7 +23,9 @@ related: [[해운-영업/bv-internal]], [[나-자신/career-history]]
 
 ## Polaris Shipping
 - **상태**: 진행 중
-- **내용**: Vale Newcastlemax 210K DWT 신조 참여
+- **내용**: Vale Newcastlemax 210K DWT 신조 참여, 4×210K Ore Carrier(Qingdao Beihai S/Y) 신조 — 건조 단계 DNV 리드+BV 50:50 Dual Class, 인도 후 BV 단독 전환 협상 중 (steel cutting 2030, 인도 2031) → [[업무-관리/polaris-vloc-vlec-신조-미팅]]
+- **VLEC 병행**: 한국 최초 미국산 에탄올 운송 VLEC(한화오션), GTT NO96 탱크 검토 중
+- **쟁점**: class fee가 KR 수준 이하여야 함, 칭다오 조선소 한국인 서베이어 상주 요구(비용 재검토 중), HMM과 공동 추진(선급 결정이 HMM에 영향)
 - **특이사항**: WAPS/RotorSail 논의, 구조 안전 우려 → Olivier Carti(BV HQ) 에스컬레이션
 - **관계**: EVP 정용기 관계 관리 중
 
