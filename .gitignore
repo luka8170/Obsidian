@@ -43,3 +43,9 @@ textgenerator/
 *.mp3
 *.7z
 *.msg
+
+# 대용량 OneDrive 백업 + 개인 대용량 파일 제외 (2026-10-21)
+3. Resource/Company one drive back up/
+*.xmind
+*.one
+*.onetoc2
